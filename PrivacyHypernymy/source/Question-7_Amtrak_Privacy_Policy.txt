@@ -1,0 +1,243 @@
+Question 7: Does this app share my credit card information?
+
+
+--------[START OF POLICY]---------
+
+
+﻿Privacy Policy
+Updated: May 27, 2022
+Section 1 — Introduction
+Amtrak (together “we”, “our”, or “us”) respects your concerns about privacy and values the trust and confidence you place in us. This Privacy Policy (referred to as the “Policy”) applies to personal data we process about consumers and job applicants, including in connection with our websites and mobile applications (collectively, “Online Services”) and the various ways in which you communicate with us.
+If you plan to enroll as a member in the Amtrak Guest Rewards program, please read this Policy and also carefully read Section 9 of this Policy, which provides additional information related to the personal data that you provide to us to become a member in the Amtrak Guest Rewards program.
+This Policy describes:
+* The responsible entity for the processing of your personal data (Section 2).
+* What personal data we obtain (Section 3).
+* How we use the personal data (Section 4).
+* With whom your personal data is shared (Section 5).
+* What data security measures we implement (Section 6).
+* The rights and choices available to you regarding your personal data (Section 7).
+* What special privacy practices and rules are in place regarding the Amtrak Guest Rewards program (Section 8).
+* Information about children’s data (Section 9).
+* Information about third-party websites and features (Section 10).
+* How you can contact us regarding this Policy and our privacy practices (Section 11).
+* Information for users in the EU/EEA/UK (Section 12).
+* Information for California residents (Section 13).
+A Note About Changes to This Policy
+We may update this Policy from time to time in order to reflect certain changes in our practices or legal requirements. We will indicate at the top of the Policy when it was most recently updated. You should periodically check this Policy for updates. In case of substantial changes to this Policy, we will inform you by posting a notice on our website or as otherwise required by applicable law.  
+Section 2 — Responsible Entity Processing Your Personal Data
+National Railroad Passenger Corporation (Amtrak), 1 Massachusetts Avenue, N.W., Washington, DC 20001, USA is responsible for processing your personal data. You can find our contact information in Section 7 below.  
+Section 3 — Information We Obtain
+The types of personal data we obtain include:
+* Name
+* Contact information, including postal addresses (such as home, work and billing), zip code, telephone number, and email address
+* Professional information, including job title and company name
+* Identification information, including government-issued identification numbers such as national ID card number, passport number or driver’s license number
+* Personal characteristics, including date of birth, gender and photos
+* Amtrak Guest Rewards account information, including username and password, account preferences, Amtrak Guest Rewards membership number, account status, loyalty points and redemption awards and other account details
+* Travel and reservation information, including departure and arrival points, dates of travel, train number, accommodations, names and number of travelers in your party, fares, purpose for trip, trip insurance information, employee passrider information, and Rail Passengers Association (RPA) membership numbers
+* Payment information, such as payment card information (credit card type, number, expiration date, and security ID), e-wallet or digital payment information (such as Apple Pay)
+* Other information regarding your purchases and orders, such as gift card information, discount types and promotional codes used
+* Social media information (including your social media handle)
+* Information regarding your preferences, such as ticket pick-up/delivery options accommodation preferences (for example, in case of disability) and your direct marketing choices (such as whether you want to receive offers by email or postal mail)
+* Job application information (including resume and any additional application information provided to us, such as employment history and education)
+* Any other information you submit through our Online Services or other communications with us, such as through forms, surveys, registration pages, portals, emails and telephone calls
+While the personal data you choose to provide is voluntary, providing certain personal data may be necessary to offer you the relevant product or service. If you choose not to provide certain information, this may affect our ability to provide you with certain products or services.
+Personal data we collect through automated means
+When you use our Online Services or open our emails, we may obtain certain information by automated means, such as cookies, web server logs, web beacons (including pixels and tags), and other technologies. These technologies help us (1) remember your information so you will not have to re-enter it; (2) track, understand and analyze how you use and interact with our Online Services; (3) personalize your experience with our Online Services, including providing you advertising and content based on your interests and location; (4) measure the usability of our Online Services and the effectiveness of our communications; and (5) otherwise protect, manage and enhance our products and services, and help ensure they are working properly.
+We may use these automated technologies to collect information about your equipment, browsing actions, usage patterns and location such as:
+* IP address
+* Online and mobile device identifiers
+* Operating system and version
+* Browser type
+* Referring website
+* Screens or pages viewed, date/time/duration of visits, and other information regarding your navigation through the Online Services, such as your movements, scrolling, clicks, information typed and other interactions
+* Application version
+* Device model
+* Network service provider
+* Information about the device used to run our mobile app or visit our website
+* City-level location
+Our mobile app may access your calendar, contacts and call information on your device with your permission. This access is to allow you to interact with your information from within the Amtrak application. In addition, when you use our mobile apps, we also may receive with your permission your device’s geolocation or other information related to your precise location through GPS, Bluetooth, WiFi signals and other technologies. Your mobile device settings may allow you to manage how your device or browser shares certain device data with our app, including geolocation data.
+For more information about how we use cookies, please review our Cookie Policy. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note that without cookies you may not be able to use all of the features of our Online Services. Our Online Services are not designed to respond to “do not track” signals from browsers in the U.S.
+Section 4 — How We Use the Personal Data We Obtain
+We use the personal data we obtain for the following purposes:
+* Establish and manage your account, including authenticating you so you may use our Online Services
+* Provide our products and services, including issuing tickets, making reservations, fulfilling merchandise orders and providing gift card requests
+* Administer our rewards program, accounts and features (such as the ability to save trip information), including providing personalized offers and rewards by Amtrak or our partners to you and updates about your account
+* Administer your participation in contests, sweepstakes, surveys and other programs
+* Manage our direct marketing program, including sending you newsletters, promotions and offers, and analyzing your interaction with our marketing to further optimize and personalize our marketing based on your interests
+* Communicate with you about our products and services, such as scheduling changes or cancellations, or changes to our policies
+* Respond to your requests and inquiries, and provide customer support
+* Make special arrangements that you request, such as reserving wheelchair space or offering assistance at our stations
+* Manage career opportunities with us, including for recruitment purposes, candidate screening and evaluation, and employee onboarding
+* Compile, anonymize or aggregate personal data for our business purposes;
+* Perform analytics, market, trend or statistical research and analysis, including developing, deriving and compiling market research, data sets, insights, trends, benchmarks, algorithms, models and other analyses or information
+* Operate, evaluate and improve our business, including developing new products and services; enhancing and analyzing our products, services and processes (such as the reservation booking process); managing our relationships with current or prospective partners, customers and vendors and other business partner personnel; performing accounting, auditing or other internal functions; managing our communications; and performing accounting, auditing and other internal functions
+* Maintain and enhance the safety and security of our Online Services, products and services, prevent misuse and troubleshoot technical issues
+* Exercise our rights and remedies and defend against legal claims
+* Protect against, identify and prevent fraud and other criminal activity, claims and other liabilities
+* Comply with and enforce applicable legal requirements, relevant industry standards, our policies, and terms and conditions, including our Terms of Use and Terms and Conditions
+We also may use personal data in other ways which we identify at the time of collection. If you purchase tickets for more than one person, you represent that you have obtained their personal data lawfully and have authorization under applicable law to share that personal data with Amtrak so that we may issue a ticket in each passenger's correct name.
+Interest-Based Advertising
+You may see our ads on other websites or apps because we use third-party ad services to provide you with advertising about products and services that may be tailored to your interests. Through these ad services, we can target our messaging to users considering demographic data, users’ inferred interests and browsing context. These services track your online activities over time and across third-party websites and apps by collecting information through automated means, including through the use of cookies, web server logs, web beacons, pixels and other similar technologies. These ad services may collect data about your visits to websites and apps, such as the pages or ads you view and the actions you take on the websites or apps. This data collection takes place both on our Online Services and on third-party websites and apps that participate in these ad services. The ad services use this information to show you ads that may be tailored to your individual interests. These services also help us track the effectiveness of our marketing efforts.
+To learn how to opt out of interest-based advertising in the U.S., please visit www.aboutads.info/choices or www.networkadvertising.org/choices. In the EU, please visit www.youronlinechoices.eu/. For additional information on how we use cookies in connection with these services, please see our Cookie Policy. In addition, your Facebook account settings may allow you to adjust the ads you see while on Facebook and the information Facebook can use to show you ads on Facebook.
+Section 5 — With Whom We Share Your Personal Data
+General
+We may share personal information, as described below.
+We share your personal data with certain service providers who perform certain tasks for Amtrak. These tasks include storing and managing personal data and providing advice about and support for our products and services. Some of the services we use include:
+* Amtrak Guest Rewards program management
+* Amtrak email services
+* Customer data storage and processing
+* Application development
+* Order fulfillment
+* Payment processing, including processing your credit card or digital payment account information to facilitate your payment between Amtrak and your bank
+* Service providers used to facilitate communications with you by telephone, SMS/MMS message, or e-mail in connection with Amtrak services and programs
+* Hotel reservations
+* Car rental reservations
+* Travel insurance
+* Other transportation options
+* Amtrak-sponsored market research studies
+* Gift card processing
+In addition, we may share your personal data with advertisers or other business partners with whom we have relationships to provide you with information about various products and services that we believe would be of interest to you. Further, we may share personal data with social media companies to help us with our online marketing and advertising activities and with third-party analytics services to help us understand and improve the usage of our Online Services and the effectiveness of our marketing efforts.
+We also may share your personal information with our business partners. For example:
+* If you request information about, subscribe to or make an online purchase of, goods or services offered by one of our business partners on the Online Services, we will share your personal data with that business partner so that your request, subscription, or purchase can be fulfilled pursuant to that partner's online privacy policies and practices. When providing us with your personal information in connection with these features, you acknowledge that you are directing us to intentionally disclose your information to, or using our services to intentionally interact with, the partners who offer these goods or services.
+* If you enter an Amtrak sweepstakes or contest, your personal data may be shared with the Amtrak business partners who are co-sponsors of the sweepstakes or contest and who are likely to have different privacy policies and practices than Amtrak. Where required by applicable law, we will obtain your consent to share your personal data with co-sponsors of such sweepstakes or contest.
+* If you are an employee or agent of our business partners, we may share your information with your employer or colleagues in connection with the provision of the service we receive from or provide to your company.
+We also may disclose personal data (1) if we are required to do so by law or legal process (such as a court order or subpoena); (2) in response to requests by government agencies, such as law enforcement authorities; (3) with the federal government as legally permitted for transportation security purposes; (4) to establish, exercise or defend our legal rights; (5) when we believe disclosure is necessary or appropriate to prevent physical or other harm or financial loss; (6) in connection with an investigation of suspected or actual illegal activity; where you apply for a job, we may share your personal data with your references who you have provided to us in connection with your application; or (7) otherwise with your consent or as directed by you or your representative.
+We reserve the right to transfer any personal data we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution or liquidation).
+Special Note for Amtrak Guest Rewards Program Members
+When you join the Amtrak Guest Rewards program, we will share your personal data with participating business partners of the Amtrak Guest Rewards program data for the purpose of providing you with information and promotions. Please refer to Section 9 of this Policy to learn about how we process your personal data in connection with the Amtrak Guest Rewards program.
+Special Note for Customers of Other Carriers and Travel-Related Service Providers Using the Site for Reservation and Ticketing Services
+Amtrak provides reservation and ticketing services for other carriers and travel-related service providers. When you use our Online Services for reservation and/or ticketing for the products or services of another carrier or travel-related service provider, we will share your personal data with that carrier or service provider, who will process your personal data pursuant to its privacy policies and practices. For information about the privacy policies and practices of another carrier or service provider, please contact that carrier or service provider directly.
+Section 6 —How We Protect Personal Data
+We maintain administrative, technical and physical safeguards designed to protect the personal data against accidental, unlawful or unauthorized access, destruction, loss, alteration, disclosure or use, as required by applicable law.
+Section 7 — Your Rights and Choices
+You may choose to stop receiving our email offers by following the unsubscribe instructions in these emails or contacting us as described in Section 11 of this Policy. If you are an Amtrak Guest Rewards member, you also may stop receiving such email offers by accessing and updating your Amtrak Guest Rewards Profile. You may access your Profile by clicking on the 'My Profile' link under the My Account drop-down menu on the header of most pages of the Amtrak.com web site. You may make changes to your Amtrak Guest Rewards program information by accessing your Amtrak Guest Rewards account information online at www.amtrak.com or, by contacting the Amtrak Guest Rewards Service Center at 1-800-307-5000. Within the Amtrak Mobile App you may access your user profile by going to the Account section.
+If you use our Online Services from a member state of the EU, EEA or UK, please see Section 12 of this Policy for additional information regarding the processing of your personal data and your privacy rights.
+If you are a California resident, please see our California Consumer Privacy Statement in Section 13 of this Policy for additional information regarding our privacy practices and your privacy rights.
+Section 8 — Special Privacy Practices and Rules for the Amtrak Guest Rewards Program
+U.S. and Canadian residents can join our Amtrak Guest Rewards program.
+When you become an Amtrak Guest Rewards member, we may collect and process certain personal data such as your name; addresses (home, billing) and zip code; telephone numbers; email address; travel and reservation information; username and password; Amtrak Guest Rewards membership number, account status, loyalty points and redemption awards; preferred passenger discount type; Rail Passengers Association (RPA) membership numbers; employee passrider information; date of birth; gender; purpose of trips; and financial information, such as payment card information (credit card type, number, expiration date, and security ID), e-wallet or digital payment information (such as Apple Pay).
+As part of the Amtrak Guest Rewards program, we may offer price or service differences and other financial incentives such as coupons, discounts, upgrades, and special access in exchange for the points you obtain and our use of your personal data. The incentives we offer to you in connection with the program are reasonably related to the value provided to Amtrak by your personal data. The value we place on the personal data obtained in connection with the program is calculated by determining the approximate additional spending per member per year compared to individuals who are not enrolled in the program, the anticipated expenses which might be incurred in the collection, storage, and use of personal data in the operation of the program, and other relevant factors related to the estimated value of personal data to our business. We may use or disclose the personal data we receive during the enrollment process and during your membership in the program in exchange for providing the financial incentives offered by the program.
+For more information on the terms of the program, please see the Amtrak Guest Rewards Program Terms and Conditions. You can opt in to the program by clicking here. You may terminate your membership in the Amtrak Guest Rewards program at any time by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000.
+Section 9 — Children’s Data
+Our Online Services are designed for a general audience and are not directed at persons under the age of 13. We do not knowingly collect personal data from children under 13 through our Online Services. If you become aware that your child has provided us with their personal data, then please contact us using the details in Section 7 of this Policy so that we can take steps to remove such information.
+Section 10 — Third-party websites and features
+Please note that this Policy addresses Amtrak privacy practices concerning personal data we process from your use of the Online Services, and not other third-party sites, mobile applications, or other sources. To the extent you are interacting with other sites, mobile applications, or sources, you should review their privacy policies, which will inform you as to how they process your personal data.
+For your convenience and information, our Online Services may provide links to other websites or services (such as social media platforms), and may include third-party features such as apps, tools, widgets and plug-ins. These third-party websites and services may operate independently from us. The privacy practices of the relevant third parties, including details on the information they may collect and use about you, are subject to the privacy statements of these parties, which we strongly suggest you review. To the extent any linked online services or third-party features are not owned or controlled by Amtrak, we are not responsible for those third parties’ information practices.
+When you click on an advertisement on another site that is linked to our websites, or when you otherwise use web sites that link to the Amtrak.com site, your personal data may be collected by those sites. This Policy does not cover the privacy practices of any such other web sites, and we cannot accept responsibility or liability for the privacy practices of those other sites. Please refer to those sites' privacy policies for information about their practices.
+Section 11 — Contacting Us Regarding This Policy
+If you have questions or concerns regarding this Policy or our privacy practices, you may use the form on the Contact Us page or contact us via email at Privacy@amtrak.com.
+If you are a California resident, select California Privacy Rights from the "Subject" drop-down menu on the page. Be certain to provide your complete mailing address on the form. You may access the Contact Us page by clicking the link at the bottom of most pages on this site.
+If you are a user from the EU/EEA, you may also contact our local representative at: RAe Niedermeier+Teichmann PartmbB, Maximilianstr. 13, 80539 Munich, Germany, phone: +49 (0) 20 300 6422, fax: +49 (0) 89 20 300 6450, email: niedermeier@cyberprivacy.legal.
+Section 12 — Further Information for Users in The EU/EEA/UK
+The following information and rights apply if you use our Online Services from a member state of the EU/EEA or UK:
+1. Legal bases for the processing of your Personal Data
+When you purchase tickets or Amtrak merchandise, we process your personal data to perform the contract or relationship we have with you. We also process certain of your personal data subject to your consent, as further described below. Otherwise, we process your personal data for the purposes described in Section 4 based on our legitimate interests in carrying out our business functions and improving our products and services. Where we rely on our legitimate interests to process your personal data, we take reasonable measures to balance our interests against your rights and freedoms. Further information can be provided upon request.
+We process your geolocation with your consent. You can always switch off the processing of your geolocation in the settings for the Amtrak mobile application in the general settings section of your phone.
+2. Retention of your Personal Data
+To the extent required or permitted, we retain the personal data we obtain for the duration of our relationship, plus a reasonable period thereafter required to comply with legal requirements regarding financial statements, legal claims or archiving purposes and applicable statute of limitations, unless a shorter retention period is required by applicable law.
+3. International transfers
+Our sharing of your personal data in accordance with this Policy may involve transferring your personal data outside the EU/EEA or UK. When we transfer your personal data outside of the EU/EEA or UK, we do so where an exception applies or an adequate level of protection is afforded to it by, where required by law, implementing at least one of the following safeguards:
+* Transferring personal data to countries that have been deemed to provide an adequate level of protection for personal data by the EU Commission, or
+* Executing Standard Contractual Clauses.
+You may be entitled, in accordance with applicable law, to request a copy of the specific safeguard by contacting us as described in Section 11 above.
+4. Your rights
+Further to Section 7 above, as a data subject located in the EU/EEA or UK, you may have the following rights regarding your personal data, subject to applicable law:
+Right of access: You may ask us to confirm whether we are processing your personal data and, if so, to provide you with a copy of that personal data (along with certain other details).
+Right to rectification: If the personal data we hold about you is inaccurate or incomplete, you are entitled to ask for rectification or completion.
+Right to erasure: You may ask us to delete or remove your personal data in some circumstances, such as if you believe we no longer need it or if you withdraw your consent (where applicable).
+Right to restrict processing: You may ask us to restrict the processing of your personal data in some circumstances.
+Right to data portability: You have the right to obtain personal data you have provided to us in a structured, commonly used and machine-readable format, and/or ask us to transmit your personal data to another company under certain circumstances.
+Right to object: You may ask us at any time to stop processing your personal data, and we will do so under appropriate circumstances, if we (i) rely on legitimate interests to process your personal data, except if we can demonstrate compelling legal grounds for the processing, or (ii) process your personal data for direct marketing.
+Right to withdraw consent: If we rely on your consent as legal basis for processing your personal data, you have the right to withdraw that consent at any time with effect for the future.
+You may exercise your rights by contacting us as described in Section 7 of this Policy.
+You also have the right to lodge a complaint with a supervisory authority, in particular in the EU Member State where you reside, work or suspect an infringement, if you believe that the processing of personal data concerning you is not in compliance with applicable law.
+Section 13 — California Consumer Privacy Statement
+This California Consumer Privacy Statement (“Statement”) supplements the Privacy Policy and applies solely to California consumers. This Statement does not apply to Amtrak personnel or job applicants.
+This Statement uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018 and its implementing regulations (the “CCPA”).
+1. Notice of Collection and Use of Personal Information
+We may collect (and may have collected during the 12-month period prior to the effective date of this Statement) the following categories of personal information about you:
+* Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers and similar technology; customer number, unique pseudonym, or user alias; telephone number and other forms of persistent or probabilistic identifiers), online identifier, internet protocol address, email address, account name, driver’s license number, passport number, and other similar identifiers
+* Additional Data Subject to Cal. Civ. Code § 1798.80: signature, physical characteristics or description, state identification card number, insurance policy number, credit card number, debit card number, education, bank account number, medical information (for example, in connection with your special requests or accommodations) and other financial information
+* Protected Classifications: characteristics of protected classifications under California or federal law, such as age, sex, gender, medical condition, disability, citizenship status, and military and veteran status
+* Commercial Information: commercial information, including records of personal property, products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies
+* Online Activity: Internet and other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interaction with websites, applications or advertisements
+* Geolocation Information
+* Sensory Information: audio, electronic, visual, and similar information
+* Employment Information: professional or employment-related information
+* Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+We may use (and may have used during the 12-month period prior to the effective date of this Statement) your personal information for the purposes described in our Privacy Policy and for the following business purposes specified in the CCPA:
+* Performing services, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services, providing analytics services, or providing similar services
+* Auditing related to a current interaction with you and concurrent transactions, including, but not limited to, counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance
+* Short-term, transient use, including, but not limited to, the contextual customization of ads shown as part of the same interaction
+* Detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity
+* Debugging to identify and repair errors that impair existing intended functionality
+* Undertaking internal research for technological development and demonstration
+* Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by us, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by us.
+2. Sources of Personal Information
+During the 12-month period prior to the effective date of this Statement, we may have obtained personal information about you from the following categories of sources:
+* Directly from you, such as book a reservation
+* Your devices, such as when you visit our Online Services
+* Your family, employer or friends, such as when they provide us with travel information on your behalf
+* Vendors who provide services on our behalf
+* Our business partners and joint marketing partners
+* Online advertising services and advertising networks
+* Data analytics providers
+* Operating systems and platforms
+* Social networks
+* Government entities
+3. Sale of Personal Information
+We may allow certain third parties (such as online advertising services) to collect your personal information via automated technologies on our Online Services in exchange for non-monetary consideration. We share the categories of personal information listed below for online advertising purposes and to provide third-party social network features and functionality on our Online Services. You have the right to opt-out of this disclosure of your information, which may be considered a “sale” under California law.
+During the 12-month period prior to the effective date of this Statement, we may have sold the following categories of personal information about you to online advertising services and social networks:
+* Identifiers
+* Online Activity
+* Inferences
+During the 12-month period prior to the effective date of this Statement, we also may have sold email addresses to state government entities.
+4. Sharing of Personal Information
+During the 12-month period prior to the effective date of this Statement, we may have shared your personal information with certain categories of third parties, as described below.
+We may have disclosed the following categories of personal information about you for a business purpose to the following categories of third parties:
+Category of Personal Information
+* Identifiers
+* Additional Data Subject to Cal. Civ. Code § 1798.80 Law
+* Protected Classifications
+* Commercial Information
+* Online Activity
+* Geolocation Information
+* Sensory Information
+* Employement Information
+* Inferences
+Category of Third Party
+* Your family, employer or friends
+* Vendors who provide services on our behalf
+* Professional services organizations, such as auditors and law firms
+* Business partners and joint-marketing partners
+* Carriers and travel-related service providers
+* Online advertising services and advertising networks
+* Data analytics providers
+* Social networks
+* Government entities
+In addition to the categories of third parties identified above, during the 12-month period prior to the effective date of this Statement, we may have shared personal information about you with government entities and third parties in connection with corporate transactions, such as mergers, acquisitions or divestitures.
+5. California Consumer Privacy Rights
+You have certain choices regarding your personal information, as described below.
+* Access: You have the right to request, twice in a 12-month period, that we disclose to you the personal information we have collected, used, disclosed and sold about you during the past 12 months.
+* Deletion: You have the right to request that we delete certain personal information we have collected from you.
+* Shine the Light Request: You also may have the right to request that we provide you with (a) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (b) the identity of those third parties.
+How to Submit a Request. To submit an access, deletion or Shine the Light request, select California Privacy Rights from the "Subject" drop-down menu on the Contact Us page, call us at 1-800-USA-RAIL or write to us at:
+Amtrak Office of Customer Relations
+ 1 Massachusetts Avenue, NW
+ Washington, DC 20001
+ Attention: California Privacy Rights Request
+To submit a request as an authorized agent on behalf of a consumer, call 1-800-USA-RAIL. For questions or concerns about our privacy policies and practices, please contact us as described in the Contacting Us Regarding This Policy section of our Privacy Policy.
+Verifying Requests. To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your personal information or complying with your request. If you have an account with us, we may verify your identity by requiring you to sign in to your account. If you do not have an account with us and you request access to or deletion of your personal information, we may require you to verify your email address or provide any of the following information: (a) amount spent during last trip with Amtrak; (b most recent trip with Amtrak, or (c) other information about your trips with Amtrak.. In addition, if you do not have an account and you ask us to provide you with specific pieces of personal information, we may require you to sign a declaration under penalty of perjury that you are the consumer whose personal information is the subject of the request.
+Additional Information. If you choose to exercise any of your rights under the CCPA, you have the right to not receive discriminatory treatment by us. To the extent permitted by applicable law, we may charge a reasonable fee to comply with your request.
+
+
+--------[END OF POLICY]---------
+
+
+Question 7: Does this app share my credit card information?
+
+
+<ANSWER FROM POLICY>
+
+

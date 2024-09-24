@@ -1,0 +1,271 @@
+Question 6: Does this app share my contacts list?
+
+
+--------[START OF POLICY]---------
+
+
+﻿Privacy Policy
+Revised Date: June 29, 2022
+Your privacy is important to us at The Daily Wire, LLC (“DW” or “Daily Wire” or “we”, or “us,” or “our”). This Privacy Policy (the “Privacy Policy”) applies to any websites or mobile applications owned or operated by us, including, without limitation, this website currently located at www.DailyWire.com (collectively, the “Websites”), any newsletters subscribed to via the Websites, digital subscriptions to DailyWire.com, DailyWire+, and any other service or product of DW, including without limitation mobile applications, or other digital properties, as expressly indicated by DW such as through a link or other display of this Privacy Policy (collectively with the Websites, the “Services”). This Privacy Policy explains what information, including Personal Information, we collect from or about you on our Services, how we use or share such information, how to exercise any rights you may have with respect to your Personal Information, and the safeguards we have in place to reduce the risk of unauthorized access and use. For the purposes of this Privacy Policy, Personal Information means any information, alone or in combination, from which a natural person can be identified. It does not include data where identifiers have been removed (e.g., anonymous or aggregate data).
+Please carefully read this Privacy Policy which is part of and subject to our Terms of Use, before using our Websites or Services, including, without limitation, www.DailyWire.com, and any related DW webpages or mobile applications that display this Privacy Policy. If you do not agree with our Terms of Use and/or the Privacy Policy, please refrain from using our Websites or Services. By accessing or using our Websites or Services, you agree to our use of your Personal Information and other information consistent with the Terms of Use and this Privacy Policy.
+Contents
+• Contact Information
+• Scope of this Privacy Policy
+• Information We Collect
+• How We Use the Information We Collect
+• Cookies and Online Tracking Technologies
+• Online Advertising
+• Sharing Your Information
+• Do Not Track Disclosure
+• Retention of Personal Information
+• Preference Management
+• Your Legal Rights
+• Your California Privacy Rights
+• Your Nevada Privacy Rights
+• Your EU Privacy Rights
+• Information Security
+• Transfer of Information to the United States
+• Children’s Privacy
+• Links to Third Party Materials
+• Changes to Our Privacy Policy
+
+
+1. Contact Information
+The Daily Wire, LLC is the controller and is responsible for your Personal Information. Should you have any questions about this Privacy Policy, including any requests to exercise your privacy rights, please contact us using our online form.
+For customers in the EU or UK, if you believe that your Personal Information has been processed in a way that does not comply with the EU or UK General Data Protection Regulation (GDPR), you have the right to lodge a complaint with your national regulator for data protection. We would, however, appreciate the chance to resolve your concerns before you approach the regulator. Please contact us using our online form.
+2. Scope of this Privacy Policy
+This policy applies to information we collect:
+• On our Websites (including www.DailyWire.com), mobile applications and Services that display this Privacy Policy.
+• Via email, text and other electronic messages between you and us.
+It does not apply to information collected by:
+• Us offline or through any other means, including on any other website operated by any third party (including, if applicable, our affiliates and subsidiaries).
+• Any third party (including, if applicable, our affiliates and subsidiaries), through any application or content (including advertising) that may link to or be accessible from or on the Websites or the Services.
+
+
+3. Collection and Use of Your Personal Information
+a. Collection of Your Personal Information. DW, or where relevant, a designated service provider, collects personal information that you choose to provide or we receive from other sources. This may include personal information you provide through the Services, on third-party websites and applications when subscribing to DailyWire.com, through registering for our services and products, through requesting certain DW services or products, by submitting the information to enter a sweepstakes, contest, or other promotion.
+We and designated service providers, may obtain the following types of personal information in connection with this Services:
+• Identity Data includes your first and last name.
+• Contact Data includes billing address, email address and a telephone number.
+• Financial Data includes a bank account or payment card details.
+• Transaction Data includes details about any payments to and from you and other details of Services you have purchased from us.
+• Technical Data includes internet protocol (IP) address, mobile device ID, login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access the Websites or Services.
+• Account and Profile Data includes your username and password, your subscription order(s), your interests, preferences, feedback and survey responses.
+• Usage Data includes information about how you use our Website and Services.
+• Marketing and Communications Data includes your preferences in receiving marketing from us and/or third parties and your communication preferences.
+• Employment Data includes data about your professional life such as a Curriculum Vitae and a cover letter.
+• Social Media Data includes your name, social media account information, and friends.
+• Geolocation Data may include IP address location.
+We do not collect any “special categories” of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, trade union membership, information about your health, and genetic and biometric data).
+b. Sources of Personal Information
+Information You Provide. Personal Information is obtained directly from you, for example, when you subscribe to our newsfeed, participate in a live chat, or apply for a position or internship. If you submit Personal Information about others, you represent and warrant that you are authorized to do so and that you have received authorization from the person about whom you are providing the information and that person has consented to have all information used, disclosed, and transferred in accordance with this Privacy Policy.
+Information Collected Automatically. We may use various tools and technologies like cookies and web server logs to collect information automatically on the Services. This information may include IP addresses, device identifiers, browser characteristics, operating system details, internet service provider details, language preferences, referring URLs, time and length of visits, and pages viewed. Please see the “Cookies and Online Tracking Technologies” section below for more information.
+Information Collected from Other Parties. Personal information is also obtained from others authorized to provide the information, from activity on the Services, and from other parties with whom we work, such as service providers, business partners, advertisers, advertising technology providers, advertising servers, data analytics providers, and social networks. For example, if you choose to link your social media or other third-party accounts to our Services, we may obtain your personal information from these sources.
+Social Features. Certain features of the Services may permit you to initiate interactions between the Website and other platforms like social networks (for example, to share the Website with your friends or comment on DW content). Using these features may allow both DW and the operator of the other platform to access certain information about your use of our Services and theirs, including Personal Information. You should review the terms, policies, and settings of these other platforms to learn more about their data practices and/or adjust your settings.
+c. Usage Data and Websites Activity
+We automatically collect and analyze information in connection with the actions you take on the Websites and in connection with using the Services (“Usage Data”) to improve the Websites, Services and user experience. This data includes, but is not limited to, the type of browser you are using, the type of operating system you are using, your IP address, mobile device ID, aggregate data about the number of visits to the Websites, and aggregate data about the pages visited. This usage information may be associated with your username and profile. The lawful bases for processing your Personal Information in this manner include DW’s legitimate interest, compliance with legal obligations, and the performance of a contractual relationship with you.
+
+
+4. How We Use the Information We Collect
+We may use your personal information in the following circumstances:
+• Where we need to perform a contract we have entered into with you or to fulfill your request.
+• Where we need to comply with a legal obligation.
+• Where it is necessary for our legitimate interests (or those of a third party) and your interest and fundamental rights do not override those interests.
+• Where it is needed in the public interest or for official purposes.
+• With your consent.
+We may use information that we collect about you to:
+• Deliver the products and services that you requested or contracted for.
+• Manage your account and provide you with customer support.
+• To help DW improve, upgrade, or enhance our services and products and develop new services and products
+• To diagnose and prevent service or technology problems associated with the Websites and Services.
+• Perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or other content offered on the Services.
+• Respond to your inquiries or otherwise communicate with you by email, postal mail, telephone, and mobile devices about products or services that may be of interest to you.
+• Develop and display content and advertising, if any, tailored to your interests on our Websites and third-party websites.
+• To monitor to detect security incidents and protect against malicious, deceptive, fraudulent, or illegal activity, and hold those responsible for that activity
+• Enforce our terms and conditions, including in this Privacy Policy and our Terms of Use; and
+• Manage our business and perform functions as otherwise described to you at the time of collection of your information.
+For more information on how to opt out of our use of your Personal Information to you with offers and promotions, please see below (“Preference Management”). Please note that if you exercise choice in this manner, you will continue to receive communications concerning your account and products and services you requested, and in response to any requests for information by you. Please also note that this opt-out process may take some time to complete, consistent with applicable law.
+
+
+5. Text Messages
+If you provide your mobile phone number to us, we may ask for your consent to receive text message alerts from us containing product, event, or promotional information in a text or SMS message (“Text Messages”). The Text Message program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the program, such as through online enrollment forms or by texting a keyword to 83400 or any successor short code to opt into the program. Your consent to receive Text Messages is not required to purchase goods or services from us. Additional terms regarding Text Messages will apply—please review the applicable terms carefully when you provide your mobile phone number.
+If you consented to receiving promotions or advertising via Text Message, you can unsubscribe from receiving Text Messages at any time by replying “STOP” to one of our Text Messages or to 83400. For help, text HELP to 83400 or contact us at support.dailywire.com.
+Notwithstanding anything else in this Policy, Daily Wire does not share Personal Data obtained through its short code texting program with unaffiliated third-party companies for marketing purposes.
+
+
+6. Cookies and Online Tracking Technologies
+DW may use cookies (a small text file placed on your computer to identify your computer and browser) and other third-party tracking technologies such as web beacons (an electronic file placed on a website that monitors usage) to collect general and personally identifiable information about visitors to the Websites. The information collected is used to improve the experience of the Websites and Services, such as allowing us to recognize you when you revisit the Websites to provide you with customized information and/or to remember your preferences. We use cookies and other third-party tracking technologies such as web beacons to collect Personal Information. Most web browsers are initially set up to accept cookies.
+If you use our mobile application on a desktop, a mobile device, tablet, or streaming media device, we may collect a Resettable Device Identifier from your device. Resettable Device Identifiers (also known as mobile advertising identifiers) are similar to cookies and are found on many mobile devices and tablets (for example, the “Identifier for Advertisers” (or IDFA) on Apple iOS devices and the “Google Advertising ID” on Android devices), and certain streaming media devices.
+For more information on how to manage cookies and the categories of cookies used on the Websites, please see below (“Preference Management”).
+
+
+6. Online Advertising
+We may partner with third parties (Third Party Providers and Advertisers, collectively known as “Advertisers”) that collect information across various channels, including offline and online, for purposes of delivering more relevant online advertising to you. Our partners may place or recognize a cookie on your computer, device or directly in our emails/communications, and we may share Personal Information with them, as permitted by law and in accordance with this Privacy Policy. Our partners may link the Personal Information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. We may use automated decision-making to customize your experience based on your personal information.
+Our Privacy Policy does not cover any use of information that an ad network may collect from you. Advertisements may be shown on the Websites, the Services or on third-party websites.
+To opt out of receiving online targeted or behavioral advertising, please see below (“Preference Management”).
+
+
+7. Do Not Track Disclosure
+Additionally, although some Internet browsers have a ‘do not track’ feature that lets you tell websites that you do not want to have your online activities tracked, we are currently not set up to respond to such signals.
+
+
+8. Sharing Your Information
+DW does not sell, trade, or disclose your Personal Information to third parties except as set forth in this Privacy Policy and as follows:
+• To designated service providers we use to support our business and who are bound by contractual obligations to keep Personal Information confidential and use it only for the purposes for which we disclose it to them.
+• To DW corporate affiliated entities.
+• To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, change in control, or other sale, transfer, or other action with respect to of some or all of DW assets, whether as a going concern or as part of bankruptcy, dissolution, liquidation or similar proceeding, in which Personal Information held by DW about the Website users is among the assets affected.
+• To our affiliates and Advertising Partners to provide you with online advertising and other information that may be relevant to you, including for their own marketing purposes.
+• To fulfill the purpose for which you provide it.
+• To comply with any court order, law or legal process, including to respond to any law enforcement, government or regulatory request.
+• To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes.
+• If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of DW, our customers, or others.
+• For any other purpose disclosed by us when you provide the information.
+• We may disclose aggregated, non-personally identifiable information about the Website users without restriction.
+Additionally, if you provide content to the Services, such as submitting comments or content as a part of a DW subscription, any information that you submit will become public. It may become accessible through search engines or, if you sign in using credentials from a third-party social networking service, to users on that service.
+This Section 8 does not apply to information obtained by Daily Wire through the text messaging short code. Daily Wire does not sell, rent, loan, trade, lease or otherwise transfer for profit any phone numbers or personal information collected through the Daily Wire short code texting program to any third party. Nonetheless, Daily Wire reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Daily Wire’s rights or property.
+
+
+9. Retention of Personal Information
+We retain your Personal Information for as long as we have a relationship with you. We may retain your Personal Information for a period of time after our relationship with you has ended where there is an ongoing business need to retain it, including to comply with our legal, regulatory, tax and/or accounting obligations. We will do so in accordance with our data retention policies and applicable law.
+DW does not access or store your financial information when you subscribe to our Services. DW partners with third party providers to process payments. These partner’s use and processing of your Personal Information, including your financial information, is subject to their privacy policies and not this DW Privacy Policy.
+
+
+10. Preference Management
+We strive to provide you with appropriate choices regarding the Personal Information you provide to us. We have created the following mechanisms to provide you choices and control over your information.
+a. Other Uses — We will not collect, use, or disclose your Personal Information in any ways or for any purposes that are materially different from those set forth herein. However, if we wish to do so in the future, we will provide notice and an opportunity to opt-out of such proposed collection, use, or disclosure.
+b. Promotional or Marketing Messages — You can opt-out of receiving marketing or promotional communications from us or third parties by using the “Unsubscribe” feature at the bottom of each email or “STOP” in text messages or by requesting to opt out by emailing us at optout@DailyWire.com.
+c. Cookies — You have the ability to disable or opt-out of certain cookies by going to the Cookie Preferences of your browser. Also, you can find out more information about how to change your browser cookie settings at www.allaboutcookies.org. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Website or Services may not work if you delete or disable cookies.
+d. Interest-Based Advertising — In some instances, you can opt-out of receiving interest-based online ads from us, third party advertisers and ad networks. We do not control third parties’ collection or use of your information to serve interest-based advertising. Advertisers and ad networks that are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising provide opt-out choices at the following websites:
+• NAI Website (US): https://optout.networkadvertising.org/?c=1
+• DAA Website (US): https://optout.aboutads.info/?c=2&lang=EN
+Users in the EEA/US can opt out on the European Digital Advertising Alliance can opt out at: EDAA Website (EEA/EU): https://www.youronlinechoices.com/
+Be advised that these opt-out tools are provided by third parties and may not be available with respect to all interest-based advertising that is presented to you. We do not control or operate these tools or the choices that advertisers and others provide through these tools. Even if you opt out of receiving interest-based advertising, you may still receive generic ads.
+e. Analytics Providers — We may use third party web analytics services such as, without limitation, the ones identified below to measure the effectiveness of our advertising and determine how visitors use the website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors’ computers. Some of these providers have their own opt-out mechanisms.
+• Google Analytics – We use Google Analytics to help us manage and improve the Website and Services. Google provides a Browser Add-On that allows you to opt-out by downloading and installing the add-on for your web browser, available at https://tools.google.com/dlpage/gaoptout.
+Be advised, however, that we may continue to send you transactional communications (e.g., emails regarding account notifications, customer support questions and similar information) regarding your use of the Websites and Services. You cannot opt out of receiving these types of communications.
+
+
+11. Your Legal Rights
+You have the right to:
+• Request a copy of the Personal Information we hold about you.
+• Request that inaccurate information about you be corrected or deleted.
+• Object to having your Personal Information processed.
+• Request that we delete any and all Personal Information we hold about you.
+• Request that we restrict processing your Personal Information.
+• Request that you not be subject to automated decision-making including profiling.
+• Receive your Personal Information in a structured, prevailing, and machine-readable form and/or have your
+Personal Information transferred to another controller, where technically feasible.
+• Withdraw consent provided for processing Personal Information.
+To exercise these rights or for any other questions related to this Privacy Policy, you may contact us using the request form at support.dailywire.com. Users in California, Nevada and the EEA may have additional rights as described below.
+DW email subscribers and subscribers of paid content may access and correct their contact information on file by accessing their account online. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+
+12. Your California Privacy Rights
+a. “Shine The Light” Law — California resident with whom DW has an established relationship has the right to request certain information with respect to any Personal Information DW may have shared with third parties for their direct marketing purposes. Alternatively, DW may provide a cost-free means to opt out of such sharing. DW has opted to provide you with a cost-free means to opt out of such sharing. If you do not want DW to disclose your Personal Information to other companies for their marketing purposes, please contact us using the request form at support.dailywire.com.
+For California residents under the age of 18 and registered users of the Websites or Services, California law (Business and Professionals Code § 22581) provides that you can request the removal of content or information you posted on Websites. Any such request should be sent to us using the request form at support.dailywire.com along with a description of the posted content or other information to be removed. Be advised, however, that applicable law may not permit us to completely or comprehensively remove your deleted content or for other reasons as set forth in this California law.
+b. California Consumer Privacy Act (CCPA) — In the preceding twelve (12) months we have collected the following categories of personal information (and as further described above in the section, “Information We Collect”):
+• Personal Identifiers and Information (per California Customer Records statute)
+• Commercial Information
+• Internet and other electronic network activity
+• Geolocation information
+• Professional or employment related information
+• Other information you provide
+• Inferences from the above
+The same section describes how this information is collected. We collect this information for the purposes as described above in the section, “How We Use the Information We Collect.” It is disclosed to third parties as described in the section, “Sharing Your Information.”
+Under the CCPA, California residents may be able to exercise the rights listed below in certain circumstances: Right to Know, Right to Delete and Right to Opt Out.
+Right to Know. The right to know and see what certain details regarding what information we have collected about you over the past twelve months, including:
+• The specific pieces of personal information we have collected about you;
+• The categories of personal information we have collected about you;
+• The categories of sources from which the personal information is collected;
+• The business or commercial purpose for collecting personal information about you;
+• The categories of third parties with whom we have shared personal information about you;
+• A list of the categories of PI disclosed for a business purpose in the prior 12 months, or that no disclosure occurred; and
+• A list of the categories of PI sold about you in the prior 12 months, or that no sale occurred. If we sold your PI, we will explain:
+o The categories of your PI we have sold.
+o The categories of third parties to which we sold PI, by categories of PI sold for each third party.
+Right to Delete. The right to request deletion of the personal information we have collected from you (and direct our service providers to do the same).
+Right to Opt Out. The right to opt out of the sale of your personal information to third parties. To opt out of the sale of your personal information, please click the “Do Not Sell My Info” link on our homepage or submit a request using one of the methods outlined below. Although we do not sell your Personal Information to third parties, from time to time we may use some of your Personal Information for advertising performance analysis and audience modeling which may be interpreted as Data Sales under the CCPA. You can opt out of this here and we will ensure your data is no longer used for these purposes.
+To submit a request to exercise any of your California privacy rights, please contact us using one of the following methods:
+• Via our Privacy Center
+• Via email to privacy@DailyWire.com
+You may use an authorized agent to submit requests. We do not discriminate against a user if they exercise any of the rights available under the CCPA. However, we may charge a different price or rate, or offer a different level or quality of good or service, to the extent that doing so is reasonably related to the value of the applicable data. In addition, we may offer you financial incentives for the collection, sale and retention and use of your Personal Information as permitted by the CCPA that can, without limitation, result in reasonably different prices, rates, or quality levels. The material aspects of any financial incentive will be explained and described in its program terms. Please note that participating in incentive programs is entirely optional, you will have to affirmatively opt-in to the program and you can opt-out of each program (i.e., terminate participation and forgo the ongoing incentives) prospectively by following the instructions in the applicable program description and terms. We may add or change incentive programs and/or their terms by posting notice on the program descriptions and terms linked to above so check them regularly. We will not fulfill your CCPA request unless you have provided sufficient information for us to reasonably verify you are the consumer about whom we collected Personal Information. We will typically not charge a fee to fully respond to your requests, but we may charge a reasonable fee, or refuse to act upon a request, if your request is excessive, repetitive, unfounded, or overly burdensome.
+We do not sell the personal information of consumers we actually know are less than 16 years of age, unless we receive affirmative authorization (the “right to opt-in”) from either the consumer who is between 13 and 16 years of age, or the parent or guardian of a consumer less than 13 years of age. Consumers who opt-in to personal information sales may opt-out of future sales at any time.
+Please note that CCPA rights do not apply to Personal Information collected from (1) job applicants, current and former employees, or independent contractors; or (2) representatives of another business in connection with business communications or transactions.
+
+
+13. Your Nevada Privacy Rights
+Nevada residents who wish to exercise their sale opt-out rights under Nevada Revised Statutes Chapter 603A may submit a request to optout@DailyWire.com.
+
+
+14. Your EEA/UK Privacy Rights
+a. The Legal Basis for Using EEA/UK Personal Information — For residents of the European Economic Area (EEA) and the UK, we advise that your personal information will be transferred to and processed in the United States, which has data protection laws that are different than those in your country and may not be as protective. The United States has not received a finding of “adequacy” from the European Union under Article 45 of the General Data Protection Regulation (GDPR). Our legal basis for collecting and using your personal information is to do so with your consent; where we need the personal information for performance of a contract or requested service, including to provide you with our daily Newsletter, or where the collection and use is in our or another’s legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect the personal information in question. If we collected your Personal Information with your consent, you may withdraw your consent at any time.
+Our retention of your personal information and any subsequent communications are based on our legitimate interest in providing you with new and potentially relevant materials based on your geography, role, or company. As always, you can elect to opt out from receiving such future communications.
+To the extent that we transfer personal information from the EEA or UK to a jurisdiction outside the EEA or UK that has not been adduced by the European Commission or UK as providing adequate data protections (such as the United States), we will ensure that such Personal Information is safeguarded through appropriate contractual terms or other approved mechanisms.
+b. Rights for EEA and UK Residents — In addition, if you are a resident of the EEA or UK, you have the right to:
+• Find out if we use your personal information, to access your Personal Information, and receive copies of your personal information.
+• Withdraw any express consent that you have provided to the processing of your Personal Information at any time without penalty.
+• Access your Personal Information and have it corrected or amended if it is inaccurate or incomplete.
+• Obtain a transferable copy of some of your Personal Information which can be transferred to another provider when the Personal Information was processed based on your consent.
+• If you believe your Personal Information is inaccurate, no longer necessary for our business purposes, or if you object to our processing of your Personal Information, you also have the right to request that we restrict the processing of your data pending our investigation and/or verification of your claim.
+• Request your Personal Information be deleted or restricted under certain circumstances. For example, if is using your Personal Information on the basis of your consent and has no other legal basis to use such, you may request your Personal Information be deleted when you withdraw your consent.
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
+If we ask you to provide personal information to us to comply with a legal requirement or enter into a contract, we will inform you of this and let you know whether providing us with your Personal Information is required and if not, the consequences of not sharing your Personal Information with us.
+Similarly, if we collect and use your Personal Information in reliance on our or a third party’s legitimate interests and those interests are not already described above, we will let you know what those legitimate interests are.
+We endeavor to apply suitable safeguards to protect the privacy and security of your Personal Information and to use it only consistent with your relationship with us and the practices described in this Privacy Policy.
+To withdraw consent or exercise these rights, please contact us via email at privacy@DailyWire.com.
+If you are not satisfied with our response, or believe we are processing your Personal Information in violation of the law, you have the right to lodge a complaint with the Supervisory Authority (also known as Data Protection Authority) or other appropriate governmental authority in your EEA Member State or the UK, as applicable. A list of Supervisory Authorities is available here: https://edpb.europa.eu/about-edpb/board/members_en.
+
+
+15. Information Security
+DW has procedural, technical and physical security measures to help protect against the risk of loss, misuse, and alteration of information that you provide, including Personal Information. We request third parties with whom we share Personal Information to do the same. Nevertheless, such security measures may not prevent all loss, misuse, or alteration of information on the Websites or Services, and DW is not responsible for any damages or liabilities relating to any such security failures. By using the Websites or Services, you understand that there is a risk that data and communications, including email and other electronic communications, may be accessed by unauthorized third parties. The foregoing does not affect any liability that cannot be excluded or limited under applicable law.
+Please do not provide your password to another person. We cannot be responsible for a data breach or other incident if a password is used by unauthorized persons.
+
+
+16. Transfer of Information to the United States
+The Websites are owned and operated by DW in the United States. If you are located outside the United States, please be aware that information we collect, including Personal Information, may be transferred to, processed, and stored in the United States. By using the Websites or Services, or providing us with any information, you consent to the transfer to and the processing, and storage of your information in the United States. Please be aware that the United States and jurisdictions other than the one in which you are located may not provide the same level of data protection as considered adequate in your country. Note also that your Personal Information may be available to the US Government or its agencies under legal process in the United States.
+
+
+17. Children’s Privacy
+Our Website is not intended for children under 13 years of age. We do not knowingly collect Personal Information from children under 13 on the Websites. If you are under 13, do not use or provide any information on the Websites or through any of its features, register on the Websites, make any purchases through the Websites, use any of the interactive or public comment features of this Websites, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or username you may use. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us using our online form.
+To the extent that Daily Wire develops a service or portion of the Service that is intended for children, such service or portion of the Service shall be subject to additional Children’s Privacy terms available at such website, which will supersede these terms to the extent there are any conflicts.
+You must be 18 years of age or older to purchase any content, product, or service offered by us through the Service. If you are less than 18 years of age and want to make any such purchase, please ask your parent or guardian to complete the purchase on your behalf. We do not otherwise knowingly collect Personal Information from anyone under the age of 18 without permission. California residents under 16 years of age may have additional rights regarding the collection and sale of their personal information. For more information, please see the “Your California Privacy Rights” Section above.
+
+
+18. Links to Third Party Materials
+The Websites or Services may include links to websites or other online properties that are not under Our control. DW shall have no responsibility or liability for the content or privacy practices of any such linked website or any link or linking program at any time. If you click on a link on our Website and link to a third party’s website, then this Privacy Policy will not apply to your Personal Information collected on that third party’s website and you must read the privacy policy on that website to see how your information will be handled.
+Social media widgets or tools may appear on our Websites or Services. Your interaction with and use of these widgets or tools will be governed by the terms of use and privacy policy of the applicable social media provider (e.g., Facebook).
+
+
+19. Changes to Our Privacy Policy
+We may update this Privacy Policy to reflect changes in our privacy practices. We will provide notice of any such changes (including when they will take effect) in accordance with applicable law. The changes will go into effect on the Effective Date shown in the revised Privacy Policy. Your continued use of our Websites or Services constitutes your consent to the revised Privacy Policy.
+
+
+20. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, you can contact us as follows:
+The Daily Wire, LLC
+Ste. 460
+1831 12th Avenue South
+Nashville, TN 37203
+Help Center: support.dailywire.com
+Email: privacy@DailyWire.com
+
+
+21. Update History
+• June 29, 2022 General updates, new provisions related to children’s privacy, and reference to the DailyWire+ platform
+• November 19, 2021 Revised provisions to further address California, text message marketing, and other compliance obligations.
+• February 2021 Revised provisions to further address California and other compliance obligations.
+• September 2019 Revised provisions to update Website references and related policies.
+• June 2018 Revised provisions to address GDPR compliance obligations.
+• October 2017 Revised provisions related to collection and use of information; information security. Made additional miscellaneous modifications.
+• February 2016 Privacy Policy created.
+
+
+--------[END OF POLICY]---------
+
+
+Question 6: Does this app share my contacts list?
+
+
+<ANSWER FROM POLICY>
+
+

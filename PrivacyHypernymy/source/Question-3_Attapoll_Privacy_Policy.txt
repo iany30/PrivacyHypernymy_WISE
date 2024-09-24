@@ -1,0 +1,84 @@
+Question 3: Does this app collect credit card information?
+
+
+--------[START OF POLICY]---------
+
+
+﻿PRIVACY POLICY
+​
+AttaPoll is owned by AttaPoll Ltd, a company registered in England and Wales with company number 10042842. We are registered with the Information Commissioner's Office in the United Kingdom as a Data Controller, our registration number is ZA328071. This privacy policy explains how we use any personal information we collect about you when you join our panel to take part in surveys, use our mobile applications, or visit our website. If this document is presented in any language other than English, this translation is provided solely as a courtesy. In all cases, the English version shall be decisive regarding any interpretation of the text.
+​
+What information do we collect?
+We collect:
+* information you provide when using our mobile applications, website or contacting us by email;
+* your responses when you complete any of the surveys;
+* information about your location;
+* information about the device you use to access our mobile applications and website;
+* testimonials you supply using our mobile applications, website, or by email.
+​
+How will we use the information you provide?
+We will use the information to:
+* Send you invitations to participate in surveys based on your location and/or the information you provided to us.
+* Append information about you to your responses for any surveys you participate in, such as geographical location or age in order to produce anonymous research results.
+* With your explicit consent when asked in a survey, to pass your individual survey responses together with your personal information to the client who commissioned the survey.
+* To invite you to participate in partner surveys in which your participation is optional. By participating in such partner surveys you are providing your responses directly to the client who commissioned and hosted the survey.
+* To identify suitable partner survey opportunities based on what you have told us about yourself by sharing your individual survey responses and/or geographical location with our partners.
+* To identify suitable partner survey opportunities based on information about the device you are using to access our mobile applications and website.
+* To identify whether you are complying with our terms of service.
+* To create anonymous, statistical profiles of panel membership based on the information provided by panel members.
+* We may also send your information to our sub-contractors who may carry out some of the work we do on our behalf, and under our control.
+* We may display testimonials and other endorsements you provide to us on our website, in our mobile applications, and in our social media pages.
+​
+What information will you collect about me from third parties?
+We may obtain demographic and/or profile information from third parties about you, including, without limitation, information services bureaus, data brokers, other sample suppliers, loyalty program partners, and/or social media platforms. We may use this information for various purposes, including, without limitation, data validation, data append, fraud detection purposes, identifying surveys that may be of interest to you, facilitating the awarding of reward or incentive currency for your completion of surveys, and/or sending you a one-time email to invite you to participate in a survey and/or join a panel.
+​
+What information about me will you pass on to third parties or partners and where will the information go?
+We may share certain personal data and non-personal data with third parties for various purposes, including, without limitation, identifying third party survey opportunities for you, facilitating your participation in a third-party survey(s), tracking your survey activity, addressing survey quality issues, and incentive/reward fulfillment. As some of these third parties may reside outside of the European Union/European Economic Area, your personal data and non-personal data may be transferred, processed, and stored outside of the country in which you reside, including to/in the United States.
+​
+Use of Cookies and similar code
+By joining our panel and taking part in our research, you agree to our use of cookies and the collection of information from your mobile phone or another computing device you may use whilst taking part in our research activities or visiting our website as outlined below.
+Our website and mobile applications may collect information through the use of cookies. These are small files stored on your computing device. These files are used for quality control, usage analytics, and user validation. It is possible for you to delete 'cookies' or to prevent their use by adjusting the browser settings on your computer or mobile device. In addition to your own browser settings, when visiting our website a 'cookie' consent banner may be displayed which allows you to control which non-essential 'cookies' are placed on your device during your visit to the website. To learn more about 'cookies' you can visit https://www.allaboutcookies.org
+In addition to our use of cookies, our website and mobile applications automatically capture information about your IP Address, operating system, screen display settings, browser type, mobile advertising identifiers, and other device capabilities. We use this information to:
+* assist in providing support to you should you have difficulty accessing or completing a survey.
+* ensure that the survey is delivered in a form suited to the software your computer or mobile device is using.
+* to identify suitable partner survey opportunities.
+* determine the source of mobile application installs and establish advertising effectiveness.
+​
+How long will we keep the information you provide?
+We will keep the information you provided when you joined our panel, together with any information you provided in response to a recruitment questionnaire for as long as you remain a member of the panel. You can leave the panel at any time you wish. We may also remove you from our panel if you are not taking part in any surveys, are no longer eligible to be a member for any other reason, or the panel is closed. When you leave the panel, are removed, the panel is closed, or at your request we will delete your information, leaving anonymous responses to surveys that you participated in and certain information required to comply with our legal obligations and to prevent fraud such as the creation of duplicate accounts or attempting to bypass the quality controls specified in our terms and conditions.
+​
+How can you get access to your information and/or correct it?
+You have the right to request a copy of all the information we hold about you. We make this information available to you to view, and where appropriate amend, within our mobile applications. If you would like a copy of some or all of your personal information please contact us at info@attapoll.com
+​
+How can you opt-out / delete your information?
+Use of our service is voluntary. You can opt-out or delete the information we hold about you whenever you want, subject to our requirements to comply with legal requests and our obligations stated below. You can request this action be taken from within our mobile applications. Alternatively, contact us at info@attapoll.com
+​
+How do you ensure my personal information is secure?
+We take very seriously our responsibilities to keep your personal information secure. As such we take every reasonable precaution to ensure your information is protected from loss, theft, or misuse. These precautions include controlled access to computer systems, and the use of secure, encrypted internet connections when collecting personal information.
+​
+Compliance with legal requests and obligations
+We may need to disclose or retain your personal information when we have a good-faith belief that such action is necessary
+* to comply with a subpoena, bankruptcy proceedings, judicial proceeding, court orders, or similar legal process,
+* if we believe it is necessary in order to protect our rights, investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to your safety or the safety of others, or violations of the AttaPoll terms and conditions,
+* to respond to a government request or
+* as otherwise required by law.
+​
+Sale or Transfer of Business
+As we continue to develop our business, we might sell or buy additional assets. In such transactions, our right to contact panel members and the information you have voluntarily provided would generally be one of the transferred business assets. Any sale or transfer of AttaPoll or substantially all of its business assets, which included our panel, would be to an entity that agreed to comply with all of the material terms of our privacy policy. You will be notified via email and/or a prominent notice on our Web site of any change in ownership.
+​
+Changes to this Privacy Policy
+We reserve the right to modify this privacy policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our website or mobile applications prior to the change becoming effective.
+​
+How to contact us
+Please contact us at info@attapoll.com
+
+
+--------[END OF POLICY]---------
+
+
+Question 3: Does this app collect credit card information?
+
+
+<ANSWER FROM POLICY>
+
+

@@ -1,0 +1,3934 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Answer|Answer
+
+
+#Text=Question 6: Does this app share my contacts list?
+1-1	0-8	Question	_	
+1-2	9-10	6	_	
+1-3	10-11	:	_	
+1-4	12-16	Does	_	
+1-5	17-21	this	_	
+1-6	22-25	app	_	
+1-7	26-31	share	_	
+1-8	32-34	my	_	
+1-9	35-43	contacts	_	
+1-10	44-48	list	_	
+1-11	48-49	?	_	
+
+#Text=--------[START OF POLICY]---------
+#Text=
+#Text=
+#Text=﻿Welcome to the Yahoo Privacy Policy\r
+#Text=Last updated: April 2022\r
+#Text=1.
+2-1	52-53	-	_	
+2-2	53-54	-	_	
+2-3	54-55	-	_	
+2-4	55-56	-	_	
+2-5	56-57	-	_	
+2-6	57-58	-	_	
+2-7	58-59	-	_	
+2-8	59-60	-	_	
+2-9	60-61	[	_	
+2-10	61-66	START	_	
+2-11	67-69	OF	_	
+2-12	70-76	POLICY	_	
+2-13	76-77	]	_	
+2-14	77-78	-	_	
+2-15	78-79	-	_	
+2-16	79-80	-	_	
+2-17	80-81	-	_	
+2-18	81-82	-	_	
+2-19	82-83	-	_	
+2-20	83-84	-	_	
+2-21	84-85	-	_	
+2-22	85-86	-	_	
+2-23	89-90	﻿	_	
+2-24	90-97	Welcome	_	
+2-25	98-100	to	_	
+2-26	101-104	the	_	
+2-27	105-110	Yahoo	_	
+2-28	111-118	Privacy	_	
+2-29	119-125	Policy	_	
+2-30	127-131	Last	_	
+2-31	132-139	updated	_	
+2-32	139-140	:	_	
+2-33	141-146	April	_	
+2-34	147-151	2022	_	
+2-35	153-154	1	_	
+2-36	154-155	.	_	
+
+#Text=About Yahoo\r
+#Text=   1.
+3-1	156-161	About	_	
+3-2	162-167	Yahoo	_	
+3-3	172-173	1	_	
+3-4	173-174	.	_	
+
+#Text=Yahoo, previously known as Verizon Media, is a technology and media company that provides a range of services.
+4-1	175-180	Yahoo	_	
+4-2	180-181	,	_	
+4-3	182-192	previously	_	
+4-4	193-198	known	_	
+4-5	199-201	as	_	
+4-6	202-209	Verizon	_	
+4-7	210-215	Media	_	
+4-8	215-216	,	_	
+4-9	217-219	is	_	
+4-10	220-221	a	_	
+4-11	222-232	technology	_	
+4-12	233-236	and	_	
+4-13	237-242	media	_	
+4-14	243-250	company	_	
+4-15	251-255	that	_	
+4-16	256-264	provides	_	
+4-17	265-266	a	_	
+4-18	267-272	range	_	
+4-19	273-275	of	_	
+4-20	276-284	services	_	
+4-21	284-285	.	_	
+
+#Text=We serve our consumers, partners, advertisers and talent through our portfolio of digital platforms, products and services offered under our AOL, Yahoo and other brands.\r
+#Text=   2.
+5-1	286-288	We	_	
+5-2	289-294	serve	_	
+5-3	295-298	our	_	
+5-4	299-308	consumers	_	
+5-5	308-309	,	_	
+5-6	310-318	partners	_	
+5-7	318-319	,	_	
+5-8	320-331	advertisers	_	
+5-9	332-335	and	_	
+5-10	336-342	talent	_	
+5-11	343-350	through	_	
+5-12	351-354	our	_	
+5-13	355-364	portfolio	_	
+5-14	365-367	of	_	
+5-15	368-375	digital	_	
+5-16	376-385	platforms	_	
+5-17	385-386	,	_	
+5-18	387-395	products	_	
+5-19	396-399	and	_	
+5-20	400-408	services	_	
+5-21	409-416	offered	_	
+5-22	417-422	under	_	
+5-23	423-426	our	_	
+5-24	427-430	AOL	_	
+5-25	430-431	,	_	
+5-26	432-437	Yahoo	_	
+5-27	438-441	and	_	
+5-28	442-447	other	_	
+5-29	448-454	brands	_	
+5-30	454-455	.	_	
+5-31	460-461	2	_	
+5-32	461-462	.	_	
+
+#Text=We provide control tools to help you manage your experience with us.
+6-1	463-465	We	_	
+6-2	466-473	provide	_	
+6-3	474-481	control	_	
+6-4	482-487	tools	_	
+6-5	488-490	to	_	
+6-6	491-495	help	_	
+6-7	496-499	you	_	
+6-8	500-506	manage	_	
+6-9	507-511	your	_	
+6-10	512-522	experience	_	
+6-11	523-527	with	_	
+6-12	528-530	us	_	
+6-13	530-531	.	_	
+
+#Text=If you have an existing Yahoo or AOL account, you will need to agree to this Privacy Policy.
+7-1	532-534	If	_	
+7-2	535-538	you	_	
+7-3	539-543	have	_	
+7-4	544-546	an	_	
+7-5	547-555	existing	_	
+7-6	556-561	Yahoo	_	
+7-7	562-564	or	_	
+7-8	565-568	AOL	_	
+7-9	569-576	account	_	
+7-10	576-577	,	_	
+7-11	578-581	you	_	
+7-12	582-586	will	_	
+7-13	587-591	need	_	
+7-14	592-594	to	_	
+7-15	595-600	agree	_	
+7-16	601-603	to	_	
+7-17	604-608	this	_	
+7-18	609-616	Privacy	_	
+7-19	617-623	Policy	_	
+7-20	623-624	.	_	
+
+#Text=If you have not yet agreed to this Privacy Policy, the legacy Yahoo Privacy Policy or legacy Oath Privacy Policy (for AOL) still apply to your account.
+8-1	625-627	If	_	
+8-2	628-631	you	_	
+8-3	632-636	have	_	
+8-4	637-640	not	_	
+8-5	641-644	yet	_	
+8-6	645-651	agreed	_	
+8-7	652-654	to	_	
+8-8	655-659	this	_	
+8-9	660-667	Privacy	_	
+8-10	668-674	Policy	_	
+8-11	674-675	,	_	
+8-12	676-679	the	_	
+8-13	680-686	legacy	_	
+8-14	687-692	Yahoo	_	
+8-15	693-700	Privacy	_	
+8-16	701-707	Policy	_	
+8-17	708-710	or	_	
+8-18	711-717	legacy	_	
+8-19	718-722	Oath	_	
+8-20	723-730	Privacy	_	
+8-21	731-737	Policy	_	
+8-22	738-739	(	_	
+8-23	739-742	for	_	
+8-24	743-746	AOL	_	
+8-25	746-747	)	_	
+8-26	748-753	still	_	
+8-27	754-759	apply	_	
+8-28	760-762	to	_	
+8-29	763-767	your	_	
+8-30	768-775	account	_	
+8-31	775-776	.	_	
+
+#Text=For Yahoo products or services that are accessed without signing in to an account, this Privacy Policy applies to those products and services as of May 25, 2018.
+9-1	777-780	For	_	
+9-2	781-786	Yahoo	_	
+9-3	787-795	products	_	
+9-4	796-798	or	_	
+9-5	799-807	services	_	
+9-6	808-812	that	_	
+9-7	813-816	are	_	
+9-8	817-825	accessed	_	
+9-9	826-833	without	_	
+9-10	834-841	signing	_	
+9-11	842-844	in	_	
+9-12	845-847	to	_	
+9-13	848-850	an	_	
+9-14	851-858	account	_	
+9-15	858-859	,	_	
+9-16	860-864	this	_	
+9-17	865-872	Privacy	_	
+9-18	873-879	Policy	_	
+9-19	880-887	applies	_	
+9-20	888-890	to	_	
+9-21	891-896	those	_	
+9-22	897-905	products	_	
+9-23	906-909	and	_	
+9-24	910-918	services	_	
+9-25	919-921	as	_	
+9-26	922-924	of	_	
+9-27	925-928	May	_	
+9-28	929-931	25	_	
+9-29	931-932	,	_	
+9-30	933-937	2018	_	
+9-31	937-938	.	_	
+
+#Text=If you are creating a new account, the terms below apply starting today.\r
+#Text=   3.
+10-1	939-941	If	_	
+10-2	942-945	you	_	
+10-3	946-949	are	_	
+10-4	950-958	creating	_	
+10-5	959-960	a	_	
+10-6	961-964	new	_	
+10-7	965-972	account	_	
+10-8	972-973	,	_	
+10-9	974-977	the	_	
+10-10	978-983	terms	_	
+10-11	984-989	below	_	
+10-12	990-995	apply	_	
+10-13	996-1004	starting	_	
+10-14	1005-1010	today	_	
+10-15	1010-1011	.	_	
+10-16	1016-1017	3	_	
+10-17	1017-1018	.	_	
+
+#Text=Except as set out elsewhere in this Privacy Policy, when we refer to ‘Yahoo’, it means Yahoo Inc., the US-established company that supplies the Services to you (and acts as data controller of the personal data Yahoo collects when you use those Services).\r
+#Text=2.
+11-1	1019-1025	Except	_	
+11-2	1026-1028	as	_	
+11-3	1029-1032	set	_	
+11-4	1033-1036	out	_	
+11-5	1037-1046	elsewhere	_	
+11-6	1047-1049	in	_	
+11-7	1050-1054	this	_	
+11-8	1055-1062	Privacy	_	
+11-9	1063-1069	Policy	_	
+11-10	1069-1070	,	_	
+11-11	1071-1075	when	_	
+11-12	1076-1078	we	_	
+11-13	1079-1084	refer	_	
+11-14	1085-1087	to	_	
+11-15	1088-1089	‘	_	
+11-16	1089-1094	Yahoo	_	
+11-17	1094-1095	’	_	
+11-18	1095-1096	,	_	
+11-19	1097-1099	it	_	
+11-20	1100-1105	means	_	
+11-21	1106-1111	Yahoo	_	
+11-22	1112-1115	Inc	_	
+11-23	1115-1116	.	_	
+11-24	1116-1117	,	_	
+11-25	1118-1121	the	_	
+11-26	1122-1136	US-established	_	
+11-27	1137-1144	company	_	
+11-28	1145-1149	that	_	
+11-29	1150-1158	supplies	_	
+11-30	1159-1162	the	_	
+11-31	1163-1171	Services	_	
+11-32	1172-1174	to	_	
+11-33	1175-1178	you	_	
+11-34	1179-1180	(	_	
+11-35	1180-1183	and	_	
+11-36	1184-1188	acts	_	
+11-37	1189-1191	as	_	
+11-38	1192-1196	data	_	
+11-39	1197-1207	controller	_	
+11-40	1208-1210	of	_	
+11-41	1211-1214	the	_	
+11-42	1215-1223	personal	_	
+11-43	1224-1228	data	_	
+11-44	1229-1234	Yahoo	_	
+11-45	1235-1243	collects	_	
+11-46	1244-1248	when	_	
+11-47	1249-1252	you	_	
+11-48	1253-1256	use	_	
+11-49	1257-1262	those	_	
+11-50	1263-1271	Services	_	
+11-51	1271-1272	)	_	
+11-52	1272-1273	.	_	
+11-53	1275-1276	2	_	
+11-54	1276-1277	.	_	
+
+#Text=Our Privacy Pledge\r
+#Text=   1.
+12-1	1278-1281	Our	_	
+12-2	1282-1289	Privacy	_	
+12-3	1290-1296	Pledge	_	
+12-4	1301-1302	1	_	
+12-5	1302-1303	.	_	
+
+#Text=Our commitment is to put users first.
+13-1	1304-1307	Our	_	
+13-2	1308-1318	commitment	_	
+13-3	1319-1321	is	_	
+13-4	1322-1324	to	_	
+13-5	1325-1328	put	_	
+13-6	1329-1334	users	_	
+13-7	1335-1340	first	_	
+13-8	1340-1341	.	_	
+
+#Text=We strive to be transparent about how we collect and use your information, to keep your information secure and to provide you meaningful choices.\r
+#Text=   2.
+14-1	1342-1344	We	_	
+14-2	1345-1351	strive	_	
+14-3	1352-1354	to	_	
+14-4	1355-1357	be	_	
+14-5	1358-1369	transparent	_	
+14-6	1370-1375	about	_	
+14-7	1376-1379	how	_	
+14-8	1380-1382	we	_	
+14-9	1383-1390	collect	_	
+14-10	1391-1394	and	_	
+14-11	1395-1398	use	_	
+14-12	1399-1403	your	_	
+14-13	1404-1415	information	_	
+14-14	1415-1416	,	_	
+14-15	1417-1419	to	_	
+14-16	1420-1424	keep	_	
+14-17	1425-1429	your	_	
+14-18	1430-1441	information	_	
+14-19	1442-1448	secure	_	
+14-20	1449-1452	and	_	
+14-21	1453-1455	to	_	
+14-22	1456-1463	provide	_	
+14-23	1464-1467	you	_	
+14-24	1468-1478	meaningful	_	
+14-25	1479-1486	choices	_	
+14-26	1486-1487	.	_	
+14-27	1492-1493	2	_	
+14-28	1493-1494	.	_	
+
+#Text=This Privacy Policy is meant to help you understand what information Yahoo, its affiliates and its house of global brands (“Yahoo,” “us,” “our” or “we”) collect, why we collect it and what we do with it.
+15-1	1495-1499	This	_	
+15-2	1500-1507	Privacy	_	
+15-3	1508-1514	Policy	_	
+15-4	1515-1517	is	_	
+15-5	1518-1523	meant	_	
+15-6	1524-1526	to	_	
+15-7	1527-1531	help	_	
+15-8	1532-1535	you	_	
+15-9	1536-1546	understand	_	
+15-10	1547-1551	what	_	
+15-11	1552-1563	information	_	
+15-12	1564-1569	Yahoo	_	
+15-13	1569-1570	,	_	
+15-14	1571-1574	its	_	
+15-15	1575-1585	affiliates	_	
+15-16	1586-1589	and	_	
+15-17	1590-1593	its	_	
+15-18	1594-1599	house	_	
+15-19	1600-1602	of	_	
+15-20	1603-1609	global	_	
+15-21	1610-1616	brands	_	
+15-22	1617-1618	(	_	
+15-23	1618-1619	“	_	
+15-24	1619-1624	Yahoo	_	
+15-25	1624-1625	,	_	
+15-26	1625-1626	”	_	
+15-27	1627-1628	“	_	
+15-28	1628-1630	us	_	
+15-29	1630-1631	,	_	
+15-30	1631-1632	”	_	
+15-31	1633-1634	“	_	
+15-32	1634-1637	our	_	
+15-33	1637-1638	”	_	
+15-34	1639-1641	or	_	
+15-35	1642-1643	“	_	
+15-36	1643-1645	we	_	
+15-37	1645-1646	”	_	
+15-38	1646-1647	)	_	
+15-39	1648-1655	collect	_	
+15-40	1655-1656	,	_	
+15-41	1657-1660	why	_	
+15-42	1661-1663	we	_	
+15-43	1664-1671	collect	_	
+15-44	1672-1674	it	_	
+15-45	1675-1678	and	_	
+15-46	1679-1683	what	_	
+15-47	1684-1686	we	_	
+15-48	1687-1689	do	_	
+15-49	1690-1694	with	_	
+15-50	1695-1697	it	_	
+15-51	1697-1698	.	_	
+
+#Text=This policy applies to Yahoo brands, websites, apps, advertising services, products, services or technologies (we’ll collectively refer to these as “Services”).
+16-1	1699-1703	This	_	
+16-2	1704-1710	policy	_	
+16-3	1711-1718	applies	_	
+16-4	1719-1721	to	_	
+16-5	1722-1727	Yahoo	_	
+16-6	1728-1734	brands	_	
+16-7	1734-1735	,	_	
+16-8	1736-1744	websites	_	
+16-9	1744-1745	,	_	
+16-10	1746-1750	apps	_	
+16-11	1750-1751	,	_	
+16-12	1752-1763	advertising	_	
+16-13	1764-1772	services	_	
+16-14	1772-1773	,	_	
+16-15	1774-1782	products	_	
+16-16	1782-1783	,	_	
+16-17	1784-1792	services	_	
+16-18	1793-1795	or	_	
+16-19	1796-1808	technologies	_	
+16-20	1809-1810	(	_	
+16-21	1810-1812	we	_	
+16-22	1812-1813	’	_	
+16-23	1813-1815	ll	_	
+16-24	1816-1828	collectively	_	
+16-25	1829-1834	refer	_	
+16-26	1835-1837	to	_	
+16-27	1838-1843	these	_	
+16-28	1844-1846	as	_	
+16-29	1847-1848	“	_	
+16-30	1848-1856	Services	_	
+16-31	1856-1857	”	_	
+16-32	1857-1858	)	_	
+16-33	1858-1859	.	_	
+
+#Text=Additional privacy practices for certain Services can be found in Details for Specific Products and Services.\r
+#Text=3.
+17-1	1860-1870	Additional	_	
+17-2	1871-1878	privacy	_	
+17-3	1879-1888	practices	_	
+17-4	1889-1892	for	_	
+17-5	1893-1900	certain	_	
+17-6	1901-1909	Services	_	
+17-7	1910-1913	can	_	
+17-8	1914-1916	be	_	
+17-9	1917-1922	found	_	
+17-10	1923-1925	in	_	
+17-11	1926-1933	Details	_	
+17-12	1934-1937	for	_	
+17-13	1938-1946	Specific	_	
+17-14	1947-1955	Products	_	
+17-15	1956-1959	and	_	
+17-16	1960-1968	Services	_	
+17-17	1968-1969	.	_	
+17-18	1971-1972	3	_	
+17-19	1972-1973	.	_	
+
+#Text=Your Controls\r
+#Text=   1.
+18-1	1974-1978	Your	_	
+18-2	1979-1987	Controls	_	
+18-3	1992-1993	1	_	
+18-4	1993-1994	.	_	
+
+#Text=We believe you should have tools to control your information.
+19-1	1995-1997	We	_	
+19-2	1998-2005	believe	_	
+19-3	2006-2009	you	_	
+19-4	2010-2016	should	_	
+19-5	2017-2021	have	_	
+19-6	2022-2027	tools	_	
+19-7	2028-2030	to	_	
+19-8	2031-2038	control	_	
+19-9	2039-2043	your	_	
+19-10	2044-2055	information	_	
+19-11	2055-2056	.	_	
+
+#Text=You can find controls to manage or review your account information, marketing preferences, location data, and search history at Privacy Controls.
+20-1	2057-2060	You	_	
+20-2	2061-2064	can	_	
+20-3	2065-2069	find	_	
+20-4	2070-2078	controls	_	
+20-5	2079-2081	to	_	
+20-6	2082-2088	manage	_	
+20-7	2089-2091	or	_	
+20-8	2092-2098	review	_	
+20-9	2099-2103	your	_	
+20-10	2104-2111	account	_	
+20-11	2112-2123	information	_	
+20-12	2123-2124	,	_	
+20-13	2125-2134	marketing	_	
+20-14	2135-2146	preferences	_	
+20-15	2146-2147	,	_	
+20-16	2148-2156	location	_	
+20-17	2157-2161	data	_	
+20-18	2161-2162	,	_	
+20-19	2163-2166	and	_	
+20-20	2167-2173	search	_	
+20-21	2174-2181	history	_	
+20-22	2182-2184	at	_	
+20-23	2185-2192	Privacy	_	
+20-24	2193-2201	Controls	_	
+20-25	2201-2202	.	_	
+
+#Text=Some of our Services provide additional controls and privacy practices.
+21-1	2203-2207	Some	_	
+21-2	2208-2210	of	_	
+21-3	2211-2214	our	_	
+21-4	2215-2223	Services	_	
+21-5	2224-2231	provide	_	
+21-6	2232-2242	additional	_	
+21-7	2243-2251	controls	_	
+21-8	2252-2255	and	_	
+21-9	2256-2263	privacy	_	
+21-10	2264-2273	practices	_	
+21-11	2273-2274	.	_	
+
+#Text=(See, Details for Specific Products and Services)\r
+#Text=4.
+22-1	2275-2276	(	_	
+22-2	2276-2279	See	_	
+22-3	2279-2280	,	_	
+22-4	2281-2288	Details	_	
+22-5	2289-2292	for	_	
+22-6	2293-2301	Specific	_	
+22-7	2302-2310	Products	_	
+22-8	2311-2314	and	_	
+22-9	2315-2323	Services	_	
+22-10	2323-2324	)	_	
+22-11	2326-2327	4	_	
+22-12	2327-2328	.	_	
+
+#Text=Information Collection and Use - General\r
+#Text=   1.
+23-1	2329-2340	Information	_	
+23-2	2341-2351	Collection	_	
+23-3	2352-2355	and	_	
+23-4	2356-2359	Use	_	
+23-5	2360-2361	-	_	
+23-6	2362-2369	General	_	
+23-7	2374-2375	1	_	
+23-8	2375-2376	.	_	
+
+#Text=Certain categories of information collected by Yahoo are necessary to use our Services, such as the information you must provide when registering for some Services.
+24-1	2377-2384	Certain	_	
+24-2	2385-2395	categories	_	
+24-3	2396-2398	of	_	
+24-4	2399-2410	information	_	
+24-5	2411-2420	collected	_	
+24-6	2421-2423	by	_	
+24-7	2424-2429	Yahoo	_	
+24-8	2430-2433	are	_	
+24-9	2434-2443	necessary	_	
+24-10	2444-2446	to	_	
+24-11	2447-2450	use	_	
+24-12	2451-2454	our	_	
+24-13	2455-2463	Services	_	
+24-14	2463-2464	,	_	
+24-15	2465-2469	such	_	
+24-16	2470-2472	as	_	
+24-17	2473-2476	the	_	
+24-18	2477-2488	information	_	
+24-19	2489-2492	you	_	
+24-20	2493-2497	must	_	
+24-21	2498-2505	provide	_	
+24-22	2506-2510	when	_	
+24-23	2511-2522	registering	_	
+24-24	2523-2526	for	_	
+24-25	2527-2531	some	_	
+24-26	2532-2540	Services	_	
+24-27	2540-2541	.	_	
+
+#Text=We may collect and combine information when you interact with Yahoo Services information outlined below:\r
+#Text=   2.
+25-1	2542-2544	We	_	
+25-2	2545-2548	may	_	
+25-3	2549-2556	collect	_	
+25-4	2557-2560	and	_	
+25-5	2561-2568	combine	_	
+25-6	2569-2580	information	_	
+25-7	2581-2585	when	_	
+25-8	2586-2589	you	_	
+25-9	2590-2598	interact	_	
+25-10	2599-2603	with	_	
+25-11	2604-2609	Yahoo	_	
+25-12	2610-2618	Services	_	
+25-13	2619-2630	information	_	
+25-14	2631-2639	outlined	_	
+25-15	2640-2645	below	_	
+25-16	2645-2646	:	_	
+25-17	2651-2652	2	_	
+25-18	2652-2653	.	_	
+
+#Text=Information You Provide to Us.
+26-1	2654-2665	Information	_	
+26-2	2666-2669	You	_	
+26-3	2670-2677	Provide	_	
+26-4	2678-2680	to	_	
+26-5	2681-2683	Us	_	
+26-6	2683-2684	.	_	
+
+#Text=We may collect the information that you provide to us, such as:\r
+#Text=      1.
+27-1	2685-2687	We	_	
+27-2	2688-2691	may	_	
+27-3	2692-2699	collect	_	
+27-4	2700-2703	the	_	
+27-5	2704-2715	information	_	
+27-6	2716-2720	that	_	
+27-7	2721-2724	you	_	
+27-8	2725-2732	provide	_	
+27-9	2733-2735	to	_	
+27-10	2736-2738	us	_	
+27-11	2738-2739	,	_	
+27-12	2740-2744	such	_	
+27-13	2745-2747	as	_	
+27-14	2747-2748	:	_	
+27-15	2756-2757	1	_	
+27-16	2757-2758	.	_	
+
+#Text=When you create an account with a Yahoo Service or brand.
+28-1	2759-2763	When	_	
+28-2	2764-2767	you	_	
+28-3	2768-2774	create	_	
+28-4	2775-2777	an	_	
+28-5	2778-2785	account	_	
+28-6	2786-2790	with	_	
+28-7	2791-2792	a	_	
+28-8	2793-2798	Yahoo	_	
+28-9	2799-2806	Service	_	
+28-10	2807-2809	or	_	
+28-11	2810-2815	brand	_	
+28-12	2815-2816	.	_	
+
+#Text=(Please note, when you use our Services, we may recognize you or your devices even if you are not signed in to our Services.)
+29-1	2817-2818	(	_	
+29-2	2818-2824	Please	_	
+29-3	2825-2829	note	_	
+29-4	2829-2830	,	_	
+29-5	2831-2835	when	_	
+29-6	2836-2839	you	_	
+29-7	2840-2843	use	_	
+29-8	2844-2847	our	_	
+29-9	2848-2856	Services	_	
+29-10	2856-2857	,	_	
+29-11	2858-2860	we	_	
+29-12	2861-2864	may	_	
+29-13	2865-2874	recognize	_	
+29-14	2875-2878	you	_	
+29-15	2879-2881	or	_	
+29-16	2882-2886	your	_	
+29-17	2887-2894	devices	_	
+29-18	2895-2899	even	_	
+29-19	2900-2902	if	_	
+29-20	2903-2906	you	_	
+29-21	2907-2910	are	_	
+29-22	2911-2914	not	_	
+29-23	2915-2921	signed	_	
+29-24	2922-2924	in	_	
+29-25	2925-2927	to	_	
+29-26	2928-2931	our	_	
+29-27	2932-2940	Services	_	
+29-28	2940-2941	.	_	
+29-29	2941-2942	)	_	
+
+#Text=Yahoo may use device IDs, cookies, and other signals, including information obtained from third parties, to associate accounts and/or devices with you.\r
+#Text=      2.
+30-1	2943-2948	Yahoo	_	
+30-2	2949-2952	may	_	
+30-3	2953-2956	use	_	
+30-4	2957-2963	device	_	
+30-5	2964-2967	IDs	_	
+30-6	2967-2968	,	_	
+30-7	2969-2976	cookies	_	
+30-8	2976-2977	,	_	
+30-9	2978-2981	and	_	
+30-10	2982-2987	other	_	
+30-11	2988-2995	signals	_	
+30-12	2995-2996	,	_	
+30-13	2997-3006	including	_	
+30-14	3007-3018	information	_	
+30-15	3019-3027	obtained	_	
+30-16	3028-3032	from	_	
+30-17	3033-3038	third	_	
+30-18	3039-3046	parties	_	
+30-19	3046-3047	,	_	
+30-20	3048-3050	to	_	
+30-21	3051-3060	associate	_	
+30-22	3061-3069	accounts	_	
+30-23	3070-3073	and	_	
+30-24	3073-3074	/	_	
+30-25	3074-3076	or	_	
+30-26	3077-3084	devices	_	
+30-27	3085-3089	with	_	
+30-28	3090-3093	you	_	
+30-29	3093-3094	.	_	
+30-30	3102-3103	2	_	
+30-31	3103-3104	.	_	
+
+#Text=When you use our Services to communicate with others or post, upload or store content (such as comments, photos, voice inputs, videos, emails, messaging services and attachments).\r
+#Text=      3.
+31-1	3105-3109	When	_	
+31-2	3110-3113	you	_	
+31-3	3114-3117	use	_	
+31-4	3118-3121	our	_	
+31-5	3122-3130	Services	_	
+31-6	3131-3133	to	_	
+31-7	3134-3145	communicate	_	
+31-8	3146-3150	with	_	
+31-9	3151-3157	others	_	
+31-10	3158-3160	or	_	
+31-11	3161-3165	post	_	
+31-12	3165-3166	,	_	
+31-13	3167-3173	upload	_	
+31-14	3174-3176	or	_	
+31-15	3177-3182	store	_	
+31-16	3183-3190	content	_	
+31-17	3191-3192	(	_	
+31-18	3192-3196	such	_	
+31-19	3197-3199	as	_	
+31-20	3200-3208	comments	_	
+31-21	3208-3209	,	_	
+31-22	3210-3216	photos	_	
+31-23	3216-3217	,	_	
+31-24	3218-3223	voice	_	
+31-25	3224-3230	inputs	_	
+31-26	3230-3231	,	_	
+31-27	3232-3238	videos	_	
+31-28	3238-3239	,	_	
+31-29	3240-3246	emails	_	
+31-30	3246-3247	,	_	
+31-31	3248-3257	messaging	_	
+31-32	3258-3266	services	_	
+31-33	3267-3270	and	_	
+31-34	3271-3282	attachments	_	
+31-35	3282-3283	)	_	
+31-36	3283-3284	.	_	
+31-37	3292-3293	3	_	
+31-38	3293-3294	.	_	
+
+#Text=Yahoo analyzes and stores all communications content, including email content from incoming and outgoing mail.
+32-1	3295-3300	Yahoo	_	
+32-2	3301-3309	analyzes	_	
+32-3	3310-3313	and	_	
+32-4	3314-3320	stores	_	
+32-5	3321-3324	all	_	
+32-6	3325-3339	communications	_	
+32-7	3340-3347	content	_	
+32-8	3347-3348	,	_	
+32-9	3349-3358	including	_	
+32-10	3359-3364	email	_	
+32-11	3365-3372	content	_	
+32-12	3373-3377	from	_	
+32-13	3378-3386	incoming	_	
+32-14	3387-3390	and	_	
+32-15	3391-3399	outgoing	_	
+32-16	3400-3404	mail	_	
+32-17	3404-3405	.	_	
+
+#Text=This allows us to deliver, personalize and develop relevant features, content, advertising and Services.\r
+#Text=      4.
+33-1	3406-3410	This	_	
+33-2	3411-3417	allows	_	
+33-3	3418-3420	us	_	
+33-4	3421-3423	to	_	
+33-5	3424-3431	deliver	_	
+33-6	3431-3432	,	_	
+33-7	3433-3444	personalize	_	
+33-8	3445-3448	and	_	
+33-9	3449-3456	develop	_	
+33-10	3457-3465	relevant	_	
+33-11	3466-3474	features	_	
+33-12	3474-3475	,	_	
+33-13	3476-3483	content	_	
+33-14	3483-3484	,	_	
+33-15	3485-3496	advertising	_	
+33-16	3497-3500	and	_	
+33-17	3501-3509	Services	_	
+33-18	3509-3510	.	_	
+33-19	3518-3519	4	_	
+33-20	3519-3520	.	_	
+
+#Text=When you otherwise use our Services, such as title queries, watch history, page views, search queries, view the content we make available or install any Yahoo software such as plugins.\r
+#Text=      5.
+34-1	3521-3525	When	_	
+34-2	3526-3529	you	_	
+34-3	3530-3539	otherwise	_	
+34-4	3540-3543	use	_	
+34-5	3544-3547	our	_	
+34-6	3548-3556	Services	_	
+34-7	3556-3557	,	_	
+34-8	3558-3562	such	_	
+34-9	3563-3565	as	_	
+34-10	3566-3571	title	_	
+34-11	3572-3579	queries	_	
+34-12	3579-3580	,	_	
+34-13	3581-3586	watch	_	
+34-14	3587-3594	history	_	
+34-15	3594-3595	,	_	
+34-16	3596-3600	page	_	
+34-17	3601-3606	views	_	
+34-18	3606-3607	,	_	
+34-19	3608-3614	search	_	
+34-20	3615-3622	queries	_	
+34-21	3622-3623	,	_	
+34-22	3624-3628	view	_	
+34-23	3629-3632	the	_	
+34-24	3633-3640	content	_	
+34-25	3641-3643	we	_	
+34-26	3644-3648	make	_	
+34-27	3649-3658	available	_	
+34-28	3659-3661	or	_	
+34-29	3662-3669	install	_	
+34-30	3670-3673	any	_	
+34-31	3674-3679	Yahoo	_	
+34-32	3680-3688	software	_	
+34-33	3689-3693	such	_	
+34-34	3694-3696	as	_	
+34-35	3697-3704	plugins	_	
+34-36	3704-3705	.	_	
+34-37	3713-3714	5	_	
+34-38	3714-3715	.	_	
+
+#Text=When you sign up for paid Services, use Services that require your financial information or complete transactions with us or our business partners, we may collect your payment and billing information.\r
+#Text=   3.
+35-1	3716-3720	When	_	
+35-2	3721-3724	you	_	
+35-3	3725-3729	sign	_	
+35-4	3730-3732	up	_	
+35-5	3733-3736	for	_	
+35-6	3737-3741	paid	_	
+35-7	3742-3750	Services	_	
+35-8	3750-3751	,	_	
+35-9	3752-3755	use	_	
+35-10	3756-3764	Services	_	
+35-11	3765-3769	that	_	
+35-12	3770-3777	require	_	
+35-13	3778-3782	your	_	
+35-14	3783-3792	financial	_	
+35-15	3793-3804	information	_	
+35-16	3805-3807	or	_	
+35-17	3808-3816	complete	_	
+35-18	3817-3829	transactions	_	
+35-19	3830-3834	with	_	
+35-20	3835-3837	us	_	
+35-21	3838-3840	or	_	
+35-22	3841-3844	our	_	
+35-23	3845-3853	business	_	
+35-24	3854-3862	partners	_	
+35-25	3862-3863	,	_	
+35-26	3864-3866	we	_	
+35-27	3867-3870	may	_	
+35-28	3871-3878	collect	_	
+35-29	3879-3883	your	_	
+35-30	3884-3891	payment	_	
+35-31	3892-3895	and	_	
+35-32	3896-3903	billing	_	
+35-33	3904-3915	information	_	
+35-34	3915-3916	.	_	
+35-35	3921-3922	3	_	
+35-36	3922-3923	.	_	
+
+#Text=Device Information.
+36-1	3924-3930	Device	_	
+36-2	3931-3942	Information	_	
+36-3	3942-3943	.	_	
+
+#Text=We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our Services and those of our third-party partners and information that allows us to recognize and associate your activity across devices and Services.
+37-1	3944-3946	We	_	
+37-2	3947-3954	collect	_	
+37-3	3955-3966	information	_	
+37-4	3967-3971	from	_	
+37-5	3972-3976	your	_	
+37-6	3977-3984	devices	_	
+37-7	3985-3986	(	_	
+37-8	3986-3995	computers	_	
+37-9	3995-3996	,	_	
+37-10	3997-4003	mobile	_	
+37-11	4004-4010	phones	_	
+37-12	4010-4011	,	_	
+37-13	4012-4019	tablets	_	
+37-14	4019-4020	,	_	
+37-15	4021-4024	etc	_	
+37-16	4024-4025	.	_	
+37-17	4025-4026	)	_	
+37-18	4026-4027	,	_	
+37-19	4028-4037	including	_	
+37-20	4038-4049	information	_	
+37-21	4050-4055	about	_	
+37-22	4056-4059	how	_	
+37-23	4060-4063	you	_	
+37-24	4064-4072	interact	_	
+37-25	4073-4077	with	_	
+37-26	4078-4081	our	_	
+37-27	4082-4090	Services	_	
+37-28	4091-4094	and	_	
+37-29	4095-4100	those	_	
+37-30	4101-4103	of	_	
+37-31	4104-4107	our	_	
+37-32	4108-4119	third-party	_	
+37-33	4120-4128	partners	_	
+37-34	4129-4132	and	_	
+37-35	4133-4144	information	_	
+37-36	4145-4149	that	_	
+37-37	4150-4156	allows	_	
+37-38	4157-4159	us	_	
+37-39	4160-4162	to	_	
+37-40	4163-4172	recognize	_	
+37-41	4173-4176	and	_	
+37-42	4177-4186	associate	_	
+37-43	4187-4191	your	_	
+37-44	4192-4200	activity	_	
+37-45	4201-4207	across	_	
+37-46	4208-4215	devices	_	
+37-47	4216-4219	and	_	
+37-48	4220-4228	Services	_	
+37-49	4228-4229	.	_	
+
+#Text=This information includes device specific identifiers and information such as IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data.
+38-1	4230-4234	This	_	
+38-2	4235-4246	information	_	
+38-3	4247-4255	includes	_	
+38-4	4256-4262	device	_	
+38-5	4263-4271	specific	_	
+38-6	4272-4283	identifiers	_	
+38-7	4284-4287	and	_	
+38-8	4288-4299	information	_	
+38-9	4300-4304	such	_	
+38-10	4305-4307	as	_	
+38-11	4308-4310	IP	_	
+38-12	4311-4318	address	_	
+38-13	4318-4319	,	_	
+38-14	4320-4326	cookie	_	
+38-15	4327-4338	information	_	
+38-16	4338-4339	,	_	
+38-17	4340-4346	mobile	_	
+38-18	4347-4353	device	_	
+38-19	4354-4357	and	_	
+38-20	4358-4369	advertising	_	
+38-21	4370-4381	identifiers	_	
+38-22	4381-4382	,	_	
+38-23	4383-4390	browser	_	
+38-24	4391-4398	version	_	
+38-25	4398-4399	,	_	
+38-26	4400-4409	operating	_	
+38-27	4410-4416	system	_	
+38-28	4417-4421	type	_	
+38-29	4422-4425	and	_	
+38-30	4426-4433	version	_	
+38-31	4433-4434	,	_	
+38-32	4435-4441	mobile	_	
+38-33	4442-4449	network	_	
+38-34	4450-4461	information	_	
+38-35	4461-4462	,	_	
+38-36	4463-4469	device	_	
+38-37	4470-4478	settings	_	
+38-38	4478-4479	,	_	
+38-39	4480-4483	and	_	
+38-40	4484-4492	software	_	
+38-41	4493-4497	data	_	
+38-42	4497-4498	.	_	
+
+#Text=We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. \r
+#Text=   4.
+39-1	4499-4501	We	_	
+39-2	4502-4505	may	_	
+39-3	4506-4515	recognize	_	
+39-4	4516-4520	your	_	
+39-5	4521-4528	devices	_	
+39-6	4529-4531	to	_	
+39-7	4532-4539	provide	_	
+39-8	4540-4543	you	_	
+39-9	4544-4548	with	_	
+39-10	4549-4561	personalized	_	
+39-11	4562-4573	experiences	_	
+39-12	4574-4577	and	_	
+39-13	4578-4589	advertising	_	
+39-14	4590-4596	across	_	
+39-15	4597-4600	the	_	
+39-16	4601-4608	devices	_	
+39-17	4609-4612	you	_	
+39-18	4613-4616	use	_	
+39-19	4616-4617	.	_	
+39-20	4623-4624	4	_	
+39-21	4624-4625	.	_	
+
+#Text=Location Information.
+40-1	4626-4634	Location	_	
+40-2	4635-4646	Information	_	
+40-3	4646-4647	.	_	
+
+#Text=We collect location information from a variety of sources.
+41-1	4648-4650	We	_	
+41-2	4651-4658	collect	_	
+41-3	4659-4667	location	_	
+41-4	4668-4679	information	_	
+41-5	4680-4684	from	_	
+41-6	4685-4686	a	_	
+41-7	4687-4694	variety	_	
+41-8	4695-4697	of	_	
+41-9	4698-4705	sources	_	
+41-10	4705-4706	.	_	
+
+#Text=You can learn more about and manage your location permissions on our Locations page and by visiting the location settings tool on your devices.\r
+#Text=   5.
+42-1	4707-4710	You	_	
+42-2	4711-4714	can	_	
+42-3	4715-4720	learn	_	
+42-4	4721-4725	more	_	
+42-5	4726-4731	about	_	
+42-6	4732-4735	and	_	
+42-7	4736-4742	manage	_	
+42-8	4743-4747	your	_	
+42-9	4748-4756	location	_	
+42-10	4757-4768	permissions	_	
+42-11	4769-4771	on	_	
+42-12	4772-4775	our	_	
+42-13	4776-4785	Locations	_	
+42-14	4786-4790	page	_	
+42-15	4791-4794	and	_	
+42-16	4795-4797	by	_	
+42-17	4798-4806	visiting	_	
+42-18	4807-4810	the	_	
+42-19	4811-4819	location	_	
+42-20	4820-4828	settings	_	
+42-21	4829-4833	tool	_	
+42-22	4834-4836	on	_	
+42-23	4837-4841	your	_	
+42-24	4842-4849	devices	_	
+42-25	4849-4850	.	_	
+42-26	4855-4856	5	_	
+42-27	4856-4857	.	_	
+
+#Text=Information from Cookies and Other Technologies.\r
+#Text=      1.
+43-1	4858-4869	Information	_	
+43-2	4870-4874	from	_	
+43-3	4875-4882	Cookies	_	
+43-4	4883-4886	and	_	
+43-5	4887-4892	Other	_	
+43-6	4893-4905	Technologies	_	
+43-7	4905-4906	.	_	
+43-8	4914-4915	1	_	
+43-9	4915-4916	.	_	
+
+#Text=We collect information when you access content, advertising, sites, interactive widgets, applications, and other products (both on and off of our Services) where Yahoo data collection technologies (such as web beacons, development tools, cookies and other technologies, etc.) are present.
+44-1	4917-4919	We	_	
+44-2	4920-4927	collect	_	
+44-3	4928-4939	information	_	
+44-4	4940-4944	when	_	
+44-5	4945-4948	you	_	
+44-6	4949-4955	access	_	
+44-7	4956-4963	content	_	
+44-8	4963-4964	,	_	
+44-9	4965-4976	advertising	_	
+44-10	4976-4977	,	_	
+44-11	4978-4983	sites	_	
+44-12	4983-4984	,	_	
+44-13	4985-4996	interactive	_	
+44-14	4997-5004	widgets	_	
+44-15	5004-5005	,	_	
+44-16	5006-5018	applications	_	
+44-17	5018-5019	,	_	
+44-18	5020-5023	and	_	
+44-19	5024-5029	other	_	
+44-20	5030-5038	products	_	
+44-21	5039-5040	(	_	
+44-22	5040-5044	both	_	
+44-23	5045-5047	on	_	
+44-24	5048-5051	and	_	
+44-25	5052-5055	off	_	
+44-26	5056-5058	of	_	
+44-27	5059-5062	our	_	
+44-28	5063-5071	Services	_	
+44-29	5071-5072	)	_	
+44-30	5073-5078	where	_	
+44-31	5079-5084	Yahoo	_	
+44-32	5085-5089	data	_	
+44-33	5090-5100	collection	_	
+44-34	5101-5113	technologies	_	
+44-35	5114-5115	(	_	
+44-36	5115-5119	such	_	
+44-37	5120-5122	as	_	
+44-38	5123-5126	web	_	
+44-39	5127-5134	beacons	_	
+44-40	5134-5135	,	_	
+44-41	5136-5147	development	_	
+44-42	5148-5153	tools	_	
+44-43	5153-5154	,	_	
+44-44	5155-5162	cookies	_	
+44-45	5163-5166	and	_	
+44-46	5167-5172	other	_	
+44-47	5173-5185	technologies	_	
+44-48	5185-5186	,	_	
+44-49	5187-5190	etc	_	
+44-50	5190-5191	.	_	
+44-51	5191-5192	)	_	
+44-52	5193-5196	are	_	
+44-53	5197-5204	present	_	
+44-54	5204-5205	.	_	
+
+#Text=These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.\r
+#Text=      2.
+45-1	5206-5211	These	_	
+45-2	5212-5216	data	_	
+45-3	5217-5227	collection	_	
+45-4	5228-5240	technologies	_	
+45-5	5241-5246	allow	_	
+45-6	5247-5249	us	_	
+45-7	5250-5252	to	_	
+45-8	5253-5263	understand	_	
+45-9	5264-5268	your	_	
+45-10	5269-5277	activity	_	
+45-11	5278-5280	on	_	
+45-12	5281-5284	and	_	
+45-13	5285-5288	off	_	
+45-14	5289-5292	our	_	
+45-15	5293-5301	Services	_	
+45-16	5302-5305	and	_	
+45-17	5306-5308	to	_	
+45-18	5309-5316	collect	_	
+45-19	5317-5320	and	_	
+45-20	5321-5326	store	_	
+45-21	5327-5338	information	_	
+45-22	5339-5343	when	_	
+45-23	5344-5347	you	_	
+45-24	5348-5356	interact	_	
+45-25	5357-5361	with	_	
+45-26	5362-5370	Services	_	
+45-27	5371-5373	we	_	
+45-28	5374-5379	offer	_	
+45-29	5380-5382	to	_	
+45-30	5383-5391	partners	_	
+45-31	5391-5392	.	_	
+45-32	5400-5401	2	_	
+45-33	5401-5402	.	_	
+
+#Text=This information also includes the kind of content or ads served, viewed or clicked on; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. \r
+#Text=   6.
+46-1	5403-5407	This	_	
+46-2	5408-5419	information	_	
+46-3	5420-5424	also	_	
+46-4	5425-5433	includes	_	
+46-5	5434-5437	the	_	
+46-6	5438-5442	kind	_	
+46-7	5443-5445	of	_	
+46-8	5446-5453	content	_	
+46-9	5454-5456	or	_	
+46-10	5457-5460	ads	_	
+46-11	5461-5467	served	_	
+46-12	5467-5468	,	_	
+46-13	5469-5475	viewed	_	
+46-14	5476-5478	or	_	
+46-15	5479-5486	clicked	_	
+46-16	5487-5489	on	_	
+46-17	5489-5490	;	_	
+46-18	5491-5494	the	_	
+46-19	5495-5504	frequency	_	
+46-20	5505-5508	and	_	
+46-21	5509-5517	duration	_	
+46-22	5518-5520	of	_	
+46-23	5521-5525	your	_	
+46-24	5526-5536	activities	_	
+46-25	5536-5537	;	_	
+46-26	5538-5541	the	_	
+46-27	5542-5547	sites	_	
+46-28	5548-5550	or	_	
+46-29	5551-5555	apps	_	
+46-30	5556-5559	you	_	
+46-31	5560-5564	used	_	
+46-32	5565-5571	before	_	
+46-33	5572-5581	accessing	_	
+46-34	5582-5585	our	_	
+46-35	5586-5594	Services	_	
+46-36	5595-5598	and	_	
+46-37	5599-5604	where	_	
+46-38	5605-5608	you	_	
+46-39	5609-5613	went	_	
+46-40	5614-5618	next	_	
+46-41	5618-5619	;	_	
+46-42	5620-5627	whether	_	
+46-43	5628-5631	you	_	
+46-44	5632-5639	engaged	_	
+46-45	5640-5644	with	_	
+46-46	5645-5653	specific	_	
+46-47	5654-5661	content	_	
+46-48	5662-5664	or	_	
+46-49	5665-5668	ads	_	
+46-50	5668-5669	;	_	
+46-51	5670-5673	and	_	
+46-52	5674-5681	whether	_	
+46-53	5682-5685	you	_	
+46-54	5686-5690	went	_	
+46-55	5691-5693	on	_	
+46-56	5694-5696	to	_	
+46-57	5697-5702	visit	_	
+46-58	5703-5705	an	_	
+46-59	5706-5718	advertiser's	_	
+46-60	5719-5726	website	_	
+46-61	5726-5727	,	_	
+46-62	5728-5738	downloaded	_	
+46-63	5739-5741	an	_	
+46-64	5742-5752	advertiser	_	
+46-65	5752-5753	’	_	
+46-66	5753-5754	s	_	
+46-67	5755-5758	app	_	
+46-68	5758-5759	,	_	
+46-69	5760-5769	purchased	_	
+46-70	5770-5771	a	_	
+46-71	5772-5779	product	_	
+46-72	5780-5782	or	_	
+46-73	5783-5790	service	_	
+46-74	5791-5801	advertised	_	
+46-75	5801-5802	,	_	
+46-76	5803-5805	or	_	
+46-77	5806-5810	took	_	
+46-78	5811-5816	other	_	
+46-79	5817-5824	actions	_	
+46-80	5824-5825	.	_	
+46-81	5831-5832	6	_	
+46-82	5832-5833	.	_	
+
+#Text=Information from Others.
+47-1	5834-5845	Information	_	
+47-2	5846-5850	from	_	
+47-3	5851-5857	Others	_	
+47-4	5857-5858	.	_	
+
+#Text=We collect information about you when we receive it from other users, third-parties, and affiliates, such as: \r
+#Text=      1.
+48-1	5859-5861	We	_	
+48-2	5862-5869	collect	_	
+48-3	5870-5881	information	_	
+48-4	5882-5887	about	_	
+48-5	5888-5891	you	_	
+48-6	5892-5896	when	_	
+48-7	5897-5899	we	_	
+48-8	5900-5907	receive	_	
+48-9	5908-5910	it	_	
+48-10	5911-5915	from	_	
+48-11	5916-5921	other	_	
+48-12	5922-5927	users	_	
+48-13	5927-5928	,	_	
+48-14	5929-5942	third-parties	_	
+48-15	5942-5943	,	_	
+48-16	5944-5947	and	_	
+48-17	5948-5958	affiliates	_	
+48-18	5958-5959	,	_	
+48-19	5960-5964	such	_	
+48-20	5965-5967	as	_	
+48-21	5967-5968	:	_	
+48-22	5977-5978	1	_	
+48-23	5978-5979	.	_	
+
+#Text=When you connect your account to third-party services or sign in using a third-party partner (like Facebook or Twitter).\r
+#Text=      2.
+49-1	5980-5984	When	_	
+49-2	5985-5988	you	_	
+49-3	5989-5996	connect	_	
+49-4	5997-6001	your	_	
+49-5	6002-6009	account	_	
+49-6	6010-6012	to	_	
+49-7	6013-6024	third-party	_	
+49-8	6025-6033	services	_	
+49-9	6034-6036	or	_	
+49-10	6037-6041	sign	_	
+49-11	6042-6044	in	_	
+49-12	6045-6050	using	_	
+49-13	6051-6052	a	_	
+49-14	6053-6064	third-party	_	
+49-15	6065-6072	partner	_	
+49-16	6073-6074	(	_	
+49-17	6074-6078	like	_	
+49-18	6079-6087	Facebook	_	
+49-19	6088-6090	or	_	
+49-20	6091-6098	Twitter	_	
+49-21	6098-6099	)	_	
+49-22	6099-6100	.	_	
+49-23	6108-6109	2	_	
+49-24	6109-6110	.	_	
+
+#Text=From publicly-available sources.\r
+#Text=      3.
+50-1	6111-6115	From	_	
+50-2	6116-6134	publicly-available	_	
+50-3	6135-6142	sources	_	
+50-4	6142-6143	.	_	
+50-5	6151-6152	3	_	
+50-6	6152-6153	.	_	
+
+#Text=From advertisers about your experiences or interactions with their offerings.\r
+#Text=      4.
+51-1	6154-6158	From	_	
+51-2	6159-6170	advertisers	_	
+51-3	6171-6176	about	_	
+51-4	6177-6181	your	_	
+51-5	6182-6193	experiences	_	
+51-6	6194-6196	or	_	
+51-7	6197-6209	interactions	_	
+51-8	6210-6214	with	_	
+51-9	6215-6220	their	_	
+51-10	6221-6230	offerings	_	
+51-11	6230-6231	.	_	
+51-12	6239-6240	4	_	
+51-13	6240-6241	.	_	
+
+#Text=When we obtain information from third-parties or other companies, such as those that use our Services.
+52-1	6242-6246	When	_	
+52-2	6247-6249	we	_	
+52-3	6250-6256	obtain	_	
+52-4	6257-6268	information	_	
+52-5	6269-6273	from	_	
+52-6	6274-6287	third-parties	_	
+52-7	6288-6290	or	_	
+52-8	6291-6296	other	_	
+52-9	6297-6306	companies	_	
+52-10	6306-6307	,	_	
+52-11	6308-6312	such	_	
+52-12	6313-6315	as	_	
+52-13	6316-6321	those	_	
+52-14	6322-6326	that	_	
+52-15	6327-6330	use	_	
+52-16	6331-6334	our	_	
+52-17	6335-6343	Services	_	
+52-18	6343-6344	.	_	
+
+#Text=This may include your activity on other sites and apps as well as information those third-parties provide to you or us. \r
+#Text=5.
+53-1	6345-6349	This	_	
+53-2	6350-6353	may	_	
+53-3	6354-6361	include	_	
+53-4	6362-6366	your	_	
+53-5	6367-6375	activity	_	
+53-6	6376-6378	on	_	
+53-7	6379-6384	other	_	
+53-8	6385-6390	sites	_	
+53-9	6391-6394	and	_	
+53-10	6395-6399	apps	_	
+53-11	6400-6402	as	_	
+53-12	6403-6407	well	_	
+53-13	6408-6410	as	_	
+53-14	6411-6422	information	_	
+53-15	6423-6428	those	_	
+53-16	6429-6442	third-parties	_	
+53-17	6443-6450	provide	_	
+53-18	6451-6453	to	_	
+53-19	6454-6457	you	_	
+53-20	6458-6460	or	_	
+53-21	6461-6463	us	_	
+53-22	6463-6464	.	_	
+53-23	6467-6468	5	_	
+53-24	6468-6469	.	_	
+
+#Text=How We Use This Information\r
+#Text=   1.
+54-1	6470-6473	How	_	
+54-2	6474-6476	We	_	
+54-3	6477-6480	Use	_	
+54-4	6481-6485	This	_	
+54-5	6486-6497	Information	_	
+54-6	6502-6503	1	_	
+54-7	6503-6504	.	_	
+
+#Text=We are able to deliver, personalize, and improve our Services by combining and using the information we have about you (including information we receive on and off our Services) to understand how you use and interact with our Services and the people or things you’re connected to and interested in.
+55-1	6505-6507	We	_	
+55-2	6508-6511	are	_	
+55-3	6512-6516	able	_	
+55-4	6517-6519	to	_	
+55-5	6520-6527	deliver	_	
+55-6	6527-6528	,	_	
+55-7	6529-6540	personalize	_	
+55-8	6540-6541	,	_	
+55-9	6542-6545	and	_	
+55-10	6546-6553	improve	_	
+55-11	6554-6557	our	_	
+55-12	6558-6566	Services	_	
+55-13	6567-6569	by	_	
+55-14	6570-6579	combining	_	
+55-15	6580-6583	and	_	
+55-16	6584-6589	using	_	
+55-17	6590-6593	the	_	
+55-18	6594-6605	information	_	
+55-19	6606-6608	we	_	
+55-20	6609-6613	have	_	
+55-21	6614-6619	about	_	
+55-22	6620-6623	you	_	
+55-23	6624-6625	(	_	
+55-24	6625-6634	including	_	
+55-25	6635-6646	information	_	
+55-26	6647-6649	we	_	
+55-27	6650-6657	receive	_	
+55-28	6658-6660	on	_	
+55-29	6661-6664	and	_	
+55-30	6665-6668	off	_	
+55-31	6669-6672	our	_	
+55-32	6673-6681	Services	_	
+55-33	6681-6682	)	_	
+55-34	6683-6685	to	_	
+55-35	6686-6696	understand	_	
+55-36	6697-6700	how	_	
+55-37	6701-6704	you	_	
+55-38	6705-6708	use	_	
+55-39	6709-6712	and	_	
+55-40	6713-6721	interact	_	
+55-41	6722-6726	with	_	
+55-42	6727-6730	our	_	
+55-43	6731-6739	Services	_	
+55-44	6740-6743	and	_	
+55-45	6744-6747	the	_	
+55-46	6748-6754	people	_	
+55-47	6755-6757	or	_	
+55-48	6758-6764	things	_	
+55-49	6765-6768	you	_	
+55-50	6768-6769	’	_	
+55-51	6769-6771	re	_	
+55-52	6772-6781	connected	_	
+55-53	6782-6784	to	_	
+55-54	6785-6788	and	_	
+55-55	6789-6799	interested	_	
+55-56	6800-6802	in	_	
+55-57	6802-6803	.	_	
+
+#Text=We also may use the information we have about you for the following purposes: \r
+#Text=      1.
+56-1	6804-6806	We	_	
+56-2	6807-6811	also	_	
+56-3	6812-6815	may	_	
+56-4	6816-6819	use	_	
+56-5	6820-6823	the	_	
+56-6	6824-6835	information	_	
+56-7	6836-6838	we	_	
+56-8	6839-6843	have	_	
+56-9	6844-6849	about	_	
+56-10	6850-6853	you	_	
+56-11	6854-6857	for	_	
+56-12	6858-6861	the	_	
+56-13	6862-6871	following	_	
+56-14	6872-6880	purposes	_	
+56-15	6880-6881	:	_	
+56-16	6890-6891	1	_	
+56-17	6891-6892	.	_	
+
+#Text=Provide, maintain, improve, and develop relevant features, content, and Services.\r
+#Text=      2.
+57-1	6893-6900	Provide	_	
+57-2	6900-6901	,	_	
+57-3	6902-6910	maintain	_	
+57-4	6910-6911	,	_	
+57-5	6912-6919	improve	_	
+57-6	6919-6920	,	_	
+57-7	6921-6924	and	_	
+57-8	6925-6932	develop	_	
+57-9	6933-6941	relevant	_	
+57-10	6942-6950	features	_	
+57-11	6950-6951	,	_	
+57-12	6952-6959	content	_	
+57-13	6959-6960	,	_	
+57-14	6961-6964	and	_	
+57-15	6965-6973	Services	_	
+57-16	6973-6974	.	_	
+57-17	6982-6983	2	_	
+57-18	6983-6984	.	_	
+
+#Text=Analyze your content and other information (including emails, instant messages, posts photos, attachments, and other communications).
+58-1	6985-6992	Analyze	_	
+58-2	6993-6997	your	_	
+58-3	6998-7005	content	_	
+58-4	7006-7009	and	_	
+58-5	7010-7015	other	_	
+58-6	7016-7027	information	_	
+58-7	7028-7029	(	_	
+58-8	7029-7038	including	_	
+58-9	7039-7045	emails	_	
+58-10	7045-7046	,	_	
+58-11	7047-7054	instant	_	
+58-12	7055-7063	messages	_	
+58-13	7063-7064	,	_	
+58-14	7065-7070	posts	_	
+58-15	7071-7077	photos	_	
+58-16	7077-7078	,	_	
+58-17	7079-7090	attachments	_	
+58-18	7090-7091	,	_	
+58-19	7092-7095	and	_	
+58-20	7096-7101	other	_	
+58-21	7102-7116	communications	_	
+58-22	7116-7117	)	_	
+58-23	7117-7118	.	_	
+
+#Text=You can review and control certain types of information tied to your Yahoo account by using Privacy Controls. \r
+#Text=      3.
+59-1	7119-7122	You	_	
+59-2	7123-7126	can	_	
+59-3	7127-7133	review	_	
+59-4	7134-7137	and	_	
+59-5	7138-7145	control	_	
+59-6	7146-7153	certain	_	
+59-7	7154-7159	types	_	
+59-8	7160-7162	of	_	
+59-9	7163-7174	information	_	
+59-10	7175-7179	tied	_	
+59-11	7180-7182	to	_	
+59-12	7183-7187	your	_	
+59-13	7188-7193	Yahoo	_	
+59-14	7194-7201	account	_	
+59-15	7202-7204	by	_	
+59-16	7205-7210	using	_	
+59-17	7211-7218	Privacy	_	
+59-18	7219-7227	Controls	_	
+59-19	7227-7228	.	_	
+59-20	7237-7238	3	_	
+59-21	7238-7239	.	_	
+
+#Text=Fulfill your requests and when authorized by you. \r
+#Text=      4.
+60-1	7240-7247	Fulfill	_	
+60-2	7248-7252	your	_	
+60-3	7253-7261	requests	_	
+60-4	7262-7265	and	_	
+60-5	7266-7270	when	_	
+60-6	7271-7281	authorized	_	
+60-7	7282-7284	by	_	
+60-8	7285-7288	you	_	
+60-9	7288-7289	.	_	
+60-10	7298-7299	4	_	
+60-11	7299-7300	.	_	
+
+#Text=Help advertisers and publishers connect to offer relevant advertising in their apps and websites.\r
+#Text=      5.
+61-1	7301-7305	Help	_	
+61-2	7306-7317	advertisers	_	
+61-3	7318-7321	and	_	
+61-4	7322-7332	publishers	_	
+61-5	7333-7340	connect	_	
+61-6	7341-7343	to	_	
+61-7	7344-7349	offer	_	
+61-8	7350-7358	relevant	_	
+61-9	7359-7370	advertising	_	
+61-10	7371-7373	in	_	
+61-11	7374-7379	their	_	
+61-12	7380-7384	apps	_	
+61-13	7385-7388	and	_	
+61-14	7389-7397	websites	_	
+61-15	7397-7398	.	_	
+61-16	7406-7407	5	_	
+61-17	7407-7408	.	_	
+
+#Text=Match and serve targeted advertising (across devices and both on and off of our Services) and provide targeted advertising based on your device activity, inferred interests and location information.\r
+#Text=      6.
+62-1	7409-7414	Match	_	
+62-2	7415-7418	and	_	
+62-3	7419-7424	serve	_	
+62-4	7425-7433	targeted	_	
+62-5	7434-7445	advertising	_	
+62-6	7446-7447	(	_	
+62-7	7447-7453	across	_	
+62-8	7454-7461	devices	_	
+62-9	7462-7465	and	_	
+62-10	7466-7470	both	_	
+62-11	7471-7473	on	_	
+62-12	7474-7477	and	_	
+62-13	7478-7481	off	_	
+62-14	7482-7484	of	_	
+62-15	7485-7488	our	_	
+62-16	7489-7497	Services	_	
+62-17	7497-7498	)	_	
+62-18	7499-7502	and	_	
+62-19	7503-7510	provide	_	
+62-20	7511-7519	targeted	_	
+62-21	7520-7531	advertising	_	
+62-22	7532-7537	based	_	
+62-23	7538-7540	on	_	
+62-24	7541-7545	your	_	
+62-25	7546-7552	device	_	
+62-26	7553-7561	activity	_	
+62-27	7561-7562	,	_	
+62-28	7563-7571	inferred	_	
+62-29	7572-7581	interests	_	
+62-30	7582-7585	and	_	
+62-31	7586-7594	location	_	
+62-32	7595-7606	information	_	
+62-33	7606-7607	.	_	
+62-34	7615-7616	6	_	
+62-35	7616-7617	.	_	
+
+#Text=Contact you with information about your account or with marketing messages, which you can also control. \r
+#Text=      7.
+63-1	7618-7625	Contact	_	
+63-2	7626-7629	you	_	
+63-3	7630-7634	with	_	
+63-4	7635-7646	information	_	
+63-5	7647-7652	about	_	
+63-6	7653-7657	your	_	
+63-7	7658-7665	account	_	
+63-8	7666-7668	or	_	
+63-9	7669-7673	with	_	
+63-10	7674-7683	marketing	_	
+63-11	7684-7692	messages	_	
+63-12	7692-7693	,	_	
+63-13	7694-7699	which	_	
+63-14	7700-7703	you	_	
+63-15	7704-7707	can	_	
+63-16	7708-7712	also	_	
+63-17	7713-7720	control	_	
+63-18	7720-7721	.	_	
+63-19	7730-7731	7	_	
+63-20	7731-7732	.	_	
+
+#Text=Associate your activity across our Services and your different devices as well as associate any accounts you may use across Yahoo Services together.
+64-1	7733-7742	Associate	_	
+64-2	7743-7747	your	_	
+64-3	7748-7756	activity	_	
+64-4	7757-7763	across	_	
+64-5	7764-7767	our	_	
+64-6	7768-7776	Services	_	
+64-7	7777-7780	and	_	
+64-8	7781-7785	your	_	
+64-9	7786-7795	different	_	
+64-10	7796-7803	devices	_	
+64-11	7804-7806	as	_	
+64-12	7807-7811	well	_	
+64-13	7812-7814	as	_	
+64-14	7815-7824	associate	_	
+64-15	7825-7828	any	_	
+64-16	7829-7837	accounts	_	
+64-17	7838-7841	you	_	
+64-18	7842-7845	may	_	
+64-19	7846-7849	use	_	
+64-20	7850-7856	across	_	
+64-21	7857-7862	Yahoo	_	
+64-22	7863-7871	Services	_	
+64-23	7872-7880	together	_	
+64-24	7880-7881	.	_	
+
+#Text=We may associate activity and accounts under a single user ID. \r
+#Text=      8.
+65-1	7882-7884	We	_	
+65-2	7885-7888	may	_	
+65-3	7889-7898	associate	_	
+65-4	7899-7907	activity	_	
+65-5	7908-7911	and	_	
+65-6	7912-7920	accounts	_	
+65-7	7921-7926	under	_	
+65-8	7927-7928	a	_	
+65-9	7929-7935	single	_	
+65-10	7936-7940	user	_	
+65-11	7941-7943	ID	_	
+65-12	7943-7944	.	_	
+65-13	7953-7954	8	_	
+65-14	7954-7955	.	_	
+
+#Text=Carry out or support promotions.\r
+#Text=      9.
+66-1	7956-7961	Carry	_	
+66-2	7962-7965	out	_	
+66-3	7966-7968	or	_	
+66-4	7969-7976	support	_	
+66-5	7977-7987	promotions	_	
+66-6	7987-7988	.	_	
+66-7	7996-7997	9	_	
+66-8	7997-7998	.	_	
+
+#Text=Conduct research and support innovation. \r
+#Text=      10.
+67-1	7999-8006	Conduct	_	
+67-2	8007-8015	research	_	
+67-3	8016-8019	and	_	
+67-4	8020-8027	support	_	
+67-5	8028-8038	innovation	_	
+67-6	8038-8039	.	_	
+67-7	8048-8050	10	_	
+67-8	8050-8051	.	_	
+
+#Text=Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences.
+68-1	8052-8058	Create	_	
+68-2	8059-8068	analytics	_	
+68-3	8069-8072	and	_	
+68-4	8073-8080	reports	_	
+68-5	8081-8084	for	_	
+68-6	8085-8093	external	_	
+68-7	8094-8101	parties	_	
+68-8	8101-8102	,	_	
+68-9	8103-8112	including	_	
+68-10	8113-8121	partners	_	
+68-11	8121-8122	,	_	
+68-12	8123-8133	publishers	_	
+68-13	8133-8134	,	_	
+68-14	8135-8146	advertisers	_	
+68-15	8146-8147	,	_	
+68-16	8148-8152	apps	_	
+68-17	8152-8153	,	_	
+68-18	8154-8167	third-parties	_	
+68-19	8168-8171	and	_	
+68-20	8172-8175	the	_	
+68-21	8176-8182	public	_	
+68-22	8183-8192	regarding	_	
+68-23	8193-8196	the	_	
+68-24	8197-8200	use	_	
+68-25	8201-8203	of	_	
+68-26	8204-8207	and	_	
+68-27	8208-8214	trends	_	
+68-28	8215-8221	within	_	
+68-29	8222-8225	our	_	
+68-30	8226-8234	Services	_	
+68-31	8235-8238	and	_	
+68-32	8239-8242	ads	_	
+68-33	8242-8243	,	_	
+68-34	8244-8253	including	_	
+68-35	8254-8261	showing	_	
+68-36	8262-8268	trends	_	
+68-37	8269-8271	to	_	
+68-38	8272-8280	partners	_	
+68-39	8281-8290	regarding	_	
+68-40	8291-8298	general	_	
+68-41	8299-8310	preferences	_	
+68-42	8310-8311	,	_	
+68-43	8312-8315	the	_	
+68-44	8316-8329	effectiveness	_	
+68-45	8330-8332	of	_	
+68-46	8333-8336	ads	_	
+68-47	8337-8340	and	_	
+68-48	8341-8352	information	_	
+68-49	8353-8355	on	_	
+68-50	8356-8360	user	_	
+68-51	8361-8372	experiences	_	
+68-52	8372-8373	.	_	
+
+#Text=These analytics and reports may include aggregate or pseudonymized information.\r
+#Text=      11.
+69-1	8374-8379	These	_	
+69-2	8380-8389	analytics	_	
+69-3	8390-8393	and	_	
+69-4	8394-8401	reports	_	
+69-5	8402-8405	may	_	
+69-6	8406-8413	include	_	
+69-7	8414-8423	aggregate	_	
+69-8	8424-8426	or	_	
+69-9	8427-8440	pseudonymized	_	
+69-10	8441-8452	information	_	
+69-11	8452-8453	.	_	
+69-12	8461-8463	11	_	
+69-13	8463-8464	.	_	
+
+#Text=Provide location-based Services, advertising, search results, and other content consistent with your location settings.\r
+#Text=      12.
+70-1	8465-8472	Provide	_	
+70-2	8473-8487	location-based	_	
+70-3	8488-8496	Services	_	
+70-4	8496-8497	,	_	
+70-5	8498-8509	advertising	_	
+70-6	8509-8510	,	_	
+70-7	8511-8517	search	_	
+70-8	8518-8525	results	_	
+70-9	8525-8526	,	_	
+70-10	8527-8530	and	_	
+70-11	8531-8536	other	_	
+70-12	8537-8544	content	_	
+70-13	8545-8555	consistent	_	
+70-14	8556-8560	with	_	
+70-15	8561-8565	your	_	
+70-16	8566-8574	location	_	
+70-17	8575-8583	settings	_	
+70-18	8583-8584	.	_	
+70-19	8592-8594	12	_	
+70-20	8594-8595	.	_	
+
+#Text=Combine information we have about you with information we obtain from business partners or other companies, such as your activities on other sites and apps.\r
+#Text=      13.
+71-1	8596-8603	Combine	_	
+71-2	8604-8615	information	_	
+71-3	8616-8618	we	_	
+71-4	8619-8623	have	_	
+71-5	8624-8629	about	_	
+71-6	8630-8633	you	_	
+71-7	8634-8638	with	_	
+71-8	8639-8650	information	_	
+71-9	8651-8653	we	_	
+71-10	8654-8660	obtain	_	
+71-11	8661-8665	from	_	
+71-12	8666-8674	business	_	
+71-13	8675-8683	partners	_	
+71-14	8684-8686	or	_	
+71-15	8687-8692	other	_	
+71-16	8693-8702	companies	_	
+71-17	8702-8703	,	_	
+71-18	8704-8708	such	_	
+71-19	8709-8711	as	_	
+71-20	8712-8716	your	_	
+71-21	8717-8727	activities	_	
+71-22	8728-8730	on	_	
+71-23	8731-8736	other	_	
+71-24	8737-8742	sites	_	
+71-25	8743-8746	and	_	
+71-26	8747-8751	apps	_	
+71-27	8751-8752	.	_	
+71-28	8760-8762	13	_	
+71-29	8762-8763	.	_	
+
+#Text=Detect and defend against fraudulent, abusive, or unlawful activity.\r
+#Text=   2.
+72-1	8764-8770	Detect	_	
+72-2	8771-8774	and	_	
+72-3	8775-8781	defend	_	
+72-4	8782-8789	against	_	
+72-5	8790-8800	fraudulent	_	
+72-6	8800-8801	,	_	
+72-7	8802-8809	abusive	_	
+72-8	8809-8810	,	_	
+72-9	8811-8813	or	_	
+72-10	8814-8822	unlawful	_	
+72-11	8823-8831	activity	_	
+72-12	8831-8832	.	_	
+72-13	8837-8838	2	_	
+72-14	8838-8839	.	_	
+
+#Text=We provide you with controls to manage your experience with us.
+73-1	8840-8842	We	_	
+73-2	8843-8850	provide	_	
+73-3	8851-8854	you	_	
+73-4	8855-8859	with	_	
+73-5	8860-8868	controls	_	
+73-6	8869-8871	to	_	
+73-7	8872-8878	manage	_	
+73-8	8879-8883	your	_	
+73-9	8884-8894	experience	_	
+73-10	8895-8899	with	_	
+73-11	8900-8902	us	_	
+73-12	8902-8903	.	_	
+
+#Text=For example, you can review or edit your account information, manage your marketing preferences, or opt out of targeted ads.
+74-1	8904-8907	For	_	
+74-2	8908-8915	example	_	
+74-3	8915-8916	,	_	
+74-4	8917-8920	you	_	
+74-5	8921-8924	can	_	
+74-6	8925-8931	review	_	
+74-7	8932-8934	or	_	
+74-8	8935-8939	edit	_	
+74-9	8940-8944	your	_	
+74-10	8945-8952	account	_	
+74-11	8953-8964	information	_	
+74-12	8964-8965	,	_	
+74-13	8966-8972	manage	_	
+74-14	8973-8977	your	_	
+74-15	8978-8987	marketing	_	
+74-16	8988-8999	preferences	_	
+74-17	8999-9000	,	_	
+74-18	9001-9003	or	_	
+74-19	9004-9007	opt	_	
+74-20	9008-9011	out	_	
+74-21	9012-9014	of	_	
+74-22	9015-9023	targeted	_	
+74-23	9024-9027	ads	_	
+74-24	9027-9028	.	_	
+
+#Text=If you opt out, you will continue to see ads, but they may not be as relevant or useful to you. \r
+#Text=   3.
+75-1	9029-9031	If	_	
+75-2	9032-9035	you	_	
+75-3	9036-9039	opt	_	
+75-4	9040-9043	out	_	
+75-5	9043-9044	,	_	
+75-6	9045-9048	you	_	
+75-7	9049-9053	will	_	
+75-8	9054-9062	continue	_	
+75-9	9063-9065	to	_	
+75-10	9066-9069	see	_	
+75-11	9070-9073	ads	_	
+75-12	9073-9074	,	_	
+75-13	9075-9078	but	_	
+75-14	9079-9083	they	_	
+75-15	9084-9087	may	_	
+75-16	9088-9091	not	_	
+75-17	9092-9094	be	_	
+75-18	9095-9097	as	_	
+75-19	9098-9106	relevant	_	
+75-20	9107-9109	or	_	
+75-21	9110-9116	useful	_	
+75-22	9117-9119	to	_	
+75-23	9120-9123	you	_	
+75-24	9123-9124	.	_	
+75-25	9130-9131	3	_	
+75-26	9131-9132	.	_	
+
+#Text=If you are located in the European Union or European Economic Area or in the UK (EU/EEA/UK), please see Section 10 “Our Legal Bases for Processing Information” for more information that applies to your use of our Services.\r
+#Text=6.
+76-1	9133-9135	If	_	
+76-2	9136-9139	you	_	
+76-3	9140-9143	are	_	
+76-4	9144-9151	located	_	
+76-5	9152-9154	in	_	
+76-6	9155-9158	the	_	
+76-7	9159-9167	European	_	
+76-8	9168-9173	Union	_	
+76-9	9174-9176	or	_	
+76-10	9177-9185	European	_	
+76-11	9186-9194	Economic	_	
+76-12	9195-9199	Area	_	
+76-13	9200-9202	or	_	
+76-14	9203-9205	in	_	
+76-15	9206-9209	the	_	
+76-16	9210-9212	UK	_	
+76-17	9213-9214	(	_	
+76-18	9214-9216	EU	_	
+76-19	9216-9217	/	_	
+76-20	9217-9220	EEA	_	
+76-21	9220-9221	/	_	
+76-22	9221-9223	UK	_	
+76-23	9223-9224	)	_	
+76-24	9224-9225	,	_	
+76-25	9226-9232	please	_	
+76-26	9233-9236	see	_	
+76-27	9237-9244	Section	_	
+76-28	9245-9247	10	_	
+76-29	9248-9249	“	_	
+76-30	9249-9252	Our	_	
+76-31	9253-9258	Legal	_	
+76-32	9259-9264	Bases	_	
+76-33	9265-9268	for	_	
+76-34	9269-9279	Processing	_	
+76-35	9280-9291	Information	_	
+76-36	9291-9292	”	_	
+76-37	9293-9296	for	_	
+76-38	9297-9301	more	_	
+76-39	9302-9313	information	_	
+76-40	9314-9318	that	_	
+76-41	9319-9326	applies	_	
+76-42	9327-9329	to	_	
+76-43	9330-9334	your	_	
+76-44	9335-9338	use	_	
+76-45	9339-9341	of	_	
+76-46	9342-9345	our	_	
+76-47	9346-9354	Services	_	
+76-48	9354-9355	.	_	
+76-49	9357-9358	6	_	
+76-50	9358-9359	.	_	
+
+#Text=How We Share This Information\r
+#Text=   1.
+77-1	9360-9363	How	_	
+77-2	9364-9366	We	_	
+77-3	9367-9372	Share	_	
+77-4	9373-9377	This	_	
+77-5	9378-9389	Information	_	
+77-6	9394-9395	1	_	
+77-7	9395-9396	.	_	
+
+#Text=Yahoo shares information within its affiliated brands and companies.
+78-1	9397-9402	Yahoo	_	
+78-2	9403-9409	shares	_	
+78-3	9410-9421	information	_	
+78-4	9422-9428	within	_	
+78-5	9429-9432	its	_	
+78-6	9433-9443	affiliated	_	
+78-7	9444-9450	brands	_	
+78-8	9451-9454	and	_	
+78-9	9455-9464	companies	_	
+78-10	9464-9465	.	_	
+
+#Text=We also share information we have about you for the purposes described in this Privacy Policy, including to provide Services that you have requested (including when you connect with third-party apps and widgets).
+79-1	9466-9468	We	_	
+79-2	9469-9473	also	_	
+79-3	9474-9479	share	_	
+79-4	9480-9491	information	_	
+79-5	9492-9494	we	_	
+79-6	9495-9499	have	_	
+79-7	9500-9505	about	_	
+79-8	9506-9509	you	_	
+79-9	9510-9513	for	_	
+79-10	9514-9517	the	_	
+79-11	9518-9526	purposes	_	
+79-12	9527-9536	described	_	
+79-13	9537-9539	in	_	
+79-14	9540-9544	this	_	
+79-15	9545-9552	Privacy	_	
+79-16	9553-9559	Policy	_	
+79-17	9559-9560	,	_	
+79-18	9561-9570	including	_	
+79-19	9571-9573	to	_	
+79-20	9574-9581	provide	_	
+79-21	9582-9590	Services	_	
+79-22	9591-9595	that	_	
+79-23	9596-9599	you	_	
+79-24	9600-9604	have	_	
+79-25	9605-9614	requested	_	
+79-26	9615-9616	(	_	
+79-27	9616-9625	including	_	
+79-28	9626-9630	when	_	
+79-29	9631-9634	you	_	
+79-30	9635-9642	connect	_	
+79-31	9643-9647	with	_	
+79-32	9648-9659	third-party	_	
+79-33	9660-9664	apps	_	
+79-34	9665-9668	and	_	
+79-35	9669-9676	widgets	_	
+79-36	9676-9677	)	_	
+79-37	9677-9678	.	_	
+
+#Text=We do not sell, license or share information that individually identifies our customers with companies, organizations or individuals outside of Yahoo unless one of the following circumstances applies:\r
+#Text=      1.
+80-1	9679-9681	We	_	
+80-2	9682-9684	do	_	
+80-3	9685-9688	not	_	
+80-4	9689-9693	sell	_	
+80-5	9693-9694	,	_	
+80-6	9695-9702	license	_	
+80-7	9703-9705	or	_	
+80-8	9706-9711	share	_	
+80-9	9712-9723	information	_	
+80-10	9724-9728	that	_	
+80-11	9729-9741	individually	_	
+80-12	9742-9752	identifies	_	
+80-13	9753-9756	our	_	
+80-14	9757-9766	customers	_	
+80-15	9767-9771	with	_	
+80-16	9772-9781	companies	_	
+80-17	9781-9782	,	_	
+80-18	9783-9796	organizations	_	
+80-19	9797-9799	or	_	
+80-20	9800-9811	individuals	_	
+80-21	9812-9819	outside	_	
+80-22	9820-9822	of	_	
+80-23	9823-9828	Yahoo	_	
+80-24	9829-9835	unless	_	
+80-25	9836-9839	one	_	
+80-26	9840-9842	of	_	
+80-27	9843-9846	the	_	
+80-28	9847-9856	following	_	
+80-29	9857-9870	circumstances	_	
+80-30	9871-9878	applies	_	
+80-31	9878-9879	:	_	
+80-32	9887-9888	1	_	
+80-33	9888-9889	.	_	
+
+#Text=With Your Consent.
+81-1	9890-9894	With	_	
+81-2	9895-9899	Your	_	
+81-3	9900-9907	Consent	_	
+81-4	9907-9908	.	_	
+
+#Text=We will share information with companies, organizations or individuals outside of Yahoo when we have your consent. \r
+#Text=      2.
+82-1	9909-9911	We	_	
+82-2	9912-9916	will	_	
+82-3	9917-9922	share	_	
+82-4	9923-9934	information	_	
+82-5	9935-9939	with	_	
+82-6	9940-9949	companies	_	
+82-7	9949-9950	,	_	
+82-8	9951-9964	organizations	_	
+82-9	9965-9967	or	_	
+82-10	9968-9979	individuals	_	
+82-11	9980-9987	outside	_	
+82-12	9988-9990	of	_	
+82-13	9991-9996	Yahoo	_	
+82-14	9997-10001	when	_	
+82-15	10002-10004	we	_	
+82-16	10005-10009	have	_	
+82-17	10010-10014	your	_	
+82-18	10015-10022	consent	_	
+82-19	10022-10023	.	_	
+82-20	10032-10033	2	_	
+82-21	10033-10034	.	_	
+
+#Text=Within Yahoo.
+83-1	10035-10041	Within	_	
+83-2	10042-10047	Yahoo	_	
+83-3	10047-10048	.	_	
+
+#Text=Information may also be shared within Yahoo, including with other Yahoo Services and affiliates.
+84-1	10049-10060	Information	_	
+84-2	10061-10064	may	_	
+84-3	10065-10069	also	_	
+84-4	10070-10072	be	_	
+84-5	10073-10079	shared	_	
+84-6	10080-10086	within	_	
+84-7	10087-10092	Yahoo	_	
+84-8	10092-10093	,	_	
+84-9	10094-10103	including	_	
+84-10	10104-10108	with	_	
+84-11	10109-10114	other	_	
+84-12	10115-10120	Yahoo	_	
+84-13	10121-10129	Services	_	
+84-14	10130-10133	and	_	
+84-15	10134-10144	affiliates	_	
+84-16	10144-10145	.	_	
+
+#Text=Yahoo affiliates may use the information in a manner consistent with their privacy policies.\r
+#Text=      3.
+85-1	10146-10151	Yahoo	_	
+85-2	10152-10162	affiliates	_	
+85-3	10163-10166	may	_	
+85-4	10167-10170	use	_	
+85-5	10171-10174	the	_	
+85-6	10175-10186	information	_	
+85-7	10187-10189	in	_	
+85-8	10190-10191	a	_	
+85-9	10192-10198	manner	_	
+85-10	10199-10209	consistent	_	
+85-11	10210-10214	with	_	
+85-12	10215-10220	their	_	
+85-13	10221-10228	privacy	_	
+85-14	10229-10237	policies	_	
+85-15	10237-10238	.	_	
+85-16	10246-10247	3	_	
+85-17	10247-10248	.	_	
+
+#Text=With Partners.
+86-1	10249-10253	With	_	
+86-2	10254-10262	Partners	_	
+86-3	10262-10263	.	_	
+
+#Text=We may share your information with nonaffiliated companies who are:\r
+#Text=         * Trusted Partners.
+87-1	10264-10266	We	_	
+87-2	10267-10270	may	_	
+87-3	10271-10276	share	_	
+87-4	10277-10281	your	_	
+87-5	10282-10293	information	_	
+87-6	10294-10298	with	_	
+87-7	10299-10312	nonaffiliated	_	
+87-8	10313-10322	companies	_	
+87-9	10323-10326	who	_	
+87-10	10327-10330	are	_	
+87-11	10330-10331	:	_	
+87-12	10342-10343	*	_	
+87-13	10344-10351	Trusted	_	
+87-14	10352-10360	Partners	_	
+87-15	10360-10361	.	_	
+
+#Text=We provide user information to trusted partners who work on behalf of or with Yahoo based on our directions and in compliance with appropriate confidentiality measures.
+88-1	10362-10364	We	_	
+88-2	10365-10372	provide	_	
+88-3	10373-10377	user	_	
+88-4	10378-10389	information	_	
+88-5	10390-10392	to	_	
+88-6	10393-10400	trusted	_	
+88-7	10401-10409	partners	_	
+88-8	10410-10413	who	_	
+88-9	10414-10418	work	_	
+88-10	10419-10421	on	_	
+88-11	10422-10428	behalf	_	
+88-12	10429-10431	of	_	
+88-13	10432-10434	or	_	
+88-14	10435-10439	with	_	
+88-15	10440-10445	Yahoo	_	
+88-16	10446-10451	based	_	
+88-17	10452-10454	on	_	
+88-18	10455-10458	our	_	
+88-19	10459-10469	directions	_	
+88-20	10470-10473	and	_	
+88-21	10474-10476	in	_	
+88-22	10477-10487	compliance	_	
+88-23	10488-10492	with	_	
+88-24	10493-10504	appropriate	_	
+88-25	10505-10520	confidentiality	_	
+88-26	10521-10529	measures	_	
+88-27	10529-10530	.	_	
+
+#Text=Learn more
+89-1	10531-10536	Learn	_	
+89-2	10537-10541	more	_	
+
+#Text=.
+90-1	10541-10542	.	_	
+
+#Text=* Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).
+91-1	10554-10555	*	_	
+91-2	10556-10567	Advertising	_	
+91-3	10567-10568	,	_	
+91-4	10569-10578	Analytics	_	
+91-5	10579-10582	and	_	
+91-6	10583-10591	Business	_	
+91-7	10592-10600	Partners	_	
+91-8	10601-10602	(	_	
+91-9	10602-10609	Limited	_	
+91-10	10610-10612	to	_	
+91-11	10613-10627	Non-Personally	_	
+91-12	10628-10640	Identifiable	_	
+91-13	10641-10652	Information	_	
+91-14	10652-10653	)	_	
+91-15	10653-10654	.	_	
+
+#Text=We may share aggregated or pseudonymous information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or other companies.
+92-1	10655-10657	We	_	
+92-2	10658-10661	may	_	
+92-3	10662-10667	share	_	
+92-4	10668-10678	aggregated	_	
+92-5	10679-10681	or	_	
+92-6	10682-10694	pseudonymous	_	
+92-7	10695-10706	information	_	
+92-8	10707-10708	(	_	
+92-9	10708-10717	including	_	
+92-10	10718-10729	demographic	_	
+92-11	10730-10741	information	_	
+92-12	10741-10742	)	_	
+92-13	10743-10747	with	_	
+92-14	10748-10756	partners	_	
+92-15	10756-10757	,	_	
+92-16	10758-10762	such	_	
+92-17	10763-10765	as	_	
+92-18	10766-10776	publishers	_	
+92-19	10776-10777	,	_	
+92-20	10778-10789	advertisers	_	
+92-21	10789-10790	,	_	
+92-22	10791-10802	measurement	_	
+92-23	10803-10812	analytics	_	
+92-24	10812-10813	,	_	
+92-25	10814-10818	apps	_	
+92-26	10818-10819	,	_	
+92-27	10820-10822	or	_	
+92-28	10823-10828	other	_	
+92-29	10829-10838	companies	_	
+92-30	10838-10839	.	_	
+
+#Text=For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion.
+93-1	10840-10843	For	_	
+93-2	10844-10851	example	_	
+93-3	10851-10852	,	_	
+93-4	10853-10855	we	_	
+93-5	10856-10859	may	_	
+93-6	10860-10864	tell	_	
+93-7	10865-10867	an	_	
+93-8	10868-10878	advertiser	_	
+93-9	10879-10882	how	_	
+93-10	10883-10886	its	_	
+93-11	10887-10890	ads	_	
+93-12	10891-10900	performed	_	
+93-13	10901-10903	or	_	
+93-14	10904-10910	report	_	
+93-15	10911-10914	how	_	
+93-16	10915-10919	many	_	
+93-17	10920-10926	people	_	
+93-18	10927-10936	installed	_	
+93-19	10937-10939	an	_	
+93-20	10940-10943	app	_	
+93-21	10944-10949	after	_	
+93-22	10950-10956	seeing	_	
+93-23	10957-10958	a	_	
+93-24	10959-10968	promotion	_	
+93-25	10968-10969	.	_	
+
+#Text=We do not share personally identifiable information (like phone number or email address) with these partners, such as publishers, advertisers, ad agencies, or analytics partners
+94-1	10970-10972	We	_	
+94-2	10973-10975	do	_	
+94-3	10976-10979	not	_	
+94-4	10980-10985	share	_	
+94-5	10986-10996	personally	_	
+94-6	10997-11009	identifiable	_	
+94-7	11010-11021	information	_	
+94-8	11022-11023	(	_	
+94-9	11023-11027	like	_	
+94-10	11028-11033	phone	_	
+94-11	11034-11040	number	_	
+94-12	11041-11043	or	_	
+94-13	11044-11049	email	_	
+94-14	11050-11057	address	_	
+94-15	11057-11058	)	_	
+94-16	11059-11063	with	_	
+94-17	11064-11069	these	_	
+94-18	11070-11078	partners	_	
+94-19	11078-11079	,	_	
+94-20	11080-11084	such	_	
+94-21	11085-11087	as	_	
+94-22	11088-11098	publishers	_	
+94-23	11098-11099	,	_	
+94-24	11100-11111	advertisers	_	
+94-25	11111-11112	,	_	
+94-26	11113-11115	ad	_	
+94-27	11116-11124	agencies	_	
+94-28	11124-11125	,	_	
+94-29	11126-11128	or	_	
+94-30	11129-11138	analytics	_	
+94-31	11139-11147	partners	_	
+
+#Text=.
+95-1	11147-11148	.	_	
+
+#Text=* When you use third-party apps, websites or other products integrated with our Services, they may collect information about your activities subject to their own terms and privacy policies
+96-1	11159-11160	*	_	
+96-2	11161-11165	When	_	
+96-3	11166-11169	you	_	
+96-4	11170-11173	use	_	
+96-5	11174-11185	third-party	_	
+96-6	11186-11190	apps	_	
+96-7	11190-11191	,	_	
+96-8	11192-11200	websites	_	
+96-9	11201-11203	or	_	
+96-10	11204-11209	other	_	
+96-11	11210-11218	products	_	
+96-12	11219-11229	integrated	_	
+96-13	11230-11234	with	_	
+96-14	11235-11238	our	_	
+96-15	11239-11247	Services	_	
+96-16	11247-11248	,	_	
+96-17	11249-11253	they	_	
+96-18	11254-11257	may	_	
+96-19	11258-11265	collect	_	
+96-20	11266-11277	information	_	
+96-21	11278-11283	about	_	
+96-22	11284-11288	your	_	
+96-23	11289-11299	activities	_	
+96-24	11300-11307	subject	_	
+96-25	11308-11310	to	_	
+96-26	11311-11316	their	_	
+96-27	11317-11320	own	_	
+96-28	11321-11326	terms	_	
+96-29	11327-11330	and	_	
+96-30	11331-11338	privacy	_	
+96-31	11339-11347	policies	_	
+
+#Text=.
+97-1	11347-11348	.	_	
+
+#Text=* We allow other companies that show advertisements on our webpages or apps to collect information from your browsers or devices.
+98-1	11360-11361	*	_	
+98-2	11362-11364	We	_	
+98-3	11365-11370	allow	_	
+98-4	11371-11376	other	_	
+98-5	11377-11386	companies	_	
+98-6	11387-11391	that	_	
+98-7	11392-11396	show	_	
+98-8	11397-11411	advertisements	_	
+98-9	11412-11414	on	_	
+98-10	11415-11418	our	_	
+98-11	11419-11427	webpages	_	
+98-12	11428-11430	or	_	
+98-13	11431-11435	apps	_	
+98-14	11436-11438	to	_	
+98-15	11439-11446	collect	_	
+98-16	11447-11458	information	_	
+98-17	11459-11463	from	_	
+98-18	11464-11468	your	_	
+98-19	11469-11477	browsers	_	
+98-20	11478-11480	or	_	
+98-21	11481-11488	devices	_	
+98-22	11488-11489	.	_	
+
+#Text=Other companies' use of cookies and other data collection technologies are subject to their own privacy policies, not this one.
+99-1	11490-11495	Other	_	
+99-2	11496-11505	companies	_	
+99-3	11505-11506	'	_	
+99-4	11507-11510	use	_	
+99-5	11511-11513	of	_	
+99-6	11514-11521	cookies	_	
+99-7	11522-11525	and	_	
+99-8	11526-11531	other	_	
+99-9	11532-11536	data	_	
+99-10	11537-11547	collection	_	
+99-11	11548-11560	technologies	_	
+99-12	11561-11564	are	_	
+99-13	11565-11572	subject	_	
+99-14	11573-11575	to	_	
+99-15	11576-11581	their	_	
+99-16	11582-11585	own	_	
+99-17	11586-11593	privacy	_	
+99-18	11594-11602	policies	_	
+99-19	11602-11603	,	_	
+99-20	11604-11607	not	_	
+99-21	11608-11612	this	_	
+99-22	11613-11616	one	_	
+99-23	11616-11617	.	_	
+
+#Text=Like many companies, we may allow cookie matching with select partners.
+100-1	11618-11622	Like	_	
+100-2	11623-11627	many	_	
+100-3	11628-11637	companies	_	
+100-4	11637-11638	,	_	
+100-5	11639-11641	we	_	
+100-6	11642-11645	may	_	
+100-7	11646-11651	allow	_	
+100-8	11652-11658	cookie	_	
+100-9	11659-11667	matching	_	
+100-10	11668-11672	with	_	
+100-11	11673-11679	select	_	
+100-12	11680-11688	partners	_	
+100-13	11688-11689	.	_	
+
+#Text=But, these parties are not authorized to access Yahoo cookies.\r
+#Text=      4.
+101-1	11690-11693	But	_	
+101-2	11693-11694	,	_	
+101-3	11695-11700	these	_	
+101-4	11701-11708	parties	_	
+101-5	11709-11712	are	_	
+101-6	11713-11716	not	_	
+101-7	11717-11727	authorized	_	
+101-8	11728-11730	to	_	
+101-9	11731-11737	access	_	
+101-10	11738-11743	Yahoo	_	
+101-11	11744-11751	cookies	_	
+101-12	11751-11752	.	_	
+101-13	11760-11761	4	_	
+101-14	11761-11762	.	_	
+
+#Text=For Legal and Other Purposes.
+102-1	11763-11766	For	_	
+102-2	11767-11772	Legal	_	
+102-3	11773-11776	and	_	
+102-4	11777-11782	Other	_	
+102-5	11783-11791	Purposes	_	
+102-6	11791-11792	.	_	
+
+#Text=We may access, preserve and disclose information to investigate, prevent, or take action in connection with: (i) legal process and legal requests; (ii) enforcement of the Terms; (iii) claims that any content violates the rights of third-parties; (iv) requests for customer service; (v) technical issues; (vi) protecting the rights, property or personal safety of Yahoo, its users or the public; (vii) establishing or exercising our legal rights or defending against legal claims; or (viii) as otherwise required by law
+103-1	11793-11795	We	_	
+103-2	11796-11799	may	_	
+103-3	11800-11806	access	_	
+103-4	11806-11807	,	_	
+103-5	11808-11816	preserve	_	
+103-6	11817-11820	and	_	
+103-7	11821-11829	disclose	_	
+103-8	11830-11841	information	_	
+103-9	11842-11844	to	_	
+103-10	11845-11856	investigate	_	
+103-11	11856-11857	,	_	
+103-12	11858-11865	prevent	_	
+103-13	11865-11866	,	_	
+103-14	11867-11869	or	_	
+103-15	11870-11874	take	_	
+103-16	11875-11881	action	_	
+103-17	11882-11884	in	_	
+103-18	11885-11895	connection	_	
+103-19	11896-11900	with	_	
+103-20	11900-11901	:	_	
+103-21	11902-11903	(	_	
+103-22	11903-11904	i	_	
+103-23	11904-11905	)	_	
+103-24	11906-11911	legal	_	
+103-25	11912-11919	process	_	
+103-26	11920-11923	and	_	
+103-27	11924-11929	legal	_	
+103-28	11930-11938	requests	_	
+103-29	11938-11939	;	_	
+103-30	11940-11941	(	_	
+103-31	11941-11943	ii	_	
+103-32	11943-11944	)	_	
+103-33	11945-11956	enforcement	_	
+103-34	11957-11959	of	_	
+103-35	11960-11963	the	_	
+103-36	11964-11969	Terms	_	
+103-37	11969-11970	;	_	
+103-38	11971-11972	(	_	
+103-39	11972-11975	iii	_	
+103-40	11975-11976	)	_	
+103-41	11977-11983	claims	_	
+103-42	11984-11988	that	_	
+103-43	11989-11992	any	_	
+103-44	11993-12000	content	_	
+103-45	12001-12009	violates	_	
+103-46	12010-12013	the	_	
+103-47	12014-12020	rights	_	
+103-48	12021-12023	of	_	
+103-49	12024-12037	third-parties	_	
+103-50	12037-12038	;	_	
+103-51	12039-12040	(	_	
+103-52	12040-12042	iv	_	
+103-53	12042-12043	)	_	
+103-54	12044-12052	requests	_	
+103-55	12053-12056	for	_	
+103-56	12057-12065	customer	_	
+103-57	12066-12073	service	_	
+103-58	12073-12074	;	_	
+103-59	12075-12076	(	_	
+103-60	12076-12077	v	_	
+103-61	12077-12078	)	_	
+103-62	12079-12088	technical	_	
+103-63	12089-12095	issues	_	
+103-64	12095-12096	;	_	
+103-65	12097-12098	(	_	
+103-66	12098-12100	vi	_	
+103-67	12100-12101	)	_	
+103-68	12102-12112	protecting	_	
+103-69	12113-12116	the	_	
+103-70	12117-12123	rights	_	
+103-71	12123-12124	,	_	
+103-72	12125-12133	property	_	
+103-73	12134-12136	or	_	
+103-74	12137-12145	personal	_	
+103-75	12146-12152	safety	_	
+103-76	12153-12155	of	_	
+103-77	12156-12161	Yahoo	_	
+103-78	12161-12162	,	_	
+103-79	12163-12166	its	_	
+103-80	12167-12172	users	_	
+103-81	12173-12175	or	_	
+103-82	12176-12179	the	_	
+103-83	12180-12186	public	_	
+103-84	12186-12187	;	_	
+103-85	12188-12189	(	_	
+103-86	12189-12192	vii	_	
+103-87	12192-12193	)	_	
+103-88	12194-12206	establishing	_	
+103-89	12207-12209	or	_	
+103-90	12210-12220	exercising	_	
+103-91	12221-12224	our	_	
+103-92	12225-12230	legal	_	
+103-93	12231-12237	rights	_	
+103-94	12238-12240	or	_	
+103-95	12241-12250	defending	_	
+103-96	12251-12258	against	_	
+103-97	12259-12264	legal	_	
+103-98	12265-12271	claims	_	
+103-99	12271-12272	;	_	
+103-100	12273-12275	or	_	
+103-101	12276-12277	(	_	
+103-102	12277-12281	viii	_	
+103-103	12281-12282	)	_	
+103-104	12283-12285	as	_	
+103-105	12286-12295	otherwise	_	
+103-106	12296-12304	required	_	
+103-107	12305-12307	by	_	
+103-108	12308-12311	law	_	
+
+#Text=.
+104-1	12311-12312	.	_	
+
+#Text=* This may include responding to lawful governmental requests.
+105-1	12323-12324	*	_	
+105-2	12325-12329	This	_	
+105-3	12330-12333	may	_	
+105-4	12334-12341	include	_	
+105-5	12342-12352	responding	_	
+105-6	12353-12355	to	_	
+105-7	12356-12362	lawful	_	
+105-8	12363-12375	governmental	_	
+105-9	12376-12384	requests	_	
+105-10	12384-12385	.	_	
+
+#Text=Learn more about how we evaluate and respond to these requests. \r
+#Text=      5.
+106-1	12386-12391	Learn	_	
+106-2	12392-12396	more	_	
+106-3	12397-12402	about	_	
+106-4	12403-12406	how	_	
+106-5	12407-12409	we	_	
+106-6	12410-12418	evaluate	_	
+106-7	12419-12422	and	_	
+106-8	12423-12430	respond	_	
+106-9	12431-12433	to	_	
+106-10	12434-12439	these	_	
+106-11	12440-12448	requests	_	
+106-12	12448-12449	.	_	
+106-13	12458-12459	5	_	
+106-14	12459-12460	.	_	
+
+#Text=New Ownership.
+107-1	12461-12464	New	_	
+107-2	12465-12474	Ownership	_	
+107-3	12474-12475	.	_	
+
+#Text=If the ownership or control of all or part of Yahoo or a specific Services changes as a result of a merger, acquisition or sale of assets, we may transfer your information to the new owner. \r
+#Text=7.
+108-1	12476-12478	If	_	
+108-2	12479-12482	the	_	
+108-3	12483-12492	ownership	_	
+108-4	12493-12495	or	_	
+108-5	12496-12503	control	_	
+108-6	12504-12506	of	_	
+108-7	12507-12510	all	_	
+108-8	12511-12513	or	_	
+108-9	12514-12518	part	_	
+108-10	12519-12521	of	_	
+108-11	12522-12527	Yahoo	_	
+108-12	12528-12530	or	_	
+108-13	12531-12532	a	_	
+108-14	12533-12541	specific	_	
+108-15	12542-12550	Services	_	
+108-16	12551-12558	changes	_	
+108-17	12559-12561	as	_	
+108-18	12562-12563	a	_	
+108-19	12564-12570	result	_	
+108-20	12571-12573	of	_	
+108-21	12574-12575	a	_	
+108-22	12576-12582	merger	_	
+108-23	12582-12583	,	_	
+108-24	12584-12595	acquisition	_	
+108-25	12596-12598	or	_	
+108-26	12599-12603	sale	_	
+108-27	12604-12606	of	_	
+108-28	12607-12613	assets	_	
+108-29	12613-12614	,	_	
+108-30	12615-12617	we	_	
+108-31	12618-12621	may	_	
+108-32	12622-12630	transfer	_	
+108-33	12631-12635	your	_	
+108-34	12636-12647	information	_	
+108-35	12648-12650	to	_	
+108-36	12651-12654	the	_	
+108-37	12655-12658	new	_	
+108-38	12659-12664	owner	_	
+108-39	12664-12665	.	_	
+108-40	12668-12669	7	_	
+108-41	12669-12670	.	_	
+
+#Text=Details for Specific Products and Services\r
+#Text=   1.
+109-1	12671-12678	Details	_	
+109-2	12679-12682	for	_	
+109-3	12683-12691	Specific	_	
+109-4	12692-12700	Products	_	
+109-5	12701-12704	and	_	
+109-6	12705-12713	Services	_	
+109-7	12718-12719	1	_	
+109-8	12719-12720	.	_	
+
+#Text=Additional privacy practices for certain Yahoo Services are included here.\r
+#Text=8.
+110-1	12721-12731	Additional	_	
+110-2	12732-12739	privacy	_	
+110-3	12740-12749	practices	_	
+110-4	12750-12753	for	_	
+110-5	12754-12761	certain	_	
+110-6	12762-12767	Yahoo	_	
+110-7	12768-12776	Services	_	
+110-8	12777-12780	are	_	
+110-9	12781-12789	included	_	
+110-10	12790-12794	here	_	
+110-11	12794-12795	.	_	
+110-12	12797-12798	8	_	
+110-13	12798-12799	.	_	
+
+#Text=Information Security and Data Retention\r
+#Text=   1.
+111-1	12800-12811	Information	_	
+111-2	12812-12820	Security	_	
+111-3	12821-12824	and	_	
+111-4	12825-12829	Data	_	
+111-5	12830-12839	Retention	_	
+111-6	12844-12845	1	_	
+111-7	12845-12846	.	_	
+
+#Text=Yahoo has technical, administrative and physical safeguards in place to help protect against unauthorized access, use or disclosure of customer information we collect or store. \r
+#Text=   2.
+112-1	12847-12852	Yahoo	_	
+112-2	12853-12856	has	_	
+112-3	12857-12866	technical	_	
+112-4	12866-12867	,	_	
+112-5	12868-12882	administrative	_	
+112-6	12883-12886	and	_	
+112-7	12887-12895	physical	_	
+112-8	12896-12906	safeguards	_	
+112-9	12907-12909	in	_	
+112-10	12910-12915	place	_	
+112-11	12916-12918	to	_	
+112-12	12919-12923	help	_	
+112-13	12924-12931	protect	_	
+112-14	12932-12939	against	_	
+112-15	12940-12952	unauthorized	_	
+112-16	12953-12959	access	_	
+112-17	12959-12960	,	_	
+112-18	12961-12964	use	_	
+112-19	12965-12967	or	_	
+112-20	12968-12978	disclosure	_	
+112-21	12979-12981	of	_	
+112-22	12982-12990	customer	_	
+112-23	12991-13002	information	_	
+112-24	13003-13005	we	_	
+112-25	13006-13013	collect	_	
+112-26	13014-13016	or	_	
+112-27	13017-13022	store	_	
+112-28	13022-13023	.	_	
+112-29	13029-13030	2	_	
+112-30	13030-13031	.	_	
+
+#Text=Yahoo will retain your personal information for as long as necessary to provide the applicable Yahoo Services to you.
+113-1	13032-13037	Yahoo	_	
+113-2	13038-13042	will	_	
+113-3	13043-13049	retain	_	
+113-4	13050-13054	your	_	
+113-5	13055-13063	personal	_	
+113-6	13064-13075	information	_	
+113-7	13076-13079	for	_	
+113-8	13080-13082	as	_	
+113-9	13083-13087	long	_	
+113-10	13088-13090	as	_	
+113-11	13091-13100	necessary	_	
+113-12	13101-13103	to	_	
+113-13	13104-13111	provide	_	
+113-14	13112-13115	the	_	
+113-15	13116-13126	applicable	_	
+113-16	13127-13132	Yahoo	_	
+113-17	13133-13141	Services	_	
+113-18	13142-13144	to	_	
+113-19	13145-13148	you	_	
+113-20	13148-13149	.	_	
+
+#Text=In some cases, Yahoo has certain business or legal requirements that result in an obligation to retain your personal information for an extended period of time.
+114-1	13150-13152	In	_	
+114-2	13153-13157	some	_	
+114-3	13158-13163	cases	_	
+114-4	13163-13164	,	_	
+114-5	13165-13170	Yahoo	_	
+114-6	13171-13174	has	_	
+114-7	13175-13182	certain	_	
+114-8	13183-13191	business	_	
+114-9	13192-13194	or	_	
+114-10	13195-13200	legal	_	
+114-11	13201-13213	requirements	_	
+114-12	13214-13218	that	_	
+114-13	13219-13225	result	_	
+114-14	13226-13228	in	_	
+114-15	13229-13231	an	_	
+114-16	13232-13242	obligation	_	
+114-17	13243-13245	to	_	
+114-18	13246-13252	retain	_	
+114-19	13253-13257	your	_	
+114-20	13258-13266	personal	_	
+114-21	13267-13278	information	_	
+114-22	13279-13282	for	_	
+114-23	13283-13285	an	_	
+114-24	13286-13294	extended	_	
+114-25	13295-13301	period	_	
+114-26	13302-13304	of	_	
+114-27	13305-13309	time	_	
+114-28	13309-13310	.	_	
+
+#Text=These obligations may include financial record keeping, ensuring continuity of our products or services, security, fraud, and abuse prevention, or compliance with our legal obligations.
+115-1	13311-13316	These	_	
+115-2	13317-13328	obligations	_	
+115-3	13329-13332	may	_	
+115-4	13333-13340	include	_	
+115-5	13341-13350	financial	_	
+115-6	13351-13357	record	_	
+115-7	13358-13365	keeping	_	
+115-8	13365-13366	,	_	
+115-9	13367-13375	ensuring	_	
+115-10	13376-13386	continuity	_	
+115-11	13387-13389	of	_	
+115-12	13390-13393	our	_	
+115-13	13394-13402	products	_	
+115-14	13403-13405	or	_	
+115-15	13406-13414	services	_	
+115-16	13414-13415	,	_	
+115-17	13416-13424	security	_	
+115-18	13424-13425	,	_	
+115-19	13426-13431	fraud	_	
+115-20	13431-13432	,	_	
+115-21	13433-13436	and	_	
+115-22	13437-13442	abuse	_	
+115-23	13443-13453	prevention	_	
+115-24	13453-13454	,	_	
+115-25	13455-13457	or	_	
+115-26	13458-13468	compliance	_	
+115-27	13469-13473	with	_	
+115-28	13474-13477	our	_	
+115-29	13478-13483	legal	_	
+115-30	13484-13495	obligations	_	
+115-31	13495-13496	.	_	
+
+#Text=In some limited cases, we may keep data for longer than needed for the purposes set out in the Yahoo Privacy Dashboard, such as: (i) replicating or backing up certain data to “offline” storage for disaster recovery purposes; (ii) truncating, redacting or summarizing raw data, log files and database records into statistical aggregate data or probabilistic data structures to understand long term trends; (iii) maintaining de-identified data for varying periods for research, reporting and product testing or development (in these cases, unique identifiers and linkages to existing data about you are broken or removed so that this data is no longer associated with you, your browser, or device); or (iv) keeping and using certain data to comply with our legal obligations, resolve disputes or enforce our agreements (for example, we might keep data associated with an account subject to litigation or a request from law enforcement).
+116-1	13497-13499	In	_	
+116-2	13500-13504	some	_	
+116-3	13505-13512	limited	_	
+116-4	13513-13518	cases	_	
+116-5	13518-13519	,	_	
+116-6	13520-13522	we	_	
+116-7	13523-13526	may	_	
+116-8	13527-13531	keep	_	
+116-9	13532-13536	data	_	
+116-10	13537-13540	for	_	
+116-11	13541-13547	longer	_	
+116-12	13548-13552	than	_	
+116-13	13553-13559	needed	_	
+116-14	13560-13563	for	_	
+116-15	13564-13567	the	_	
+116-16	13568-13576	purposes	_	
+116-17	13577-13580	set	_	
+116-18	13581-13584	out	_	
+116-19	13585-13587	in	_	
+116-20	13588-13591	the	_	
+116-21	13592-13597	Yahoo	_	
+116-22	13598-13605	Privacy	_	
+116-23	13606-13615	Dashboard	_	
+116-24	13615-13616	,	_	
+116-25	13617-13621	such	_	
+116-26	13622-13624	as	_	
+116-27	13624-13625	:	_	
+116-28	13626-13627	(	_	
+116-29	13627-13628	i	_	
+116-30	13628-13629	)	_	
+116-31	13630-13641	replicating	_	
+116-32	13642-13644	or	_	
+116-33	13645-13652	backing	_	
+116-34	13653-13655	up	_	
+116-35	13656-13663	certain	_	
+116-36	13664-13668	data	_	
+116-37	13669-13671	to	_	
+116-38	13672-13673	“	_	
+116-39	13673-13680	offline	_	
+116-40	13680-13681	”	_	
+116-41	13682-13689	storage	_	
+116-42	13690-13693	for	_	
+116-43	13694-13702	disaster	_	
+116-44	13703-13711	recovery	_	
+116-45	13712-13720	purposes	_	
+116-46	13720-13721	;	_	
+116-47	13722-13723	(	_	
+116-48	13723-13725	ii	_	
+116-49	13725-13726	)	_	
+116-50	13727-13737	truncating	_	
+116-51	13737-13738	,	_	
+116-52	13739-13748	redacting	_	
+116-53	13749-13751	or	_	
+116-54	13752-13763	summarizing	_	
+116-55	13764-13767	raw	_	
+116-56	13768-13772	data	_	
+116-57	13772-13773	,	_	
+116-58	13774-13777	log	_	
+116-59	13778-13783	files	_	
+116-60	13784-13787	and	_	
+116-61	13788-13796	database	_	
+116-62	13797-13804	records	_	
+116-63	13805-13809	into	_	
+116-64	13810-13821	statistical	_	
+116-65	13822-13831	aggregate	_	
+116-66	13832-13836	data	_	
+116-67	13837-13839	or	_	
+116-68	13840-13853	probabilistic	_	
+116-69	13854-13858	data	_	
+116-70	13859-13869	structures	_	
+116-71	13870-13872	to	_	
+116-72	13873-13883	understand	_	
+116-73	13884-13888	long	_	
+116-74	13889-13893	term	_	
+116-75	13894-13900	trends	_	
+116-76	13900-13901	;	_	
+116-77	13902-13903	(	_	
+116-78	13903-13906	iii	_	
+116-79	13906-13907	)	_	
+116-80	13908-13919	maintaining	_	
+116-81	13920-13933	de-identified	_	
+116-82	13934-13938	data	_	
+116-83	13939-13942	for	_	
+116-84	13943-13950	varying	_	
+116-85	13951-13958	periods	_	
+116-86	13959-13962	for	_	
+116-87	13963-13971	research	_	
+116-88	13971-13972	,	_	
+116-89	13973-13982	reporting	_	
+116-90	13983-13986	and	_	
+116-91	13987-13994	product	_	
+116-92	13995-14002	testing	_	
+116-93	14003-14005	or	_	
+116-94	14006-14017	development	_	
+116-95	14018-14019	(	_	
+116-96	14019-14021	in	_	
+116-97	14022-14027	these	_	
+116-98	14028-14033	cases	_	
+116-99	14033-14034	,	_	
+116-100	14035-14041	unique	_	
+116-101	14042-14053	identifiers	_	
+116-102	14054-14057	and	_	
+116-103	14058-14066	linkages	_	
+116-104	14067-14069	to	_	
+116-105	14070-14078	existing	_	
+116-106	14079-14083	data	_	
+116-107	14084-14089	about	_	
+116-108	14090-14093	you	_	
+116-109	14094-14097	are	_	
+116-110	14098-14104	broken	_	
+116-111	14105-14107	or	_	
+116-112	14108-14115	removed	_	
+116-113	14116-14118	so	_	
+116-114	14119-14123	that	_	
+116-115	14124-14128	this	_	
+116-116	14129-14133	data	_	
+116-117	14134-14136	is	_	
+116-118	14137-14139	no	_	
+116-119	14140-14146	longer	_	
+116-120	14147-14157	associated	_	
+116-121	14158-14162	with	_	
+116-122	14163-14166	you	_	
+116-123	14166-14167	,	_	
+116-124	14168-14172	your	_	
+116-125	14173-14180	browser	_	
+116-126	14180-14181	,	_	
+116-127	14182-14184	or	_	
+116-128	14185-14191	device	_	
+116-129	14191-14192	)	_	
+116-130	14192-14193	;	_	
+116-131	14194-14196	or	_	
+116-132	14197-14198	(	_	
+116-133	14198-14200	iv	_	
+116-134	14200-14201	)	_	
+116-135	14202-14209	keeping	_	
+116-136	14210-14213	and	_	
+116-137	14214-14219	using	_	
+116-138	14220-14227	certain	_	
+116-139	14228-14232	data	_	
+116-140	14233-14235	to	_	
+116-141	14236-14242	comply	_	
+116-142	14243-14247	with	_	
+116-143	14248-14251	our	_	
+116-144	14252-14257	legal	_	
+116-145	14258-14269	obligations	_	
+116-146	14269-14270	,	_	
+116-147	14271-14278	resolve	_	
+116-148	14279-14287	disputes	_	
+116-149	14288-14290	or	_	
+116-150	14291-14298	enforce	_	
+116-151	14299-14302	our	_	
+116-152	14303-14313	agreements	_	
+116-153	14314-14315	(	_	
+116-154	14315-14318	for	_	
+116-155	14319-14326	example	_	
+116-156	14326-14327	,	_	
+116-157	14328-14330	we	_	
+116-158	14331-14336	might	_	
+116-159	14337-14341	keep	_	
+116-160	14342-14346	data	_	
+116-161	14347-14357	associated	_	
+116-162	14358-14362	with	_	
+116-163	14363-14365	an	_	
+116-164	14366-14373	account	_	
+116-165	14374-14381	subject	_	
+116-166	14382-14384	to	_	
+116-167	14385-14395	litigation	_	
+116-168	14396-14398	or	_	
+116-169	14399-14400	a	_	
+116-170	14401-14408	request	_	
+116-171	14409-14413	from	_	
+116-172	14414-14417	law	_	
+116-173	14418-14429	enforcement	_	
+116-174	14429-14430	)	_	
+116-175	14430-14431	.	_	
+
+#Text=For specific information about your personal information or how your personal information is processed by a particular Yahoo product or service you may interact with, please log into the Yahoo Privacy Dashboard.\r
+#Text=9.
+117-1	14432-14435	For	_	
+117-2	14436-14444	specific	_	
+117-3	14445-14456	information	_	
+117-4	14457-14462	about	_	
+117-5	14463-14467	your	_	
+117-6	14468-14476	personal	_	
+117-7	14477-14488	information	_	
+117-8	14489-14491	or	_	
+117-9	14492-14495	how	_	
+117-10	14496-14500	your	_	
+117-11	14501-14509	personal	_	
+117-12	14510-14521	information	_	
+117-13	14522-14524	is	_	
+117-14	14525-14534	processed	_	
+117-15	14535-14537	by	_	
+117-16	14538-14539	a	_	
+117-17	14540-14550	particular	_	
+117-18	14551-14556	Yahoo	_	
+117-19	14557-14564	product	_	
+117-20	14565-14567	or	_	
+117-21	14568-14575	service	_	
+117-22	14576-14579	you	_	
+117-23	14580-14583	may	_	
+117-24	14584-14592	interact	_	
+117-25	14593-14597	with	_	
+117-26	14597-14598	,	_	
+117-27	14599-14605	please	_	
+117-28	14606-14609	log	_	
+117-29	14610-14614	into	_	
+117-30	14615-14618	the	_	
+117-31	14619-14624	Yahoo	_	
+117-32	14625-14632	Privacy	_	
+117-33	14633-14642	Dashboard	_	
+117-34	14642-14643	.	_	
+117-35	14645-14646	9	_	
+117-36	14646-14647	.	_	
+
+#Text=Protecting Children’s Privacy\r
+#Text=   1.
+118-1	14648-14658	Protecting	_	
+118-2	14659-14667	Children	_	
+118-3	14667-14668	’	_	
+118-4	14668-14669	s	_	
+118-5	14670-14677	Privacy	_	
+118-6	14682-14683	1	_	
+118-7	14683-14684	.	_	
+
+#Text=Our Services are for a general audience.
+119-1	14685-14688	Our	_	
+119-2	14689-14697	Services	_	
+119-3	14698-14701	are	_	
+119-4	14702-14705	for	_	
+119-5	14706-14707	a	_	
+119-6	14708-14715	general	_	
+119-7	14716-14724	audience	_	
+119-8	14724-14725	.	_	
+
+#Text=We do not knowingly collect, use, or share information that could reasonably be used to identify children under age 13 without prior parental consent or consistent with applicable law.
+120-1	14726-14728	We	_	
+120-2	14729-14731	do	_	
+120-3	14732-14735	not	_	
+120-4	14736-14745	knowingly	_	
+120-5	14746-14753	collect	_	
+120-6	14753-14754	,	_	
+120-7	14755-14758	use	_	
+120-8	14758-14759	,	_	
+120-9	14760-14762	or	_	
+120-10	14763-14768	share	_	
+120-11	14769-14780	information	_	
+120-12	14781-14785	that	_	
+120-13	14786-14791	could	_	
+120-14	14792-14802	reasonably	_	
+120-15	14803-14805	be	_	
+120-16	14806-14810	used	_	
+120-17	14811-14813	to	_	
+120-18	14814-14822	identify	_	
+120-19	14823-14831	children	_	
+120-20	14832-14837	under	_	
+120-21	14838-14841	age	_	
+120-22	14842-14844	13	_	
+120-23	14845-14852	without	_	
+120-24	14853-14858	prior	_	
+120-25	14859-14867	parental	_	
+120-26	14868-14875	consent	_	
+120-27	14876-14878	or	_	
+120-28	14879-14889	consistent	_	
+120-29	14890-14894	with	_	
+120-30	14895-14905	applicable	_	
+120-31	14906-14909	law	_	
+120-32	14909-14910	.	_	
+
+#Text=With parental permission, a child under age 13 might have a Yahoo Family Account.
+121-1	14911-14915	With	_	
+121-2	14916-14924	parental	_	
+121-3	14925-14935	permission	_	
+121-4	14935-14936	,	_	
+121-5	14937-14938	a	_	
+121-6	14939-14944	child	_	
+121-7	14945-14950	under	_	
+121-8	14951-14954	age	_	
+121-9	14955-14957	13	_	
+121-10	14958-14963	might	_	
+121-11	14964-14968	have	_	
+121-12	14969-14970	a	_	
+121-13	14971-14976	Yahoo	_	
+121-14	14977-14983	Family	_	
+121-15	14984-14991	Account	_	
+121-16	14991-14992	.	_	
+
+#Text=Visit Children's Privacy & Family Accounts to learn more about children’s privacy at Yahoo.\r
+#Text=10.
+122-1	14993-14998	Visit	_	
+122-2	14999-15009	Children's	_	
+122-3	15010-15017	Privacy	_	
+122-4	15018-15019	&	_	
+122-5	15020-15026	Family	_	
+122-6	15027-15035	Accounts	_	
+122-7	15036-15038	to	_	
+122-8	15039-15044	learn	_	
+122-9	15045-15049	more	_	
+122-10	15050-15055	about	_	
+122-11	15056-15064	children	_	
+122-12	15064-15065	’	_	
+122-13	15065-15066	s	_	
+122-14	15067-15074	privacy	_	
+122-15	15075-15077	at	_	
+122-16	15078-15083	Yahoo	_	
+122-17	15083-15084	.	_	
+122-18	15086-15088	10	_	
+122-19	15088-15089	.	_	
+
+#Text=Our Legal Bases for Processing Information.
+123-1	15090-15093	Our	_	
+123-2	15094-15099	Legal	_	
+123-3	15100-15105	Bases	_	
+123-4	15106-15109	for	_	
+123-5	15110-15120	Processing	_	
+123-6	15121-15132	Information	_	
+123-7	15132-15133	.	_	
+
+#Text=We mainly rely on three separate bases to lawfully process your information.
+124-1	15134-15136	We	_	
+124-2	15137-15143	mainly	_	
+124-3	15144-15148	rely	_	
+124-4	15149-15151	on	_	
+124-5	15152-15157	three	_	
+124-6	15158-15166	separate	_	
+124-7	15167-15172	bases	_	
+124-8	15173-15175	to	_	
+124-9	15176-15184	lawfully	_	
+124-10	15185-15192	process	_	
+124-11	15193-15197	your	_	
+124-12	15198-15209	information	_	
+124-13	15209-15210	.	_	
+
+#Text=First, we need to process your information in certain ways to provide our services to you, in accordance with our Terms of Service.
+125-1	15211-15216	First	_	
+125-2	15216-15217	,	_	
+125-3	15218-15220	we	_	
+125-4	15221-15225	need	_	
+125-5	15226-15228	to	_	
+125-6	15229-15236	process	_	
+125-7	15237-15241	your	_	
+125-8	15242-15253	information	_	
+125-9	15254-15256	in	_	
+125-10	15257-15264	certain	_	
+125-11	15265-15269	ways	_	
+125-12	15270-15272	to	_	
+125-13	15273-15280	provide	_	
+125-14	15281-15284	our	_	
+125-15	15285-15293	services	_	
+125-16	15294-15296	to	_	
+125-17	15297-15300	you	_	
+125-18	15300-15301	,	_	
+125-19	15302-15304	in	_	
+125-20	15305-15315	accordance	_	
+125-21	15316-15320	with	_	
+125-22	15321-15324	our	_	
+125-23	15325-15330	Terms	_	
+125-24	15331-15333	of	_	
+125-25	15334-15341	Service	_	
+125-26	15341-15342	.	_	
+
+#Text=This processing is necessary to perform the contract between you and us.
+126-1	15343-15347	This	_	
+126-2	15348-15358	processing	_	
+126-3	15359-15361	is	_	
+126-4	15362-15371	necessary	_	
+126-5	15372-15374	to	_	
+126-6	15375-15382	perform	_	
+126-7	15383-15386	the	_	
+126-8	15387-15395	contract	_	
+126-9	15396-15403	between	_	
+126-10	15404-15407	you	_	
+126-11	15408-15411	and	_	
+126-12	15412-15414	us	_	
+126-13	15414-15415	.	_	
+
+#Text=Second, where you have given us consent to use your information in certain ways, we will rely on your consent.
+127-1	15416-15422	Second	_	
+127-2	15422-15423	,	_	
+127-3	15424-15429	where	_	
+127-4	15430-15433	you	_	
+127-5	15434-15438	have	_	
+127-6	15439-15444	given	_	
+127-7	15445-15447	us	_	
+127-8	15448-15455	consent	_	
+127-9	15456-15458	to	_	
+127-10	15459-15462	use	_	
+127-11	15463-15467	your	_	
+127-12	15468-15479	information	_	
+127-13	15480-15482	in	_	
+127-14	15483-15490	certain	_	
+127-15	15491-15495	ways	_	
+127-16	15495-15496	,	_	
+127-17	15497-15499	we	_	
+127-18	15500-15504	will	_	
+127-19	15505-15509	rely	_	
+127-20	15510-15512	on	_	
+127-21	15513-15517	your	_	
+127-22	15518-15525	consent	_	
+127-23	15525-15526	.	_	
+
+#Text=Third, in certain cases, we may process your information where necessary for the purposes of our legitimate interests or the legitimate interests of third parties, where those legitimate interests are not overridden by your rights or interests.
+128-1	15527-15532	Third	_	
+128-2	15532-15533	,	_	
+128-3	15534-15536	in	_	
+128-4	15537-15544	certain	_	
+128-5	15545-15550	cases	_	
+128-6	15550-15551	,	_	
+128-7	15552-15554	we	_	
+128-8	15555-15558	may	_	
+128-9	15559-15566	process	_	
+128-10	15567-15571	your	_	
+128-11	15572-15583	information	_	
+128-12	15584-15589	where	_	
+128-13	15590-15599	necessary	_	
+128-14	15600-15603	for	_	
+128-15	15604-15607	the	_	
+128-16	15608-15616	purposes	_	
+128-17	15617-15619	of	_	
+128-18	15620-15623	our	_	
+128-19	15624-15634	legitimate	_	
+128-20	15635-15644	interests	_	
+128-21	15645-15647	or	_	
+128-22	15648-15651	the	_	
+128-23	15652-15662	legitimate	_	
+128-24	15663-15672	interests	_	
+128-25	15673-15675	of	_	
+128-26	15676-15681	third	_	
+128-27	15682-15689	parties	_	
+128-28	15689-15690	,	_	
+128-29	15691-15696	where	_	
+128-30	15697-15702	those	_	
+128-31	15703-15713	legitimate	_	
+128-32	15714-15723	interests	_	
+128-33	15724-15727	are	_	
+128-34	15728-15731	not	_	
+128-35	15732-15742	overridden	_	
+128-36	15743-15745	by	_	
+128-37	15746-15750	your	_	
+128-38	15751-15757	rights	_	
+128-39	15758-15760	or	_	
+128-40	15761-15770	interests	_	
+128-41	15770-15771	.	_	
+
+#Text=Occasionally, Yahoo may rely on other legal bases to process your information, such as to protect a user’s vital interests (such as where there is a risk of imminent harm) or to comply with a legal obligation.
+129-1	15772-15784	Occasionally	_	
+129-2	15784-15785	,	_	
+129-3	15786-15791	Yahoo	_	
+129-4	15792-15795	may	_	
+129-5	15796-15800	rely	_	
+129-6	15801-15803	on	_	
+129-7	15804-15809	other	_	
+129-8	15810-15815	legal	_	
+129-9	15816-15821	bases	_	
+129-10	15822-15824	to	_	
+129-11	15825-15832	process	_	
+129-12	15833-15837	your	_	
+129-13	15838-15849	information	_	
+129-14	15849-15850	,	_	
+129-15	15851-15855	such	_	
+129-16	15856-15858	as	_	
+129-17	15859-15861	to	_	
+129-18	15862-15869	protect	_	
+129-19	15870-15871	a	_	
+129-20	15872-15876	user	_	
+129-21	15876-15877	’	_	
+129-22	15877-15878	s	_	
+129-23	15879-15884	vital	_	
+129-24	15885-15894	interests	_	
+129-25	15895-15896	(	_	
+129-26	15896-15900	such	_	
+129-27	15901-15903	as	_	
+129-28	15904-15909	where	_	
+129-29	15910-15915	there	_	
+129-30	15916-15918	is	_	
+129-31	15919-15920	a	_	
+129-32	15921-15925	risk	_	
+129-33	15926-15928	of	_	
+129-34	15929-15937	imminent	_	
+129-35	15938-15942	harm	_	
+129-36	15942-15943	)	_	
+129-37	15944-15946	or	_	
+129-38	15947-15949	to	_	
+129-39	15950-15956	comply	_	
+129-40	15957-15961	with	_	
+129-41	15962-15963	a	_	
+129-42	15964-15969	legal	_	
+129-43	15970-15980	obligation	_	
+129-44	15980-15981	.	_	
+
+#Text=Please see our Legal bases page for more information.\r
+#Text=11.
+130-1	15982-15988	Please	_	
+130-2	15989-15992	see	_	
+130-3	15993-15996	our	_	
+130-4	15997-16002	Legal	_	
+130-5	16003-16008	bases	_	
+130-6	16009-16013	page	_	
+130-7	16014-16017	for	_	
+130-8	16018-16022	more	_	
+130-9	16023-16034	information	_	
+130-10	16034-16035	.	_	
+130-11	16037-16039	11	_	
+130-12	16039-16040	.	_	
+
+#Text=Data Processing and Transfers\r
+#Text=   1.
+131-1	16041-16045	Data	_	
+131-2	16046-16056	Processing	_	
+131-3	16057-16060	and	_	
+131-4	16061-16070	Transfers	_	
+131-5	16075-16076	1	_	
+131-6	16076-16077	.	_	
+
+#Text=When you use or interact with any of our Services, you consent to the data processing, sharing, transferring and uses of your information as outlined in this Privacy Policy.
+132-1	16078-16082	When	_	
+132-2	16083-16086	you	_	
+132-3	16087-16090	use	_	
+132-4	16091-16093	or	_	
+132-5	16094-16102	interact	_	
+132-6	16103-16107	with	_	
+132-7	16108-16111	any	_	
+132-8	16112-16114	of	_	
+132-9	16115-16118	our	_	
+132-10	16119-16127	Services	_	
+132-11	16127-16128	,	_	
+132-12	16129-16132	you	_	
+132-13	16133-16140	consent	_	
+132-14	16141-16143	to	_	
+132-15	16144-16147	the	_	
+132-16	16148-16152	data	_	
+132-17	16153-16163	processing	_	
+132-18	16163-16164	,	_	
+132-19	16165-16172	sharing	_	
+132-20	16172-16173	,	_	
+132-21	16174-16186	transferring	_	
+132-22	16187-16190	and	_	
+132-23	16191-16195	uses	_	
+132-24	16196-16198	of	_	
+132-25	16199-16203	your	_	
+132-26	16204-16215	information	_	
+132-27	16216-16218	as	_	
+132-28	16219-16227	outlined	_	
+132-29	16228-16230	in	_	
+132-30	16231-16235	this	_	
+132-31	16236-16243	Privacy	_	
+132-32	16244-16250	Policy	_	
+132-33	16250-16251	.	_	
+
+#Text=Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.
+133-1	16252-16262	Regardless	_	
+133-2	16263-16265	of	_	
+133-3	16266-16269	the	_	
+133-4	16270-16277	country	_	
+133-5	16278-16283	where	_	
+133-6	16284-16287	you	_	
+133-7	16288-16294	reside	_	
+133-8	16294-16295	,	_	
+133-9	16296-16299	you	_	
+133-10	16300-16309	authorize	_	
+133-11	16310-16312	us	_	
+133-12	16313-16315	to	_	
+133-13	16316-16324	transfer	_	
+133-14	16324-16325	,	_	
+133-15	16326-16333	process	_	
+133-16	16333-16334	,	_	
+133-17	16335-16340	store	_	
+133-18	16341-16344	and	_	
+133-19	16345-16348	use	_	
+133-20	16349-16353	your	_	
+133-21	16354-16365	information	_	
+133-22	16366-16368	in	_	
+133-23	16369-16378	countries	_	
+133-24	16379-16384	other	_	
+133-25	16385-16389	than	_	
+133-26	16390-16394	your	_	
+133-27	16395-16398	own	_	
+133-28	16399-16401	in	_	
+133-29	16402-16412	accordance	_	
+133-30	16413-16417	with	_	
+133-31	16418-16422	this	_	
+133-32	16423-16430	Privacy	_	
+133-33	16431-16437	Policy	_	
+133-34	16438-16441	and	_	
+133-35	16442-16444	to	_	
+133-36	16445-16452	provide	_	
+133-37	16453-16456	you	_	
+133-38	16457-16461	with	_	
+133-39	16462-16470	Services	_	
+133-40	16470-16471	.	_	
+
+#Text=Some of these countries may not have the same data protection safeguards as the country where you reside. \r
+#Text=   2.
+134-1	16472-16476	Some	_	
+134-2	16477-16479	of	_	
+134-3	16480-16485	these	_	
+134-4	16486-16495	countries	_	
+134-5	16496-16499	may	_	
+134-6	16500-16503	not	_	
+134-7	16504-16508	have	_	
+134-8	16509-16512	the	_	
+134-9	16513-16517	same	_	
+134-10	16518-16522	data	_	
+134-11	16523-16533	protection	_	
+134-12	16534-16544	safeguards	_	
+134-13	16545-16547	as	_	
+134-14	16548-16551	the	_	
+134-15	16552-16559	country	_	
+134-16	16560-16565	where	_	
+134-17	16566-16569	you	_	
+134-18	16570-16576	reside	_	
+134-19	16576-16577	.	_	
+134-20	16583-16584	2	_	
+134-21	16584-16585	.	_	
+
+#Text=Yahoo processes information related to individuals in the EU/EEA/UK and transfers that information from the EU/EEA/UK through various compliance mechanisms, including data processing agreements based on the European Commission’sA Standard Contractual Clauses.
+135-1	16586-16591	Yahoo	_	
+135-2	16592-16601	processes	_	
+135-3	16602-16613	information	_	
+135-4	16614-16621	related	_	
+135-5	16622-16624	to	_	
+135-6	16625-16636	individuals	_	
+135-7	16637-16639	in	_	
+135-8	16640-16643	the	_	
+135-9	16644-16646	EU	_	
+135-10	16646-16647	/	_	
+135-11	16647-16650	EEA	_	
+135-12	16650-16651	/	_	
+135-13	16651-16653	UK	_	
+135-14	16654-16657	and	_	
+135-15	16658-16667	transfers	_	
+135-16	16668-16672	that	_	
+135-17	16673-16684	information	_	
+135-18	16685-16689	from	_	
+135-19	16690-16693	the	_	
+135-20	16694-16696	EU	_	
+135-21	16696-16697	/	_	
+135-22	16697-16700	EEA	_	
+135-23	16700-16701	/	_	
+135-24	16701-16703	UK	_	
+135-25	16704-16711	through	_	
+135-26	16712-16719	various	_	
+135-27	16720-16730	compliance	_	
+135-28	16731-16741	mechanisms	_	
+135-29	16741-16742	,	_	
+135-30	16743-16752	including	_	
+135-31	16753-16757	data	_	
+135-32	16758-16768	processing	_	
+135-33	16769-16779	agreements	_	
+135-34	16780-16785	based	_	
+135-35	16786-16788	on	_	
+135-36	16789-16792	the	_	
+135-37	16793-16801	European	_	
+135-38	16802-16812	Commission	_	
+135-39	16812-16813	’	_	
+135-40	16813-16815	sA	_	
+135-41	16816-16824	Standard	_	
+135-42	16825-16836	Contractual	_	
+135-43	16837-16844	Clauses	_	
+135-44	16844-16845	.	_	
+
+#Text=By using our Services, you consent to us transferring information about you to these countries.
+136-1	16846-16848	By	_	
+136-2	16849-16854	using	_	
+136-3	16855-16858	our	_	
+136-4	16859-16867	Services	_	
+136-5	16867-16868	,	_	
+136-6	16869-16872	you	_	
+136-7	16873-16880	consent	_	
+136-8	16881-16883	to	_	
+136-9	16884-16886	us	_	
+136-10	16887-16899	transferring	_	
+136-11	16900-16911	information	_	
+136-12	16912-16917	about	_	
+136-13	16918-16921	you	_	
+136-14	16922-16924	to	_	
+136-15	16925-16930	these	_	
+136-16	16931-16940	countries	_	
+136-17	16940-16941	.	_	
+
+#Text=For more information, please visit our Data Transfer page.\r
+#Text=   3.
+137-1	16942-16945	For	_	
+137-2	16946-16950	more	_	
+137-3	16951-16962	information	_	
+137-4	16962-16963	,	_	
+137-5	16964-16970	please	_	
+137-6	16971-16976	visit	_	
+137-7	16977-16980	our	_	
+137-8	16981-16985	Data	_	
+137-9	16986-16994	Transfer	_	
+137-10	16995-16999	page	_	
+137-11	16999-17000	.	_	
+137-12	17005-17006	3	_	
+137-13	17006-17007	.	_	
+
+#Text=The United States and other non-EU/EEA/UK countries have different laws on data protection and rules in relation to government access to information.
+138-1	17008-17011	The	_	
+138-2	17012-17018	United	_	
+138-3	17019-17025	States	_	
+138-4	17026-17029	and	_	
+138-5	17030-17035	other	_	
+138-6	17036-17042	non-EU	_	
+138-7	17042-17043	/	_	
+138-8	17043-17046	EEA	_	
+138-9	17046-17047	/	_	
+138-10	17047-17049	UK	_	
+138-11	17050-17059	countries	_	
+138-12	17060-17064	have	_	
+138-13	17065-17074	different	_	
+138-14	17075-17079	laws	_	
+138-15	17080-17082	on	_	
+138-16	17083-17087	data	_	
+138-17	17088-17098	protection	_	
+138-18	17099-17102	and	_	
+138-19	17103-17108	rules	_	
+138-20	17109-17111	in	_	
+138-21	17112-17120	relation	_	
+138-22	17121-17123	to	_	
+138-23	17124-17134	government	_	
+138-24	17135-17141	access	_	
+138-25	17142-17144	to	_	
+138-26	17145-17156	information	_	
+138-27	17156-17157	.	_	
+
+#Text=If you are based in the EU/EEA/UK, when your data is moved from your home country to a third country outside the EU/EEA/UK, some of these countries may not have the same data protection safeguards as your home country.\r
+#Text=12.
+139-1	17158-17160	If	_	
+139-2	17161-17164	you	_	
+139-3	17165-17168	are	_	
+139-4	17169-17174	based	_	
+139-5	17175-17177	in	_	
+139-6	17178-17181	the	_	
+139-7	17182-17184	EU	_	
+139-8	17184-17185	/	_	
+139-9	17185-17188	EEA	_	
+139-10	17188-17189	/	_	
+139-11	17189-17191	UK	_	
+139-12	17191-17192	,	_	
+139-13	17193-17197	when	_	
+139-14	17198-17202	your	_	
+139-15	17203-17207	data	_	
+139-16	17208-17210	is	_	
+139-17	17211-17216	moved	_	
+139-18	17217-17221	from	_	
+139-19	17222-17226	your	_	
+139-20	17227-17231	home	_	
+139-21	17232-17239	country	_	
+139-22	17240-17242	to	_	
+139-23	17243-17244	a	_	
+139-24	17245-17250	third	_	
+139-25	17251-17258	country	_	
+139-26	17259-17266	outside	_	
+139-27	17267-17270	the	_	
+139-28	17271-17273	EU	_	
+139-29	17273-17274	/	_	
+139-30	17274-17277	EEA	_	
+139-31	17277-17278	/	_	
+139-32	17278-17280	UK	_	
+139-33	17280-17281	,	_	
+139-34	17282-17286	some	_	
+139-35	17287-17289	of	_	
+139-36	17290-17295	these	_	
+139-37	17296-17305	countries	_	
+139-38	17306-17309	may	_	
+139-39	17310-17313	not	_	
+139-40	17314-17318	have	_	
+139-41	17319-17322	the	_	
+139-42	17323-17327	same	_	
+139-43	17328-17332	data	_	
+139-44	17333-17343	protection	_	
+139-45	17344-17354	safeguards	_	
+139-46	17355-17357	as	_	
+139-47	17358-17362	your	_	
+139-48	17363-17367	home	_	
+139-49	17368-17375	country	_	
+139-50	17375-17376	.	_	
+139-51	17378-17380	12	_	
+139-52	17380-17381	.	_	
+
+#Text=Other Important Information\r
+#Text=   1.
+140-1	17382-17387	Other	_	
+140-2	17388-17397	Important	_	
+140-3	17398-17409	Information	_	
+140-4	17414-17415	1	_	
+140-5	17415-17416	.	_	
+
+#Text=This Privacy Policy Applies Only to Yahoo.
+141-1	17417-17421	This	_	
+141-2	17422-17429	Privacy	_	
+141-3	17430-17436	Policy	_	
+141-4	17437-17444	Applies	_	
+141-5	17445-17449	Only	_	
+141-6	17450-17452	to	_	
+141-7	17453-17458	Yahoo	_	
+141-8	17458-17459	.	_	
+
+#Text=This Privacy Policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage.
+142-1	17460-17464	This	_	
+142-2	17465-17472	Privacy	_	
+142-3	17473-17479	Policy	_	
+142-4	17480-17484	does	_	
+142-5	17485-17488	not	_	
+142-6	17489-17494	apply	_	
+142-7	17495-17497	to	_	
+142-8	17498-17501	the	_	
+142-9	17502-17511	practices	_	
+142-10	17512-17514	of	_	
+142-11	17515-17524	companies	_	
+142-12	17525-17529	that	_	
+142-13	17530-17535	Yahoo	_	
+142-14	17536-17540	does	_	
+142-15	17541-17544	not	_	
+142-16	17545-17548	own	_	
+142-17	17549-17551	or	_	
+142-18	17552-17559	control	_	
+142-19	17559-17560	,	_	
+142-20	17561-17563	or	_	
+142-21	17564-17566	to	_	
+142-22	17567-17573	people	_	
+142-23	17574-17578	that	_	
+142-24	17579-17584	Yahoo	_	
+142-25	17585-17589	does	_	
+142-26	17590-17593	not	_	
+142-27	17594-17600	employ	_	
+142-28	17601-17603	or	_	
+142-29	17604-17610	manage	_	
+142-30	17610-17611	.	_	
+
+#Text=In addition, some affiliated products may have different privacy policies and practices that are not subject to this Privacy Policy. \r
+#Text=13.
+143-1	17612-17614	In	_	
+143-2	17615-17623	addition	_	
+143-3	17623-17624	,	_	
+143-4	17625-17629	some	_	
+143-5	17630-17640	affiliated	_	
+143-6	17641-17649	products	_	
+143-7	17650-17653	may	_	
+143-8	17654-17658	have	_	
+143-9	17659-17668	different	_	
+143-10	17669-17676	privacy	_	
+143-11	17677-17685	policies	_	
+143-12	17686-17689	and	_	
+143-13	17690-17699	practices	_	
+143-14	17700-17704	that	_	
+143-15	17705-17708	are	_	
+143-16	17709-17712	not	_	
+143-17	17713-17720	subject	_	
+143-18	17721-17723	to	_	
+143-19	17724-17728	this	_	
+143-20	17729-17736	Privacy	_	
+143-21	17737-17743	Policy	_	
+143-22	17743-17744	.	_	
+143-23	17747-17749	13	_	
+143-24	17749-17750	.	_	
+
+#Text=Changes\r
+#Text=   1.
+144-1	17751-17758	Changes	_	
+144-2	17763-17764	1	_	
+144-3	17764-17765	.	_	
+
+#Text=We may update this Privacy Policy from time to time, so you should check it periodically.
+145-1	17766-17768	We	_	
+145-2	17769-17772	may	_	
+145-3	17773-17779	update	_	
+145-4	17780-17784	this	_	
+145-5	17785-17792	Privacy	_	
+145-6	17793-17799	Policy	_	
+145-7	17800-17804	from	_	
+145-8	17805-17809	time	_	
+145-9	17810-17812	to	_	
+145-10	17813-17817	time	_	
+145-11	17817-17818	,	_	
+145-12	17819-17821	so	_	
+145-13	17822-17825	you	_	
+145-14	17826-17832	should	_	
+145-15	17833-17838	check	_	
+145-16	17839-17841	it	_	
+145-17	17842-17854	periodically	_	
+145-18	17854-17855	.	_	
+
+#Text=If we make changes that are material we will provide you with appropriate notice before such changes take effect.\r
+#Text=14.
+146-1	17856-17858	If	_	
+146-2	17859-17861	we	_	
+146-3	17862-17866	make	_	
+146-4	17867-17874	changes	_	
+146-5	17875-17879	that	_	
+146-6	17880-17883	are	_	
+146-7	17884-17892	material	_	
+146-8	17893-17895	we	_	
+146-9	17896-17900	will	_	
+146-10	17901-17908	provide	_	
+146-11	17909-17912	you	_	
+146-12	17913-17917	with	_	
+146-13	17918-17929	appropriate	_	
+146-14	17930-17936	notice	_	
+146-15	17937-17943	before	_	
+146-16	17944-17948	such	_	
+146-17	17949-17956	changes	_	
+146-18	17957-17961	take	_	
+146-19	17962-17968	effect	_	
+146-20	17968-17969	.	_	
+146-21	17971-17973	14	_	
+146-22	17973-17974	.	_	
+
+#Text=Questions & Suggestions\r
+#Text=   1.
+147-1	17975-17984	Questions	_	
+147-2	17985-17986	&	_	
+147-3	17987-17998	Suggestions	_	
+147-4	18003-18004	1	_	
+147-5	18004-18005	.	_	
+
+#Text=If you have questions, suggestions, or wish to make a complaint, please complete a feedback form or you can contact us at:\r
+#Text=\r
+#Text=Yahoo\r
+#Text=Customer Care - Privacy Policy Issues\r
+#Text=770 Broadway, New York\r
+#Text=NY 10003, USA\r
+#Text=   2.
+148-1	18006-18008	If	_	
+148-2	18009-18012	you	_	
+148-3	18013-18017	have	_	
+148-4	18018-18027	questions	_	
+148-5	18027-18028	,	_	
+148-6	18029-18040	suggestions	_	
+148-7	18040-18041	,	_	
+148-8	18042-18044	or	_	
+148-9	18045-18049	wish	_	
+148-10	18050-18052	to	_	
+148-11	18053-18057	make	_	
+148-12	18058-18059	a	_	
+148-13	18060-18069	complaint	_	
+148-14	18069-18070	,	_	
+148-15	18071-18077	please	_	
+148-16	18078-18086	complete	_	
+148-17	18087-18088	a	_	
+148-18	18089-18097	feedback	_	
+148-19	18098-18102	form	_	
+148-20	18103-18105	or	_	
+148-21	18106-18109	you	_	
+148-22	18110-18113	can	_	
+148-23	18114-18121	contact	_	
+148-24	18122-18124	us	_	
+148-25	18125-18127	at	_	
+148-26	18127-18128	:	_	
+148-27	18132-18137	Yahoo	_	
+148-28	18139-18147	Customer	_	
+148-29	18148-18152	Care	_	
+148-30	18153-18154	-	_	
+148-31	18155-18162	Privacy	_	
+148-32	18163-18169	Policy	_	
+148-33	18170-18176	Issues	_	
+148-34	18178-18181	770	_	
+148-35	18182-18190	Broadway	_	
+148-36	18190-18191	,	_	
+148-37	18192-18195	New	_	
+148-38	18196-18200	York	_	
+148-39	18202-18204	NY	_	
+148-40	18205-18210	10003	_	
+148-41	18210-18211	,	_	
+148-42	18212-18215	USA	_	
+148-43	18220-18221	2	_	
+148-44	18221-18222	.	_	
+
+#Text=If you wish to contact our Data Protection Officer, you can do so by post to: Attn: Data Protection Officer, Yahoo EMEA, 5-7 Point Square, North Wall Quay, Dublin 1, Ireland.\r
+#Text=   3.
+149-1	18223-18225	If	_	
+149-2	18226-18229	you	_	
+149-3	18230-18234	wish	_	
+149-4	18235-18237	to	_	
+149-5	18238-18245	contact	_	
+149-6	18246-18249	our	_	
+149-7	18250-18254	Data	_	
+149-8	18255-18265	Protection	_	
+149-9	18266-18273	Officer	_	
+149-10	18273-18274	,	_	
+149-11	18275-18278	you	_	
+149-12	18279-18282	can	_	
+149-13	18283-18285	do	_	
+149-14	18286-18288	so	_	
+149-15	18289-18291	by	_	
+149-16	18292-18296	post	_	
+149-17	18297-18299	to	_	
+149-18	18299-18300	:	_	
+149-19	18301-18305	Attn	_	
+149-20	18305-18306	:	_	
+149-21	18307-18311	Data	_	
+149-22	18312-18322	Protection	_	
+149-23	18323-18330	Officer	_	
+149-24	18330-18331	,	_	
+149-25	18332-18337	Yahoo	_	
+149-26	18338-18342	EMEA	_	
+149-27	18342-18343	,	_	
+149-28	18344-18345	5	_	
+149-29	18345-18346	-	_	
+149-30	18346-18347	7	_	
+149-31	18348-18353	Point	_	
+149-32	18354-18360	Square	_	
+149-33	18360-18361	,	_	
+149-34	18362-18367	North	_	
+149-35	18368-18372	Wall	_	
+149-36	18373-18377	Quay	_	
+149-37	18377-18378	,	_	
+149-38	18379-18385	Dublin	_	
+149-39	18386-18387	1	_	
+149-40	18387-18388	,	_	
+149-41	18389-18396	Ireland	_	
+149-42	18396-18397	.	_	
+149-43	18402-18403	3	_	
+149-44	18403-18404	.	_	
+
+#Text=Our Article 27 Representative can be contacted by email at YahooGDPRrepresentative@mhc.ie, or by post at:\r
+#Text=\r
+#Text=MHC GDPR Representative\r
+#Text=Mason Hayes and Curran Professional Services Limited\r
+#Text=South Bank House\r
+#Text=Barrow Street\r
+#Text=Dublin 4\r
+#Text=Ireland\r
+#Text=   15.
+150-1	18405-18408	Our	_	
+150-2	18409-18416	Article	_	
+150-3	18417-18419	27	_	
+150-4	18420-18434	Representative	_	
+150-5	18435-18438	can	_	
+150-6	18439-18441	be	_	
+150-7	18442-18451	contacted	_	
+150-8	18452-18454	by	_	
+150-9	18455-18460	email	_	
+150-10	18461-18463	at	_	
+150-11	18464-18487	YahooGDPRrepresentative	_	
+150-12	18487-18488	@	_	
+150-13	18488-18494	mhc.ie	_	
+150-14	18494-18495	,	_	
+150-15	18496-18498	or	_	
+150-16	18499-18501	by	_	
+150-17	18502-18506	post	_	
+150-18	18507-18509	at	_	
+150-19	18509-18510	:	_	
+150-20	18514-18517	MHC	_	
+150-21	18518-18522	GDPR	_	
+150-22	18523-18537	Representative	_	
+150-23	18539-18544	Mason	_	
+150-24	18545-18550	Hayes	_	
+150-25	18551-18554	and	_	
+150-26	18555-18561	Curran	_	
+150-27	18562-18574	Professional	_	
+150-28	18575-18583	Services	_	
+150-29	18584-18591	Limited	_	
+150-30	18593-18598	South	_	
+150-31	18599-18603	Bank	_	
+150-32	18604-18609	House	_	
+150-33	18611-18617	Barrow	_	
+150-34	18618-18624	Street	_	
+150-35	18626-18632	Dublin	_	
+150-36	18633-18634	4	_	
+150-37	18636-18643	Ireland	_	
+150-38	18648-18650	15	_	
+150-39	18650-18651	.	_	
+
+#Text=Recent Versions\r
+#Text=   1.
+151-1	18652-18658	Recent	_	
+151-2	18659-18667	Versions	_	
+151-3	18672-18673	1	_	
+151-4	18673-18674	.	_	
+
+#Text=May 2018 - update to privacy notice;\r
+#Text=   2.
+152-1	18675-18678	May	_	
+152-2	18679-18683	2018	_	
+152-3	18684-18685	-	_	
+152-4	18686-18692	update	_	
+152-5	18693-18695	to	_	
+152-6	18696-18703	privacy	_	
+152-7	18704-18710	notice	_	
+152-8	18710-18711	;	_	
+152-9	18716-18717	2	_	
+152-10	18717-18718	.	_	
+
+#Text=October 2019 - Oath to Verizon Media name change;\r
+#Text=   3.
+153-1	18719-18726	October	_	
+153-2	18727-18731	2019	_	
+153-3	18732-18733	-	_	
+153-4	18734-18738	Oath	_	
+153-5	18739-18741	to	_	
+153-6	18742-18749	Verizon	_	
+153-7	18750-18755	Media	_	
+153-8	18756-18760	name	_	
+153-9	18761-18767	change	_	
+153-10	18767-18768	;	_	
+153-11	18773-18774	3	_	
+153-12	18774-18775	.	_	
+
+#Text=October 2020 - updates to data transfers and legal bases; and\r
+#Text=   4.
+154-1	18776-18783	October	_	
+154-2	18784-18788	2020	_	
+154-3	18789-18790	-	_	
+154-4	18791-18798	updates	_	
+154-5	18799-18801	to	_	
+154-6	18802-18806	data	_	
+154-7	18807-18816	transfers	_	
+154-8	18817-18820	and	_	
+154-9	18821-18826	legal	_	
+154-10	18827-18832	bases	_	
+154-11	18832-18833	;	_	
+154-12	18834-18837	and	_	
+154-13	18842-18843	4	_	
+154-14	18843-18844	.	_	
+
+#Text=September 2021 - updates to reflect name change; additional information added regarding data retention.
+155-1	18845-18854	September	_	
+155-2	18855-18859	2021	_	
+155-3	18860-18861	-	_	
+155-4	18862-18869	updates	_	
+155-5	18870-18872	to	_	
+155-6	18873-18880	reflect	_	
+155-7	18881-18885	name	_	
+155-8	18886-18892	change	_	
+155-9	18892-18893	;	_	
+155-10	18894-18904	additional	_	
+155-11	18905-18916	information	_	
+155-12	18917-18922	added	_	
+155-13	18923-18932	regarding	_	
+155-14	18933-18937	data	_	
+155-15	18938-18947	retention	_	
+155-16	18947-18948	.	_	
+
+#Text=--------[END OF POLICY]---------
+#Text=
+#Text=
+#Text=Question 6: Does this app share my contacts list?
+156-1	18951-18952	-	_	
+156-2	18952-18953	-	_	
+156-3	18953-18954	-	_	
+156-4	18954-18955	-	_	
+156-5	18955-18956	-	_	
+156-6	18956-18957	-	_	
+156-7	18957-18958	-	_	
+156-8	18958-18959	-	_	
+156-9	18959-18960	[	_	
+156-10	18960-18963	END	_	
+156-11	18964-18966	OF	_	
+156-12	18967-18973	POLICY	_	
+156-13	18973-18974	]	_	
+156-14	18974-18975	-	_	
+156-15	18975-18976	-	_	
+156-16	18976-18977	-	_	
+156-17	18977-18978	-	_	
+156-18	18978-18979	-	_	
+156-19	18979-18980	-	_	
+156-20	18980-18981	-	_	
+156-21	18981-18982	-	_	
+156-22	18982-18983	-	_	
+156-23	18986-18994	Question	_	
+156-24	18995-18996	6	_	
+156-25	18996-18997	:	_	
+156-26	18998-19002	Does	_	
+156-27	19003-19007	this	_	
+156-28	19008-19011	app	_	
+156-29	19012-19017	share	_	
+156-30	19018-19020	my	_	
+156-31	19021-19029	contacts	_	
+156-32	19030-19034	list	_	
+156-33	19034-19035	?	_	
+
+#Text=<ANSWER FROM POLICY>
+157-1	19038-19039	<	\[SILENT\] (f) The policy is silent about this practice,[1]	
+157-2	19039-19045	ANSWER	\[SILENT\] (f) The policy is silent about this practice,[1]	
+157-3	19046-19050	FROM	\[SILENT\] (f) The policy is silent about this practice,[1]	
+157-4	19051-19057	POLICY	\[SILENT\] (f) The policy is silent about this practice,[1]	
+157-5	19057-19058	>	\[SILENT\] (f) The policy is silent about this practice,[1]	

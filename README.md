@@ -1,0 +1,12 @@
+# PrivacyHypernymy_WISE
+This repository contains the annotated privacy policy dataset referenced in the paper **Incorporating Taxonomic Reasoning and Regulatory Knowledge into Automated Privacy Question Answering**, to appear at WISE 2024. The dataset includes 30 privacy policies, and annotates data collection with respect to seven different privacy-related questions. In total, there are 210 policy-question pairs, each of which was annotated by at least three annotators, for 749 total sets of annotations. The goal for this work is to examine the extent to which LLMs can interpret privacy policies within varying legal contexts, and whether including additional legal guidance within prompting can make LLMs better at answering common privacy questions.
+
+The dataset includes three separate directories: _annotation_, _annotation_ser_, and _source_.
+* source: this directory includes the raw question and privacy policy text shown to annotators as text files. Each text file represents one policy-question pair (ex. Question 3, Twitch Privacy Policy). These text files do not include any annotations.
+* annotation: this directory includes a sub-directory for each policy-question pair (ex. Question 3, Twitch Privacy Policy would represent another directory). Within each sub-directory is a collection of .tsv (tab-separated) files, which are the annotators' annotations for that particular policy-question pair.
+  * The first column in each .tsv file shows the sentence and word number, formatted as _sentence_-_wordnumber_ (ex. 3-4 is the fourth word in the third sentence).
+  * The second column shows the range of character numbers for one word, with respect to the whole text file (ex. 690-702 indicates that the word spans from characters 690 to 702 in the policy).
+  * The third column is the word within the privacy policy. The value may also be punctuation.
+  * The remaining columns may not have any values, depending on whether the sentence or word is relevant to the privacy question. If the annotator decided that the word is relevant, then there will be a corresponding annotation in the remaining columns. If not, then the columns will be empty.
+  * The bottom of each .tsv file is the annotator's categorical answer to the particular question, corresponding to the sentence "\<ANSWER FROM POLICY\>".
+* annotation_ser: this directory contains the same annotation data, as .ser files.

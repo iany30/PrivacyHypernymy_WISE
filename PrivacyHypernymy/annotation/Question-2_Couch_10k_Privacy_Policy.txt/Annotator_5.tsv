@@ -1,0 +1,2550 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Answer|Answer
+
+
+#Text=Question 2: Does this app access my camera?
+1-1	0-8	Question	_	
+1-2	9-10	2	_	
+1-3	10-11	:	_	
+1-4	12-16	Does	_	
+1-5	17-21	this	_	
+1-6	22-25	app	_	
+1-7	26-32	access	_	
+1-8	33-35	my	_	
+1-9	36-42	camera	_	
+1-10	42-43	?	_	
+
+#Text=--------[START OF POLICY]---------
+#Text=
+#Text=
+#Text=﻿Privacy Policy\r
+#Text=Zen Labs LLC (“us” or “we”) is committed to protecting your online and mobile privacy.
+2-1	46-47	-	_	
+2-2	47-48	-	_	
+2-3	48-49	-	_	
+2-4	49-50	-	_	
+2-5	50-51	-	_	
+2-6	51-52	-	_	
+2-7	52-53	-	_	
+2-8	53-54	-	_	
+2-9	54-55	[	_	
+2-10	55-60	START	_	
+2-11	61-63	OF	_	
+2-12	64-70	POLICY	_	
+2-13	70-71	]	_	
+2-14	71-72	-	_	
+2-15	72-73	-	_	
+2-16	73-74	-	_	
+2-17	74-75	-	_	
+2-18	75-76	-	_	
+2-19	76-77	-	_	
+2-20	77-78	-	_	
+2-21	78-79	-	_	
+2-22	79-80	-	_	
+2-23	83-84	﻿	_	
+2-24	84-91	Privacy	_	
+2-25	92-98	Policy	_	
+2-26	100-103	Zen	_	
+2-27	104-108	Labs	_	
+2-28	109-112	LLC	_	
+2-29	113-114	(	_	
+2-30	114-115	“	_	
+2-31	115-117	us	_	
+2-32	117-118	”	_	
+2-33	119-121	or	_	
+2-34	122-123	“	_	
+2-35	123-125	we	_	
+2-36	125-126	”	_	
+2-37	126-127	)	_	
+2-38	128-130	is	_	
+2-39	131-140	committed	_	
+2-40	141-143	to	_	
+2-41	144-154	protecting	_	
+2-42	155-159	your	_	
+2-43	160-166	online	_	
+2-44	167-170	and	_	
+2-45	171-177	mobile	_	
+2-46	178-185	privacy	_	
+2-47	185-186	.	_	
+
+#Text=This Privacy Policy discloses the privacy practices for the Zen Labs LLC apps and website.
+3-1	187-191	This	_	
+3-2	192-199	Privacy	_	
+3-3	200-206	Policy	_	
+3-4	207-216	discloses	_	
+3-5	217-220	the	_	
+3-6	221-228	privacy	_	
+3-7	229-238	practices	_	
+3-8	239-242	for	_	
+3-9	243-246	the	_	
+3-10	247-250	Zen	_	
+3-11	251-255	Labs	_	
+3-12	256-259	LLC	_	
+3-13	260-264	apps	_	
+3-14	265-268	and	_	
+3-15	269-276	website	_	
+3-16	276-277	.	_	
+
+#Text=We encourage you to read this Privacy Policy carefully to learn what information we collect from you and how we use that information.
+4-1	278-280	We	_	
+4-2	281-290	encourage	_	
+4-3	291-294	you	_	
+4-4	295-297	to	_	
+4-5	298-302	read	_	
+4-6	303-307	this	_	
+4-7	308-315	Privacy	_	
+4-8	316-322	Policy	_	
+4-9	323-332	carefully	_	
+4-10	333-335	to	_	
+4-11	336-341	learn	_	
+4-12	342-346	what	_	
+4-13	347-358	information	_	
+4-14	359-361	we	_	
+4-15	362-369	collect	_	
+4-16	370-374	from	_	
+4-17	375-378	you	_	
+4-18	379-382	and	_	
+4-19	383-386	how	_	
+4-20	387-389	we	_	
+4-21	390-393	use	_	
+4-22	394-398	that	_	
+4-23	399-410	information	_	
+4-24	410-411	.	_	
+
+#Text=Outlogic\r
+#Text=California Users: If you are located in California, then under the CCPA, you have a right to opt-out of the sale of your information.
+5-1	416-424	Outlogic	_	
+5-2	426-436	California	_	
+5-3	437-442	Users	_	
+5-4	442-443	:	_	
+5-5	444-446	If	_	
+5-6	447-450	you	_	
+5-7	451-454	are	_	
+5-8	455-462	located	_	
+5-9	463-465	in	_	
+5-10	466-476	California	_	
+5-11	476-477	,	_	
+5-12	478-482	then	_	
+5-13	483-488	under	_	
+5-14	489-492	the	_	
+5-15	493-497	CCPA	_	
+5-16	497-498	,	_	
+5-17	499-502	you	_	
+5-18	503-507	have	_	
+5-19	508-509	a	_	
+5-20	510-515	right	_	
+5-21	516-518	to	_	
+5-22	519-526	opt-out	_	
+5-23	527-529	of	_	
+5-24	530-533	the	_	
+5-25	534-538	sale	_	
+5-26	539-541	of	_	
+5-27	542-546	your	_	
+5-28	547-558	information	_	
+5-29	558-559	.	_	
+
+#Text=To do this, please head over to Outlogic’s “Opt-out/Do Not Sell” Form.
+6-1	560-562	To	_	
+6-2	563-565	do	_	
+6-3	566-570	this	_	
+6-4	570-571	,	_	
+6-5	572-578	please	_	
+6-6	579-583	head	_	
+6-7	584-588	over	_	
+6-8	589-591	to	_	
+6-9	592-600	Outlogic	_	
+6-10	600-601	’	_	
+6-11	601-602	s	_	
+6-12	603-604	“	_	
+6-13	604-611	Opt-out	_	
+6-14	611-612	/	_	
+6-15	612-614	Do	_	
+6-16	615-618	Not	_	
+6-17	619-623	Sell	_	
+6-18	623-624	”	_	
+6-19	625-629	Form	_	
+6-20	629-630	.	_	
+
+#Text=Outlogic collects and passes to third parties a variety of information for use as described below:\r
+#Text=When this app is in use (or running in the background) we collect and share with our business partners certain device and location data: Precise location data of the device, WiFi signals or Bluetooth Low Energy devices in your proximity, device-based advertising identifiers, app names and/or identifiers, and information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier, and IP address.
+7-1	632-640	Outlogic	_	
+7-2	641-649	collects	_	
+7-3	650-653	and	_	
+7-4	654-660	passes	_	
+7-5	661-663	to	_	
+7-6	664-669	third	_	
+7-7	670-677	parties	_	
+7-8	678-679	a	_	
+7-9	680-687	variety	_	
+7-10	688-690	of	_	
+7-11	691-702	information	_	
+7-12	703-706	for	_	
+7-13	707-710	use	_	
+7-14	711-713	as	_	
+7-15	714-723	described	_	
+7-16	724-729	below	_	
+7-17	729-730	:	_	
+7-18	732-736	When	_	
+7-19	737-741	this	_	
+7-20	742-745	app	_	
+7-21	746-748	is	_	
+7-22	749-751	in	_	
+7-23	752-755	use	_	
+7-24	756-757	(	_	
+7-25	757-759	or	_	
+7-26	760-767	running	_	
+7-27	768-770	in	_	
+7-28	771-774	the	_	
+7-29	775-785	background	_	
+7-30	785-786	)	_	
+7-31	787-789	we	_	
+7-32	790-797	collect	_	
+7-33	798-801	and	_	
+7-34	802-807	share	_	
+7-35	808-812	with	_	
+7-36	813-816	our	_	
+7-37	817-825	business	_	
+7-38	826-834	partners	_	
+7-39	835-842	certain	_	
+7-40	843-849	device	_	
+7-41	850-853	and	_	
+7-42	854-862	location	_	
+7-43	863-867	data	_	
+7-44	867-868	:	_	
+7-45	869-876	Precise	_	
+7-46	877-885	location	_	
+7-47	886-890	data	_	
+7-48	891-893	of	_	
+7-49	894-897	the	_	
+7-50	898-904	device	_	
+7-51	904-905	,	_	
+7-52	906-910	WiFi	_	
+7-53	911-918	signals	_	
+7-54	919-921	or	_	
+7-55	922-931	Bluetooth	_	
+7-56	932-935	Low	_	
+7-57	936-942	Energy	_	
+7-58	943-950	devices	_	
+7-59	951-953	in	_	
+7-60	954-958	your	_	
+7-61	959-968	proximity	_	
+7-62	968-969	,	_	
+7-63	970-982	device-based	_	
+7-64	983-994	advertising	_	
+7-65	995-1006	identifiers	_	
+7-66	1006-1007	,	_	
+7-67	1008-1011	app	_	
+7-68	1012-1017	names	_	
+7-69	1018-1021	and	_	
+7-70	1021-1022	/	_	
+7-71	1022-1024	or	_	
+7-72	1025-1036	identifiers	_	
+7-73	1036-1037	,	_	
+7-74	1038-1041	and	_	
+7-75	1042-1053	information	_	
+7-76	1054-1059	about	_	
+7-77	1060-1064	your	_	
+7-78	1065-1071	mobile	_	
+7-79	1072-1078	device	_	
+7-80	1079-1083	such	_	
+7-81	1084-1086	as	_	
+7-82	1087-1091	type	_	
+7-83	1092-1094	of	_	
+7-84	1095-1101	device	_	
+7-85	1101-1102	,	_	
+7-86	1103-1112	operating	_	
+7-87	1113-1119	system	_	
+7-88	1120-1127	version	_	
+7-89	1128-1131	and	_	
+7-90	1132-1136	type	_	
+7-91	1136-1137	,	_	
+7-92	1138-1144	device	_	
+7-93	1145-1153	settings	_	
+7-94	1153-1154	,	_	
+7-95	1155-1159	time	_	
+7-96	1160-1164	zone	_	
+7-97	1164-1165	,	_	
+7-98	1166-1173	carrier	_	
+7-99	1173-1174	,	_	
+7-100	1175-1178	and	_	
+7-101	1179-1181	IP	_	
+7-102	1182-1189	address	_	
+7-103	1189-1190	.	_	
+
+#Text=That data may be used for the following purposes: (a) to customize and measure ads in apps and other advertising; (b) for app and user analytics; (c) for disease prevention, and cybersecurity,; (d) for market, civic or other research regarding aggregated human foot and traffic patterns, and (e) to generate proprietary pseudonymized identifiers tied to the information collected for the above purposes.
+8-1	1191-1195	That	_	
+8-2	1196-1200	data	_	
+8-3	1201-1204	may	_	
+8-4	1205-1207	be	_	
+8-5	1208-1212	used	_	
+8-6	1213-1216	for	_	
+8-7	1217-1220	the	_	
+8-8	1221-1230	following	_	
+8-9	1231-1239	purposes	_	
+8-10	1239-1240	:	_	
+8-11	1241-1242	(	_	
+8-12	1242-1243	a	_	
+8-13	1243-1244	)	_	
+8-14	1245-1247	to	_	
+8-15	1248-1257	customize	_	
+8-16	1258-1261	and	_	
+8-17	1262-1269	measure	_	
+8-18	1270-1273	ads	_	
+8-19	1274-1276	in	_	
+8-20	1277-1281	apps	_	
+8-21	1282-1285	and	_	
+8-22	1286-1291	other	_	
+8-23	1292-1303	advertising	_	
+8-24	1303-1304	;	_	
+8-25	1305-1306	(	_	
+8-26	1306-1307	b	_	
+8-27	1307-1308	)	_	
+8-28	1309-1312	for	_	
+8-29	1313-1316	app	_	
+8-30	1317-1320	and	_	
+8-31	1321-1325	user	_	
+8-32	1326-1335	analytics	_	
+8-33	1335-1336	;	_	
+8-34	1337-1338	(	_	
+8-35	1338-1339	c	_	
+8-36	1339-1340	)	_	
+8-37	1341-1344	for	_	
+8-38	1345-1352	disease	_	
+8-39	1353-1363	prevention	_	
+8-40	1363-1364	,	_	
+8-41	1365-1368	and	_	
+8-42	1369-1382	cybersecurity	_	
+8-43	1382-1383	,	_	
+8-44	1383-1384	;	_	
+8-45	1385-1386	(	_	
+8-46	1386-1387	d	_	
+8-47	1387-1388	)	_	
+8-48	1389-1392	for	_	
+8-49	1393-1399	market	_	
+8-50	1399-1400	,	_	
+8-51	1401-1406	civic	_	
+8-52	1407-1409	or	_	
+8-53	1410-1415	other	_	
+8-54	1416-1424	research	_	
+8-55	1425-1434	regarding	_	
+8-56	1435-1445	aggregated	_	
+8-57	1446-1451	human	_	
+8-58	1452-1456	foot	_	
+8-59	1457-1460	and	_	
+8-60	1461-1468	traffic	_	
+8-61	1469-1477	patterns	_	
+8-62	1477-1478	,	_	
+8-63	1479-1482	and	_	
+8-64	1483-1484	(	_	
+8-65	1484-1485	e	_	
+8-66	1485-1486	)	_	
+8-67	1487-1489	to	_	
+8-68	1490-1498	generate	_	
+8-69	1499-1510	proprietary	_	
+8-70	1511-1524	pseudonymized	_	
+8-71	1525-1536	identifiers	_	
+8-72	1537-1541	tied	_	
+8-73	1542-1544	to	_	
+8-74	1545-1548	the	_	
+8-75	1549-1560	information	_	
+8-76	1561-1570	collected	_	
+8-77	1571-1574	for	_	
+8-78	1575-1578	the	_	
+8-79	1579-1584	above	_	
+8-80	1585-1593	purposes	_	
+8-81	1593-1594	.	_	
+
+#Text=You may opt out of the above usage by (1) follow the instructions in Outlogic’s Privacy Policy, or (2) for a platform-based opt-out of interest-based or “personalized” advertising, go to your device settings and opt out of interest-based or personalized advertising (iOS: Settings → General → Privacy → Advertising →Limit Ad-Tracking; Android: Settings →\r
+#Text=Google → Ads → Opt out of Ads Personalization).
+9-1	1596-1599	You	_	
+9-2	1600-1603	may	_	
+9-3	1604-1607	opt	_	
+9-4	1608-1611	out	_	
+9-5	1612-1614	of	_	
+9-6	1615-1618	the	_	
+9-7	1619-1624	above	_	
+9-8	1625-1630	usage	_	
+9-9	1631-1633	by	_	
+9-10	1634-1635	(	_	
+9-11	1635-1636	1	_	
+9-12	1636-1637	)	_	
+9-13	1638-1644	follow	_	
+9-14	1645-1648	the	_	
+9-15	1649-1661	instructions	_	
+9-16	1662-1664	in	_	
+9-17	1665-1673	Outlogic	_	
+9-18	1673-1674	’	_	
+9-19	1674-1675	s	_	
+9-20	1676-1683	Privacy	_	
+9-21	1684-1690	Policy	_	
+9-22	1690-1691	,	_	
+9-23	1692-1694	or	_	
+9-24	1695-1696	(	_	
+9-25	1696-1697	2	_	
+9-26	1697-1698	)	_	
+9-27	1699-1702	for	_	
+9-28	1703-1704	a	_	
+9-29	1705-1719	platform-based	_	
+9-30	1720-1727	opt-out	_	
+9-31	1728-1730	of	_	
+9-32	1731-1745	interest-based	_	
+9-33	1746-1748	or	_	
+9-34	1749-1750	“	_	
+9-35	1750-1762	personalized	_	
+9-36	1762-1763	”	_	
+9-37	1764-1775	advertising	_	
+9-38	1775-1776	,	_	
+9-39	1777-1779	go	_	
+9-40	1780-1782	to	_	
+9-41	1783-1787	your	_	
+9-42	1788-1794	device	_	
+9-43	1795-1803	settings	_	
+9-44	1804-1807	and	_	
+9-45	1808-1811	opt	_	
+9-46	1812-1815	out	_	
+9-47	1816-1818	of	_	
+9-48	1819-1833	interest-based	_	
+9-49	1834-1836	or	_	
+9-50	1837-1849	personalized	_	
+9-51	1850-1861	advertising	_	
+9-52	1862-1863	(	_	
+9-53	1863-1866	iOS	_	
+9-54	1866-1867	:	_	
+9-55	1868-1876	Settings	_	
+9-56	1877-1878	→	_	
+9-57	1879-1886	General	_	
+9-58	1887-1888	→	_	
+9-59	1889-1896	Privacy	_	
+9-60	1897-1898	→	_	
+9-61	1899-1910	Advertising	_	
+9-62	1911-1912	→	_	
+9-63	1912-1917	Limit	_	
+9-64	1918-1929	Ad-Tracking	_	
+9-65	1929-1930	;	_	
+9-66	1931-1938	Android	_	
+9-67	1938-1939	:	_	
+9-68	1940-1948	Settings	_	
+9-69	1949-1950	→	_	
+9-70	1952-1958	Google	_	
+9-71	1959-1960	→	_	
+9-72	1961-1964	Ads	_	
+9-73	1965-1966	→	_	
+9-74	1967-1970	Opt	_	
+9-75	1971-1974	out	_	
+9-76	1975-1977	of	_	
+9-77	1978-1981	Ads	_	
+9-78	1982-1997	Personalization	_	
+9-79	1997-1998	)	_	
+9-80	1998-1999	.	_	
+
+#Text=You may also prevent location from being collected by this or other apps through your location permission settings.
+10-1	2000-2003	You	_	
+10-2	2004-2007	may	_	
+10-3	2008-2012	also	_	
+10-4	2013-2020	prevent	_	
+10-5	2021-2029	location	_	
+10-6	2030-2034	from	_	
+10-7	2035-2040	being	_	
+10-8	2041-2050	collected	_	
+10-9	2051-2053	by	_	
+10-10	2054-2058	this	_	
+10-11	2059-2061	or	_	
+10-12	2062-2067	other	_	
+10-13	2068-2072	apps	_	
+10-14	2073-2080	through	_	
+10-15	2081-2085	your	_	
+10-16	2086-2094	location	_	
+10-17	2095-2105	permission	_	
+10-18	2106-2114	settings	_	
+10-19	2114-2115	.	_	
+
+#Text=What’s Collected: Precise location information (such as your device GPS coordinates), relative location information (from WiFi signals or Bluetooth Low Energy devices in your proximity, for example), device-based advertising identifiers, information about your mobile device such as type of device, operating system version and type, device settings, time zone, carrier and IP address.
+11-1	2117-2121	What	_	
+11-2	2121-2122	’	_	
+11-3	2122-2123	s	_	
+11-4	2124-2133	Collected	_	
+11-5	2133-2134	:	_	
+11-6	2135-2142	Precise	_	
+11-7	2143-2151	location	_	
+11-8	2152-2163	information	_	
+11-9	2164-2165	(	_	
+11-10	2165-2169	such	_	
+11-11	2170-2172	as	_	
+11-12	2173-2177	your	_	
+11-13	2178-2184	device	_	
+11-14	2185-2188	GPS	_	
+11-15	2189-2200	coordinates	_	
+11-16	2200-2201	)	_	
+11-17	2201-2202	,	_	
+11-18	2203-2211	relative	_	
+11-19	2212-2220	location	_	
+11-20	2221-2232	information	_	
+11-21	2233-2234	(	_	
+11-22	2234-2238	from	_	
+11-23	2239-2243	WiFi	_	
+11-24	2244-2251	signals	_	
+11-25	2252-2254	or	_	
+11-26	2255-2264	Bluetooth	_	
+11-27	2265-2268	Low	_	
+11-28	2269-2275	Energy	_	
+11-29	2276-2283	devices	_	
+11-30	2284-2286	in	_	
+11-31	2287-2291	your	_	
+11-32	2292-2301	proximity	_	
+11-33	2301-2302	,	_	
+11-34	2303-2306	for	_	
+11-35	2307-2314	example	_	
+11-36	2314-2315	)	_	
+11-37	2315-2316	,	_	
+11-38	2317-2329	device-based	_	
+11-39	2330-2341	advertising	_	
+11-40	2342-2353	identifiers	_	
+11-41	2353-2354	,	_	
+11-42	2355-2366	information	_	
+11-43	2367-2372	about	_	
+11-44	2373-2377	your	_	
+11-45	2378-2384	mobile	_	
+11-46	2385-2391	device	_	
+11-47	2392-2396	such	_	
+11-48	2397-2399	as	_	
+11-49	2400-2404	type	_	
+11-50	2405-2407	of	_	
+11-51	2408-2414	device	_	
+11-52	2414-2415	,	_	
+11-53	2416-2425	operating	_	
+11-54	2426-2432	system	_	
+11-55	2433-2440	version	_	
+11-56	2441-2444	and	_	
+11-57	2445-2449	type	_	
+11-58	2449-2450	,	_	
+11-59	2451-2457	device	_	
+11-60	2458-2466	settings	_	
+11-61	2466-2467	,	_	
+11-62	2468-2472	time	_	
+11-63	2473-2477	zone	_	
+11-64	2477-2478	,	_	
+11-65	2479-2486	carrier	_	
+11-66	2487-2490	and	_	
+11-67	2491-2493	IP	_	
+11-68	2494-2501	address	_	
+11-69	2501-2502	.	_	
+
+#Text=When We Collect It: When the app is in use or running in the background.
+12-1	2504-2508	When	_	
+12-2	2509-2511	We	_	
+12-3	2512-2519	Collect	_	
+12-4	2520-2522	It	_	
+12-5	2522-2523	:	_	
+12-6	2524-2528	When	_	
+12-7	2529-2532	the	_	
+12-8	2533-2536	app	_	
+12-9	2537-2539	is	_	
+12-10	2540-2542	in	_	
+12-11	2543-2546	use	_	
+12-12	2547-2549	or	_	
+12-13	2550-2557	running	_	
+12-14	2558-2560	in	_	
+12-15	2561-2564	the	_	
+12-16	2565-2575	background	_	
+12-17	2575-2576	.	_	
+
+#Text=How We Use and Share It: We and other third parties may use the information (a) to customize ads in this or other apps (for instance, if your device is often located at or near music venues, you might receive offers for music tickets); (b) to measure effectiveness of those ads; (c) for disease prevention and research, security, anti-crime and law enforcement; or (d) for market, civic or other research regarding aggregated traffic patterns (for instance, a company that analyzes shopping trends might want to learn whether more or fewer devices are seen near malls or in other shopping districts).
+13-1	2578-2581	How	_	
+13-2	2582-2584	We	_	
+13-3	2585-2588	Use	_	
+13-4	2589-2592	and	_	
+13-5	2593-2598	Share	_	
+13-6	2599-2601	It	_	
+13-7	2601-2602	:	_	
+13-8	2603-2605	We	_	
+13-9	2606-2609	and	_	
+13-10	2610-2615	other	_	
+13-11	2616-2621	third	_	
+13-12	2622-2629	parties	_	
+13-13	2630-2633	may	_	
+13-14	2634-2637	use	_	
+13-15	2638-2641	the	_	
+13-16	2642-2653	information	_	
+13-17	2654-2655	(	_	
+13-18	2655-2656	a	_	
+13-19	2656-2657	)	_	
+13-20	2658-2660	to	_	
+13-21	2661-2670	customize	_	
+13-22	2671-2674	ads	_	
+13-23	2675-2677	in	_	
+13-24	2678-2682	this	_	
+13-25	2683-2685	or	_	
+13-26	2686-2691	other	_	
+13-27	2692-2696	apps	_	
+13-28	2697-2698	(	_	
+13-29	2698-2701	for	_	
+13-30	2702-2710	instance	_	
+13-31	2710-2711	,	_	
+13-32	2712-2714	if	_	
+13-33	2715-2719	your	_	
+13-34	2720-2726	device	_	
+13-35	2727-2729	is	_	
+13-36	2730-2735	often	_	
+13-37	2736-2743	located	_	
+13-38	2744-2746	at	_	
+13-39	2747-2749	or	_	
+13-40	2750-2754	near	_	
+13-41	2755-2760	music	_	
+13-42	2761-2767	venues	_	
+13-43	2767-2768	,	_	
+13-44	2769-2772	you	_	
+13-45	2773-2778	might	_	
+13-46	2779-2786	receive	_	
+13-47	2787-2793	offers	_	
+13-48	2794-2797	for	_	
+13-49	2798-2803	music	_	
+13-50	2804-2811	tickets	_	
+13-51	2811-2812	)	_	
+13-52	2812-2813	;	_	
+13-53	2814-2815	(	_	
+13-54	2815-2816	b	_	
+13-55	2816-2817	)	_	
+13-56	2818-2820	to	_	
+13-57	2821-2828	measure	_	
+13-58	2829-2842	effectiveness	_	
+13-59	2843-2845	of	_	
+13-60	2846-2851	those	_	
+13-61	2852-2855	ads	_	
+13-62	2855-2856	;	_	
+13-63	2857-2858	(	_	
+13-64	2858-2859	c	_	
+13-65	2859-2860	)	_	
+13-66	2861-2864	for	_	
+13-67	2865-2872	disease	_	
+13-68	2873-2883	prevention	_	
+13-69	2884-2887	and	_	
+13-70	2888-2896	research	_	
+13-71	2896-2897	,	_	
+13-72	2898-2906	security	_	
+13-73	2906-2907	,	_	
+13-74	2908-2918	anti-crime	_	
+13-75	2919-2922	and	_	
+13-76	2923-2926	law	_	
+13-77	2927-2938	enforcement	_	
+13-78	2938-2939	;	_	
+13-79	2940-2942	or	_	
+13-80	2943-2944	(	_	
+13-81	2944-2945	d	_	
+13-82	2945-2946	)	_	
+13-83	2947-2950	for	_	
+13-84	2951-2957	market	_	
+13-85	2957-2958	,	_	
+13-86	2959-2964	civic	_	
+13-87	2965-2967	or	_	
+13-88	2968-2973	other	_	
+13-89	2974-2982	research	_	
+13-90	2983-2992	regarding	_	
+13-91	2993-3003	aggregated	_	
+13-92	3004-3011	traffic	_	
+13-93	3012-3020	patterns	_	
+13-94	3021-3022	(	_	
+13-95	3022-3025	for	_	
+13-96	3026-3034	instance	_	
+13-97	3034-3035	,	_	
+13-98	3036-3037	a	_	
+13-99	3038-3045	company	_	
+13-100	3046-3050	that	_	
+13-101	3051-3059	analyzes	_	
+13-102	3060-3068	shopping	_	
+13-103	3069-3075	trends	_	
+13-104	3076-3081	might	_	
+13-105	3082-3086	want	_	
+13-106	3087-3089	to	_	
+13-107	3090-3095	learn	_	
+13-108	3096-3103	whether	_	
+13-109	3104-3108	more	_	
+13-110	3109-3111	or	_	
+13-111	3112-3117	fewer	_	
+13-112	3118-3125	devices	_	
+13-113	3126-3129	are	_	
+13-114	3130-3134	seen	_	
+13-115	3135-3139	near	_	
+13-116	3140-3145	malls	_	
+13-117	3146-3148	or	_	
+13-118	3149-3151	in	_	
+13-119	3152-3157	other	_	
+13-120	3158-3166	shopping	_	
+13-121	3167-3176	districts	_	
+13-122	3176-3177	)	_	
+13-123	3177-3178	.	_	
+
+#Text=Sense360\r
+#Text=California Users: If you are located in California, then under the CCPA, you have a right to opt-out of the collection of your information.
+14-1	3180-3188	Sense360	_	
+14-2	3190-3200	California	_	
+14-3	3201-3206	Users	_	
+14-4	3206-3207	:	_	
+14-5	3208-3210	If	_	
+14-6	3211-3214	you	_	
+14-7	3215-3218	are	_	
+14-8	3219-3226	located	_	
+14-9	3227-3229	in	_	
+14-10	3230-3240	California	_	
+14-11	3240-3241	,	_	
+14-12	3242-3246	then	_	
+14-13	3247-3252	under	_	
+14-14	3253-3256	the	_	
+14-15	3257-3261	CCPA	_	
+14-16	3261-3262	,	_	
+14-17	3263-3266	you	_	
+14-18	3267-3271	have	_	
+14-19	3272-3273	a	_	
+14-20	3274-3279	right	_	
+14-21	3280-3282	to	_	
+14-22	3283-3290	opt-out	_	
+14-23	3291-3293	of	_	
+14-24	3294-3297	the	_	
+14-25	3298-3308	collection	_	
+14-26	3309-3311	of	_	
+14-27	3312-3316	your	_	
+14-28	3317-3328	information	_	
+14-29	3328-3329	.	_	
+
+#Text=Sense360 does not “sell” and in the past 12 months have not “sold” any “personal information” they have collected from a Sense360 Enabled App, as those terms are defined under the CCPA.
+15-1	3330-3338	Sense360	_	
+15-2	3339-3343	does	_	
+15-3	3344-3347	not	_	
+15-4	3348-3349	“	_	
+15-5	3349-3353	sell	_	
+15-6	3353-3354	”	_	
+15-7	3355-3358	and	_	
+15-8	3359-3361	in	_	
+15-9	3362-3365	the	_	
+15-10	3366-3370	past	_	
+15-11	3371-3373	12	_	
+15-12	3374-3380	months	_	
+15-13	3381-3385	have	_	
+15-14	3386-3389	not	_	
+15-15	3390-3391	“	_	
+15-16	3391-3395	sold	_	
+15-17	3395-3396	”	_	
+15-18	3397-3400	any	_	
+15-19	3401-3402	“	_	
+15-20	3402-3410	personal	_	
+15-21	3411-3422	information	_	
+15-22	3422-3423	”	_	
+15-23	3424-3428	they	_	
+15-24	3429-3433	have	_	
+15-25	3434-3443	collected	_	
+15-26	3444-3448	from	_	
+15-27	3449-3450	a	_	
+15-28	3451-3459	Sense360	_	
+15-29	3460-3467	Enabled	_	
+15-30	3468-3471	App	_	
+15-31	3471-3472	,	_	
+15-32	3473-3475	as	_	
+15-33	3476-3481	those	_	
+15-34	3482-3487	terms	_	
+15-35	3488-3491	are	_	
+15-36	3492-3499	defined	_	
+15-37	3500-3505	under	_	
+15-38	3506-3509	the	_	
+15-39	3510-3514	CCPA	_	
+15-40	3514-3515	.	_	
+
+#Text=To opt-out, please head over to Sense360’s “Opt-out” Form.
+16-1	3516-3518	To	_	
+16-2	3519-3526	opt-out	_	
+16-3	3526-3527	,	_	
+16-4	3528-3534	please	_	
+16-5	3535-3539	head	_	
+16-6	3540-3544	over	_	
+16-7	3545-3547	to	_	
+16-8	3548-3556	Sense360	_	
+16-9	3556-3557	’	_	
+16-10	3557-3558	s	_	
+16-11	3559-3560	“	_	
+16-12	3560-3567	Opt-out	_	
+16-13	3567-3568	”	_	
+16-14	3569-3573	Form	_	
+16-15	3573-3574	.	_	
+
+#Text=For users in North America, some of Zen Labs LLC’s apps may share your device’s precise geolocation and other details about your device (like hardware characteristics, a variety of sensor data, and a list of installed third-party applications) with our partner Sense360 on an ongoing basis, including when the apps are closed.
+17-1	3576-3579	For	_	
+17-2	3580-3585	users	_	
+17-3	3586-3588	in	_	
+17-4	3589-3594	North	_	
+17-5	3595-3602	America	_	
+17-6	3602-3603	,	_	
+17-7	3604-3608	some	_	
+17-8	3609-3611	of	_	
+17-9	3612-3615	Zen	_	
+17-10	3616-3620	Labs	_	
+17-11	3621-3624	LLC	_	
+17-12	3624-3625	’	_	
+17-13	3625-3626	s	_	
+17-14	3627-3631	apps	_	
+17-15	3632-3635	may	_	
+17-16	3636-3641	share	_	
+17-17	3642-3646	your	_	
+17-18	3647-3653	device	_	
+17-19	3653-3654	’	_	
+17-20	3654-3655	s	_	
+17-21	3656-3663	precise	_	
+17-22	3664-3675	geolocation	_	
+17-23	3676-3679	and	_	
+17-24	3680-3685	other	_	
+17-25	3686-3693	details	_	
+17-26	3694-3699	about	_	
+17-27	3700-3704	your	_	
+17-28	3705-3711	device	_	
+17-29	3712-3713	(	_	
+17-30	3713-3717	like	_	
+17-31	3718-3726	hardware	_	
+17-32	3727-3742	characteristics	_	
+17-33	3742-3743	,	_	
+17-34	3744-3745	a	_	
+17-35	3746-3753	variety	_	
+17-36	3754-3756	of	_	
+17-37	3757-3763	sensor	_	
+17-38	3764-3768	data	_	
+17-39	3768-3769	,	_	
+17-40	3770-3773	and	_	
+17-41	3774-3775	a	_	
+17-42	3776-3780	list	_	
+17-43	3781-3783	of	_	
+17-44	3784-3793	installed	_	
+17-45	3794-3805	third-party	_	
+17-46	3806-3818	applications	_	
+17-47	3818-3819	)	_	
+17-48	3820-3824	with	_	
+17-49	3825-3828	our	_	
+17-50	3829-3836	partner	_	
+17-51	3837-3845	Sense360	_	
+17-52	3846-3848	on	_	
+17-53	3849-3851	an	_	
+17-54	3852-3859	ongoing	_	
+17-55	3860-3865	basis	_	
+17-56	3865-3866	,	_	
+17-57	3867-3876	including	_	
+17-58	3877-3881	when	_	
+17-59	3882-3885	the	_	
+17-60	3886-3890	apps	_	
+17-61	3891-3894	are	_	
+17-62	3895-3901	closed	_	
+17-63	3901-3902	.	_	
+
+#Text=This information is sent with the device’s advertising identifier or another unique device-specific code.
+18-1	3903-3907	This	_	
+18-2	3908-3919	information	_	
+18-3	3920-3922	is	_	
+18-4	3923-3927	sent	_	
+18-5	3928-3932	with	_	
+18-6	3933-3936	the	_	
+18-7	3937-3943	device	_	
+18-8	3943-3944	’	_	
+18-9	3944-3945	s	_	
+18-10	3946-3957	advertising	_	
+18-11	3958-3968	identifier	_	
+18-12	3969-3971	or	_	
+18-13	3972-3979	another	_	
+18-14	3980-3986	unique	_	
+18-15	3987-4002	device-specific	_	
+18-16	4003-4007	code	_	
+18-17	4007-4008	.	_	
+
+#Text=Sense360 may use all of this information for market research and other research regarding aggregated patterns, and as further described in its Privacy Policy, which has more detail on the entire process.
+19-1	4009-4017	Sense360	_	
+19-2	4018-4021	may	_	
+19-3	4022-4025	use	_	
+19-4	4026-4029	all	_	
+19-5	4030-4032	of	_	
+19-6	4033-4037	this	_	
+19-7	4038-4049	information	_	
+19-8	4050-4053	for	_	
+19-9	4054-4060	market	_	
+19-10	4061-4069	research	_	
+19-11	4070-4073	and	_	
+19-12	4074-4079	other	_	
+19-13	4080-4088	research	_	
+19-14	4089-4098	regarding	_	
+19-15	4099-4109	aggregated	_	
+19-16	4110-4118	patterns	_	
+19-17	4118-4119	,	_	
+19-18	4120-4123	and	_	
+19-19	4124-4126	as	_	
+19-20	4127-4134	further	_	
+19-21	4135-4144	described	_	
+19-22	4145-4147	in	_	
+19-23	4148-4151	its	_	
+19-24	4152-4159	Privacy	_	
+19-25	4160-4166	Policy	_	
+19-26	4166-4167	,	_	
+19-27	4168-4173	which	_	
+19-28	4174-4177	has	_	
+19-29	4178-4182	more	_	
+19-30	4183-4189	detail	_	
+19-31	4190-4192	on	_	
+19-32	4193-4196	the	_	
+19-33	4197-4203	entire	_	
+19-34	4204-4211	process	_	
+19-35	4211-4212	.	_	
+
+#Text=For example, Sense360 analyzes restaurant visit trends to help their clients create new food and coupon offerings to better serve customers’ needs.
+20-1	4213-4216	For	_	
+20-2	4217-4224	example	_	
+20-3	4224-4225	,	_	
+20-4	4226-4234	Sense360	_	
+20-5	4235-4243	analyzes	_	
+20-6	4244-4254	restaurant	_	
+20-7	4255-4260	visit	_	
+20-8	4261-4267	trends	_	
+20-9	4268-4270	to	_	
+20-10	4271-4275	help	_	
+20-11	4276-4281	their	_	
+20-12	4282-4289	clients	_	
+20-13	4290-4296	create	_	
+20-14	4297-4300	new	_	
+20-15	4301-4305	food	_	
+20-16	4306-4309	and	_	
+20-17	4310-4316	coupon	_	
+20-18	4317-4326	offerings	_	
+20-19	4327-4329	to	_	
+20-20	4330-4336	better	_	
+20-21	4337-4342	serve	_	
+20-22	4343-4352	customers	_	
+20-23	4352-4353	’	_	
+20-24	4354-4359	needs	_	
+20-25	4359-4360	.	_	
+
+#Text=You can use your device settings to (i) disable or limit precise geolocation collection for the entire device or particular apps, which may affect the functionality of certain app features and/or (ii) disable or limit use of the advertising identifier (which will block that identifier’s transmission to Sense360).
+21-1	4361-4364	You	_	
+21-2	4365-4368	can	_	
+21-3	4369-4372	use	_	
+21-4	4373-4377	your	_	
+21-5	4378-4384	device	_	
+21-6	4385-4393	settings	_	
+21-7	4394-4396	to	_	
+21-8	4397-4398	(	_	
+21-9	4398-4399	i	_	
+21-10	4399-4400	)	_	
+21-11	4401-4408	disable	_	
+21-12	4409-4411	or	_	
+21-13	4412-4417	limit	_	
+21-14	4418-4425	precise	_	
+21-15	4426-4437	geolocation	_	
+21-16	4438-4448	collection	_	
+21-17	4449-4452	for	_	
+21-18	4453-4456	the	_	
+21-19	4457-4463	entire	_	
+21-20	4464-4470	device	_	
+21-21	4471-4473	or	_	
+21-22	4474-4484	particular	_	
+21-23	4485-4489	apps	_	
+21-24	4489-4490	,	_	
+21-25	4491-4496	which	_	
+21-26	4497-4500	may	_	
+21-27	4501-4507	affect	_	
+21-28	4508-4511	the	_	
+21-29	4512-4525	functionality	_	
+21-30	4526-4528	of	_	
+21-31	4529-4536	certain	_	
+21-32	4537-4540	app	_	
+21-33	4541-4549	features	_	
+21-34	4550-4553	and	_	
+21-35	4553-4554	/	_	
+21-36	4554-4556	or	_	
+21-37	4557-4558	(	_	
+21-38	4558-4560	ii	_	
+21-39	4560-4561	)	_	
+21-40	4562-4569	disable	_	
+21-41	4570-4572	or	_	
+21-42	4573-4578	limit	_	
+21-43	4579-4582	use	_	
+21-44	4583-4585	of	_	
+21-45	4586-4589	the	_	
+21-46	4590-4601	advertising	_	
+21-47	4602-4612	identifier	_	
+21-48	4613-4614	(	_	
+21-49	4614-4619	which	_	
+21-50	4620-4624	will	_	
+21-51	4625-4630	block	_	
+21-52	4631-4635	that	_	
+21-53	4636-4646	identifier	_	
+21-54	4646-4647	’	_	
+21-55	4647-4648	s	_	
+21-56	4649-4661	transmission	_	
+21-57	4662-4664	to	_	
+21-58	4665-4673	Sense360	_	
+21-59	4673-4674	)	_	
+21-60	4674-4675	.	_	
+
+#Text=ADDENDUM FOR CALIFORNIA RESIDENT’S PRIVACY RIGHTS\r
+#Text=The California Consumer Privacy Act of 2018 (“CCPA”) provides certain rights to residents of California.
+22-1	4677-4685	ADDENDUM	_	
+22-2	4686-4689	FOR	_	
+22-3	4690-4700	CALIFORNIA	_	
+22-4	4701-4709	RESIDENT	_	
+22-5	4709-4710	’	_	
+22-6	4710-4711	S	_	
+22-7	4712-4719	PRIVACY	_	
+22-8	4720-4726	RIGHTS	_	
+22-9	4728-4731	The	_	
+22-10	4732-4742	California	_	
+22-11	4743-4751	Consumer	_	
+22-12	4752-4759	Privacy	_	
+22-13	4760-4763	Act	_	
+22-14	4764-4766	of	_	
+22-15	4767-4771	2018	_	
+22-16	4772-4773	(	_	
+22-17	4773-4774	“	_	
+22-18	4774-4778	CCPA	_	
+22-19	4778-4779	”	_	
+22-20	4779-4780	)	_	
+22-21	4781-4789	provides	_	
+22-22	4790-4797	certain	_	
+22-23	4798-4804	rights	_	
+22-24	4805-4807	to	_	
+22-25	4808-4817	residents	_	
+22-26	4818-4820	of	_	
+22-27	4821-4831	California	_	
+22-28	4831-4832	.	_	
+
+#Text=This section of the Privacy Policy applies if you are a natural person who is a resident of California (“California Consumer”) and uses our Services.
+23-1	4833-4837	This	_	
+23-2	4838-4845	section	_	
+23-3	4846-4848	of	_	
+23-4	4849-4852	the	_	
+23-5	4853-4860	Privacy	_	
+23-6	4861-4867	Policy	_	
+23-7	4868-4875	applies	_	
+23-8	4876-4878	if	_	
+23-9	4879-4882	you	_	
+23-10	4883-4886	are	_	
+23-11	4887-4888	a	_	
+23-12	4889-4896	natural	_	
+23-13	4897-4903	person	_	
+23-14	4904-4907	who	_	
+23-15	4908-4910	is	_	
+23-16	4911-4912	a	_	
+23-17	4913-4921	resident	_	
+23-18	4922-4924	of	_	
+23-19	4925-4935	California	_	
+23-20	4936-4937	(	_	
+23-21	4937-4938	“	_	
+23-22	4938-4948	California	_	
+23-23	4949-4957	Consumer	_	
+23-24	4957-4958	”	_	
+23-25	4958-4959	)	_	
+23-26	4960-4963	and	_	
+23-27	4964-4968	uses	_	
+23-28	4969-4972	our	_	
+23-29	4973-4981	Services	_	
+23-30	4981-4982	.	_	
+
+#Text=This Addendum supplements the information in the Privacy Policy.
+24-1	4983-4987	This	_	
+24-2	4988-4996	Addendum	_	
+24-3	4997-5008	supplements	_	
+24-4	5009-5012	the	_	
+24-5	5013-5024	information	_	
+24-6	5025-5027	in	_	
+24-7	5028-5031	the	_	
+24-8	5032-5039	Privacy	_	
+24-9	5040-5046	Policy	_	
+24-10	5046-5047	.	_	
+
+#Text=However, this Addendum is intended solely for, and is applicable only as to, California Consumers: if you are not a California Consumer (or a resident of California), this does not apply to you and you should not rely on it.
+25-1	5048-5055	However	_	
+25-2	5055-5056	,	_	
+25-3	5057-5061	this	_	
+25-4	5062-5070	Addendum	_	
+25-5	5071-5073	is	_	
+25-6	5074-5082	intended	_	
+25-7	5083-5089	solely	_	
+25-8	5090-5093	for	_	
+25-9	5093-5094	,	_	
+25-10	5095-5098	and	_	
+25-11	5099-5101	is	_	
+25-12	5102-5112	applicable	_	
+25-13	5113-5117	only	_	
+25-14	5118-5120	as	_	
+25-15	5121-5123	to	_	
+25-16	5123-5124	,	_	
+25-17	5125-5135	California	_	
+25-18	5136-5145	Consumers	_	
+25-19	5145-5146	:	_	
+25-20	5147-5149	if	_	
+25-21	5150-5153	you	_	
+25-22	5154-5157	are	_	
+25-23	5158-5161	not	_	
+25-24	5162-5163	a	_	
+25-25	5164-5174	California	_	
+25-26	5175-5183	Consumer	_	
+25-27	5184-5185	(	_	
+25-28	5185-5187	or	_	
+25-29	5188-5189	a	_	
+25-30	5190-5198	resident	_	
+25-31	5199-5201	of	_	
+25-32	5202-5212	California	_	
+25-33	5212-5213	)	_	
+25-34	5213-5214	,	_	
+25-35	5215-5219	this	_	
+25-36	5220-5224	does	_	
+25-37	5225-5228	not	_	
+25-38	5229-5234	apply	_	
+25-39	5235-5237	to	_	
+25-40	5238-5241	you	_	
+25-41	5242-5245	and	_	
+25-42	5246-5249	you	_	
+25-43	5250-5256	should	_	
+25-44	5257-5260	not	_	
+25-45	5261-5265	rely	_	
+25-46	5266-5268	on	_	
+25-47	5269-5271	it	_	
+25-48	5271-5272	.	_	
+
+#Text=In the below tables and sections, we describe (as required by the CCPA):\r
+#Text=1.
+26-1	5274-5276	In	_	
+26-2	5277-5280	the	_	
+26-3	5281-5286	below	_	
+26-4	5287-5293	tables	_	
+26-5	5294-5297	and	_	
+26-6	5298-5306	sections	_	
+26-7	5306-5307	,	_	
+26-8	5308-5310	we	_	
+26-9	5311-5319	describe	_	
+26-10	5320-5321	(	_	
+26-11	5321-5323	as	_	
+26-12	5324-5332	required	_	
+26-13	5333-5335	by	_	
+26-14	5336-5339	the	_	
+26-15	5340-5344	CCPA	_	
+26-16	5344-5345	)	_	
+26-17	5345-5346	:	_	
+26-18	5348-5349	1	_	
+26-19	5349-5350	.	_	
+
+#Text=The Categories of Personal Information we Collect, Use, and Share with Third Parties\r
+#Text=2.
+27-1	5351-5354	The	_	
+27-2	5355-5365	Categories	_	
+27-3	5366-5368	of	_	
+27-4	5369-5377	Personal	_	
+27-5	5378-5389	Information	_	
+27-6	5390-5392	we	_	
+27-7	5393-5400	Collect	_	
+27-8	5400-5401	,	_	
+27-9	5402-5405	Use	_	
+27-10	5405-5406	,	_	
+27-11	5407-5410	and	_	
+27-12	5411-5416	Share	_	
+27-13	5417-5421	with	_	
+27-14	5422-5427	Third	_	
+27-15	5428-5435	Parties	_	
+27-16	5437-5438	2	_	
+27-17	5438-5439	.	_	
+
+#Text=Our Business Purposes for Collecting and Sharing Personal Information\r
+#Text=3.
+28-1	5440-5443	Our	_	
+28-2	5444-5452	Business	_	
+28-3	5453-5461	Purposes	_	
+28-4	5462-5465	for	_	
+28-5	5466-5476	Collecting	_	
+28-6	5477-5480	and	_	
+28-7	5481-5488	Sharing	_	
+28-8	5489-5497	Personal	_	
+28-9	5498-5509	Information	_	
+28-10	5511-5512	3	_	
+28-11	5512-5513	.	_	
+
+#Text=Your California Privacy Rights and Choices (Section 3)\r
+#Text=   1.
+29-1	5514-5518	Your	_	
+29-2	5519-5529	California	_	
+29-3	5530-5537	Privacy	_	
+29-4	5538-5544	Rights	_	
+29-5	5545-5548	and	_	
+29-6	5549-5556	Choices	_	
+29-7	5557-5558	(	_	
+29-8	5558-5565	Section	_	
+29-9	5566-5567	3	_	
+29-10	5567-5568	)	_	
+29-11	5573-5574	1	_	
+29-12	5574-5575	.	_	
+
+#Text=Right to Opt-out of the sale of your personal information\r
+#Text=   2.
+30-1	5576-5581	Right	_	
+30-2	5582-5584	to	_	
+30-3	5585-5592	Opt-out	_	
+30-4	5593-5595	of	_	
+30-5	5596-5599	the	_	
+30-6	5600-5604	sale	_	
+30-7	5605-5607	of	_	
+30-8	5608-5612	your	_	
+30-9	5613-5621	personal	_	
+30-10	5622-5633	information	_	
+30-11	5638-5639	2	_	
+30-12	5639-5640	.	_	
+
+#Text=Right to request Deletion of your personal information\r
+#Text=   3.
+31-1	5641-5646	Right	_	
+31-2	5647-5649	to	_	
+31-3	5650-5657	request	_	
+31-4	5658-5666	Deletion	_	
+31-5	5667-5669	of	_	
+31-6	5670-5674	your	_	
+31-7	5675-5683	personal	_	
+31-8	5684-5695	information	_	
+31-9	5700-5701	3	_	
+31-10	5701-5702	.	_	
+
+#Text=Right to request Access to your personal information\r
+#Text=   4.
+32-1	5703-5708	Right	_	
+32-2	5709-5711	to	_	
+32-3	5712-5719	request	_	
+32-4	5720-5726	Access	_	
+32-5	5727-5729	to	_	
+32-6	5730-5734	your	_	
+32-7	5735-5743	personal	_	
+32-8	5744-5755	information	_	
+32-9	5760-5761	4	_	
+32-10	5761-5762	.	_	
+
+#Text=Exercising Your Rights & Submitting a Verifiable Consumer Request\r
+#Text=   5.
+33-1	5763-5773	Exercising	_	
+33-2	5774-5778	Your	_	
+33-3	5779-5785	Rights	_	
+33-4	5786-5787	&	_	
+33-5	5788-5798	Submitting	_	
+33-6	5799-5800	a	_	
+33-7	5801-5811	Verifiable	_	
+33-8	5812-5820	Consumer	_	
+33-9	5821-5828	Request	_	
+33-10	5833-5834	5	_	
+33-11	5834-5835	.	_	
+
+#Text=Right to Nondiscrimination\r
+#Text=   6.
+34-1	5836-5841	Right	_	
+34-2	5842-5844	to	_	
+34-3	5845-5862	Nondiscrimination	_	
+34-4	5867-5868	6	_	
+34-5	5868-5869	.	_	
+
+#Text=Information about Persons Under 16 Years of Age\r
+#Text=   7.
+35-1	5870-5881	Information	_	
+35-2	5882-5887	about	_	
+35-3	5888-5895	Persons	_	
+35-4	5896-5901	Under	_	
+35-5	5902-5904	16	_	
+35-6	5905-5910	Years	_	
+35-7	5911-5913	of	_	
+35-8	5914-5917	Age	_	
+35-9	5922-5923	7	_	
+35-10	5923-5924	.	_	
+
+#Text=Authorized Agents\r
+#Text=The following sets forth the categories of information we collect and purposes for which we may use California Consumers’ personal information:\r
+#Text=   1.
+36-1	5925-5935	Authorized	_	
+36-2	5936-5942	Agents	_	
+36-3	5944-5947	The	_	
+36-4	5948-5957	following	_	
+36-5	5958-5962	sets	_	
+36-6	5963-5968	forth	_	
+36-7	5969-5972	the	_	
+36-8	5973-5983	categories	_	
+36-9	5984-5986	of	_	
+36-10	5987-5998	information	_	
+36-11	5999-6001	we	_	
+36-12	6002-6009	collect	_	
+36-13	6010-6013	and	_	
+36-14	6014-6022	purposes	_	
+36-15	6023-6026	for	_	
+36-16	6027-6032	which	_	
+36-17	6033-6035	we	_	
+36-18	6036-6039	may	_	
+36-19	6040-6043	use	_	
+36-20	6044-6054	California	_	
+36-21	6055-6064	Consumers	_	
+36-22	6064-6065	’	_	
+36-23	6066-6074	personal	_	
+36-24	6075-6086	information	_	
+36-25	6086-6087	:	_	
+36-26	6092-6093	1	_	
+36-27	6093-6094	.	_	
+
+#Text=OUR COLLECTION OF PERSONAL INFORMATION\r
+#Text=      * Depending on how you interact with us, we may collect about you the categories of information summarized in the table below.
+37-1	6095-6098	OUR	_	
+37-2	6099-6109	COLLECTION	_	
+37-3	6110-6112	OF	_	
+37-4	6113-6121	PERSONAL	_	
+37-5	6122-6133	INFORMATION	_	
+37-6	6141-6142	*	_	
+37-7	6143-6152	Depending	_	
+37-8	6153-6155	on	_	
+37-9	6156-6159	how	_	
+37-10	6160-6163	you	_	
+37-11	6164-6172	interact	_	
+37-12	6173-6177	with	_	
+37-13	6178-6180	us	_	
+37-14	6180-6181	,	_	
+37-15	6182-6184	we	_	
+37-16	6185-6188	may	_	
+37-17	6189-6196	collect	_	
+37-18	6197-6202	about	_	
+37-19	6203-6206	you	_	
+37-20	6207-6210	the	_	
+37-21	6211-6221	categories	_	
+37-22	6222-6224	of	_	
+37-23	6225-6236	information	_	
+37-24	6237-6247	summarized	_	
+37-25	6248-6250	in	_	
+37-26	6251-6254	the	_	
+37-27	6255-6260	table	_	
+37-28	6261-6266	below	_	
+37-29	6266-6267	.	_	
+
+#Text=The following tables describe:\r
+#Text=         1.
+38-1	6268-6271	The	_	
+38-2	6272-6281	following	_	
+38-3	6282-6288	tables	_	
+38-4	6289-6297	describe	_	
+38-5	6297-6298	:	_	
+38-6	6309-6310	1	_	
+38-7	6310-6311	.	_	
+
+#Text=Our Collection of Personal Information: the types of Personal Information that we collect and the types of sources we collect it from.
+39-1	6312-6315	Our	_	
+39-2	6316-6326	Collection	_	
+39-3	6327-6329	of	_	
+39-4	6330-6338	Personal	_	
+39-5	6339-6350	Information	_	
+39-6	6350-6351	:	_	
+39-7	6352-6355	the	_	
+39-8	6356-6361	types	_	
+39-9	6362-6364	of	_	
+39-10	6365-6373	Personal	_	
+39-11	6374-6385	Information	_	
+39-12	6386-6390	that	_	
+39-13	6391-6393	we	_	
+39-14	6394-6401	collect	_	
+39-15	6402-6405	and	_	
+39-16	6406-6409	the	_	
+39-17	6410-6415	types	_	
+39-18	6416-6418	of	_	
+39-19	6419-6426	sources	_	
+39-20	6427-6429	we	_	
+39-21	6430-6437	collect	_	
+39-22	6438-6440	it	_	
+39-23	6441-6445	from	_	
+39-24	6445-6446	.	_	
+
+#Text=“Personal Information” means information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.\r
+#Text=         2.
+40-1	6447-6448	“	_	
+40-2	6448-6456	Personal	_	
+40-3	6457-6468	Information	_	
+40-4	6468-6469	”	_	
+40-5	6470-6475	means	_	
+40-6	6476-6487	information	_	
+40-7	6488-6492	that	_	
+40-8	6493-6503	identifies	_	
+40-9	6503-6504	,	_	
+40-10	6505-6512	relates	_	
+40-11	6513-6515	to	_	
+40-12	6515-6516	,	_	
+40-13	6517-6526	describes	_	
+40-14	6526-6527	,	_	
+40-15	6528-6530	is	_	
+40-16	6531-6538	capable	_	
+40-17	6539-6541	of	_	
+40-18	6542-6547	being	_	
+40-19	6548-6558	associated	_	
+40-20	6559-6563	with	_	
+40-21	6563-6564	,	_	
+40-22	6565-6567	or	_	
+40-23	6568-6573	could	_	
+40-24	6574-6584	reasonably	_	
+40-25	6585-6587	be	_	
+40-26	6588-6594	linked	_	
+40-27	6594-6595	,	_	
+40-28	6596-6604	directly	_	
+40-29	6605-6607	or	_	
+40-30	6608-6618	indirectly	_	
+40-31	6618-6619	,	_	
+40-32	6620-6624	with	_	
+40-33	6625-6626	a	_	
+40-34	6627-6637	particular	_	
+40-35	6638-6646	consumer	_	
+40-36	6647-6649	or	_	
+40-37	6650-6659	household	_	
+40-38	6659-6660	.	_	
+40-39	6671-6672	2	_	
+40-40	6672-6673	.	_	
+
+#Text=Our Collection of Personal Information: the types of recipients and/or Third Parties to whom we disclose or sell Personal Information and have disclosed or sold Personal Information to within the past 12 months.\r
+#Text=         3.
+41-1	6674-6677	Our	_	
+41-2	6678-6688	Collection	_	
+41-3	6689-6691	of	_	
+41-4	6692-6700	Personal	_	
+41-5	6701-6712	Information	_	
+41-6	6712-6713	:	_	
+41-7	6714-6717	the	_	
+41-8	6718-6723	types	_	
+41-9	6724-6726	of	_	
+41-10	6727-6737	recipients	_	
+41-11	6738-6741	and	_	
+41-12	6741-6742	/	_	
+41-13	6742-6744	or	_	
+41-14	6745-6750	Third	_	
+41-15	6751-6758	Parties	_	
+41-16	6759-6761	to	_	
+41-17	6762-6766	whom	_	
+41-18	6767-6769	we	_	
+41-19	6770-6778	disclose	_	
+41-20	6779-6781	or	_	
+41-21	6782-6786	sell	_	
+41-22	6787-6795	Personal	_	
+41-23	6796-6807	Information	_	
+41-24	6808-6811	and	_	
+41-25	6812-6816	have	_	
+41-26	6817-6826	disclosed	_	
+41-27	6827-6829	or	_	
+41-28	6830-6834	sold	_	
+41-29	6835-6843	Personal	_	
+41-30	6844-6855	Information	_	
+41-31	6856-6858	to	_	
+41-32	6859-6865	within	_	
+41-33	6866-6869	the	_	
+41-34	6870-6874	past	_	
+41-35	6875-6877	12	_	
+41-36	6878-6884	months	_	
+41-37	6884-6885	.	_	
+41-38	6896-6897	3	_	
+41-39	6897-6898	.	_	
+
+#Text=Our Business Purposes: our business purposes for (a) collecting and (b) sharing Personal Information, which are generally the same.
+42-1	6899-6902	Our	_	
+42-2	6903-6911	Business	_	
+42-3	6912-6920	Purposes	_	
+42-4	6920-6921	:	_	
+42-5	6922-6925	our	_	
+42-6	6926-6934	business	_	
+42-7	6935-6943	purposes	_	
+42-8	6944-6947	for	_	
+42-9	6948-6949	(	_	
+42-10	6949-6950	a	_	
+42-11	6950-6951	)	_	
+42-12	6952-6962	collecting	_	
+42-13	6963-6966	and	_	
+42-14	6967-6968	(	_	
+42-15	6968-6969	b	_	
+42-16	6969-6970	)	_	
+42-17	6971-6978	sharing	_	
+42-18	6979-6987	Personal	_	
+42-19	6988-6999	Information	_	
+42-20	6999-7000	,	_	
+42-21	7001-7006	which	_	
+42-22	7007-7010	are	_	
+42-23	7011-7020	generally	_	
+42-24	7021-7024	the	_	
+42-25	7025-7029	same	_	
+42-26	7029-7030	.	_	
+
+#Text=All of the information below is subject to your Right to Access:\r
+#Text=Category: Identifiers (e.g., online identifiers; IP address; mobile ad identifiers, other online or advertising platform identifiers)We Currently Collect/Use this Category of Personal Information: YES The Sources we collect this Category of Personal Information from:\r
+#Text=   * Data analystics providers and data compilers\r
+#Text=   * Third party mobile applications and websites\r
+#Text=   * Customer Categories\r
+#Text=We Have “Sold” this Category of Personal Information in the Past 12 Months: YES This Category of Personal Information was shared with the following Categories of Third Parties for Business Purpose(s):\r
+#Text=* Data analystics providers and data compilers\r
+#Text=* Third party mobile applications and websites\r
+#Text=* Customer Categories\r
+#Text=We also may share any of the personal information we collect as follows:\r
+#Text=* Sharing for Legal Purposes: In addition, we may share personal information with third parties in order to: (a) comply with an official legal process or a regulatory investigation (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; and/or (d) protect the rights, property or personal safety of us, our platform, our customers, our agents and affiliates, its users and/or the public.
+43-1	7032-7035	All	_	
+43-2	7036-7038	of	_	
+43-3	7039-7042	the	_	
+43-4	7043-7054	information	_	
+43-5	7055-7060	below	_	
+43-6	7061-7063	is	_	
+43-7	7064-7071	subject	_	
+43-8	7072-7074	to	_	
+43-9	7075-7079	your	_	
+43-10	7080-7085	Right	_	
+43-11	7086-7088	to	_	
+43-12	7089-7095	Access	_	
+43-13	7095-7096	:	_	
+43-14	7098-7106	Category	_	
+43-15	7106-7107	:	_	
+43-16	7108-7119	Identifiers	_	
+43-17	7120-7121	(	_	
+43-18	7121-7124	e.g	_	
+43-19	7124-7125	.	_	
+43-20	7125-7126	,	_	
+43-21	7127-7133	online	_	
+43-22	7134-7145	identifiers	_	
+43-23	7145-7146	;	_	
+43-24	7147-7149	IP	_	
+43-25	7150-7157	address	_	
+43-26	7157-7158	;	_	
+43-27	7159-7165	mobile	_	
+43-28	7166-7168	ad	_	
+43-29	7169-7180	identifiers	_	
+43-30	7180-7181	,	_	
+43-31	7182-7187	other	_	
+43-32	7188-7194	online	_	
+43-33	7195-7197	or	_	
+43-34	7198-7209	advertising	_	
+43-35	7210-7218	platform	_	
+43-36	7219-7230	identifiers	_	
+43-37	7230-7231	)	_	
+43-38	7231-7233	We	_	
+43-39	7234-7243	Currently	_	
+43-40	7244-7251	Collect	_	
+43-41	7251-7252	/	_	
+43-42	7252-7255	Use	_	
+43-43	7256-7260	this	_	
+43-44	7261-7269	Category	_	
+43-45	7270-7272	of	_	
+43-46	7273-7281	Personal	_	
+43-47	7282-7293	Information	_	
+43-48	7293-7294	:	_	
+43-49	7295-7298	YES	_	
+43-50	7299-7302	The	_	
+43-51	7303-7310	Sources	_	
+43-52	7311-7313	we	_	
+43-53	7314-7321	collect	_	
+43-54	7322-7326	this	_	
+43-55	7327-7335	Category	_	
+43-56	7336-7338	of	_	
+43-57	7339-7347	Personal	_	
+43-58	7348-7359	Information	_	
+43-59	7360-7364	from	_	
+43-60	7364-7365	:	_	
+43-61	7370-7371	*	_	
+43-62	7372-7376	Data	_	
+43-63	7377-7387	analystics	_	
+43-64	7388-7397	providers	_	
+43-65	7398-7401	and	_	
+43-66	7402-7406	data	_	
+43-67	7407-7416	compilers	_	
+43-68	7421-7422	*	_	
+43-69	7423-7428	Third	_	
+43-70	7429-7434	party	_	
+43-71	7435-7441	mobile	_	
+43-72	7442-7454	applications	_	
+43-73	7455-7458	and	_	
+43-74	7459-7467	websites	_	
+43-75	7472-7473	*	_	
+43-76	7474-7482	Customer	_	
+43-77	7483-7493	Categories	_	
+43-78	7495-7497	We	_	
+43-79	7498-7502	Have	_	
+43-80	7503-7504	“	_	
+43-81	7504-7508	Sold	_	
+43-82	7508-7509	”	_	
+43-83	7510-7514	this	_	
+43-84	7515-7523	Category	_	
+43-85	7524-7526	of	_	
+43-86	7527-7535	Personal	_	
+43-87	7536-7547	Information	_	
+43-88	7548-7550	in	_	
+43-89	7551-7554	the	_	
+43-90	7555-7559	Past	_	
+43-91	7560-7562	12	_	
+43-92	7563-7569	Months	_	
+43-93	7569-7570	:	_	
+43-94	7571-7574	YES	_	
+43-95	7575-7579	This	_	
+43-96	7580-7588	Category	_	
+43-97	7589-7591	of	_	
+43-98	7592-7600	Personal	_	
+43-99	7601-7612	Information	_	
+43-100	7613-7616	was	_	
+43-101	7617-7623	shared	_	
+43-102	7624-7628	with	_	
+43-103	7629-7632	the	_	
+43-104	7633-7642	following	_	
+43-105	7643-7653	Categories	_	
+43-106	7654-7656	of	_	
+43-107	7657-7662	Third	_	
+43-108	7663-7670	Parties	_	
+43-109	7671-7674	for	_	
+43-110	7675-7683	Business	_	
+43-111	7684-7691	Purpose	_	
+43-112	7691-7692	(	_	
+43-113	7692-7693	s	_	
+43-114	7693-7694	)	_	
+43-115	7694-7695	:	_	
+43-116	7697-7698	*	_	
+43-117	7699-7703	Data	_	
+43-118	7704-7714	analystics	_	
+43-119	7715-7724	providers	_	
+43-120	7725-7728	and	_	
+43-121	7729-7733	data	_	
+43-122	7734-7743	compilers	_	
+43-123	7745-7746	*	_	
+43-124	7747-7752	Third	_	
+43-125	7753-7758	party	_	
+43-126	7759-7765	mobile	_	
+43-127	7766-7778	applications	_	
+43-128	7779-7782	and	_	
+43-129	7783-7791	websites	_	
+43-130	7793-7794	*	_	
+43-131	7795-7803	Customer	_	
+43-132	7804-7814	Categories	_	
+43-133	7816-7818	We	_	
+43-134	7819-7823	also	_	
+43-135	7824-7827	may	_	
+43-136	7828-7833	share	_	
+43-137	7834-7837	any	_	
+43-138	7838-7840	of	_	
+43-139	7841-7844	the	_	
+43-140	7845-7853	personal	_	
+43-141	7854-7865	information	_	
+43-142	7866-7868	we	_	
+43-143	7869-7876	collect	_	
+43-144	7877-7879	as	_	
+43-145	7880-7887	follows	_	
+43-146	7887-7888	:	_	
+43-147	7890-7891	*	_	
+43-148	7892-7899	Sharing	_	
+43-149	7900-7903	for	_	
+43-150	7904-7909	Legal	_	
+43-151	7910-7918	Purposes	_	
+43-152	7918-7919	:	_	
+43-153	7920-7922	In	_	
+43-154	7923-7931	addition	_	
+43-155	7931-7932	,	_	
+43-156	7933-7935	we	_	
+43-157	7936-7939	may	_	
+43-158	7940-7945	share	_	
+43-159	7946-7954	personal	_	
+43-160	7955-7966	information	_	
+43-161	7967-7971	with	_	
+43-162	7972-7977	third	_	
+43-163	7978-7985	parties	_	
+43-164	7986-7988	in	_	
+43-165	7989-7994	order	_	
+43-166	7995-7997	to	_	
+43-167	7997-7998	:	_	
+43-168	7999-8000	(	_	
+43-169	8000-8001	a	_	
+43-170	8001-8002	)	_	
+43-171	8003-8009	comply	_	
+43-172	8010-8014	with	_	
+43-173	8015-8017	an	_	
+43-174	8018-8026	official	_	
+43-175	8027-8032	legal	_	
+43-176	8033-8040	process	_	
+43-177	8041-8043	or	_	
+43-178	8044-8045	a	_	
+43-179	8046-8056	regulatory	_	
+43-180	8057-8070	investigation	_	
+43-181	8071-8072	(	_	
+43-182	8072-8075	e.g	_	
+43-183	8075-8076	.	_	
+43-184	8077-8078	a	_	
+43-185	8079-8087	subpoena	_	
+43-186	8088-8090	or	_	
+43-187	8091-8096	court	_	
+43-188	8097-8102	order	_	
+43-189	8102-8103	)	_	
+43-190	8103-8104	;	_	
+43-191	8105-8106	(	_	
+43-192	8106-8107	b	_	
+43-193	8107-8108	)	_	
+43-194	8109-8116	enforce	_	
+43-195	8117-8120	our	_	
+43-196	8121-8126	Terms	_	
+43-197	8127-8129	of	_	
+43-198	8130-8137	Service	_	
+43-199	8137-8138	,	_	
+43-200	8139-8143	this	_	
+43-201	8144-8151	Privacy	_	
+43-202	8152-8158	Policy	_	
+43-203	8158-8159	,	_	
+43-204	8160-8162	or	_	
+43-205	8163-8168	other	_	
+43-206	8169-8178	contracts	_	
+43-207	8179-8183	with	_	
+43-208	8184-8187	you	_	
+43-209	8187-8188	,	_	
+43-210	8189-8198	including	_	
+43-211	8199-8212	investigation	_	
+43-212	8213-8215	of	_	
+43-213	8216-8225	potential	_	
+43-214	8226-8236	violations	_	
+43-215	8237-8244	thereof	_	
+43-216	8244-8245	;	_	
+43-217	8246-8247	(	_	
+43-218	8247-8248	c	_	
+43-219	8248-8249	)	_	
+43-220	8250-8257	respond	_	
+43-221	8258-8260	to	_	
+43-222	8261-8267	claims	_	
+43-223	8268-8272	that	_	
+43-224	8273-8276	any	_	
+43-225	8277-8284	content	_	
+43-226	8285-8293	violates	_	
+43-227	8294-8297	the	_	
+43-228	8298-8304	rights	_	
+43-229	8305-8307	of	_	
+43-230	8308-8313	third	_	
+43-231	8314-8321	parties	_	
+43-232	8321-8322	;	_	
+43-233	8323-8326	and	_	
+43-234	8326-8327	/	_	
+43-235	8327-8329	or	_	
+43-236	8330-8331	(	_	
+43-237	8331-8332	d	_	
+43-238	8332-8333	)	_	
+43-239	8334-8341	protect	_	
+43-240	8342-8345	the	_	
+43-241	8346-8352	rights	_	
+43-242	8352-8353	,	_	
+43-243	8354-8362	property	_	
+43-244	8363-8365	or	_	
+43-245	8366-8374	personal	_	
+43-246	8375-8381	safety	_	
+43-247	8382-8384	of	_	
+43-248	8385-8387	us	_	
+43-249	8387-8388	,	_	
+43-250	8389-8392	our	_	
+43-251	8393-8401	platform	_	
+43-252	8401-8402	,	_	
+43-253	8403-8406	our	_	
+43-254	8407-8416	customers	_	
+43-255	8416-8417	,	_	
+43-256	8418-8421	our	_	
+43-257	8422-8428	agents	_	
+43-258	8429-8432	and	_	
+43-259	8433-8443	affiliates	_	
+43-260	8443-8444	,	_	
+43-261	8445-8448	its	_	
+43-262	8449-8454	users	_	
+43-263	8455-8458	and	_	
+43-264	8458-8459	/	_	
+43-265	8459-8461	or	_	
+43-266	8462-8465	the	_	
+43-267	8466-8472	public	_	
+43-268	8472-8473	.	_	
+
+#Text=We likewise may provide information to other companies and organizations (including law enforcement) for fraud protection, and spam/malware prevention, and similar purposes
+44-1	8474-8476	We	_	
+44-2	8477-8485	likewise	_	
+44-3	8486-8489	may	_	
+44-4	8490-8497	provide	_	
+44-5	8498-8509	information	_	
+44-6	8510-8512	to	_	
+44-7	8513-8518	other	_	
+44-8	8519-8528	companies	_	
+44-9	8529-8532	and	_	
+44-10	8533-8546	organizations	_	
+44-11	8547-8548	(	_	
+44-12	8548-8557	including	_	
+44-13	8558-8561	law	_	
+44-14	8562-8573	enforcement	_	
+44-15	8573-8574	)	_	
+44-16	8575-8578	for	_	
+44-17	8579-8584	fraud	_	
+44-18	8585-8595	protection	_	
+44-19	8595-8596	,	_	
+44-20	8597-8600	and	_	
+44-21	8601-8605	spam	_	
+44-22	8605-8606	/	_	
+44-23	8606-8613	malware	_	
+44-24	8614-8624	prevention	_	
+44-25	8624-8625	,	_	
+44-26	8626-8629	and	_	
+44-27	8630-8637	similar	_	
+44-28	8638-8646	purposes	_	
+
+#Text=.
+45-1	8646-8647	.	_	
+
+#Text=* Sharing In Event of a Corporate Transaction: We may also share personal information in the event of a major corporate transaction, including for example a merger, investment, acquisition, reorganization, consolidation, bankruptcy, liquidation, or sale of some or all of our assets, or for purposes of due diligence connected with any such transaction
+46-1	8649-8650	*	_	
+46-2	8651-8658	Sharing	_	
+46-3	8659-8661	In	_	
+46-4	8662-8667	Event	_	
+46-5	8668-8670	of	_	
+46-6	8671-8672	a	_	
+46-7	8673-8682	Corporate	_	
+46-8	8683-8694	Transaction	_	
+46-9	8694-8695	:	_	
+46-10	8696-8698	We	_	
+46-11	8699-8702	may	_	
+46-12	8703-8707	also	_	
+46-13	8708-8713	share	_	
+46-14	8714-8722	personal	_	
+46-15	8723-8734	information	_	
+46-16	8735-8737	in	_	
+46-17	8738-8741	the	_	
+46-18	8742-8747	event	_	
+46-19	8748-8750	of	_	
+46-20	8751-8752	a	_	
+46-21	8753-8758	major	_	
+46-22	8759-8768	corporate	_	
+46-23	8769-8780	transaction	_	
+46-24	8780-8781	,	_	
+46-25	8782-8791	including	_	
+46-26	8792-8795	for	_	
+46-27	8796-8803	example	_	
+46-28	8804-8805	a	_	
+46-29	8806-8812	merger	_	
+46-30	8812-8813	,	_	
+46-31	8814-8824	investment	_	
+46-32	8824-8825	,	_	
+46-33	8826-8837	acquisition	_	
+46-34	8837-8838	,	_	
+46-35	8839-8853	reorganization	_	
+46-36	8853-8854	,	_	
+46-37	8855-8868	consolidation	_	
+46-38	8868-8869	,	_	
+46-39	8870-8880	bankruptcy	_	
+46-40	8880-8881	,	_	
+46-41	8882-8893	liquidation	_	
+46-42	8893-8894	,	_	
+46-43	8895-8897	or	_	
+46-44	8898-8902	sale	_	
+46-45	8903-8905	of	_	
+46-46	8906-8910	some	_	
+46-47	8911-8913	or	_	
+46-48	8914-8917	all	_	
+46-49	8918-8920	of	_	
+46-50	8921-8924	our	_	
+46-51	8925-8931	assets	_	
+46-52	8931-8932	,	_	
+46-53	8933-8935	or	_	
+46-54	8936-8939	for	_	
+46-55	8940-8948	purposes	_	
+46-56	8949-8951	of	_	
+46-57	8952-8955	due	_	
+46-58	8956-8965	diligence	_	
+46-59	8966-8975	connected	_	
+46-60	8976-8980	with	_	
+46-61	8981-8984	any	_	
+46-62	8985-8989	such	_	
+46-63	8990-9001	transaction	_	
+
+#Text=.
+47-1	9001-9002	.	_	
+
+#Text=* Sharing With Service Providers: We share any personal information we collect with our service providers, which may include (for instance) providers involved in tech or customer support, operations, web or data hosting, billing, accounting, security, marketing, data management, validation, enhancement or hygiene, or otherwise assisting us to provide, develop, maintain and improve our services
+48-1	9004-9005	*	_	
+48-2	9006-9013	Sharing	_	
+48-3	9014-9018	With	_	
+48-4	9019-9026	Service	_	
+48-5	9027-9036	Providers	_	
+48-6	9036-9037	:	_	
+48-7	9038-9040	We	_	
+48-8	9041-9046	share	_	
+48-9	9047-9050	any	_	
+48-10	9051-9059	personal	_	
+48-11	9060-9071	information	_	
+48-12	9072-9074	we	_	
+48-13	9075-9082	collect	_	
+48-14	9083-9087	with	_	
+48-15	9088-9091	our	_	
+48-16	9092-9099	service	_	
+48-17	9100-9109	providers	_	
+48-18	9109-9110	,	_	
+48-19	9111-9116	which	_	
+48-20	9117-9120	may	_	
+48-21	9121-9128	include	_	
+48-22	9129-9130	(	_	
+48-23	9130-9133	for	_	
+48-24	9134-9142	instance	_	
+48-25	9142-9143	)	_	
+48-26	9144-9153	providers	_	
+48-27	9154-9162	involved	_	
+48-28	9163-9165	in	_	
+48-29	9166-9170	tech	_	
+48-30	9171-9173	or	_	
+48-31	9174-9182	customer	_	
+48-32	9183-9190	support	_	
+48-33	9190-9191	,	_	
+48-34	9192-9202	operations	_	
+48-35	9202-9203	,	_	
+48-36	9204-9207	web	_	
+48-37	9208-9210	or	_	
+48-38	9211-9215	data	_	
+48-39	9216-9223	hosting	_	
+48-40	9223-9224	,	_	
+48-41	9225-9232	billing	_	
+48-42	9232-9233	,	_	
+48-43	9234-9244	accounting	_	
+48-44	9244-9245	,	_	
+48-45	9246-9254	security	_	
+48-46	9254-9255	,	_	
+48-47	9256-9265	marketing	_	
+48-48	9265-9266	,	_	
+48-49	9267-9271	data	_	
+48-50	9272-9282	management	_	
+48-51	9282-9283	,	_	
+48-52	9284-9294	validation	_	
+48-53	9294-9295	,	_	
+48-54	9296-9307	enhancement	_	
+48-55	9308-9310	or	_	
+48-56	9311-9318	hygiene	_	
+48-57	9318-9319	,	_	
+48-58	9320-9322	or	_	
+48-59	9323-9332	otherwise	_	
+48-60	9333-9342	assisting	_	
+48-61	9343-9345	us	_	
+48-62	9346-9348	to	_	
+48-63	9349-9356	provide	_	
+48-64	9356-9357	,	_	
+48-65	9358-9365	develop	_	
+48-66	9365-9366	,	_	
+48-67	9367-9375	maintain	_	
+48-68	9376-9379	and	_	
+48-69	9380-9387	improve	_	
+48-70	9388-9391	our	_	
+48-71	9392-9400	services	_	
+
+#Text=.
+49-1	9400-9401	.	_	
+
+#Text=* Sharing of Aggregate Information: We may aggregate and/or de-identify any information collected so that such information can no longer be linked to you or your device (“Aggregate/De-Identified Information”).
+50-1	9403-9404	*	_	
+50-2	9405-9412	Sharing	_	
+50-3	9413-9415	of	_	
+50-4	9416-9425	Aggregate	_	
+50-5	9426-9437	Information	_	
+50-6	9437-9438	:	_	
+50-7	9439-9441	We	_	
+50-8	9442-9445	may	_	
+50-9	9446-9455	aggregate	_	
+50-10	9456-9459	and	_	
+50-11	9459-9460	/	_	
+50-12	9460-9462	or	_	
+50-13	9463-9474	de-identify	_	
+50-14	9475-9478	any	_	
+50-15	9479-9490	information	_	
+50-16	9491-9500	collected	_	
+50-17	9501-9503	so	_	
+50-18	9504-9508	that	_	
+50-19	9509-9513	such	_	
+50-20	9514-9525	information	_	
+50-21	9526-9529	can	_	
+50-22	9530-9532	no	_	
+50-23	9533-9539	longer	_	
+50-24	9540-9542	be	_	
+50-25	9543-9549	linked	_	
+50-26	9550-9552	to	_	
+50-27	9553-9556	you	_	
+50-28	9557-9559	or	_	
+50-29	9560-9564	your	_	
+50-30	9565-9571	device	_	
+50-31	9572-9573	(	_	
+50-32	9573-9574	“	_	
+50-33	9574-9583	Aggregate	_	
+50-34	9583-9584	/	_	
+50-35	9584-9597	De-Identified	_	
+50-36	9598-9609	Information	_	
+50-37	9609-9610	”	_	
+50-38	9610-9611	)	_	
+50-39	9611-9612	.	_	
+
+#Text=We may use Aggregate/De-Identified Information for any purpose, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors, in our discretion.
+51-1	9613-9615	We	_	
+51-2	9616-9619	may	_	
+51-3	9620-9623	use	_	
+51-4	9624-9633	Aggregate	_	
+51-5	9633-9634	/	_	
+51-6	9634-9647	De-Identified	_	
+51-7	9648-9659	Information	_	
+51-8	9660-9663	for	_	
+51-9	9664-9667	any	_	
+51-10	9668-9675	purpose	_	
+51-11	9675-9676	,	_	
+51-12	9677-9686	including	_	
+51-13	9687-9694	without	_	
+51-14	9695-9705	limitation	_	
+51-15	9706-9709	for	_	
+51-16	9710-9718	research	_	
+51-17	9719-9722	and	_	
+51-18	9723-9732	marketing	_	
+51-19	9733-9741	purposes	_	
+51-20	9741-9742	,	_	
+51-21	9743-9746	and	_	
+51-22	9747-9750	may	_	
+51-23	9751-9755	also	_	
+51-24	9756-9761	share	_	
+51-25	9762-9766	such	_	
+51-26	9767-9771	data	_	
+51-27	9772-9776	with	_	
+51-28	9777-9780	any	_	
+51-29	9781-9786	third	_	
+51-30	9787-9794	parties	_	
+51-31	9794-9795	,	_	
+51-32	9796-9805	including	_	
+51-33	9806-9817	advertisers	_	
+51-34	9817-9818	,	_	
+51-35	9819-9830	promotional	_	
+51-36	9831-9839	partners	_	
+51-37	9839-9840	,	_	
+51-38	9841-9844	and	_	
+51-39	9845-9853	sponsors	_	
+51-40	9853-9854	,	_	
+51-41	9855-9857	in	_	
+51-42	9858-9861	our	_	
+51-43	9862-9872	discretion	_	
+51-44	9872-9873	.	_	
+
+#Text=Outlogic & Trusted Partners\r
+#Text=* Adder\r
+#Text=\t* Adform\r
+#Text=\t* Adobe\r
+#Text=\t* AdSquare\r
+#Text=\t* Advan Research Company\r
+#Text=\t* Affinity Answers\r
+#Text=\t* AirSage\r
+#Text=\t* Amazon\r
+#Text=\t* Amazon Web Services – AWS Offerings\r
+#Text=\t* Amobee\r
+#Text=\t* Analytic Services LLC dba Culmen International\r
+#Text=\t* AppliedPost\r
+#Text=\t* AppNexus Inc
+52-1	9875-9883	Outlogic	_	
+52-2	9884-9885	&	_	
+52-3	9886-9893	Trusted	_	
+52-4	9894-9902	Partners	_	
+52-5	9904-9905	*	_	
+52-6	9906-9911	Adder	_	
+52-7	9914-9915	*	_	
+52-8	9916-9922	Adform	_	
+52-9	9925-9926	*	_	
+52-10	9927-9932	Adobe	_	
+52-11	9935-9936	*	_	
+52-12	9937-9945	AdSquare	_	
+52-13	9948-9949	*	_	
+52-14	9950-9955	Advan	_	
+52-15	9956-9964	Research	_	
+52-16	9965-9972	Company	_	
+52-17	9975-9976	*	_	
+52-18	9977-9985	Affinity	_	
+52-19	9986-9993	Answers	_	
+52-20	9996-9997	*	_	
+52-21	9998-10005	AirSage	_	
+52-22	10008-10009	*	_	
+52-23	10010-10016	Amazon	_	
+52-24	10019-10020	*	_	
+52-25	10021-10027	Amazon	_	
+52-26	10028-10031	Web	_	
+52-27	10032-10040	Services	_	
+52-28	10041-10042	–	_	
+52-29	10043-10046	AWS	_	
+52-30	10047-10056	Offerings	_	
+52-31	10059-10060	*	_	
+52-32	10061-10067	Amobee	_	
+52-33	10070-10071	*	_	
+52-34	10072-10080	Analytic	_	
+52-35	10081-10089	Services	_	
+52-36	10090-10093	LLC	_	
+52-37	10094-10097	dba	_	
+52-38	10098-10104	Culmen	_	
+52-39	10105-10118	International	_	
+52-40	10121-10122	*	_	
+52-41	10123-10134	AppliedPost	_	
+52-42	10137-10138	*	_	
+52-43	10139-10147	AppNexus	_	
+52-44	10148-10151	Inc	_	
+
+#Text=.
+53-1	10151-10152	.	_	
+
+#Text=* Arrivalist\r
+#Text=\t* AT&T\r
+#Text=\t* Atlassian\r
+#Text=\t* AWS\r
+#Text=\t* BattleFin\r
+#Text=\t* Bazze\r
+#Text=\t* Billups\r
+#Text=\t* Blis\r
+#Text=\t* Block by Block\r
+#Text=\t* Blogwatcher Inc
+54-1	10155-10156	*	_	
+54-2	10157-10167	Arrivalist	_	
+54-3	10170-10171	*	_	
+54-4	10172-10174	AT	_	
+54-5	10174-10175	&	_	
+54-6	10175-10176	T	_	
+54-7	10179-10180	*	_	
+54-8	10181-10190	Atlassian	_	
+54-9	10193-10194	*	_	
+54-10	10195-10198	AWS	_	
+54-11	10201-10202	*	_	
+54-12	10203-10212	BattleFin	_	
+54-13	10215-10216	*	_	
+54-14	10217-10222	Bazze	_	
+54-15	10225-10226	*	_	
+54-16	10227-10234	Billups	_	
+54-17	10237-10238	*	_	
+54-18	10239-10243	Blis	_	
+54-19	10246-10247	*	_	
+54-20	10248-10253	Block	_	
+54-21	10254-10256	by	_	
+54-22	10257-10262	Block	_	
+54-23	10265-10266	*	_	
+54-24	10267-10278	Blogwatcher	_	
+54-25	10279-10282	Inc	_	
+
+#Text=.
+55-1	10282-10283	.	_	
+
+#Text=* CACI\r
+#Text=\t* Carbon Reach\r
+#Text=\t* CARTO\r
+#Text=* Camber Systems\r
+#Text=\t* Cisco Systems, Inc.
+56-1	10286-10287	*	_	
+56-2	10288-10292	CACI	_	
+56-3	10295-10296	*	_	
+56-4	10297-10303	Carbon	_	
+56-5	10304-10309	Reach	_	
+56-6	10312-10313	*	_	
+56-7	10314-10319	CARTO	_	
+56-8	10321-10322	*	_	
+56-9	10323-10329	Camber	_	
+56-10	10330-10337	Systems	_	
+56-11	10340-10341	*	_	
+56-12	10342-10347	Cisco	_	
+56-13	10348-10355	Systems	_	
+56-14	10355-10356	,	_	
+56-15	10357-10360	Inc	_	
+56-16	10360-10361	.	_	
+
+#Text=(Meraki LLC)\r
+#Text=\t* Civilia\r
+#Text=\t* Clear Channel\r
+#Text=\t* Complementics\r
+#Text=\t* Connected2Fiber, Inc\r
+#Text=\t* Crossover Communications Ltd
+57-1	10362-10363	(	_	
+57-2	10363-10369	Meraki	_	
+57-3	10370-10373	LLC	_	
+57-4	10373-10374	)	_	
+57-5	10377-10378	*	_	
+57-6	10379-10386	Civilia	_	
+57-7	10389-10390	*	_	
+57-8	10391-10396	Clear	_	
+57-9	10397-10404	Channel	_	
+57-10	10407-10408	*	_	
+57-11	10409-10422	Complementics	_	
+57-12	10425-10426	*	_	
+57-13	10427-10442	Connected2Fiber	_	
+57-14	10442-10443	,	_	
+57-15	10444-10447	Inc	_	
+57-16	10450-10451	*	_	
+57-17	10452-10461	Crossover	_	
+57-18	10462-10476	Communications	_	
+57-19	10477-10480	Ltd	_	
+
+#Text=.
+58-1	10480-10481	.	_	
+
+#Text=* Crux\r
+#Text=\t* Cuende\r
+#Text=\t* DDQI\r
+#Text=\t* Descartes Labs, Inc
+59-1	10483-10484	*	_	
+59-2	10485-10489	Crux	_	
+59-3	10492-10493	*	_	
+59-4	10494-10500	Cuende	_	
+59-5	10503-10504	*	_	
+59-6	10505-10509	DDQI	_	
+59-7	10512-10513	*	_	
+59-8	10514-10523	Descartes	_	
+59-9	10524-10528	Labs	_	
+59-10	10528-10529	,	_	
+59-11	10530-10533	Inc	_	
+
+#Text=.
+60-1	10533-10534	.	_	
+
+#Text=* Digital Envoy\r
+#Text=\t* Ecopia Tech\r
+#Text=* Eyeota \r
+#Text=\t* Facebook\r
+#Text=\t* Factual\r
+#Text=\t* GEOBLINK SL\r
+#Text=\t* GeoUniq\r
+#Text=\t* Google\r
+#Text=\t* GroundTruth\r
+#Text=\t* Gyana\r
+#Text=\t* HERE Technologies\r
+#Text=\t* Hubspot\r
+#Text=\t* Hyas\r
+#Text=\t* Infinia Mobile\r
+#Text=\t* InMarket\r
+#Text=\t* Intersection\r
+#Text=\t* JCDecaux UK Limited\r
+#Text=\t* JLL\r
+#Text=\t* Jorte\r
+#Text=\t* Kairos Fire\r
+#Text=\t* Kalibrate\r
+#Text=\t* Kantar Media\r
+#Text=\t* Kisio Consulting\r
+#Text=\t* Liveramp\r
+#Text=\t* Location Sciences\r
+#Text=\t* Locomizer\r
+#Text=\t* LoopMe\r
+#Text=\t* Lotame\r
+#Text=\t* M1 Data and Analytics\r
+#Text=\t* Macefusion\r
+#Text=\t* Market Services Inc.
+61-1	10537-10538	*	_	
+61-2	10539-10546	Digital	_	
+61-3	10547-10552	Envoy	_	
+61-4	10555-10556	*	_	
+61-5	10557-10563	Ecopia	_	
+61-6	10564-10568	Tech	_	
+61-7	10570-10571	*	_	
+61-8	10572-10578	Eyeota	_	
+61-9	10582-10583	*	_	
+61-10	10584-10592	Facebook	_	
+61-11	10595-10596	*	_	
+61-12	10597-10604	Factual	_	
+61-13	10607-10608	*	_	
+61-14	10609-10617	GEOBLINK	_	
+61-15	10618-10620	SL	_	
+61-16	10623-10624	*	_	
+61-17	10625-10632	GeoUniq	_	
+61-18	10635-10636	*	_	
+61-19	10637-10643	Google	_	
+61-20	10646-10647	*	_	
+61-21	10648-10659	GroundTruth	_	
+61-22	10662-10663	*	_	
+61-23	10664-10669	Gyana	_	
+61-24	10672-10673	*	_	
+61-25	10674-10678	HERE	_	
+61-26	10679-10691	Technologies	_	
+61-27	10694-10695	*	_	
+61-28	10696-10703	Hubspot	_	
+61-29	10706-10707	*	_	
+61-30	10708-10712	Hyas	_	
+61-31	10715-10716	*	_	
+61-32	10717-10724	Infinia	_	
+61-33	10725-10731	Mobile	_	
+61-34	10734-10735	*	_	
+61-35	10736-10744	InMarket	_	
+61-36	10747-10748	*	_	
+61-37	10749-10761	Intersection	_	
+61-38	10764-10765	*	_	
+61-39	10766-10774	JCDecaux	_	
+61-40	10775-10777	UK	_	
+61-41	10778-10785	Limited	_	
+61-42	10788-10789	*	_	
+61-43	10790-10793	JLL	_	
+61-44	10796-10797	*	_	
+61-45	10798-10803	Jorte	_	
+61-46	10806-10807	*	_	
+61-47	10808-10814	Kairos	_	
+61-48	10815-10819	Fire	_	
+61-49	10822-10823	*	_	
+61-50	10824-10833	Kalibrate	_	
+61-51	10836-10837	*	_	
+61-52	10838-10844	Kantar	_	
+61-53	10845-10850	Media	_	
+61-54	10853-10854	*	_	
+61-55	10855-10860	Kisio	_	
+61-56	10861-10871	Consulting	_	
+61-57	10874-10875	*	_	
+61-58	10876-10884	Liveramp	_	
+61-59	10887-10888	*	_	
+61-60	10889-10897	Location	_	
+61-61	10898-10906	Sciences	_	
+61-62	10909-10910	*	_	
+61-63	10911-10920	Locomizer	_	
+61-64	10923-10924	*	_	
+61-65	10925-10931	LoopMe	_	
+61-66	10934-10935	*	_	
+61-67	10936-10942	Lotame	_	
+61-68	10945-10946	*	_	
+61-69	10947-10949	M1	_	
+61-70	10950-10954	Data	_	
+61-71	10955-10958	and	_	
+61-72	10959-10968	Analytics	_	
+61-73	10971-10972	*	_	
+61-74	10973-10983	Macefusion	_	
+61-75	10986-10987	*	_	
+61-76	10988-10994	Market	_	
+61-77	10995-11003	Services	_	
+61-78	11004-11007	Inc	_	
+61-79	11007-11008	.	_	
+
+#Text=(AggData)\r
+#Text=\t* Maxar\r
+#Text=\t* MediaMath\r
+#Text=\t* Merkle\r
+#Text=\t* Microsoft\r
+#Text=\t* MiQ\r
+#Text=\t* Mobilewalla\r
+#Text=\t* MyTraffic\r
+#Text=\t* Native Touch\r
+#Text=\t* nContext\r
+#Text=\t* Nearco\r
+#Text=\t* Neustar\r
+#Text=\t* Nielsen\r
+#Text=\t* Nodle International\r
+#Text=* NYBSYS\r
+#Text=\t* OmniSci\r
+#Text=\t* On Device Research\r
+#Text=\t* ONICS-IT\r
+#Text=\t* OnSpot Data\r
+#Text=\t* Optibus\r
+#Text=\t* Place Dashboard\r
+#Text=\t* Placense\r
+#Text=\t* Posterscope\r
+#Text=\t* PushSpring\r
+#Text=\t* Quorum Data Inc
+62-1	11009-11010	(	_	
+62-2	11010-11017	AggData	_	
+62-3	11017-11018	)	_	
+62-4	11021-11022	*	_	
+62-5	11023-11028	Maxar	_	
+62-6	11031-11032	*	_	
+62-7	11033-11042	MediaMath	_	
+62-8	11045-11046	*	_	
+62-9	11047-11053	Merkle	_	
+62-10	11056-11057	*	_	
+62-11	11058-11067	Microsoft	_	
+62-12	11070-11071	*	_	
+62-13	11072-11075	MiQ	_	
+62-14	11078-11079	*	_	
+62-15	11080-11091	Mobilewalla	_	
+62-16	11094-11095	*	_	
+62-17	11096-11105	MyTraffic	_	
+62-18	11108-11109	*	_	
+62-19	11110-11116	Native	_	
+62-20	11117-11122	Touch	_	
+62-21	11125-11126	*	_	
+62-22	11127-11135	nContext	_	
+62-23	11138-11139	*	_	
+62-24	11140-11146	Nearco	_	
+62-25	11149-11150	*	_	
+62-26	11151-11158	Neustar	_	
+62-27	11161-11162	*	_	
+62-28	11163-11170	Nielsen	_	
+62-29	11173-11174	*	_	
+62-30	11175-11180	Nodle	_	
+62-31	11181-11194	International	_	
+62-32	11196-11197	*	_	
+62-33	11198-11204	NYBSYS	_	
+62-34	11207-11208	*	_	
+62-35	11209-11216	OmniSci	_	
+62-36	11219-11220	*	_	
+62-37	11221-11223	On	_	
+62-38	11224-11230	Device	_	
+62-39	11231-11239	Research	_	
+62-40	11242-11243	*	_	
+62-41	11244-11252	ONICS-IT	_	
+62-42	11255-11256	*	_	
+62-43	11257-11263	OnSpot	_	
+62-44	11264-11268	Data	_	
+62-45	11271-11272	*	_	
+62-46	11273-11280	Optibus	_	
+62-47	11283-11284	*	_	
+62-48	11285-11290	Place	_	
+62-49	11291-11300	Dashboard	_	
+62-50	11303-11304	*	_	
+62-51	11305-11313	Placense	_	
+62-52	11316-11317	*	_	
+62-53	11318-11329	Posterscope	_	
+62-54	11332-11333	*	_	
+62-55	11334-11344	PushSpring	_	
+62-56	11347-11348	*	_	
+62-57	11349-11355	Quorum	_	
+62-58	11356-11360	Data	_	
+62-59	11361-11364	Inc	_	
+
+#Text=.
+63-1	11364-11365	.	_	
+
+#Text=* Reveal Mobile\r
+#Text=\t* Roq.ad\r
+#Text=\t* S4M\r
+#Text=\t* Salesforce\r
+#Text=\t* Sense360\r
+#Text=\t* Shopfully\r
+#Text=\t* Sierra Nevada Corporation\r
+#Text=\t* Singlespot\r
+#Text=\t* Siren\r
+#Text=\t* Situ8ed\r
+#Text=\t* Skyhook Wireless\r
+#Text=\t* Spur Intelligence\r
+#Text=\t* Statiq\r
+#Text=\t* StreetMetrics\r
+#Text=\t* Systems and Technology Research\r
+#Text=\t* Talon Outdoor Limited\r
+#Text=\t* Targomo\r
+#Text=\t* Team Cymru \r
+#Text=\t* Tectonix\r
+#Text=\t* Telefonica\r
+#Text=\t* The Floow\r
+#Text=\t* The Rubicon Project, Limited\r
+#Text=\t* The Trade Desk, Inc and affiliated companies\r
+#Text=\t* Tiendeo\r
+#Text=\t* UberMedia\r
+#Text=\t* Ubimo, Inc\r
+#Text=* University of Virginia\r
+#Text=\t* Wireless Registry dba SignalFrame\r
+#Text=\t* Outlogic\r
+#Text=\t* xAd, Inc. dba GroundTruth\r
+#Text=\t* Xandr\r
+#Text=\t* Zeotap
+#Text=
+#Text=
+#Text=--------[END OF POLICY]---------
+#Text=
+#Text=
+#Text=Question 2: Does this app access my camera?
+64-1	11368-11369	*	_	
+64-2	11370-11376	Reveal	_	
+64-3	11377-11383	Mobile	_	
+64-4	11386-11387	*	_	
+64-5	11388-11394	Roq.ad	_	
+64-6	11397-11398	*	_	
+64-7	11399-11402	S4M	_	
+64-8	11405-11406	*	_	
+64-9	11407-11417	Salesforce	_	
+64-10	11420-11421	*	_	
+64-11	11422-11430	Sense360	_	
+64-12	11433-11434	*	_	
+64-13	11435-11444	Shopfully	_	
+64-14	11447-11448	*	_	
+64-15	11449-11455	Sierra	_	
+64-16	11456-11462	Nevada	_	
+64-17	11463-11474	Corporation	_	
+64-18	11477-11478	*	_	
+64-19	11479-11489	Singlespot	_	
+64-20	11492-11493	*	_	
+64-21	11494-11499	Siren	_	
+64-22	11502-11503	*	_	
+64-23	11504-11511	Situ8ed	_	
+64-24	11514-11515	*	_	
+64-25	11516-11523	Skyhook	_	
+64-26	11524-11532	Wireless	_	
+64-27	11535-11536	*	_	
+64-28	11537-11541	Spur	_	
+64-29	11542-11554	Intelligence	_	
+64-30	11557-11558	*	_	
+64-31	11559-11565	Statiq	_	
+64-32	11568-11569	*	_	
+64-33	11570-11583	StreetMetrics	_	
+64-34	11586-11587	*	_	
+64-35	11588-11595	Systems	_	
+64-36	11596-11599	and	_	
+64-37	11600-11610	Technology	_	
+64-38	11611-11619	Research	_	
+64-39	11622-11623	*	_	
+64-40	11624-11629	Talon	_	
+64-41	11630-11637	Outdoor	_	
+64-42	11638-11645	Limited	_	
+64-43	11648-11649	*	_	
+64-44	11650-11657	Targomo	_	
+64-45	11660-11661	*	_	
+64-46	11662-11666	Team	_	
+64-47	11667-11672	Cymru	_	
+64-48	11676-11677	*	_	
+64-49	11678-11686	Tectonix	_	
+64-50	11689-11690	*	_	
+64-51	11691-11701	Telefonica	_	
+64-52	11704-11705	*	_	
+64-53	11706-11709	The	_	
+64-54	11710-11715	Floow	_	
+64-55	11718-11719	*	_	
+64-56	11720-11723	The	_	
+64-57	11724-11731	Rubicon	_	
+64-58	11732-11739	Project	_	
+64-59	11739-11740	,	_	
+64-60	11741-11748	Limited	_	
+64-61	11751-11752	*	_	
+64-62	11753-11756	The	_	
+64-63	11757-11762	Trade	_	
+64-64	11763-11767	Desk	_	
+64-65	11767-11768	,	_	
+64-66	11769-11772	Inc	_	
+64-67	11773-11776	and	_	
+64-68	11777-11787	affiliated	_	
+64-69	11788-11797	companies	_	
+64-70	11800-11801	*	_	
+64-71	11802-11809	Tiendeo	_	
+64-72	11812-11813	*	_	
+64-73	11814-11823	UberMedia	_	
+64-74	11826-11827	*	_	
+64-75	11828-11833	Ubimo	_	
+64-76	11833-11834	,	_	
+64-77	11835-11838	Inc	_	
+64-78	11840-11841	*	_	
+64-79	11842-11852	University	_	
+64-80	11853-11855	of	_	
+64-81	11856-11864	Virginia	_	
+64-82	11867-11868	*	_	
+64-83	11869-11877	Wireless	_	
+64-84	11878-11886	Registry	_	
+64-85	11887-11890	dba	_	
+64-86	11891-11902	SignalFrame	_	
+64-87	11905-11906	*	_	
+64-88	11907-11915	Outlogic	_	
+64-89	11918-11919	*	_	
+64-90	11920-11923	xAd	_	
+64-91	11923-11924	,	_	
+64-92	11925-11928	Inc	_	
+64-93	11928-11929	.	_	
+64-94	11930-11933	dba	_	
+64-95	11934-11945	GroundTruth	_	
+64-96	11948-11949	*	_	
+64-97	11950-11955	Xandr	_	
+64-98	11958-11959	*	_	
+64-99	11960-11966	Zeotap	_	
+64-100	11969-11970	-	_	
+64-101	11970-11971	-	_	
+64-102	11971-11972	-	_	
+64-103	11972-11973	-	_	
+64-104	11973-11974	-	_	
+64-105	11974-11975	-	_	
+64-106	11975-11976	-	_	
+64-107	11976-11977	-	_	
+64-108	11977-11978	[	_	
+64-109	11978-11981	END	_	
+64-110	11982-11984	OF	_	
+64-111	11985-11991	POLICY	_	
+64-112	11991-11992	]	_	
+64-113	11992-11993	-	_	
+64-114	11993-11994	-	_	
+64-115	11994-11995	-	_	
+64-116	11995-11996	-	_	
+64-117	11996-11997	-	_	
+64-118	11997-11998	-	_	
+64-119	11998-11999	-	_	
+64-120	11999-12000	-	_	
+64-121	12000-12001	-	_	
+64-122	12004-12012	Question	_	
+64-123	12013-12014	2	_	
+64-124	12014-12015	:	_	
+64-125	12016-12020	Does	_	
+64-126	12021-12025	this	_	
+64-127	12026-12029	app	_	
+64-128	12030-12036	access	_	
+64-129	12037-12039	my	_	
+64-130	12040-12046	camera	_	
+64-131	12046-12047	?	_	
+
+#Text=<ANSWER FROM POLICY>
+65-1	12050-12051	<	_	
+65-2	12051-12057	ANSWER	\[SILENT\] (f) The policy is silent about this practice,[1]	
+65-3	12058-12062	FROM	\[SILENT\] (f) The policy is silent about this practice,[1]	
+65-4	12063-12069	POLICY	\[SILENT\] (f) The policy is silent about this practice,[1]	
+65-5	12069-12070	>	_	

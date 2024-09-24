@@ -1,0 +1,1941 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Action|ActionRelationToQuestion
+#T_SP=webanno.custom.Answer|Answer
+#T_SP=webanno.custom.InformationType|Modality|Relation
+
+
+#Text=Question 3: Does this app collect credit card information?
+1-1	0-8	Question	_	_	_	_	
+1-2	9-10	3	_	_	_	_	
+1-3	10-11	:	_	_	_	_	
+1-4	12-16	Does	_	_	_	_	
+1-5	17-21	this	_	_	_	_	
+1-6	22-25	app	_	_	_	_	
+1-7	26-33	collect	_	_	_	_	
+1-8	34-40	credit	_	_	_	_	
+1-9	41-45	card	_	_	_	_	
+1-10	46-57	information	_	_	_	_	
+1-11	57-58	?	_	_	_	_	
+
+#Text=--------[START OF POLICY]---------
+#Text=
+#Text=
+#Text=﻿PRIVACY POLICY\r
+#Text=​\r
+#Text=AttaPoll is owned by AttaPoll Ltd, a company registered in England and Wales with company number 10042842.
+2-1	61-62	-	_	_	_	_	
+2-2	62-63	-	_	_	_	_	
+2-3	63-64	-	_	_	_	_	
+2-4	64-65	-	_	_	_	_	
+2-5	65-66	-	_	_	_	_	
+2-6	66-67	-	_	_	_	_	
+2-7	67-68	-	_	_	_	_	
+2-8	68-69	-	_	_	_	_	
+2-9	69-70	[	_	_	_	_	
+2-10	70-75	START	_	_	_	_	
+2-11	76-78	OF	_	_	_	_	
+2-12	79-85	POLICY	_	_	_	_	
+2-13	85-86	]	_	_	_	_	
+2-14	86-87	-	_	_	_	_	
+2-15	87-88	-	_	_	_	_	
+2-16	88-89	-	_	_	_	_	
+2-17	89-90	-	_	_	_	_	
+2-18	90-91	-	_	_	_	_	
+2-19	91-92	-	_	_	_	_	
+2-20	92-93	-	_	_	_	_	
+2-21	93-94	-	_	_	_	_	
+2-22	94-95	-	_	_	_	_	
+2-23	98-99	﻿	_	_	_	_	
+2-24	99-106	PRIVACY	_	_	_	_	
+2-25	107-113	POLICY	_	_	_	_	
+2-26	115-116	​	_	_	_	_	
+2-27	118-126	AttaPoll	_	_	_	_	
+2-28	127-129	is	_	_	_	_	
+2-29	130-135	owned	_	_	_	_	
+2-30	136-138	by	_	_	_	_	
+2-31	139-147	AttaPoll	_	_	_	_	
+2-32	148-151	Ltd	_	_	_	_	
+2-33	151-152	,	_	_	_	_	
+2-34	153-154	a	_	_	_	_	
+2-35	155-162	company	_	_	_	_	
+2-36	163-173	registered	_	_	_	_	
+2-37	174-176	in	_	_	_	_	
+2-38	177-184	England	_	_	_	_	
+2-39	185-188	and	_	_	_	_	
+2-40	189-194	Wales	_	_	_	_	
+2-41	195-199	with	_	_	_	_	
+2-42	200-207	company	_	_	_	_	
+2-43	208-214	number	_	_	_	_	
+2-44	215-223	10042842	_	_	_	_	
+2-45	223-224	.	_	_	_	_	
+
+#Text=We are registered with the Information Commissioner's Office in the United Kingdom as a Data Controller, our registration number is ZA328071.
+3-1	225-227	We	_	_	_	_	
+3-2	228-231	are	_	_	_	_	
+3-3	232-242	registered	_	_	_	_	
+3-4	243-247	with	_	_	_	_	
+3-5	248-251	the	_	_	_	_	
+3-6	252-263	Information	_	_	_	_	
+3-7	264-278	Commissioner's	_	_	_	_	
+3-8	279-285	Office	_	_	_	_	
+3-9	286-288	in	_	_	_	_	
+3-10	289-292	the	_	_	_	_	
+3-11	293-299	United	_	_	_	_	
+3-12	300-307	Kingdom	_	_	_	_	
+3-13	308-310	as	_	_	_	_	
+3-14	311-312	a	_	_	_	_	
+3-15	313-317	Data	_	_	_	_	
+3-16	318-328	Controller	_	_	_	_	
+3-17	328-329	,	_	_	_	_	
+3-18	330-333	our	_	_	_	_	
+3-19	334-346	registration	_	_	_	_	
+3-20	347-353	number	_	_	_	_	
+3-21	354-356	is	_	_	_	_	
+3-22	357-365	ZA328071	_	_	_	_	
+3-23	365-366	.	_	_	_	_	
+
+#Text=This privacy policy explains how we use any personal information we collect about you when you join our panel to take part in surveys, use our mobile applications, or visit our website.
+4-1	367-371	This	_	_	_	_	
+4-2	372-379	privacy	_	_	_	_	
+4-3	380-386	policy	_	_	_	_	
+4-4	387-395	explains	_	_	_	_	
+4-5	396-399	how	_	_	_	_	
+4-6	400-402	we	_	_	_	_	
+4-7	403-406	use	_	_	_	_	
+4-8	407-410	any	_	_	_	_	
+4-9	411-419	personal	_	_	_	_	
+4-10	420-431	information	_	_	_	_	
+4-11	432-434	we	_	_	_	_	
+4-12	435-442	collect	_	_	_	_	
+4-13	443-448	about	_	_	_	_	
+4-14	449-452	you	_	_	_	_	
+4-15	453-457	when	_	_	_	_	
+4-16	458-461	you	_	_	_	_	
+4-17	462-466	join	_	_	_	_	
+4-18	467-470	our	_	_	_	_	
+4-19	471-476	panel	_	_	_	_	
+4-20	477-479	to	_	_	_	_	
+4-21	480-484	take	_	_	_	_	
+4-22	485-489	part	_	_	_	_	
+4-23	490-492	in	_	_	_	_	
+4-24	493-500	surveys	_	_	_	_	
+4-25	500-501	,	_	_	_	_	
+4-26	502-505	use	_	_	_	_	
+4-27	506-509	our	_	_	_	_	
+4-28	510-516	mobile	_	_	_	_	
+4-29	517-529	applications	_	_	_	_	
+4-30	529-530	,	_	_	_	_	
+4-31	531-533	or	_	_	_	_	
+4-32	534-539	visit	_	_	_	_	
+4-33	540-543	our	_	_	_	_	
+4-34	544-551	website	_	_	_	_	
+4-35	551-552	.	_	_	_	_	
+
+#Text=If this document is presented in any language other than English, this translation is provided solely as a courtesy.
+5-1	553-555	If	_	_	_	_	
+5-2	556-560	this	_	_	_	_	
+5-3	561-569	document	_	_	_	_	
+5-4	570-572	is	_	_	_	_	
+5-5	573-582	presented	_	_	_	_	
+5-6	583-585	in	_	_	_	_	
+5-7	586-589	any	_	_	_	_	
+5-8	590-598	language	_	_	_	_	
+5-9	599-604	other	_	_	_	_	
+5-10	605-609	than	_	_	_	_	
+5-11	610-617	English	_	_	_	_	
+5-12	617-618	,	_	_	_	_	
+5-13	619-623	this	_	_	_	_	
+5-14	624-635	translation	_	_	_	_	
+5-15	636-638	is	_	_	_	_	
+5-16	639-647	provided	_	_	_	_	
+5-17	648-654	solely	_	_	_	_	
+5-18	655-657	as	_	_	_	_	
+5-19	658-659	a	_	_	_	_	
+5-20	660-668	courtesy	_	_	_	_	
+5-21	668-669	.	_	_	_	_	
+
+#Text=In all cases, the English version shall be decisive regarding any interpretation of the text.\r
+#Text=​
+6-1	670-672	In	_	_	_	_	
+6-2	673-676	all	_	_	_	_	
+6-3	677-682	cases	_	_	_	_	
+6-4	682-683	,	_	_	_	_	
+6-5	684-687	the	_	_	_	_	
+6-6	688-695	English	_	_	_	_	
+6-7	696-703	version	_	_	_	_	
+6-8	704-709	shall	_	_	_	_	
+6-9	710-712	be	_	_	_	_	
+6-10	713-721	decisive	_	_	_	_	
+6-11	722-731	regarding	_	_	_	_	
+6-12	732-735	any	_	_	_	_	
+6-13	736-750	interpretation	_	_	_	_	
+6-14	751-753	of	_	_	_	_	
+6-15	754-757	the	_	_	_	_	
+6-16	758-762	text	_	_	_	_	
+6-17	762-763	.	_	_	_	_	
+6-18	765-766	​	_	_	_	_	
+
+#Text=What information do we collect?
+7-1	768-772	What	_	_	_	_	
+7-2	773-784	information	_	_	_	_	
+7-3	785-787	do	_	_	_	_	
+7-4	788-790	we	_	_	_	_	
+7-5	791-798	collect	_	_	_	_	
+7-6	798-799	?	_	_	_	_	
+
+#Text=We collect:\r
+#Text=* information you provide when using our mobile applications, website or contacting us by email;\r
+#Text=* your responses when you complete any of the surveys;\r
+#Text=* information about your location;\r
+#Text=* information about the device you use to access our mobile applications and website;\r
+#Text=* testimonials you supply using our mobile applications, website, or by email.\r
+#Text=​
+8-1	801-803	We	_	_	_	_	
+8-2	804-811	collect	Exact Match/Synonym	_	_	_	
+8-3	811-812	:	_	_	_	_	
+8-4	814-815	*	_	_	_	_	
+8-5	816-827	information	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-6	828-831	you	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-7	832-839	provide	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-8	840-844	when	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-9	845-850	using	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-10	851-854	our	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-11	855-861	mobile	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-12	862-874	applications	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-13	874-875	,	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-14	876-883	website	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-15	884-886	or	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-16	887-897	contacting	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-17	898-900	us	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-18	901-903	by	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-19	904-909	email	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-20	909-910	;	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-21	912-913	*	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-22	914-918	your	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-23	919-928	responses	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-24	929-933	when	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-25	934-937	you	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-26	938-946	complete	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-27	947-950	any	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-28	951-953	of	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-29	954-957	the	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-30	958-965	surveys	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-31	965-966	;	_	_	\[IS\] Modality[2]	Hypernym[2]	
+8-32	968-969	*	_	_	_	_	
+8-33	970-981	information	_	_	_	_	
+8-34	982-987	about	_	_	_	_	
+8-35	988-992	your	_	_	_	_	
+8-36	993-1001	location	_	_	_	_	
+8-37	1001-1002	;	_	_	_	_	
+8-38	1004-1005	*	_	_	_	_	
+8-39	1006-1017	information	_	_	_	_	
+8-40	1018-1023	about	_	_	_	_	
+8-41	1024-1027	the	_	_	_	_	
+8-42	1028-1034	device	_	_	_	_	
+8-43	1035-1038	you	_	_	_	_	
+8-44	1039-1042	use	_	_	_	_	
+8-45	1043-1045	to	_	_	_	_	
+8-46	1046-1052	access	_	_	_	_	
+8-47	1053-1056	our	_	_	_	_	
+8-48	1057-1063	mobile	_	_	_	_	
+8-49	1064-1076	applications	_	_	_	_	
+8-50	1077-1080	and	_	_	_	_	
+8-51	1081-1088	website	_	_	_	_	
+8-52	1088-1089	;	_	_	_	_	
+8-53	1091-1092	*	_	_	_	_	
+8-54	1093-1105	testimonials	_	_	_	_	
+8-55	1106-1109	you	_	_	_	_	
+8-56	1110-1116	supply	_	_	_	_	
+8-57	1117-1122	using	_	_	_	_	
+8-58	1123-1126	our	_	_	_	_	
+8-59	1127-1133	mobile	_	_	_	_	
+8-60	1134-1146	applications	_	_	_	_	
+8-61	1146-1147	,	_	_	_	_	
+8-62	1148-1155	website	_	_	_	_	
+8-63	1155-1156	,	_	_	_	_	
+8-64	1157-1159	or	_	_	_	_	
+8-65	1160-1162	by	_	_	_	_	
+8-66	1163-1168	email	_	_	_	_	
+8-67	1168-1169	.	_	_	_	_	
+8-68	1171-1172	​	_	_	_	_	
+
+#Text=How will we use the information you provide?
+9-1	1174-1177	How	_	_	_	_	
+9-2	1178-1182	will	_	_	_	_	
+9-3	1183-1185	we	_	_	_	_	
+9-4	1186-1189	use	_	_	_	_	
+9-5	1190-1193	the	_	_	_	_	
+9-6	1194-1205	information	_	_	_	_	
+9-7	1206-1209	you	_	_	_	_	
+9-8	1210-1217	provide	_	_	_	_	
+9-9	1217-1218	?	_	_	_	_	
+
+#Text=We will use the information to:\r
+#Text=* Send you invitations to participate in surveys based on your location and/or the information you provided to us
+10-1	1220-1222	We	_	_	_	_	
+10-2	1223-1227	will	_	_	_	_	
+10-3	1228-1231	use	_	_	_	_	
+10-4	1232-1235	the	_	_	_	_	
+10-5	1236-1247	information	_	_	_	_	
+10-6	1248-1250	to	_	_	_	_	
+10-7	1250-1251	:	_	_	_	_	
+10-8	1253-1254	*	_	_	_	_	
+10-9	1255-1259	Send	_	_	_	_	
+10-10	1260-1263	you	_	_	_	_	
+10-11	1264-1275	invitations	_	_	_	_	
+10-12	1276-1278	to	_	_	_	_	
+10-13	1279-1290	participate	_	_	_	_	
+10-14	1291-1293	in	_	_	_	_	
+10-15	1294-1301	surveys	_	_	_	_	
+10-16	1302-1307	based	_	_	_	_	
+10-17	1308-1310	on	_	_	_	_	
+10-18	1311-1315	your	_	_	_	_	
+10-19	1316-1324	location	_	_	_	_	
+10-20	1325-1328	and	_	_	_	_	
+10-21	1328-1329	/	_	_	_	_	
+10-22	1329-1331	or	_	_	_	_	
+10-23	1332-1335	the	_	_	_	_	
+10-24	1336-1347	information	_	_	_	_	
+10-25	1348-1351	you	_	_	_	_	
+10-26	1352-1360	provided	_	_	_	_	
+10-27	1361-1363	to	_	_	_	_	
+10-28	1364-1366	us	_	_	_	_	
+
+#Text=.
+11-1	1366-1367	.	_	_	_	_	
+
+#Text=* Append information about you to your responses for any surveys you participate in, such as geographical location or age in order to produce anonymous research results
+12-1	1369-1370	*	_	_	_	_	
+12-2	1371-1377	Append	_	_	_	_	
+12-3	1378-1389	information	_	_	_	_	
+12-4	1390-1395	about	_	_	_	_	
+12-5	1396-1399	you	_	_	_	_	
+12-6	1400-1402	to	_	_	_	_	
+12-7	1403-1407	your	_	_	_	_	
+12-8	1408-1417	responses	_	_	_	_	
+12-9	1418-1421	for	_	_	_	_	
+12-10	1422-1425	any	_	_	_	_	
+12-11	1426-1433	surveys	_	_	_	_	
+12-12	1434-1437	you	_	_	_	_	
+12-13	1438-1449	participate	_	_	_	_	
+12-14	1450-1452	in	_	_	_	_	
+12-15	1452-1453	,	_	_	_	_	
+12-16	1454-1458	such	_	_	_	_	
+12-17	1459-1461	as	_	_	_	_	
+12-18	1462-1474	geographical	_	_	_	_	
+12-19	1475-1483	location	_	_	_	_	
+12-20	1484-1486	or	_	_	_	_	
+12-21	1487-1490	age	_	_	_	_	
+12-22	1491-1493	in	_	_	_	_	
+12-23	1494-1499	order	_	_	_	_	
+12-24	1500-1502	to	_	_	_	_	
+12-25	1503-1510	produce	_	_	_	_	
+12-26	1511-1520	anonymous	_	_	_	_	
+12-27	1521-1529	research	_	_	_	_	
+12-28	1530-1537	results	_	_	_	_	
+
+#Text=.
+13-1	1537-1538	.	_	_	_	_	
+
+#Text=* With your explicit consent when asked in a survey, to pass your individual survey responses together with your personal information to the client who commissioned the survey
+14-1	1540-1541	*	_	_	_	_	
+14-2	1542-1546	With	_	_	_	_	
+14-3	1547-1551	your	_	_	_	_	
+14-4	1552-1560	explicit	_	_	_	_	
+14-5	1561-1568	consent	_	_	_	_	
+14-6	1569-1573	when	_	_	_	_	
+14-7	1574-1579	asked	_	_	_	_	
+14-8	1580-1582	in	_	_	_	_	
+14-9	1583-1584	a	_	_	_	_	
+14-10	1585-1591	survey	_	_	_	_	
+14-11	1591-1592	,	_	_	_	_	
+14-12	1593-1595	to	_	_	_	_	
+14-13	1596-1600	pass	_	_	_	_	
+14-14	1601-1605	your	_	_	_	_	
+14-15	1606-1616	individual	_	_	_	_	
+14-16	1617-1623	survey	_	_	_	_	
+14-17	1624-1633	responses	_	_	_	_	
+14-18	1634-1642	together	_	_	_	_	
+14-19	1643-1647	with	_	_	_	_	
+14-20	1648-1652	your	_	_	_	_	
+14-21	1653-1661	personal	_	_	_	_	
+14-22	1662-1673	information	_	_	_	_	
+14-23	1674-1676	to	_	_	_	_	
+14-24	1677-1680	the	_	_	_	_	
+14-25	1681-1687	client	_	_	_	_	
+14-26	1688-1691	who	_	_	_	_	
+14-27	1692-1704	commissioned	_	_	_	_	
+14-28	1705-1708	the	_	_	_	_	
+14-29	1709-1715	survey	_	_	_	_	
+
+#Text=.
+15-1	1715-1716	.	_	_	_	_	
+
+#Text=* To invite you to participate in partner surveys in which your participation is optional.
+16-1	1718-1719	*	_	_	_	_	
+16-2	1720-1722	To	_	_	_	_	
+16-3	1723-1729	invite	_	_	_	_	
+16-4	1730-1733	you	_	_	_	_	
+16-5	1734-1736	to	_	_	_	_	
+16-6	1737-1748	participate	_	_	_	_	
+16-7	1749-1751	in	_	_	_	_	
+16-8	1752-1759	partner	_	_	_	_	
+16-9	1760-1767	surveys	_	_	_	_	
+16-10	1768-1770	in	_	_	_	_	
+16-11	1771-1776	which	_	_	_	_	
+16-12	1777-1781	your	_	_	_	_	
+16-13	1782-1795	participation	_	_	_	_	
+16-14	1796-1798	is	_	_	_	_	
+16-15	1799-1807	optional	_	_	_	_	
+16-16	1807-1808	.	_	_	_	_	
+
+#Text=By participating in such partner surveys you are providing your responses directly to the client who commissioned and hosted the survey
+17-1	1809-1811	By	_	_	_	_	
+17-2	1812-1825	participating	_	_	_	_	
+17-3	1826-1828	in	_	_	_	_	
+17-4	1829-1833	such	_	_	_	_	
+17-5	1834-1841	partner	_	_	_	_	
+17-6	1842-1849	surveys	_	_	_	_	
+17-7	1850-1853	you	_	_	_	_	
+17-8	1854-1857	are	_	_	_	_	
+17-9	1858-1867	providing	_	_	_	_	
+17-10	1868-1872	your	_	_	_	_	
+17-11	1873-1882	responses	_	_	_	_	
+17-12	1883-1891	directly	_	_	_	_	
+17-13	1892-1894	to	_	_	_	_	
+17-14	1895-1898	the	_	_	_	_	
+17-15	1899-1905	client	_	_	_	_	
+17-16	1906-1909	who	_	_	_	_	
+17-17	1910-1922	commissioned	_	_	_	_	
+17-18	1923-1926	and	_	_	_	_	
+17-19	1927-1933	hosted	_	_	_	_	
+17-20	1934-1937	the	_	_	_	_	
+17-21	1938-1944	survey	_	_	_	_	
+
+#Text=.
+18-1	1944-1945	.	_	_	_	_	
+
+#Text=* To identify suitable partner survey opportunities based on what you have told us about yourself by sharing your individual survey responses and/or geographical location with our partners
+19-1	1947-1948	*	_	_	_	_	
+19-2	1949-1951	To	_	_	_	_	
+19-3	1952-1960	identify	_	_	_	_	
+19-4	1961-1969	suitable	_	_	_	_	
+19-5	1970-1977	partner	_	_	_	_	
+19-6	1978-1984	survey	_	_	_	_	
+19-7	1985-1998	opportunities	_	_	_	_	
+19-8	1999-2004	based	_	_	_	_	
+19-9	2005-2007	on	_	_	_	_	
+19-10	2008-2012	what	_	_	_	_	
+19-11	2013-2016	you	_	_	_	_	
+19-12	2017-2021	have	_	_	_	_	
+19-13	2022-2026	told	_	_	_	_	
+19-14	2027-2029	us	_	_	_	_	
+19-15	2030-2035	about	_	_	_	_	
+19-16	2036-2044	yourself	_	_	_	_	
+19-17	2045-2047	by	_	_	_	_	
+19-18	2048-2055	sharing	_	_	_	_	
+19-19	2056-2060	your	_	_	_	_	
+19-20	2061-2071	individual	_	_	_	_	
+19-21	2072-2078	survey	_	_	_	_	
+19-22	2079-2088	responses	_	_	_	_	
+19-23	2089-2092	and	_	_	_	_	
+19-24	2092-2093	/	_	_	_	_	
+19-25	2093-2095	or	_	_	_	_	
+19-26	2096-2108	geographical	_	_	_	_	
+19-27	2109-2117	location	_	_	_	_	
+19-28	2118-2122	with	_	_	_	_	
+19-29	2123-2126	our	_	_	_	_	
+19-30	2127-2135	partners	_	_	_	_	
+
+#Text=.
+20-1	2135-2136	.	_	_	_	_	
+
+#Text=* To identify suitable partner survey opportunities based on information about the device you are using to access our mobile applications and website
+21-1	2138-2139	*	_	_	_	_	
+21-2	2140-2142	To	_	_	_	_	
+21-3	2143-2151	identify	_	_	_	_	
+21-4	2152-2160	suitable	_	_	_	_	
+21-5	2161-2168	partner	_	_	_	_	
+21-6	2169-2175	survey	_	_	_	_	
+21-7	2176-2189	opportunities	_	_	_	_	
+21-8	2190-2195	based	_	_	_	_	
+21-9	2196-2198	on	_	_	_	_	
+21-10	2199-2210	information	_	_	_	_	
+21-11	2211-2216	about	_	_	_	_	
+21-12	2217-2220	the	_	_	_	_	
+21-13	2221-2227	device	_	_	_	_	
+21-14	2228-2231	you	_	_	_	_	
+21-15	2232-2235	are	_	_	_	_	
+21-16	2236-2241	using	_	_	_	_	
+21-17	2242-2244	to	_	_	_	_	
+21-18	2245-2251	access	_	_	_	_	
+21-19	2252-2255	our	_	_	_	_	
+21-20	2256-2262	mobile	_	_	_	_	
+21-21	2263-2275	applications	_	_	_	_	
+21-22	2276-2279	and	_	_	_	_	
+21-23	2280-2287	website	_	_	_	_	
+
+#Text=.
+22-1	2287-2288	.	_	_	_	_	
+
+#Text=* To identify whether you are complying with our terms of service
+23-1	2290-2291	*	_	_	_	_	
+23-2	2292-2294	To	_	_	_	_	
+23-3	2295-2303	identify	_	_	_	_	
+23-4	2304-2311	whether	_	_	_	_	
+23-5	2312-2315	you	_	_	_	_	
+23-6	2316-2319	are	_	_	_	_	
+23-7	2320-2329	complying	_	_	_	_	
+23-8	2330-2334	with	_	_	_	_	
+23-9	2335-2338	our	_	_	_	_	
+23-10	2339-2344	terms	_	_	_	_	
+23-11	2345-2347	of	_	_	_	_	
+23-12	2348-2355	service	_	_	_	_	
+
+#Text=.
+24-1	2355-2356	.	_	_	_	_	
+
+#Text=* To create anonymous, statistical profiles of panel membership based on the information provided by panel members
+25-1	2358-2359	*	_	_	_	_	
+25-2	2360-2362	To	_	_	_	_	
+25-3	2363-2369	create	_	_	_	_	
+25-4	2370-2379	anonymous	_	_	_	_	
+25-5	2379-2380	,	_	_	_	_	
+25-6	2381-2392	statistical	_	_	_	_	
+25-7	2393-2401	profiles	_	_	_	_	
+25-8	2402-2404	of	_	_	_	_	
+25-9	2405-2410	panel	_	_	_	_	
+25-10	2411-2421	membership	_	_	_	_	
+25-11	2422-2427	based	_	_	_	_	
+25-12	2428-2430	on	_	_	_	_	
+25-13	2431-2434	the	_	_	_	_	
+25-14	2435-2446	information	_	_	_	_	
+25-15	2447-2455	provided	_	_	_	_	
+25-16	2456-2458	by	_	_	_	_	
+25-17	2459-2464	panel	_	_	_	_	
+25-18	2465-2472	members	_	_	_	_	
+
+#Text=.
+26-1	2472-2473	.	_	_	_	_	
+
+#Text=* We may also send your information to our sub-contractors who may carry out some of the work we do on our behalf, and under our control
+27-1	2475-2476	*	_	_	_	_	
+27-2	2477-2479	We	_	_	_	_	
+27-3	2480-2483	may	_	_	_	_	
+27-4	2484-2488	also	_	_	_	_	
+27-5	2489-2493	send	_	_	_	_	
+27-6	2494-2498	your	_	_	_	_	
+27-7	2499-2510	information	_	_	_	_	
+27-8	2511-2513	to	_	_	_	_	
+27-9	2514-2517	our	_	_	_	_	
+27-10	2518-2533	sub-contractors	_	_	_	_	
+27-11	2534-2537	who	_	_	_	_	
+27-12	2538-2541	may	_	_	_	_	
+27-13	2542-2547	carry	_	_	_	_	
+27-14	2548-2551	out	_	_	_	_	
+27-15	2552-2556	some	_	_	_	_	
+27-16	2557-2559	of	_	_	_	_	
+27-17	2560-2563	the	_	_	_	_	
+27-18	2564-2568	work	_	_	_	_	
+27-19	2569-2571	we	_	_	_	_	
+27-20	2572-2574	do	_	_	_	_	
+27-21	2575-2577	on	_	_	_	_	
+27-22	2578-2581	our	_	_	_	_	
+27-23	2582-2588	behalf	_	_	_	_	
+27-24	2588-2589	,	_	_	_	_	
+27-25	2590-2593	and	_	_	_	_	
+27-26	2594-2599	under	_	_	_	_	
+27-27	2600-2603	our	_	_	_	_	
+27-28	2604-2611	control	_	_	_	_	
+
+#Text=.
+28-1	2611-2612	.	_	_	_	_	
+
+#Text=* We may display testimonials and other endorsements you provide to us on our website, in our mobile applications, and in our social media pages.\r
+#Text=​
+29-1	2614-2615	*	_	_	_	_	
+29-2	2616-2618	We	_	_	_	_	
+29-3	2619-2622	may	_	_	_	_	
+29-4	2623-2630	display	_	_	_	_	
+29-5	2631-2643	testimonials	_	_	_	_	
+29-6	2644-2647	and	_	_	_	_	
+29-7	2648-2653	other	_	_	_	_	
+29-8	2654-2666	endorsements	_	_	_	_	
+29-9	2667-2670	you	_	_	_	_	
+29-10	2671-2678	provide	_	_	_	_	
+29-11	2679-2681	to	_	_	_	_	
+29-12	2682-2684	us	_	_	_	_	
+29-13	2685-2687	on	_	_	_	_	
+29-14	2688-2691	our	_	_	_	_	
+29-15	2692-2699	website	_	_	_	_	
+29-16	2699-2700	,	_	_	_	_	
+29-17	2701-2703	in	_	_	_	_	
+29-18	2704-2707	our	_	_	_	_	
+29-19	2708-2714	mobile	_	_	_	_	
+29-20	2715-2727	applications	_	_	_	_	
+29-21	2727-2728	,	_	_	_	_	
+29-22	2729-2732	and	_	_	_	_	
+29-23	2733-2735	in	_	_	_	_	
+29-24	2736-2739	our	_	_	_	_	
+29-25	2740-2746	social	_	_	_	_	
+29-26	2747-2752	media	_	_	_	_	
+29-27	2753-2758	pages	_	_	_	_	
+29-28	2758-2759	.	_	_	_	_	
+29-29	2761-2762	​	_	_	_	_	
+
+#Text=What information will you collect about me from third parties?
+30-1	2764-2768	What	_	_	_	_	
+30-2	2769-2780	information	_	_	_	_	
+30-3	2781-2785	will	_	_	_	_	
+30-4	2786-2789	you	_	_	_	_	
+30-5	2790-2797	collect	_	_	_	_	
+30-6	2798-2803	about	_	_	_	_	
+30-7	2804-2806	me	_	_	_	_	
+30-8	2807-2811	from	_	_	_	_	
+30-9	2812-2817	third	_	_	_	_	
+30-10	2818-2825	parties	_	_	_	_	
+30-11	2825-2826	?	_	_	_	_	
+
+#Text=We may obtain demographic and/or profile information from third parties about you, including, without limitation, information services bureaus, data brokers, other sample suppliers, loyalty program partners, and/or social media platforms.
+31-1	2828-2830	We	_	_	_	_	
+31-2	2831-2834	may	_	_	_	_	
+31-3	2835-2841	obtain	*	_	_	_	
+31-4	2842-2853	demographic	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-5	2854-2857	and	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-6	2857-2858	/	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-7	2858-2860	or	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-8	2861-2868	profile	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-9	2869-2880	information	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-10	2881-2885	from	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-11	2886-2891	third	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-12	2892-2899	parties	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-13	2900-2905	about	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-14	2906-2909	you	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-15	2909-2910	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-16	2911-2920	including	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-17	2920-2921	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-18	2922-2929	without	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-19	2930-2940	limitation	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-20	2940-2941	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-21	2942-2953	information	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-22	2954-2962	services	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-23	2963-2970	bureaus	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-24	2970-2971	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-25	2972-2976	data	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-26	2977-2984	brokers	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-27	2984-2985	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-28	2986-2991	other	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-29	2992-2998	sample	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-30	2999-3008	suppliers	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-31	3008-3009	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-32	3010-3017	loyalty	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-33	3018-3025	program	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-34	3026-3034	partners	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-35	3034-3035	,	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-36	3036-3039	and	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-37	3039-3040	/	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-38	3040-3042	or	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-39	3043-3049	social	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-40	3050-3055	media	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-41	3056-3065	platforms	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+31-42	3065-3066	.	_	_	\[MAY\] Modality[3]	Hypernym[3]	
+
+#Text=We may use this information for various purposes, including, without limitation, data validation, data append, fraud detection purposes, identifying surveys that may be of interest to you, facilitating the awarding of reward or incentive currency for your completion of surveys, and/or sending you a one-time email to invite you to participate in a survey and/or join a panel.\r
+#Text=​
+32-1	3067-3069	We	_	_	_	_	
+32-2	3070-3073	may	_	_	_	_	
+32-3	3074-3077	use	_	_	_	_	
+32-4	3078-3082	this	_	_	_	_	
+32-5	3083-3094	information	_	_	_	_	
+32-6	3095-3098	for	_	_	_	_	
+32-7	3099-3106	various	_	_	_	_	
+32-8	3107-3115	purposes	_	_	_	_	
+32-9	3115-3116	,	_	_	_	_	
+32-10	3117-3126	including	_	_	_	_	
+32-11	3126-3127	,	_	_	_	_	
+32-12	3128-3135	without	_	_	_	_	
+32-13	3136-3146	limitation	_	_	_	_	
+32-14	3146-3147	,	_	_	_	_	
+32-15	3148-3152	data	_	_	_	_	
+32-16	3153-3163	validation	_	_	_	_	
+32-17	3163-3164	,	_	_	_	_	
+32-18	3165-3169	data	_	_	_	_	
+32-19	3170-3176	append	_	_	_	_	
+32-20	3176-3177	,	_	_	_	_	
+32-21	3178-3183	fraud	_	_	_	_	
+32-22	3184-3193	detection	_	_	_	_	
+32-23	3194-3202	purposes	_	_	_	_	
+32-24	3202-3203	,	_	_	_	_	
+32-25	3204-3215	identifying	_	_	_	_	
+32-26	3216-3223	surveys	_	_	_	_	
+32-27	3224-3228	that	_	_	_	_	
+32-28	3229-3232	may	_	_	_	_	
+32-29	3233-3235	be	_	_	_	_	
+32-30	3236-3238	of	_	_	_	_	
+32-31	3239-3247	interest	_	_	_	_	
+32-32	3248-3250	to	_	_	_	_	
+32-33	3251-3254	you	_	_	_	_	
+32-34	3254-3255	,	_	_	_	_	
+32-35	3256-3268	facilitating	_	_	_	_	
+32-36	3269-3272	the	_	_	_	_	
+32-37	3273-3281	awarding	_	_	_	_	
+32-38	3282-3284	of	_	_	_	_	
+32-39	3285-3291	reward	_	_	_	_	
+32-40	3292-3294	or	_	_	_	_	
+32-41	3295-3304	incentive	_	_	_	_	
+32-42	3305-3313	currency	_	_	_	_	
+32-43	3314-3317	for	_	_	_	_	
+32-44	3318-3322	your	_	_	_	_	
+32-45	3323-3333	completion	_	_	_	_	
+32-46	3334-3336	of	_	_	_	_	
+32-47	3337-3344	surveys	_	_	_	_	
+32-48	3344-3345	,	_	_	_	_	
+32-49	3346-3349	and	_	_	_	_	
+32-50	3349-3350	/	_	_	_	_	
+32-51	3350-3352	or	_	_	_	_	
+32-52	3353-3360	sending	_	_	_	_	
+32-53	3361-3364	you	_	_	_	_	
+32-54	3365-3366	a	_	_	_	_	
+32-55	3367-3375	one-time	_	_	_	_	
+32-56	3376-3381	email	_	_	_	_	
+32-57	3382-3384	to	_	_	_	_	
+32-58	3385-3391	invite	_	_	_	_	
+32-59	3392-3395	you	_	_	_	_	
+32-60	3396-3398	to	_	_	_	_	
+32-61	3399-3410	participate	_	_	_	_	
+32-62	3411-3413	in	_	_	_	_	
+32-63	3414-3415	a	_	_	_	_	
+32-64	3416-3422	survey	_	_	_	_	
+32-65	3423-3426	and	_	_	_	_	
+32-66	3426-3427	/	_	_	_	_	
+32-67	3427-3429	or	_	_	_	_	
+32-68	3430-3434	join	_	_	_	_	
+32-69	3435-3436	a	_	_	_	_	
+32-70	3437-3442	panel	_	_	_	_	
+32-71	3442-3443	.	_	_	_	_	
+32-72	3445-3446	​	_	_	_	_	
+
+#Text=What information about me will you pass on to third parties or partners and where will the information go?
+33-1	3448-3452	What	_	_	_	_	
+33-2	3453-3464	information	_	_	_	_	
+33-3	3465-3470	about	_	_	_	_	
+33-4	3471-3473	me	_	_	_	_	
+33-5	3474-3478	will	_	_	_	_	
+33-6	3479-3482	you	_	_	_	_	
+33-7	3483-3487	pass	_	_	_	_	
+33-8	3488-3490	on	_	_	_	_	
+33-9	3491-3493	to	_	_	_	_	
+33-10	3494-3499	third	_	_	_	_	
+33-11	3500-3507	parties	_	_	_	_	
+33-12	3508-3510	or	_	_	_	_	
+33-13	3511-3519	partners	_	_	_	_	
+33-14	3520-3523	and	_	_	_	_	
+33-15	3524-3529	where	_	_	_	_	
+33-16	3530-3534	will	_	_	_	_	
+33-17	3535-3538	the	_	_	_	_	
+33-18	3539-3550	information	_	_	_	_	
+33-19	3551-3553	go	_	_	_	_	
+33-20	3553-3554	?	_	_	_	_	
+
+#Text=We may share certain personal data and non-personal data with third parties for various purposes, including, without limitation, identifying third party survey opportunities for you, facilitating your participation in a third-party survey(s), tracking your survey activity, addressing survey quality issues, and incentive/reward fulfillment.
+34-1	3556-3558	We	_	_	_	_	
+34-2	3559-3562	may	_	_	_	_	
+34-3	3563-3568	share	_	_	_	_	
+34-4	3569-3576	certain	_	_	_	_	
+34-5	3577-3585	personal	_	_	_	_	
+34-6	3586-3590	data	_	_	_	_	
+34-7	3591-3594	and	_	_	_	_	
+34-8	3595-3607	non-personal	_	_	_	_	
+34-9	3608-3612	data	_	_	_	_	
+34-10	3613-3617	with	_	_	_	_	
+34-11	3618-3623	third	_	_	_	_	
+34-12	3624-3631	parties	_	_	_	_	
+34-13	3632-3635	for	_	_	_	_	
+34-14	3636-3643	various	_	_	_	_	
+34-15	3644-3652	purposes	_	_	_	_	
+34-16	3652-3653	,	_	_	_	_	
+34-17	3654-3663	including	_	_	_	_	
+34-18	3663-3664	,	_	_	_	_	
+34-19	3665-3672	without	_	_	_	_	
+34-20	3673-3683	limitation	_	_	_	_	
+34-21	3683-3684	,	_	_	_	_	
+34-22	3685-3696	identifying	_	_	_	_	
+34-23	3697-3702	third	_	_	_	_	
+34-24	3703-3708	party	_	_	_	_	
+34-25	3709-3715	survey	_	_	_	_	
+34-26	3716-3729	opportunities	_	_	_	_	
+34-27	3730-3733	for	_	_	_	_	
+34-28	3734-3737	you	_	_	_	_	
+34-29	3737-3738	,	_	_	_	_	
+34-30	3739-3751	facilitating	_	_	_	_	
+34-31	3752-3756	your	_	_	_	_	
+34-32	3757-3770	participation	_	_	_	_	
+34-33	3771-3773	in	_	_	_	_	
+34-34	3774-3775	a	_	_	_	_	
+34-35	3776-3787	third-party	_	_	_	_	
+34-36	3788-3794	survey	_	_	_	_	
+34-37	3794-3795	(	_	_	_	_	
+34-38	3795-3796	s	_	_	_	_	
+34-39	3796-3797	)	_	_	_	_	
+34-40	3797-3798	,	_	_	_	_	
+34-41	3799-3807	tracking	_	_	_	_	
+34-42	3808-3812	your	_	_	_	_	
+34-43	3813-3819	survey	_	_	_	_	
+34-44	3820-3828	activity	_	_	_	_	
+34-45	3828-3829	,	_	_	_	_	
+34-46	3830-3840	addressing	_	_	_	_	
+34-47	3841-3847	survey	_	_	_	_	
+34-48	3848-3855	quality	_	_	_	_	
+34-49	3856-3862	issues	_	_	_	_	
+34-50	3862-3863	,	_	_	_	_	
+34-51	3864-3867	and	_	_	_	_	
+34-52	3868-3877	incentive	_	_	_	_	
+34-53	3877-3878	/	_	_	_	_	
+34-54	3878-3884	reward	_	_	_	_	
+34-55	3885-3896	fulfillment	_	_	_	_	
+34-56	3896-3897	.	_	_	_	_	
+
+#Text=As some of these third parties may reside outside of the European Union/European Economic Area, your personal data and non-personal data may be transferred, processed, and stored outside of the country in which you reside, including to/in the United States.\r
+#Text=​
+35-1	3898-3900	As	_	_	_	_	
+35-2	3901-3905	some	_	_	_	_	
+35-3	3906-3908	of	_	_	_	_	
+35-4	3909-3914	these	_	_	_	_	
+35-5	3915-3920	third	_	_	_	_	
+35-6	3921-3928	parties	_	_	_	_	
+35-7	3929-3932	may	_	_	_	_	
+35-8	3933-3939	reside	_	_	_	_	
+35-9	3940-3947	outside	_	_	_	_	
+35-10	3948-3950	of	_	_	_	_	
+35-11	3951-3954	the	_	_	_	_	
+35-12	3955-3963	European	_	_	_	_	
+35-13	3964-3969	Union	_	_	_	_	
+35-14	3969-3970	/	_	_	_	_	
+35-15	3970-3978	European	_	_	_	_	
+35-16	3979-3987	Economic	_	_	_	_	
+35-17	3988-3992	Area	_	_	_	_	
+35-18	3992-3993	,	_	_	_	_	
+35-19	3994-3998	your	_	_	_	_	
+35-20	3999-4007	personal	_	_	_	_	
+35-21	4008-4012	data	_	_	_	_	
+35-22	4013-4016	and	_	_	_	_	
+35-23	4017-4029	non-personal	_	_	_	_	
+35-24	4030-4034	data	_	_	_	_	
+35-25	4035-4038	may	_	_	_	_	
+35-26	4039-4041	be	_	_	_	_	
+35-27	4042-4053	transferred	_	_	_	_	
+35-28	4053-4054	,	_	_	_	_	
+35-29	4055-4064	processed	_	_	_	_	
+35-30	4064-4065	,	_	_	_	_	
+35-31	4066-4069	and	_	_	_	_	
+35-32	4070-4076	stored	_	_	_	_	
+35-33	4077-4084	outside	_	_	_	_	
+35-34	4085-4087	of	_	_	_	_	
+35-35	4088-4091	the	_	_	_	_	
+35-36	4092-4099	country	_	_	_	_	
+35-37	4100-4102	in	_	_	_	_	
+35-38	4103-4108	which	_	_	_	_	
+35-39	4109-4112	you	_	_	_	_	
+35-40	4113-4119	reside	_	_	_	_	
+35-41	4119-4120	,	_	_	_	_	
+35-42	4121-4130	including	_	_	_	_	
+35-43	4131-4133	to	_	_	_	_	
+35-44	4133-4134	/	_	_	_	_	
+35-45	4134-4136	in	_	_	_	_	
+35-46	4137-4140	the	_	_	_	_	
+35-47	4141-4147	United	_	_	_	_	
+35-48	4148-4154	States	_	_	_	_	
+35-49	4154-4155	.	_	_	_	_	
+35-50	4157-4158	​	_	_	_	_	
+
+#Text=Use of Cookies and similar code\r
+#Text=By joining our panel and taking part in our research, you agree to our use of cookies and the collection of information from your mobile phone or another computing device you may use whilst taking part in our research activities or visiting our website as outlined below.
+36-1	4160-4163	Use	_	_	_	_	
+36-2	4164-4166	of	_	_	_	_	
+36-3	4167-4174	Cookies	_	_	_	_	
+36-4	4175-4178	and	_	_	_	_	
+36-5	4179-4186	similar	_	_	_	_	
+36-6	4187-4191	code	_	_	_	_	
+36-7	4193-4195	By	_	_	_	_	
+36-8	4196-4203	joining	_	_	_	_	
+36-9	4204-4207	our	_	_	_	_	
+36-10	4208-4213	panel	_	_	_	_	
+36-11	4214-4217	and	_	_	_	_	
+36-12	4218-4224	taking	_	_	_	_	
+36-13	4225-4229	part	_	_	_	_	
+36-14	4230-4232	in	_	_	_	_	
+36-15	4233-4236	our	_	_	_	_	
+36-16	4237-4245	research	_	_	_	_	
+36-17	4245-4246	,	_	_	_	_	
+36-18	4247-4250	you	_	_	_	_	
+36-19	4251-4256	agree	_	_	_	_	
+36-20	4257-4259	to	_	_	_	_	
+36-21	4260-4263	our	_	_	_	_	
+36-22	4264-4267	use	_	_	_	_	
+36-23	4268-4270	of	_	_	_	_	
+36-24	4271-4278	cookies	_	_	_	_	
+36-25	4279-4282	and	_	_	_	_	
+36-26	4283-4286	the	_	_	_	_	
+36-27	4287-4297	collection	Exact Match/Synonym	_	_	_	
+36-28	4298-4300	of	_	_	_	_	
+36-29	4301-4312	information	_	_	*[4]	*[4]	
+36-30	4313-4317	from	_	_	*[4]	*[4]	
+36-31	4318-4322	your	_	_	*[4]	*[4]	
+36-32	4323-4329	mobile	_	_	*[4]	*[4]	
+36-33	4330-4335	phone	_	_	*[4]	*[4]	
+36-34	4336-4338	or	_	_	*[4]	*[4]	
+36-35	4339-4346	another	_	_	*[4]	*[4]	
+36-36	4347-4356	computing	_	_	*[4]	*[4]	
+36-37	4357-4363	device	_	_	*[4]	*[4]	
+36-38	4364-4367	you	_	_	*[4]	*[4]	
+36-39	4368-4371	may	_	_	*[4]	*[4]	
+36-40	4372-4375	use	_	_	*[4]	*[4]	
+36-41	4376-4382	whilst	_	_	*[4]	*[4]	
+36-42	4383-4389	taking	_	_	*[4]	*[4]	
+36-43	4390-4394	part	_	_	*[4]	*[4]	
+36-44	4395-4397	in	_	_	*[4]	*[4]	
+36-45	4398-4401	our	_	_	*[4]	*[4]	
+36-46	4402-4410	research	_	_	*[4]	*[4]	
+36-47	4411-4421	activities	_	_	*[4]	*[4]	
+36-48	4422-4424	or	_	_	*[4]	*[4]	
+36-49	4425-4433	visiting	_	_	*[4]	*[4]	
+36-50	4434-4437	our	_	_	*[4]	*[4]	
+36-51	4438-4445	website	_	_	*[4]	*[4]	
+36-52	4446-4448	as	_	_	*[4]	*[4]	
+36-53	4449-4457	outlined	_	_	*[4]	*[4]	
+36-54	4458-4463	below	_	_	*[4]	*[4]	
+36-55	4463-4464	.	_	_	_	_	
+
+#Text=Our website and mobile applications may collect information through the use of cookies.
+37-1	4466-4469	Our	_	_	_	_	
+37-2	4470-4477	website	_	_	_	_	
+37-3	4478-4481	and	_	_	_	_	
+37-4	4482-4488	mobile	_	_	_	_	
+37-5	4489-4501	applications	_	_	_	_	
+37-6	4502-4505	may	_	_	_	_	
+37-7	4506-4513	collect	_	_	_	_	
+37-8	4514-4525	information	_	_	_	_	
+37-9	4526-4533	through	_	_	_	_	
+37-10	4534-4537	the	_	_	_	_	
+37-11	4538-4541	use	_	_	_	_	
+37-12	4542-4544	of	_	_	_	_	
+37-13	4545-4552	cookies	_	_	_	_	
+37-14	4552-4553	.	_	_	_	_	
+
+#Text=These are small files stored on your computing device.
+38-1	4554-4559	These	_	_	_	_	
+38-2	4560-4563	are	_	_	_	_	
+38-3	4564-4569	small	_	_	_	_	
+38-4	4570-4575	files	_	_	_	_	
+38-5	4576-4582	stored	_	_	_	_	
+38-6	4583-4585	on	_	_	_	_	
+38-7	4586-4590	your	_	_	_	_	
+38-8	4591-4600	computing	_	_	_	_	
+38-9	4601-4607	device	_	_	_	_	
+38-10	4607-4608	.	_	_	_	_	
+
+#Text=These files are used for quality control, usage analytics, and user validation.
+39-1	4609-4614	These	_	_	_	_	
+39-2	4615-4620	files	_	_	_	_	
+39-3	4621-4624	are	_	_	_	_	
+39-4	4625-4629	used	_	_	_	_	
+39-5	4630-4633	for	_	_	_	_	
+39-6	4634-4641	quality	_	_	_	_	
+39-7	4642-4649	control	_	_	_	_	
+39-8	4649-4650	,	_	_	_	_	
+39-9	4651-4656	usage	_	_	_	_	
+39-10	4657-4666	analytics	_	_	_	_	
+39-11	4666-4667	,	_	_	_	_	
+39-12	4668-4671	and	_	_	_	_	
+39-13	4672-4676	user	_	_	_	_	
+39-14	4677-4687	validation	_	_	_	_	
+39-15	4687-4688	.	_	_	_	_	
+
+#Text=It is possible for you to delete 'cookies' or to prevent their use by adjusting the browser settings on your computer or mobile device.
+40-1	4689-4691	It	_	_	_	_	
+40-2	4692-4694	is	_	_	_	_	
+40-3	4695-4703	possible	_	_	_	_	
+40-4	4704-4707	for	_	_	_	_	
+40-5	4708-4711	you	_	_	_	_	
+40-6	4712-4714	to	_	_	_	_	
+40-7	4715-4721	delete	_	_	_	_	
+40-8	4722-4723	'	_	_	_	_	
+40-9	4723-4730	cookies	_	_	_	_	
+40-10	4730-4731	'	_	_	_	_	
+40-11	4732-4734	or	_	_	_	_	
+40-12	4735-4737	to	_	_	_	_	
+40-13	4738-4745	prevent	_	_	_	_	
+40-14	4746-4751	their	_	_	_	_	
+40-15	4752-4755	use	_	_	_	_	
+40-16	4756-4758	by	_	_	_	_	
+40-17	4759-4768	adjusting	_	_	_	_	
+40-18	4769-4772	the	_	_	_	_	
+40-19	4773-4780	browser	_	_	_	_	
+40-20	4781-4789	settings	_	_	_	_	
+40-21	4790-4792	on	_	_	_	_	
+40-22	4793-4797	your	_	_	_	_	
+40-23	4798-4806	computer	_	_	_	_	
+40-24	4807-4809	or	_	_	_	_	
+40-25	4810-4816	mobile	_	_	_	_	
+40-26	4817-4823	device	_	_	_	_	
+40-27	4823-4824	.	_	_	_	_	
+
+#Text=In addition to your own browser settings, when visiting our website a 'cookie' consent banner may be displayed which allows you to control which non-essential 'cookies' are placed on your device during your visit to the website.
+41-1	4825-4827	In	_	_	_	_	
+41-2	4828-4836	addition	_	_	_	_	
+41-3	4837-4839	to	_	_	_	_	
+41-4	4840-4844	your	_	_	_	_	
+41-5	4845-4848	own	_	_	_	_	
+41-6	4849-4856	browser	_	_	_	_	
+41-7	4857-4865	settings	_	_	_	_	
+41-8	4865-4866	,	_	_	_	_	
+41-9	4867-4871	when	_	_	_	_	
+41-10	4872-4880	visiting	_	_	_	_	
+41-11	4881-4884	our	_	_	_	_	
+41-12	4885-4892	website	_	_	_	_	
+41-13	4893-4894	a	_	_	_	_	
+41-14	4895-4896	'	_	_	_	_	
+41-15	4896-4902	cookie	_	_	_	_	
+41-16	4902-4903	'	_	_	_	_	
+41-17	4904-4911	consent	_	_	_	_	
+41-18	4912-4918	banner	_	_	_	_	
+41-19	4919-4922	may	_	_	_	_	
+41-20	4923-4925	be	_	_	_	_	
+41-21	4926-4935	displayed	_	_	_	_	
+41-22	4936-4941	which	_	_	_	_	
+41-23	4942-4948	allows	_	_	_	_	
+41-24	4949-4952	you	_	_	_	_	
+41-25	4953-4955	to	_	_	_	_	
+41-26	4956-4963	control	_	_	_	_	
+41-27	4964-4969	which	_	_	_	_	
+41-28	4970-4983	non-essential	_	_	_	_	
+41-29	4984-4985	'	_	_	_	_	
+41-30	4985-4992	cookies	_	_	_	_	
+41-31	4992-4993	'	_	_	_	_	
+41-32	4994-4997	are	_	_	_	_	
+41-33	4998-5004	placed	_	_	_	_	
+41-34	5005-5007	on	_	_	_	_	
+41-35	5008-5012	your	_	_	_	_	
+41-36	5013-5019	device	_	_	_	_	
+41-37	5020-5026	during	_	_	_	_	
+41-38	5027-5031	your	_	_	_	_	
+41-39	5032-5037	visit	_	_	_	_	
+41-40	5038-5040	to	_	_	_	_	
+41-41	5041-5044	the	_	_	_	_	
+41-42	5045-5052	website	_	_	_	_	
+41-43	5052-5053	.	_	_	_	_	
+
+#Text=To learn more about 'cookies' you can visit https://www.allaboutcookies.org\r
+#Text=In addition to our use of cookies, our website and mobile applications automatically capture information about your IP Address, operating system, screen display settings, browser type, mobile advertising identifiers, and other device capabilities.
+42-1	5054-5056	To	_	_	_	_	
+42-2	5057-5062	learn	_	_	_	_	
+42-3	5063-5067	more	_	_	_	_	
+42-4	5068-5073	about	_	_	_	_	
+42-5	5074-5075	'	_	_	_	_	
+42-6	5075-5082	cookies	_	_	_	_	
+42-7	5082-5083	'	_	_	_	_	
+42-8	5084-5087	you	_	_	_	_	
+42-9	5088-5091	can	_	_	_	_	
+42-10	5092-5097	visit	_	_	_	_	
+42-11	5098-5103	https	_	_	_	_	
+42-12	5103-5104	:	_	_	_	_	
+42-13	5104-5105	/	_	_	_	_	
+42-14	5105-5106	/	_	_	_	_	
+42-15	5106-5129	www.allaboutcookies.org	_	_	_	_	
+42-16	5131-5133	In	_	_	_	_	
+42-17	5134-5142	addition	_	_	_	_	
+42-18	5143-5145	to	_	_	_	_	
+42-19	5146-5149	our	_	_	_	_	
+42-20	5150-5153	use	_	_	_	_	
+42-21	5154-5156	of	_	_	_	_	
+42-22	5157-5164	cookies	_	_	_	_	
+42-23	5164-5165	,	_	_	_	_	
+42-24	5166-5169	our	_	_	_	_	
+42-25	5170-5177	website	_	_	_	_	
+42-26	5178-5181	and	_	_	_	_	
+42-27	5182-5188	mobile	_	_	_	_	
+42-28	5189-5201	applications	_	_	_	_	
+42-29	5202-5215	automatically	_	_	_	_	
+42-30	5216-5223	capture	_	_	_	_	
+42-31	5224-5235	information	_	_	_	_	
+42-32	5236-5241	about	_	_	_	_	
+42-33	5242-5246	your	_	_	_	_	
+42-34	5247-5249	IP	_	_	_	_	
+42-35	5250-5257	Address	_	_	_	_	
+42-36	5257-5258	,	_	_	_	_	
+42-37	5259-5268	operating	_	_	_	_	
+42-38	5269-5275	system	_	_	_	_	
+42-39	5275-5276	,	_	_	_	_	
+42-40	5277-5283	screen	_	_	_	_	
+42-41	5284-5291	display	_	_	_	_	
+42-42	5292-5300	settings	_	_	_	_	
+42-43	5300-5301	,	_	_	_	_	
+42-44	5302-5309	browser	_	_	_	_	
+42-45	5310-5314	type	_	_	_	_	
+42-46	5314-5315	,	_	_	_	_	
+42-47	5316-5322	mobile	_	_	_	_	
+42-48	5323-5334	advertising	_	_	_	_	
+42-49	5335-5346	identifiers	_	_	_	_	
+42-50	5346-5347	,	_	_	_	_	
+42-51	5348-5351	and	_	_	_	_	
+42-52	5352-5357	other	_	_	_	_	
+42-53	5358-5364	device	_	_	_	_	
+42-54	5365-5377	capabilities	_	_	_	_	
+42-55	5377-5378	.	_	_	_	_	
+
+#Text=We use this information to:\r
+#Text=* assist in providing support to you should you have difficulty accessing or completing a survey
+43-1	5379-5381	We	_	_	_	_	
+43-2	5382-5385	use	_	_	_	_	
+43-3	5386-5390	this	_	_	_	_	
+43-4	5391-5402	information	_	_	_	_	
+43-5	5403-5405	to	_	_	_	_	
+43-6	5405-5406	:	_	_	_	_	
+43-7	5408-5409	*	_	_	_	_	
+43-8	5410-5416	assist	_	_	_	_	
+43-9	5417-5419	in	_	_	_	_	
+43-10	5420-5429	providing	_	_	_	_	
+43-11	5430-5437	support	_	_	_	_	
+43-12	5438-5440	to	_	_	_	_	
+43-13	5441-5444	you	_	_	_	_	
+43-14	5445-5451	should	_	_	_	_	
+43-15	5452-5455	you	_	_	_	_	
+43-16	5456-5460	have	_	_	_	_	
+43-17	5461-5471	difficulty	_	_	_	_	
+43-18	5472-5481	accessing	_	_	_	_	
+43-19	5482-5484	or	_	_	_	_	
+43-20	5485-5495	completing	_	_	_	_	
+43-21	5496-5497	a	_	_	_	_	
+43-22	5498-5504	survey	_	_	_	_	
+
+#Text=.
+44-1	5504-5505	.	_	_	_	_	
+
+#Text=* ensure that the survey is delivered in a form suited to the software your computer or mobile device is using
+45-1	5507-5508	*	_	_	_	_	
+45-2	5509-5515	ensure	_	_	_	_	
+45-3	5516-5520	that	_	_	_	_	
+45-4	5521-5524	the	_	_	_	_	
+45-5	5525-5531	survey	_	_	_	_	
+45-6	5532-5534	is	_	_	_	_	
+45-7	5535-5544	delivered	_	_	_	_	
+45-8	5545-5547	in	_	_	_	_	
+45-9	5548-5549	a	_	_	_	_	
+45-10	5550-5554	form	_	_	_	_	
+45-11	5555-5561	suited	_	_	_	_	
+45-12	5562-5564	to	_	_	_	_	
+45-13	5565-5568	the	_	_	_	_	
+45-14	5569-5577	software	_	_	_	_	
+45-15	5578-5582	your	_	_	_	_	
+45-16	5583-5591	computer	_	_	_	_	
+45-17	5592-5594	or	_	_	_	_	
+45-18	5595-5601	mobile	_	_	_	_	
+45-19	5602-5608	device	_	_	_	_	
+45-20	5609-5611	is	_	_	_	_	
+45-21	5612-5617	using	_	_	_	_	
+
+#Text=.
+46-1	5617-5618	.	_	_	_	_	
+
+#Text=* to identify suitable partner survey opportunities
+47-1	5620-5621	*	_	_	_	_	
+47-2	5622-5624	to	_	_	_	_	
+47-3	5625-5633	identify	_	_	_	_	
+47-4	5634-5642	suitable	_	_	_	_	
+47-5	5643-5650	partner	_	_	_	_	
+47-6	5651-5657	survey	_	_	_	_	
+47-7	5658-5671	opportunities	_	_	_	_	
+
+#Text=.
+48-1	5671-5672	.	_	_	_	_	
+
+#Text=* determine the source of mobile application installs and establish advertising effectiveness.\r
+#Text=​
+49-1	5674-5675	*	_	_	_	_	
+49-2	5676-5685	determine	_	_	_	_	
+49-3	5686-5689	the	_	_	_	_	
+49-4	5690-5696	source	_	_	_	_	
+49-5	5697-5699	of	_	_	_	_	
+49-6	5700-5706	mobile	_	_	_	_	
+49-7	5707-5718	application	_	_	_	_	
+49-8	5719-5727	installs	_	_	_	_	
+49-9	5728-5731	and	_	_	_	_	
+49-10	5732-5741	establish	_	_	_	_	
+49-11	5742-5753	advertising	_	_	_	_	
+49-12	5754-5767	effectiveness	_	_	_	_	
+49-13	5767-5768	.	_	_	_	_	
+49-14	5770-5771	​	_	_	_	_	
+
+#Text=How long will we keep the information you provide?
+50-1	5773-5776	How	_	_	_	_	
+50-2	5777-5781	long	_	_	_	_	
+50-3	5782-5786	will	_	_	_	_	
+50-4	5787-5789	we	_	_	_	_	
+50-5	5790-5794	keep	_	_	_	_	
+50-6	5795-5798	the	_	_	_	_	
+50-7	5799-5810	information	_	_	_	_	
+50-8	5811-5814	you	_	_	_	_	
+50-9	5815-5822	provide	_	_	_	_	
+50-10	5822-5823	?	_	_	_	_	
+
+#Text=We will keep the information you provided when you joined our panel, together with any information you provided in response to a recruitment questionnaire for as long as you remain a member of the panel.
+51-1	5825-5827	We	_	_	_	_	
+51-2	5828-5832	will	_	_	_	_	
+51-3	5833-5837	keep	_	_	_	_	
+51-4	5838-5841	the	_	_	_	_	
+51-5	5842-5853	information	_	_	_	_	
+51-6	5854-5857	you	_	_	_	_	
+51-7	5858-5866	provided	_	_	_	_	
+51-8	5867-5871	when	_	_	_	_	
+51-9	5872-5875	you	_	_	_	_	
+51-10	5876-5882	joined	_	_	_	_	
+51-11	5883-5886	our	_	_	_	_	
+51-12	5887-5892	panel	_	_	_	_	
+51-13	5892-5893	,	_	_	_	_	
+51-14	5894-5902	together	_	_	_	_	
+51-15	5903-5907	with	_	_	_	_	
+51-16	5908-5911	any	_	_	_	_	
+51-17	5912-5923	information	_	_	_	_	
+51-18	5924-5927	you	_	_	_	_	
+51-19	5928-5936	provided	_	_	_	_	
+51-20	5937-5939	in	_	_	_	_	
+51-21	5940-5948	response	_	_	_	_	
+51-22	5949-5951	to	_	_	_	_	
+51-23	5952-5953	a	_	_	_	_	
+51-24	5954-5965	recruitment	_	_	_	_	
+51-25	5966-5979	questionnaire	_	_	_	_	
+51-26	5980-5983	for	_	_	_	_	
+51-27	5984-5986	as	_	_	_	_	
+51-28	5987-5991	long	_	_	_	_	
+51-29	5992-5994	as	_	_	_	_	
+51-30	5995-5998	you	_	_	_	_	
+51-31	5999-6005	remain	_	_	_	_	
+51-32	6006-6007	a	_	_	_	_	
+51-33	6008-6014	member	_	_	_	_	
+51-34	6015-6017	of	_	_	_	_	
+51-35	6018-6021	the	_	_	_	_	
+51-36	6022-6027	panel	_	_	_	_	
+51-37	6027-6028	.	_	_	_	_	
+
+#Text=You can leave the panel at any time you wish.
+52-1	6029-6032	You	_	_	_	_	
+52-2	6033-6036	can	_	_	_	_	
+52-3	6037-6042	leave	_	_	_	_	
+52-4	6043-6046	the	_	_	_	_	
+52-5	6047-6052	panel	_	_	_	_	
+52-6	6053-6055	at	_	_	_	_	
+52-7	6056-6059	any	_	_	_	_	
+52-8	6060-6064	time	_	_	_	_	
+52-9	6065-6068	you	_	_	_	_	
+52-10	6069-6073	wish	_	_	_	_	
+52-11	6073-6074	.	_	_	_	_	
+
+#Text=We may also remove you from our panel if you are not taking part in any surveys, are no longer eligible to be a member for any other reason, or the panel is closed.
+53-1	6075-6077	We	_	_	_	_	
+53-2	6078-6081	may	_	_	_	_	
+53-3	6082-6086	also	_	_	_	_	
+53-4	6087-6093	remove	_	_	_	_	
+53-5	6094-6097	you	_	_	_	_	
+53-6	6098-6102	from	_	_	_	_	
+53-7	6103-6106	our	_	_	_	_	
+53-8	6107-6112	panel	_	_	_	_	
+53-9	6113-6115	if	_	_	_	_	
+53-10	6116-6119	you	_	_	_	_	
+53-11	6120-6123	are	_	_	_	_	
+53-12	6124-6127	not	_	_	_	_	
+53-13	6128-6134	taking	_	_	_	_	
+53-14	6135-6139	part	_	_	_	_	
+53-15	6140-6142	in	_	_	_	_	
+53-16	6143-6146	any	_	_	_	_	
+53-17	6147-6154	surveys	_	_	_	_	
+53-18	6154-6155	,	_	_	_	_	
+53-19	6156-6159	are	_	_	_	_	
+53-20	6160-6162	no	_	_	_	_	
+53-21	6163-6169	longer	_	_	_	_	
+53-22	6170-6178	eligible	_	_	_	_	
+53-23	6179-6181	to	_	_	_	_	
+53-24	6182-6184	be	_	_	_	_	
+53-25	6185-6186	a	_	_	_	_	
+53-26	6187-6193	member	_	_	_	_	
+53-27	6194-6197	for	_	_	_	_	
+53-28	6198-6201	any	_	_	_	_	
+53-29	6202-6207	other	_	_	_	_	
+53-30	6208-6214	reason	_	_	_	_	
+53-31	6214-6215	,	_	_	_	_	
+53-32	6216-6218	or	_	_	_	_	
+53-33	6219-6222	the	_	_	_	_	
+53-34	6223-6228	panel	_	_	_	_	
+53-35	6229-6231	is	_	_	_	_	
+53-36	6232-6238	closed	_	_	_	_	
+53-37	6238-6239	.	_	_	_	_	
+
+#Text=When you leave the panel, are removed, the panel is closed, or at your request we will delete your information, leaving anonymous responses to surveys that you participated in and certain information required to comply with our legal obligations and to prevent fraud such as the creation of duplicate accounts or attempting to bypass the quality controls specified in our terms and conditions.\r
+#Text=​
+54-1	6240-6244	When	_	_	_	_	
+54-2	6245-6248	you	_	_	_	_	
+54-3	6249-6254	leave	_	_	_	_	
+54-4	6255-6258	the	_	_	_	_	
+54-5	6259-6264	panel	_	_	_	_	
+54-6	6264-6265	,	_	_	_	_	
+54-7	6266-6269	are	_	_	_	_	
+54-8	6270-6277	removed	_	_	_	_	
+54-9	6277-6278	,	_	_	_	_	
+54-10	6279-6282	the	_	_	_	_	
+54-11	6283-6288	panel	_	_	_	_	
+54-12	6289-6291	is	_	_	_	_	
+54-13	6292-6298	closed	_	_	_	_	
+54-14	6298-6299	,	_	_	_	_	
+54-15	6300-6302	or	_	_	_	_	
+54-16	6303-6305	at	_	_	_	_	
+54-17	6306-6310	your	_	_	_	_	
+54-18	6311-6318	request	_	_	_	_	
+54-19	6319-6321	we	_	_	_	_	
+54-20	6322-6326	will	_	_	_	_	
+54-21	6327-6333	delete	_	_	_	_	
+54-22	6334-6338	your	_	_	_	_	
+54-23	6339-6350	information	_	_	_	_	
+54-24	6350-6351	,	_	_	_	_	
+54-25	6352-6359	leaving	_	_	_	_	
+54-26	6360-6369	anonymous	_	_	_	_	
+54-27	6370-6379	responses	_	_	_	_	
+54-28	6380-6382	to	_	_	_	_	
+54-29	6383-6390	surveys	_	_	_	_	
+54-30	6391-6395	that	_	_	_	_	
+54-31	6396-6399	you	_	_	_	_	
+54-32	6400-6412	participated	_	_	_	_	
+54-33	6413-6415	in	_	_	_	_	
+54-34	6416-6419	and	_	_	_	_	
+54-35	6420-6427	certain	_	_	_	_	
+54-36	6428-6439	information	_	_	_	_	
+54-37	6440-6448	required	_	_	_	_	
+54-38	6449-6451	to	_	_	_	_	
+54-39	6452-6458	comply	_	_	_	_	
+54-40	6459-6463	with	_	_	_	_	
+54-41	6464-6467	our	_	_	_	_	
+54-42	6468-6473	legal	_	_	_	_	
+54-43	6474-6485	obligations	_	_	_	_	
+54-44	6486-6489	and	_	_	_	_	
+54-45	6490-6492	to	_	_	_	_	
+54-46	6493-6500	prevent	_	_	_	_	
+54-47	6501-6506	fraud	_	_	_	_	
+54-48	6507-6511	such	_	_	_	_	
+54-49	6512-6514	as	_	_	_	_	
+54-50	6515-6518	the	_	_	_	_	
+54-51	6519-6527	creation	_	_	_	_	
+54-52	6528-6530	of	_	_	_	_	
+54-53	6531-6540	duplicate	_	_	_	_	
+54-54	6541-6549	accounts	_	_	_	_	
+54-55	6550-6552	or	_	_	_	_	
+54-56	6553-6563	attempting	_	_	_	_	
+54-57	6564-6566	to	_	_	_	_	
+54-58	6567-6573	bypass	_	_	_	_	
+54-59	6574-6577	the	_	_	_	_	
+54-60	6578-6585	quality	_	_	_	_	
+54-61	6586-6594	controls	_	_	_	_	
+54-62	6595-6604	specified	_	_	_	_	
+54-63	6605-6607	in	_	_	_	_	
+54-64	6608-6611	our	_	_	_	_	
+54-65	6612-6617	terms	_	_	_	_	
+54-66	6618-6621	and	_	_	_	_	
+54-67	6622-6632	conditions	_	_	_	_	
+54-68	6632-6633	.	_	_	_	_	
+54-69	6635-6636	​	_	_	_	_	
+
+#Text=How can you get access to your information and/or correct it?
+55-1	6638-6641	How	_	_	_	_	
+55-2	6642-6645	can	_	_	_	_	
+55-3	6646-6649	you	_	_	_	_	
+55-4	6650-6653	get	_	_	_	_	
+55-5	6654-6660	access	_	_	_	_	
+55-6	6661-6663	to	_	_	_	_	
+55-7	6664-6668	your	_	_	_	_	
+55-8	6669-6680	information	_	_	_	_	
+55-9	6681-6684	and	_	_	_	_	
+55-10	6684-6685	/	_	_	_	_	
+55-11	6685-6687	or	_	_	_	_	
+55-12	6688-6695	correct	_	_	_	_	
+55-13	6696-6698	it	_	_	_	_	
+55-14	6698-6699	?	_	_	_	_	
+
+#Text=You have the right to request a copy of all the information we hold about you.
+56-1	6701-6704	You	_	_	_	_	
+56-2	6705-6709	have	_	_	_	_	
+56-3	6710-6713	the	_	_	_	_	
+56-4	6714-6719	right	_	_	_	_	
+56-5	6720-6722	to	_	_	_	_	
+56-6	6723-6730	request	_	_	_	_	
+56-7	6731-6732	a	_	_	_	_	
+56-8	6733-6737	copy	_	_	_	_	
+56-9	6738-6740	of	_	_	_	_	
+56-10	6741-6744	all	_	_	_	_	
+56-11	6745-6748	the	_	_	_	_	
+56-12	6749-6760	information	_	_	_	_	
+56-13	6761-6763	we	_	_	_	_	
+56-14	6764-6768	hold	_	_	_	_	
+56-15	6769-6774	about	_	_	_	_	
+56-16	6775-6778	you	_	_	_	_	
+56-17	6778-6779	.	_	_	_	_	
+
+#Text=We make this information available to you to view, and where appropriate amend, within our mobile applications.
+57-1	6780-6782	We	_	_	_	_	
+57-2	6783-6787	make	_	_	_	_	
+57-3	6788-6792	this	_	_	_	_	
+57-4	6793-6804	information	_	_	_	_	
+57-5	6805-6814	available	_	_	_	_	
+57-6	6815-6817	to	_	_	_	_	
+57-7	6818-6821	you	_	_	_	_	
+57-8	6822-6824	to	_	_	_	_	
+57-9	6825-6829	view	_	_	_	_	
+57-10	6829-6830	,	_	_	_	_	
+57-11	6831-6834	and	_	_	_	_	
+57-12	6835-6840	where	_	_	_	_	
+57-13	6841-6852	appropriate	_	_	_	_	
+57-14	6853-6858	amend	_	_	_	_	
+57-15	6858-6859	,	_	_	_	_	
+57-16	6860-6866	within	_	_	_	_	
+57-17	6867-6870	our	_	_	_	_	
+57-18	6871-6877	mobile	_	_	_	_	
+57-19	6878-6890	applications	_	_	_	_	
+57-20	6890-6891	.	_	_	_	_	
+
+#Text=If you would like a copy of some or all of your personal information please contact us at info@attapoll.com\r
+#Text=​\r
+#Text=How can you opt-out / delete your information?
+58-1	6892-6894	If	_	_	_	_	
+58-2	6895-6898	you	_	_	_	_	
+58-3	6899-6904	would	_	_	_	_	
+58-4	6905-6909	like	_	_	_	_	
+58-5	6910-6911	a	_	_	_	_	
+58-6	6912-6916	copy	_	_	_	_	
+58-7	6917-6919	of	_	_	_	_	
+58-8	6920-6924	some	_	_	_	_	
+58-9	6925-6927	or	_	_	_	_	
+58-10	6928-6931	all	_	_	_	_	
+58-11	6932-6934	of	_	_	_	_	
+58-12	6935-6939	your	_	_	_	_	
+58-13	6940-6948	personal	_	_	_	_	
+58-14	6949-6960	information	_	_	_	_	
+58-15	6961-6967	please	_	_	_	_	
+58-16	6968-6975	contact	_	_	_	_	
+58-17	6976-6978	us	_	_	_	_	
+58-18	6979-6981	at	_	_	_	_	
+58-19	6982-6986	info	_	_	_	_	
+58-20	6986-6987	@	_	_	_	_	
+58-21	6987-6999	attapoll.com	_	_	_	_	
+58-22	7001-7002	​	_	_	_	_	
+58-23	7004-7007	How	_	_	_	_	
+58-24	7008-7011	can	_	_	_	_	
+58-25	7012-7015	you	_	_	_	_	
+58-26	7016-7023	opt-out	_	_	_	_	
+58-27	7024-7025	/	_	_	_	_	
+58-28	7026-7032	delete	_	_	_	_	
+58-29	7033-7037	your	_	_	_	_	
+58-30	7038-7049	information	_	_	_	_	
+58-31	7049-7050	?	_	_	_	_	
+
+#Text=Use of our service is voluntary.
+59-1	7052-7055	Use	_	_	_	_	
+59-2	7056-7058	of	_	_	_	_	
+59-3	7059-7062	our	_	_	_	_	
+59-4	7063-7070	service	_	_	_	_	
+59-5	7071-7073	is	_	_	_	_	
+59-6	7074-7083	voluntary	_	_	_	_	
+59-7	7083-7084	.	_	_	_	_	
+
+#Text=You can opt-out or delete the information we hold about you whenever you want, subject to our requirements to comply with legal requests and our obligations stated below.
+60-1	7085-7088	You	_	_	_	_	
+60-2	7089-7092	can	_	_	_	_	
+60-3	7093-7100	opt-out	_	_	_	_	
+60-4	7101-7103	or	_	_	_	_	
+60-5	7104-7110	delete	_	_	_	_	
+60-6	7111-7114	the	_	_	_	_	
+60-7	7115-7126	information	_	_	_	_	
+60-8	7127-7129	we	_	_	_	_	
+60-9	7130-7134	hold	_	_	_	_	
+60-10	7135-7140	about	_	_	_	_	
+60-11	7141-7144	you	_	_	_	_	
+60-12	7145-7153	whenever	_	_	_	_	
+60-13	7154-7157	you	_	_	_	_	
+60-14	7158-7162	want	_	_	_	_	
+60-15	7162-7163	,	_	_	_	_	
+60-16	7164-7171	subject	_	_	_	_	
+60-17	7172-7174	to	_	_	_	_	
+60-18	7175-7178	our	_	_	_	_	
+60-19	7179-7191	requirements	_	_	_	_	
+60-20	7192-7194	to	_	_	_	_	
+60-21	7195-7201	comply	_	_	_	_	
+60-22	7202-7206	with	_	_	_	_	
+60-23	7207-7212	legal	_	_	_	_	
+60-24	7213-7221	requests	_	_	_	_	
+60-25	7222-7225	and	_	_	_	_	
+60-26	7226-7229	our	_	_	_	_	
+60-27	7230-7241	obligations	_	_	_	_	
+60-28	7242-7248	stated	_	_	_	_	
+60-29	7249-7254	below	_	_	_	_	
+60-30	7254-7255	.	_	_	_	_	
+
+#Text=You can request this action be taken from within our mobile applications.
+61-1	7256-7259	You	_	_	_	_	
+61-2	7260-7263	can	_	_	_	_	
+61-3	7264-7271	request	_	_	_	_	
+61-4	7272-7276	this	_	_	_	_	
+61-5	7277-7283	action	_	_	_	_	
+61-6	7284-7286	be	_	_	_	_	
+61-7	7287-7292	taken	_	_	_	_	
+61-8	7293-7297	from	_	_	_	_	
+61-9	7298-7304	within	_	_	_	_	
+61-10	7305-7308	our	_	_	_	_	
+61-11	7309-7315	mobile	_	_	_	_	
+61-12	7316-7328	applications	_	_	_	_	
+61-13	7328-7329	.	_	_	_	_	
+
+#Text=Alternatively, contact us at info@attapoll.com\r
+#Text=​\r
+#Text=How do you ensure my personal information is secure?
+62-1	7330-7343	Alternatively	_	_	_	_	
+62-2	7343-7344	,	_	_	_	_	
+62-3	7345-7352	contact	_	_	_	_	
+62-4	7353-7355	us	_	_	_	_	
+62-5	7356-7358	at	_	_	_	_	
+62-6	7359-7363	info	_	_	_	_	
+62-7	7363-7364	@	_	_	_	_	
+62-8	7364-7376	attapoll.com	_	_	_	_	
+62-9	7378-7379	​	_	_	_	_	
+62-10	7381-7384	How	_	_	_	_	
+62-11	7385-7387	do	_	_	_	_	
+62-12	7388-7391	you	_	_	_	_	
+62-13	7392-7398	ensure	_	_	_	_	
+62-14	7399-7401	my	_	_	_	_	
+62-15	7402-7410	personal	_	_	_	_	
+62-16	7411-7422	information	_	_	_	_	
+62-17	7423-7425	is	_	_	_	_	
+62-18	7426-7432	secure	_	_	_	_	
+62-19	7432-7433	?	_	_	_	_	
+
+#Text=We take very seriously our responsibilities to keep your personal information secure.
+63-1	7435-7437	We	_	_	_	_	
+63-2	7438-7442	take	_	_	_	_	
+63-3	7443-7447	very	_	_	_	_	
+63-4	7448-7457	seriously	_	_	_	_	
+63-5	7458-7461	our	_	_	_	_	
+63-6	7462-7478	responsibilities	_	_	_	_	
+63-7	7479-7481	to	_	_	_	_	
+63-8	7482-7486	keep	_	_	_	_	
+63-9	7487-7491	your	_	_	_	_	
+63-10	7492-7500	personal	_	_	_	_	
+63-11	7501-7512	information	_	_	_	_	
+63-12	7513-7519	secure	_	_	_	_	
+63-13	7519-7520	.	_	_	_	_	
+
+#Text=As such we take every reasonable precaution to ensure your information is protected from loss, theft, or misuse.
+64-1	7521-7523	As	_	_	_	_	
+64-2	7524-7528	such	_	_	_	_	
+64-3	7529-7531	we	_	_	_	_	
+64-4	7532-7536	take	_	_	_	_	
+64-5	7537-7542	every	_	_	_	_	
+64-6	7543-7553	reasonable	_	_	_	_	
+64-7	7554-7564	precaution	_	_	_	_	
+64-8	7565-7567	to	_	_	_	_	
+64-9	7568-7574	ensure	_	_	_	_	
+64-10	7575-7579	your	_	_	_	_	
+64-11	7580-7591	information	_	_	_	_	
+64-12	7592-7594	is	_	_	_	_	
+64-13	7595-7604	protected	_	_	_	_	
+64-14	7605-7609	from	_	_	_	_	
+64-15	7610-7614	loss	_	_	_	_	
+64-16	7614-7615	,	_	_	_	_	
+64-17	7616-7621	theft	_	_	_	_	
+64-18	7621-7622	,	_	_	_	_	
+64-19	7623-7625	or	_	_	_	_	
+64-20	7626-7632	misuse	_	_	_	_	
+64-21	7632-7633	.	_	_	_	_	
+
+#Text=These precautions include controlled access to computer systems, and the use of secure, encrypted internet connections when collecting personal information.\r
+#Text=​
+65-1	7634-7639	These	_	_	_	_	
+65-2	7640-7651	precautions	_	_	_	_	
+65-3	7652-7659	include	_	_	_	_	
+65-4	7660-7670	controlled	_	_	_	_	
+65-5	7671-7677	access	_	_	_	_	
+65-6	7678-7680	to	_	_	_	_	
+65-7	7681-7689	computer	_	_	_	_	
+65-8	7690-7697	systems	_	_	_	_	
+65-9	7697-7698	,	_	_	_	_	
+65-10	7699-7702	and	_	_	_	_	
+65-11	7703-7706	the	_	_	_	_	
+65-12	7707-7710	use	_	_	_	_	
+65-13	7711-7713	of	_	_	_	_	
+65-14	7714-7720	secure	_	_	_	_	
+65-15	7720-7721	,	_	_	_	_	
+65-16	7722-7731	encrypted	_	_	_	_	
+65-17	7732-7740	internet	_	_	_	_	
+65-18	7741-7752	connections	_	_	_	_	
+65-19	7753-7757	when	_	_	_	_	
+65-20	7758-7768	collecting	_	_	_	_	
+65-21	7769-7777	personal	_	_	_	_	
+65-22	7778-7789	information	_	_	_	_	
+65-23	7789-7790	.	_	_	_	_	
+65-24	7792-7793	​	_	_	_	_	
+
+#Text=Compliance with legal requests and obligations\r
+#Text=We may need to disclose or retain your personal information when we have a good-faith belief that such action is necessary\r
+#Text=* to comply with a subpoena, bankruptcy proceedings, judicial proceeding, court orders, or similar legal process,\r
+#Text=* if we believe it is necessary in order to protect our rights, investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to your safety or the safety of others, or violations of the AttaPoll terms and conditions,\r
+#Text=* to respond to a government request or\r
+#Text=* as otherwise required by law.\r
+#Text=​
+66-1	7795-7805	Compliance	_	_	_	_	
+66-2	7806-7810	with	_	_	_	_	
+66-3	7811-7816	legal	_	_	_	_	
+66-4	7817-7825	requests	_	_	_	_	
+66-5	7826-7829	and	_	_	_	_	
+66-6	7830-7841	obligations	_	_	_	_	
+66-7	7843-7845	We	_	_	_	_	
+66-8	7846-7849	may	_	_	_	_	
+66-9	7850-7854	need	_	_	_	_	
+66-10	7855-7857	to	_	_	_	_	
+66-11	7858-7866	disclose	_	_	_	_	
+66-12	7867-7869	or	_	_	_	_	
+66-13	7870-7876	retain	_	_	_	_	
+66-14	7877-7881	your	_	_	_	_	
+66-15	7882-7890	personal	_	_	_	_	
+66-16	7891-7902	information	_	_	_	_	
+66-17	7903-7907	when	_	_	_	_	
+66-18	7908-7910	we	_	_	_	_	
+66-19	7911-7915	have	_	_	_	_	
+66-20	7916-7917	a	_	_	_	_	
+66-21	7918-7928	good-faith	_	_	_	_	
+66-22	7929-7935	belief	_	_	_	_	
+66-23	7936-7940	that	_	_	_	_	
+66-24	7941-7945	such	_	_	_	_	
+66-25	7946-7952	action	_	_	_	_	
+66-26	7953-7955	is	_	_	_	_	
+66-27	7956-7965	necessary	_	_	_	_	
+66-28	7967-7968	*	_	_	_	_	
+66-29	7969-7971	to	_	_	_	_	
+66-30	7972-7978	comply	_	_	_	_	
+66-31	7979-7983	with	_	_	_	_	
+66-32	7984-7985	a	_	_	_	_	
+66-33	7986-7994	subpoena	_	_	_	_	
+66-34	7994-7995	,	_	_	_	_	
+66-35	7996-8006	bankruptcy	_	_	_	_	
+66-36	8007-8018	proceedings	_	_	_	_	
+66-37	8018-8019	,	_	_	_	_	
+66-38	8020-8028	judicial	_	_	_	_	
+66-39	8029-8039	proceeding	_	_	_	_	
+66-40	8039-8040	,	_	_	_	_	
+66-41	8041-8046	court	_	_	_	_	
+66-42	8047-8053	orders	_	_	_	_	
+66-43	8053-8054	,	_	_	_	_	
+66-44	8055-8057	or	_	_	_	_	
+66-45	8058-8065	similar	_	_	_	_	
+66-46	8066-8071	legal	_	_	_	_	
+66-47	8072-8079	process	_	_	_	_	
+66-48	8079-8080	,	_	_	_	_	
+66-49	8082-8083	*	_	_	_	_	
+66-50	8084-8086	if	_	_	_	_	
+66-51	8087-8089	we	_	_	_	_	
+66-52	8090-8097	believe	_	_	_	_	
+66-53	8098-8100	it	_	_	_	_	
+66-54	8101-8103	is	_	_	_	_	
+66-55	8104-8113	necessary	_	_	_	_	
+66-56	8114-8116	in	_	_	_	_	
+66-57	8117-8122	order	_	_	_	_	
+66-58	8123-8125	to	_	_	_	_	
+66-59	8126-8133	protect	_	_	_	_	
+66-60	8134-8137	our	_	_	_	_	
+66-61	8138-8144	rights	_	_	_	_	
+66-62	8144-8145	,	_	_	_	_	
+66-63	8146-8157	investigate	_	_	_	_	
+66-64	8157-8158	,	_	_	_	_	
+66-65	8159-8166	prevent	_	_	_	_	
+66-66	8167-8169	or	_	_	_	_	
+66-67	8170-8174	take	_	_	_	_	
+66-68	8175-8181	action	_	_	_	_	
+66-69	8182-8191	regarding	_	_	_	_	
+66-70	8192-8199	illegal	_	_	_	_	
+66-71	8200-8210	activities	_	_	_	_	
+66-72	8210-8211	,	_	_	_	_	
+66-73	8212-8221	suspected	_	_	_	_	
+66-74	8222-8227	fraud	_	_	_	_	
+66-75	8227-8228	,	_	_	_	_	
+66-76	8229-8239	situations	_	_	_	_	
+66-77	8240-8249	involving	_	_	_	_	
+66-78	8250-8259	potential	_	_	_	_	
+66-79	8260-8267	threats	_	_	_	_	
+66-80	8268-8270	to	_	_	_	_	
+66-81	8271-8275	your	_	_	_	_	
+66-82	8276-8282	safety	_	_	_	_	
+66-83	8283-8285	or	_	_	_	_	
+66-84	8286-8289	the	_	_	_	_	
+66-85	8290-8296	safety	_	_	_	_	
+66-86	8297-8299	of	_	_	_	_	
+66-87	8300-8306	others	_	_	_	_	
+66-88	8306-8307	,	_	_	_	_	
+66-89	8308-8310	or	_	_	_	_	
+66-90	8311-8321	violations	_	_	_	_	
+66-91	8322-8324	of	_	_	_	_	
+66-92	8325-8328	the	_	_	_	_	
+66-93	8329-8337	AttaPoll	_	_	_	_	
+66-94	8338-8343	terms	_	_	_	_	
+66-95	8344-8347	and	_	_	_	_	
+66-96	8348-8358	conditions	_	_	_	_	
+66-97	8358-8359	,	_	_	_	_	
+66-98	8361-8362	*	_	_	_	_	
+66-99	8363-8365	to	_	_	_	_	
+66-100	8366-8373	respond	_	_	_	_	
+66-101	8374-8376	to	_	_	_	_	
+66-102	8377-8378	a	_	_	_	_	
+66-103	8379-8389	government	_	_	_	_	
+66-104	8390-8397	request	_	_	_	_	
+66-105	8398-8400	or	_	_	_	_	
+66-106	8402-8403	*	_	_	_	_	
+66-107	8404-8406	as	_	_	_	_	
+66-108	8407-8416	otherwise	_	_	_	_	
+66-109	8417-8425	required	_	_	_	_	
+66-110	8426-8428	by	_	_	_	_	
+66-111	8429-8432	law	_	_	_	_	
+66-112	8432-8433	.	_	_	_	_	
+66-113	8435-8436	​	_	_	_	_	
+
+#Text=Sale or Transfer of Business\r
+#Text=As we continue to develop our business, we might sell or buy additional assets.
+67-1	8438-8442	Sale	_	_	_	_	
+67-2	8443-8445	or	_	_	_	_	
+67-3	8446-8454	Transfer	_	_	_	_	
+67-4	8455-8457	of	_	_	_	_	
+67-5	8458-8466	Business	_	_	_	_	
+67-6	8468-8470	As	_	_	_	_	
+67-7	8471-8473	we	_	_	_	_	
+67-8	8474-8482	continue	_	_	_	_	
+67-9	8483-8485	to	_	_	_	_	
+67-10	8486-8493	develop	_	_	_	_	
+67-11	8494-8497	our	_	_	_	_	
+67-12	8498-8506	business	_	_	_	_	
+67-13	8506-8507	,	_	_	_	_	
+67-14	8508-8510	we	_	_	_	_	
+67-15	8511-8516	might	_	_	_	_	
+67-16	8517-8521	sell	_	_	_	_	
+67-17	8522-8524	or	_	_	_	_	
+67-18	8525-8528	buy	_	_	_	_	
+67-19	8529-8539	additional	_	_	_	_	
+67-20	8540-8546	assets	_	_	_	_	
+67-21	8546-8547	.	_	_	_	_	
+
+#Text=In such transactions, our right to contact panel members and the information you have voluntarily provided would generally be one of the transferred business assets.
+68-1	8548-8550	In	_	_	_	_	
+68-2	8551-8555	such	_	_	_	_	
+68-3	8556-8568	transactions	_	_	_	_	
+68-4	8568-8569	,	_	_	_	_	
+68-5	8570-8573	our	_	_	_	_	
+68-6	8574-8579	right	_	_	_	_	
+68-7	8580-8582	to	_	_	_	_	
+68-8	8583-8590	contact	_	_	_	_	
+68-9	8591-8596	panel	_	_	_	_	
+68-10	8597-8604	members	_	_	_	_	
+68-11	8605-8608	and	_	_	_	_	
+68-12	8609-8612	the	_	_	_	_	
+68-13	8613-8624	information	_	_	_	_	
+68-14	8625-8628	you	_	_	_	_	
+68-15	8629-8633	have	_	_	_	_	
+68-16	8634-8645	voluntarily	_	_	_	_	
+68-17	8646-8654	provided	_	_	_	_	
+68-18	8655-8660	would	_	_	_	_	
+68-19	8661-8670	generally	_	_	_	_	
+68-20	8671-8673	be	_	_	_	_	
+68-21	8674-8677	one	_	_	_	_	
+68-22	8678-8680	of	_	_	_	_	
+68-23	8681-8684	the	_	_	_	_	
+68-24	8685-8696	transferred	_	_	_	_	
+68-25	8697-8705	business	_	_	_	_	
+68-26	8706-8712	assets	_	_	_	_	
+68-27	8712-8713	.	_	_	_	_	
+
+#Text=Any sale or transfer of AttaPoll or substantially all of its business assets, which included our panel, would be to an entity that agreed to comply with all of the material terms of our privacy policy.
+69-1	8714-8717	Any	_	_	_	_	
+69-2	8718-8722	sale	_	_	_	_	
+69-3	8723-8725	or	_	_	_	_	
+69-4	8726-8734	transfer	_	_	_	_	
+69-5	8735-8737	of	_	_	_	_	
+69-6	8738-8746	AttaPoll	_	_	_	_	
+69-7	8747-8749	or	_	_	_	_	
+69-8	8750-8763	substantially	_	_	_	_	
+69-9	8764-8767	all	_	_	_	_	
+69-10	8768-8770	of	_	_	_	_	
+69-11	8771-8774	its	_	_	_	_	
+69-12	8775-8783	business	_	_	_	_	
+69-13	8784-8790	assets	_	_	_	_	
+69-14	8790-8791	,	_	_	_	_	
+69-15	8792-8797	which	_	_	_	_	
+69-16	8798-8806	included	_	_	_	_	
+69-17	8807-8810	our	_	_	_	_	
+69-18	8811-8816	panel	_	_	_	_	
+69-19	8816-8817	,	_	_	_	_	
+69-20	8818-8823	would	_	_	_	_	
+69-21	8824-8826	be	_	_	_	_	
+69-22	8827-8829	to	_	_	_	_	
+69-23	8830-8832	an	_	_	_	_	
+69-24	8833-8839	entity	_	_	_	_	
+69-25	8840-8844	that	_	_	_	_	
+69-26	8845-8851	agreed	_	_	_	_	
+69-27	8852-8854	to	_	_	_	_	
+69-28	8855-8861	comply	_	_	_	_	
+69-29	8862-8866	with	_	_	_	_	
+69-30	8867-8870	all	_	_	_	_	
+69-31	8871-8873	of	_	_	_	_	
+69-32	8874-8877	the	_	_	_	_	
+69-33	8878-8886	material	_	_	_	_	
+69-34	8887-8892	terms	_	_	_	_	
+69-35	8893-8895	of	_	_	_	_	
+69-36	8896-8899	our	_	_	_	_	
+69-37	8900-8907	privacy	_	_	_	_	
+69-38	8908-8914	policy	_	_	_	_	
+69-39	8914-8915	.	_	_	_	_	
+
+#Text=You will be notified via email and/or a prominent notice on our Web site of any change in ownership.\r
+#Text=​
+70-1	8916-8919	You	_	_	_	_	
+70-2	8920-8924	will	_	_	_	_	
+70-3	8925-8927	be	_	_	_	_	
+70-4	8928-8936	notified	_	_	_	_	
+70-5	8937-8940	via	_	_	_	_	
+70-6	8941-8946	email	_	_	_	_	
+70-7	8947-8950	and	_	_	_	_	
+70-8	8950-8951	/	_	_	_	_	
+70-9	8951-8953	or	_	_	_	_	
+70-10	8954-8955	a	_	_	_	_	
+70-11	8956-8965	prominent	_	_	_	_	
+70-12	8966-8972	notice	_	_	_	_	
+70-13	8973-8975	on	_	_	_	_	
+70-14	8976-8979	our	_	_	_	_	
+70-15	8980-8983	Web	_	_	_	_	
+70-16	8984-8988	site	_	_	_	_	
+70-17	8989-8991	of	_	_	_	_	
+70-18	8992-8995	any	_	_	_	_	
+70-19	8996-9002	change	_	_	_	_	
+70-20	9003-9005	in	_	_	_	_	
+70-21	9006-9015	ownership	_	_	_	_	
+70-22	9015-9016	.	_	_	_	_	
+70-23	9018-9019	​	_	_	_	_	
+
+#Text=Changes to this Privacy Policy\r
+#Text=We reserve the right to modify this privacy policy at any time.
+71-1	9021-9028	Changes	_	_	_	_	
+71-2	9029-9031	to	_	_	_	_	
+71-3	9032-9036	this	_	_	_	_	
+71-4	9037-9044	Privacy	_	_	_	_	
+71-5	9045-9051	Policy	_	_	_	_	
+71-6	9053-9055	We	_	_	_	_	
+71-7	9056-9063	reserve	_	_	_	_	
+71-8	9064-9067	the	_	_	_	_	
+71-9	9068-9073	right	_	_	_	_	
+71-10	9074-9076	to	_	_	_	_	
+71-11	9077-9083	modify	_	_	_	_	
+71-12	9084-9088	this	_	_	_	_	
+71-13	9089-9096	privacy	_	_	_	_	
+71-14	9097-9103	policy	_	_	_	_	
+71-15	9104-9106	at	_	_	_	_	
+71-16	9107-9110	any	_	_	_	_	
+71-17	9111-9115	time	_	_	_	_	
+71-18	9115-9116	.	_	_	_	_	
+
+#Text=If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our website or mobile applications prior to the change becoming effective.\r
+#Text=​
+72-1	9117-9119	If	_	_	_	_	
+72-2	9120-9122	we	_	_	_	_	
+72-3	9123-9127	make	_	_	_	_	
+72-4	9128-9136	material	_	_	_	_	
+72-5	9137-9144	changes	_	_	_	_	
+72-6	9145-9147	to	_	_	_	_	
+72-7	9148-9152	this	_	_	_	_	
+72-8	9153-9159	policy	_	_	_	_	
+72-9	9159-9160	,	_	_	_	_	
+72-10	9161-9163	we	_	_	_	_	
+72-11	9164-9168	will	_	_	_	_	
+72-12	9169-9175	notify	_	_	_	_	
+72-13	9176-9179	you	_	_	_	_	
+72-14	9180-9184	here	_	_	_	_	
+72-15	9184-9185	,	_	_	_	_	
+72-16	9186-9188	by	_	_	_	_	
+72-17	9189-9194	email	_	_	_	_	
+72-18	9194-9195	,	_	_	_	_	
+72-19	9196-9198	or	_	_	_	_	
+72-20	9199-9201	by	_	_	_	_	
+72-21	9202-9207	means	_	_	_	_	
+72-22	9208-9210	of	_	_	_	_	
+72-23	9211-9212	a	_	_	_	_	
+72-24	9213-9219	notice	_	_	_	_	
+72-25	9220-9222	on	_	_	_	_	
+72-26	9223-9226	our	_	_	_	_	
+72-27	9227-9234	website	_	_	_	_	
+72-28	9235-9237	or	_	_	_	_	
+72-29	9238-9244	mobile	_	_	_	_	
+72-30	9245-9257	applications	_	_	_	_	
+72-31	9258-9263	prior	_	_	_	_	
+72-32	9264-9266	to	_	_	_	_	
+72-33	9267-9270	the	_	_	_	_	
+72-34	9271-9277	change	_	_	_	_	
+72-35	9278-9286	becoming	_	_	_	_	
+72-36	9287-9296	effective	_	_	_	_	
+72-37	9296-9297	.	_	_	_	_	
+72-38	9299-9300	​	_	_	_	_	
+
+#Text=How to contact us\r
+#Text=Please contact us at info@attapoll.com
+#Text=
+#Text=
+#Text=--------[END OF POLICY]---------
+#Text=
+#Text=
+#Text=Question 3: Does this app collect credit card information?
+73-1	9302-9305	How	_	_	_	_	
+73-2	9306-9308	to	_	_	_	_	
+73-3	9309-9316	contact	_	_	_	_	
+73-4	9317-9319	us	_	_	_	_	
+73-5	9321-9327	Please	_	_	_	_	
+73-6	9328-9335	contact	_	_	_	_	
+73-7	9336-9338	us	_	_	_	_	
+73-8	9339-9341	at	_	_	_	_	
+73-9	9342-9346	info	_	_	_	_	
+73-10	9346-9347	@	_	_	_	_	
+73-11	9347-9359	attapoll.com	_	_	_	_	
+73-12	9362-9363	-	_	_	_	_	
+73-13	9363-9364	-	_	_	_	_	
+73-14	9364-9365	-	_	_	_	_	
+73-15	9365-9366	-	_	_	_	_	
+73-16	9366-9367	-	_	_	_	_	
+73-17	9367-9368	-	_	_	_	_	
+73-18	9368-9369	-	_	_	_	_	
+73-19	9369-9370	-	_	_	_	_	
+73-20	9370-9371	[	_	_	_	_	
+73-21	9371-9374	END	_	_	_	_	
+73-22	9375-9377	OF	_	_	_	_	
+73-23	9378-9384	POLICY	_	_	_	_	
+73-24	9384-9385	]	_	_	_	_	
+73-25	9385-9386	-	_	_	_	_	
+73-26	9386-9387	-	_	_	_	_	
+73-27	9387-9388	-	_	_	_	_	
+73-28	9388-9389	-	_	_	_	_	
+73-29	9389-9390	-	_	_	_	_	
+73-30	9390-9391	-	_	_	_	_	
+73-31	9391-9392	-	_	_	_	_	
+73-32	9392-9393	-	_	_	_	_	
+73-33	9393-9394	-	_	_	_	_	
+73-34	9397-9405	Question	_	_	_	_	
+73-35	9406-9407	3	_	_	_	_	
+73-36	9407-9408	:	_	_	_	_	
+73-37	9409-9413	Does	_	_	_	_	
+73-38	9414-9418	this	_	_	_	_	
+73-39	9419-9422	app	_	_	_	_	
+73-40	9423-9430	collect	_	_	_	_	
+73-41	9431-9437	credit	_	_	_	_	
+73-42	9438-9442	card	_	_	_	_	
+73-43	9443-9454	information	_	_	_	_	
+73-44	9454-9455	?	_	_	_	_	
+
+#Text=<ANSWER FROM POLICY>
+74-1	9458-9459	<	_	_	_	_	
+74-2	9459-9465	ANSWER	_	\[IMPLICIT\] (c) While not explicit, this policy implies that it could engage in this practice[1]	_	_	
+74-3	9466-9470	FROM	_	\[IMPLICIT\] (c) While not explicit, this policy implies that it could engage in this practice[1]	_	_	
+74-4	9471-9477	POLICY	_	\[IMPLICIT\] (c) While not explicit, this policy implies that it could engage in this practice[1]	_	_	
+74-5	9477-9478	>	_	_	_	_	

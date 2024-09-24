@@ -1,0 +1,59 @@
+Question 5: Does this app share my location with advertisers?
+
+
+--------[START OF POLICY]---------
+
+
+﻿When you use BeatVideo Mobile applications on Android, This Privacy Policy describes the information collected by BeatVideo through our mobile applications and how we use that information.  Your privacy is important to BeatVideo Sometimes we need information to provide services that you request; this privacy statement applies to BeatVideo and its Android Applications. We are committed to protecting the privacy of all visitors, users and others who access our application (“you,” or “Users”).
+
+
+Personal Information :
+Take Photos and Videos: This permission allows us to use your device’s camera to take photos / videos and turn ON/OFF Camera Flash.
+Modify system settings: This permission is used in settings, in order to switch or adjust ringtone, vibration and brightness level of the screen.
+Expand/collapse status bar:This permission is used for the gesture feature of User System to expand and collapse the status bar.
+Anonymous identifiers:we use anonymous identifiers when you interact with services such as advertising services and others.
+Photos / Media Files:Modify or delete the contents of your Storage.
+Full network access:This permission is used to access the device’s network for certain functions including receiving update notifications or accessing app classification labels.
+Connect and disconnect from Wi-Fi:This permission is used in settings and notification toolbar in order to connect and disconnect from Wi-Fi.
+Measure app storage space:This permission is used to acquire the amount of storage space used by an application.
+How We Use Your Information :
+We DO NOT collect, store or use any personal information while you visit, download or upgrade our Applications.
+We may use personal information submitted by you only for the following purposes: Help us develop, deliver, and improve our products and services and supply higher quality service; manage online surveys and other activities you’ve participated in.
+In the following circumstances, we may disclose your personal information according to your wish or regulations by law:
+* Your prior permission,
+* By the applicable law within or outside your country of residence, legal process, litigation requests,
+* By requests from public and governmental authorities,
+* To protect our legal rights and interests,
+*  To improve the Services,
+* comply with applicable law (e.g., in response to a valid court order or subpoena);
+Non- Personal Information :
+We may collect and use non-personal information in the following circumstances. To have a better understanding in user’s behaviour, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as installed Other Applications name and package name, the data of instal.
+If non-personal information is combined with personal information, We treat the combined information as personal information for the purposes of this Privacy Policy.  We also collect unique device GCM token for Notification purpose.
+Information we get from your use of our services  :
+We may collect information about the services that you use and how you use them, such as when you view and interact with our content. We may collect device-specific information. BeatVideo  will not share that information with third parties.
+
+
+
+
+Security :
+
+
+We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+Unique Application numbers :
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to BeatVideo when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
+Advertisement in App:
+We use Google Admob and other third-part  for advertisements in our Applications. There could be errors in the programming and sometime programming errors may cause unwanted side effects. BeatVideo is very concerned about safeguarding the confidentiality of your information Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable. We haven't any Intention to Copy or use Others Product use and Access in company’s Application.
+
+
+If you have any questions about this Privacy Policy, the practices of this Site or your dealings with this site please feel free to contact us at: beatpea.video@gmail.com
+
+
+--------[END OF POLICY]---------
+
+
+Question 5: Does this app share my location with advertisers?
+
+
+<ANSWER FROM POLICY>
+
+

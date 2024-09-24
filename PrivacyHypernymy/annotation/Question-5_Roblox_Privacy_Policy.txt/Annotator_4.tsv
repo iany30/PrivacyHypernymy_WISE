@@ -1,0 +1,3504 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Action|ActionRelationToQuestion
+#T_SP=webanno.custom.Answer|Answer
+#T_SP=webanno.custom.Condition|
+#T_SP=webanno.custom.InformationType|Modality|Relation
+
+
+#Text=Question 5: Does this app share my location with advertisers?
+1-1	0-8	Question	_	_	_	_	_	
+1-2	9-10	5	_	_	_	_	_	
+1-3	10-11	:	_	_	_	_	_	
+1-4	12-16	Does	_	_	_	_	_	
+1-5	17-21	this	_	_	_	_	_	
+1-6	22-25	app	_	_	_	_	_	
+1-7	26-31	share	_	_	_	_	_	
+1-8	32-34	my	_	_	_	_	_	
+1-9	35-43	location	_	_	_	_	_	
+1-10	44-48	with	_	_	_	_	_	
+1-11	49-60	advertisers	_	_	_	_	_	
+1-12	60-61	?	_	_	_	_	_	
+
+#Text=--------[START OF POLICY]---------
+#Text=
+#Text=
+#Text=﻿Your privacy is important to us.
+2-1	64-65	-	_	_	_	_	_	
+2-2	65-66	-	_	_	_	_	_	
+2-3	66-67	-	_	_	_	_	_	
+2-4	67-68	-	_	_	_	_	_	
+2-5	68-69	-	_	_	_	_	_	
+2-6	69-70	-	_	_	_	_	_	
+2-7	70-71	-	_	_	_	_	_	
+2-8	71-72	-	_	_	_	_	_	
+2-9	72-73	[	_	_	_	_	_	
+2-10	73-78	START	_	_	_	_	_	
+2-11	79-81	OF	_	_	_	_	_	
+2-12	82-88	POLICY	_	_	_	_	_	
+2-13	88-89	]	_	_	_	_	_	
+2-14	89-90	-	_	_	_	_	_	
+2-15	90-91	-	_	_	_	_	_	
+2-16	91-92	-	_	_	_	_	_	
+2-17	92-93	-	_	_	_	_	_	
+2-18	93-94	-	_	_	_	_	_	
+2-19	94-95	-	_	_	_	_	_	
+2-20	95-96	-	_	_	_	_	_	
+2-21	96-97	-	_	_	_	_	_	
+2-22	97-98	-	_	_	_	_	_	
+2-23	101-102	﻿	_	_	_	_	_	
+2-24	102-106	Your	_	_	_	_	_	
+2-25	107-114	privacy	_	_	_	_	_	
+2-26	115-117	is	_	_	_	_	_	
+2-27	118-127	important	_	_	_	_	_	
+2-28	128-130	to	_	_	_	_	_	
+2-29	131-133	us	_	_	_	_	_	
+2-30	133-134	.	_	_	_	_	_	
+
+#Text=This Privacy Policy tells you about the information we collect when you use our websites and app, how we use it, and who we share it with.
+3-1	135-139	This	_	_	_	_	_	
+3-2	140-147	Privacy	_	_	_	_	_	
+3-3	148-154	Policy	_	_	_	_	_	
+3-4	155-160	tells	_	_	_	_	_	
+3-5	161-164	you	_	_	_	_	_	
+3-6	165-170	about	_	_	_	_	_	
+3-7	171-174	the	_	_	_	_	_	
+3-8	175-186	information	_	_	_	_	_	
+3-9	187-189	we	_	_	_	_	_	
+3-10	190-197	collect	_	_	_	_	_	
+3-11	198-202	when	_	_	_	_	_	
+3-12	203-206	you	_	_	_	_	_	
+3-13	207-210	use	_	_	_	_	_	
+3-14	211-214	our	_	_	_	_	_	
+3-15	215-223	websites	_	_	_	_	_	
+3-16	224-227	and	_	_	_	_	_	
+3-17	228-231	app	_	_	_	_	_	
+3-18	231-232	,	_	_	_	_	_	
+3-19	233-236	how	_	_	_	_	_	
+3-20	237-239	we	_	_	_	_	_	
+3-21	240-243	use	_	_	_	_	_	
+3-22	244-246	it	_	_	_	_	_	
+3-23	246-247	,	_	_	_	_	_	
+3-24	248-251	and	_	_	_	_	_	
+3-25	252-255	who	_	_	_	_	_	
+3-26	256-258	we	_	_	_	_	_	
+3-27	259-264	share	_	_	_	_	_	
+3-28	265-267	it	_	_	_	_	_	
+3-29	268-272	with	_	_	_	_	_	
+3-30	272-273	.	_	_	_	_	_	
+
+#Text=This Policy covers the Roblox Services.
+4-1	274-278	This	_	_	_	_	_	
+4-2	279-285	Policy	_	_	_	_	_	
+4-3	286-292	covers	_	_	_	_	_	
+4-4	293-296	the	_	_	_	_	_	
+4-5	297-303	Roblox	_	_	_	_	_	
+4-6	304-312	Services	_	_	_	_	_	
+4-7	312-313	.	_	_	_	_	_	
+
+#Text=Roblox is a global company, and this Policy is for everyone around the world.
+5-1	316-322	Roblox	_	_	_	_	_	
+5-2	323-325	is	_	_	_	_	_	
+5-3	326-327	a	_	_	_	_	_	
+5-4	328-334	global	_	_	_	_	_	
+5-5	335-342	company	_	_	_	_	_	
+5-6	342-343	,	_	_	_	_	_	
+5-7	344-347	and	_	_	_	_	_	
+5-8	348-352	this	_	_	_	_	_	
+5-9	353-359	Policy	_	_	_	_	_	
+5-10	360-362	is	_	_	_	_	_	
+5-11	363-366	for	_	_	_	_	_	
+5-12	367-375	everyone	_	_	_	_	_	
+5-13	376-382	around	_	_	_	_	_	
+5-14	383-386	the	_	_	_	_	_	
+5-15	387-392	world	_	_	_	_	_	
+5-16	392-393	.	_	_	_	_	_	
+
+#Text=Roblox has to follow laws designed to protect personal information in the many different countries where our users live.
+6-1	394-400	Roblox	_	_	_	_	_	
+6-2	401-404	has	_	_	_	_	_	
+6-3	405-407	to	_	_	_	_	_	
+6-4	408-414	follow	_	_	_	_	_	
+6-5	415-419	laws	_	_	_	_	_	
+6-6	420-428	designed	_	_	_	_	_	
+6-7	429-431	to	_	_	_	_	_	
+6-8	432-439	protect	_	_	_	_	_	
+6-9	440-448	personal	_	_	_	_	_	
+6-10	449-460	information	_	_	_	_	_	
+6-11	461-463	in	_	_	_	_	_	
+6-12	464-467	the	_	_	_	_	_	
+6-13	468-472	many	_	_	_	_	_	
+6-14	473-482	different	_	_	_	_	_	
+6-15	483-492	countries	_	_	_	_	_	
+6-16	493-498	where	_	_	_	_	_	
+6-17	499-502	our	_	_	_	_	_	
+6-18	503-508	users	_	_	_	_	_	
+6-19	509-513	live	_	_	_	_	_	
+6-20	513-514	.	_	_	_	_	_	
+
+#Text=For example, we comply with the Children’s Online Privacy Protection Act (“COPPA”) in the US, the General Data Protection Regulation (“GDPR”) in the EU, the Data Protection Act of 2018 in the UK, and the Brazilian General Data Protection Law (“LGPD”) in Brazil.
+7-1	515-518	For	_	_	_	_	_	
+7-2	519-526	example	_	_	_	_	_	
+7-3	526-527	,	_	_	_	_	_	
+7-4	528-530	we	_	_	_	_	_	
+7-5	531-537	comply	_	_	_	_	_	
+7-6	538-542	with	_	_	_	_	_	
+7-7	543-546	the	_	_	_	_	_	
+7-8	547-555	Children	_	_	_	_	_	
+7-9	555-556	’	_	_	_	_	_	
+7-10	556-557	s	_	_	_	_	_	
+7-11	558-564	Online	_	_	_	_	_	
+7-12	565-572	Privacy	_	_	_	_	_	
+7-13	573-583	Protection	_	_	_	_	_	
+7-14	584-587	Act	_	_	_	_	_	
+7-15	588-589	(	_	_	_	_	_	
+7-16	589-590	“	_	_	_	_	_	
+7-17	590-595	COPPA	_	_	_	_	_	
+7-18	595-596	”	_	_	_	_	_	
+7-19	596-597	)	_	_	_	_	_	
+7-20	598-600	in	_	_	_	_	_	
+7-21	601-604	the	_	_	_	_	_	
+7-22	605-607	US	_	_	_	_	_	
+7-23	607-608	,	_	_	_	_	_	
+7-24	609-612	the	_	_	_	_	_	
+7-25	613-620	General	_	_	_	_	_	
+7-26	621-625	Data	_	_	_	_	_	
+7-27	626-636	Protection	_	_	_	_	_	
+7-28	637-647	Regulation	_	_	_	_	_	
+7-29	648-649	(	_	_	_	_	_	
+7-30	649-650	“	_	_	_	_	_	
+7-31	650-654	GDPR	_	_	_	_	_	
+7-32	654-655	”	_	_	_	_	_	
+7-33	655-656	)	_	_	_	_	_	
+7-34	657-659	in	_	_	_	_	_	
+7-35	660-663	the	_	_	_	_	_	
+7-36	664-666	EU	_	_	_	_	_	
+7-37	666-667	,	_	_	_	_	_	
+7-38	668-671	the	_	_	_	_	_	
+7-39	672-676	Data	_	_	_	_	_	
+7-40	677-687	Protection	_	_	_	_	_	
+7-41	688-691	Act	_	_	_	_	_	
+7-42	692-694	of	_	_	_	_	_	
+7-43	695-699	2018	_	_	_	_	_	
+7-44	700-702	in	_	_	_	_	_	
+7-45	703-706	the	_	_	_	_	_	
+7-46	707-709	UK	_	_	_	_	_	
+7-47	709-710	,	_	_	_	_	_	
+7-48	711-714	and	_	_	_	_	_	
+7-49	715-718	the	_	_	_	_	_	
+7-50	719-728	Brazilian	_	_	_	_	_	
+7-51	729-736	General	_	_	_	_	_	
+7-52	737-741	Data	_	_	_	_	_	
+7-53	742-752	Protection	_	_	_	_	_	
+7-54	753-756	Law	_	_	_	_	_	
+7-55	757-758	(	_	_	_	_	_	
+7-56	758-759	“	_	_	_	_	_	
+7-57	759-763	LGPD	_	_	_	_	_	
+7-58	763-764	”	_	_	_	_	_	
+7-59	764-765	)	_	_	_	_	_	
+7-60	766-768	in	_	_	_	_	_	
+7-61	769-775	Brazil	_	_	_	_	_	
+7-62	775-776	.	_	_	_	_	_	
+
+#Text=Roblox is also committed to protecting the privacy of children (i.e., users under the age of 13 under COPPA).
+8-1	777-783	Roblox	_	_	_	_	_	
+8-2	784-786	is	_	_	_	_	_	
+8-3	787-791	also	_	_	_	_	_	
+8-4	792-801	committed	_	_	_	_	_	
+8-5	802-804	to	_	_	_	_	_	
+8-6	805-815	protecting	_	_	_	_	_	
+8-7	816-819	the	_	_	_	_	_	
+8-8	820-827	privacy	_	_	_	_	_	
+8-9	828-830	of	_	_	_	_	_	
+8-10	831-839	children	_	_	_	_	_	
+8-11	840-841	(	_	_	_	_	_	
+8-12	841-844	i.e	_	_	_	_	_	
+8-13	844-845	.	_	_	_	_	_	
+8-14	845-846	,	_	_	_	_	_	
+8-15	847-852	users	_	_	_	_	_	
+8-16	853-858	under	_	_	_	_	_	
+8-17	859-862	the	_	_	_	_	_	
+8-18	863-866	age	_	_	_	_	_	
+8-19	867-869	of	_	_	_	_	_	
+8-20	870-872	13	_	_	_	_	_	
+8-21	873-878	under	_	_	_	_	_	
+8-22	879-884	COPPA	_	_	_	_	_	
+8-23	884-885	)	_	_	_	_	_	
+8-24	885-886	.	_	_	_	_	_	
+
+#Text=See the "Children’s Privacy and Parental Controls" section below for more information about your rights as a parent or legal guardian.
+9-1	887-890	See	_	_	_	_	_	
+9-2	891-894	the	_	_	_	_	_	
+9-3	895-896	"	_	_	_	_	_	
+9-4	896-904	Children	_	_	_	_	_	
+9-5	904-905	’	_	_	_	_	_	
+9-6	905-906	s	_	_	_	_	_	
+9-7	907-914	Privacy	_	_	_	_	_	
+9-8	915-918	and	_	_	_	_	_	
+9-9	919-927	Parental	_	_	_	_	_	
+9-10	928-936	Controls	_	_	_	_	_	
+9-11	936-937	"	_	_	_	_	_	
+9-12	938-945	section	_	_	_	_	_	
+9-13	946-951	below	_	_	_	_	_	
+9-14	952-955	for	_	_	_	_	_	
+9-15	956-960	more	_	_	_	_	_	
+9-16	961-972	information	_	_	_	_	_	
+9-17	973-978	about	_	_	_	_	_	
+9-18	979-983	your	_	_	_	_	_	
+9-19	984-990	rights	_	_	_	_	_	
+9-20	991-993	as	_	_	_	_	_	
+9-21	994-995	a	_	_	_	_	_	
+9-22	996-1002	parent	_	_	_	_	_	
+9-23	1003-1005	or	_	_	_	_	_	
+9-24	1006-1011	legal	_	_	_	_	_	
+9-25	1012-1020	guardian	_	_	_	_	_	
+9-26	1020-1021	.	_	_	_	_	_	
+
+#Text=To learn more about COPPA, you can consult the US Federal Trade Commission’s COPPA website: https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa.
+10-1	1022-1024	To	_	_	_	_	_	
+10-2	1025-1030	learn	_	_	_	_	_	
+10-3	1031-1035	more	_	_	_	_	_	
+10-4	1036-1041	about	_	_	_	_	_	
+10-5	1042-1047	COPPA	_	_	_	_	_	
+10-6	1047-1048	,	_	_	_	_	_	
+10-7	1049-1052	you	_	_	_	_	_	
+10-8	1053-1056	can	_	_	_	_	_	
+10-9	1057-1064	consult	_	_	_	_	_	
+10-10	1065-1068	the	_	_	_	_	_	
+10-11	1069-1071	US	_	_	_	_	_	
+10-12	1072-1079	Federal	_	_	_	_	_	
+10-13	1080-1085	Trade	_	_	_	_	_	
+10-14	1086-1096	Commission	_	_	_	_	_	
+10-15	1096-1097	’	_	_	_	_	_	
+10-16	1097-1098	s	_	_	_	_	_	
+10-17	1099-1104	COPPA	_	_	_	_	_	
+10-18	1105-1112	website	_	_	_	_	_	
+10-19	1112-1113	:	_	_	_	_	_	
+10-20	1114-1119	https	_	_	_	_	_	
+10-21	1119-1120	:	_	_	_	_	_	
+10-22	1120-1121	/	_	_	_	_	_	
+10-23	1121-1122	/	_	_	_	_	_	
+10-24	1122-1133	www.ftc.gov	_	_	_	_	_	
+10-25	1133-1134	/	_	_	_	_	_	
+10-26	1134-1145	news-events	_	_	_	_	_	
+10-27	1145-1146	/	_	_	_	_	_	
+10-28	1146-1152	topics	_	_	_	_	_	
+10-29	1152-1153	/	_	_	_	_	_	
+10-30	1153-1189	protecting-consumer-privacy-security	_	_	_	_	_	
+10-31	1189-1190	/	_	_	_	_	_	
+10-32	1190-1208	kids-privacy-coppa	_	_	_	_	_	
+10-33	1208-1209	.	_	_	_	_	_	
+
+#Text=You can learn more about COPPA, by looking at this simple guide from the kidSAFE Seal Program – www.kidsafeseal.com/knowaboutcoppa.html.
+11-1	1210-1213	You	_	_	_	_	_	
+11-2	1214-1217	can	_	_	_	_	_	
+11-3	1218-1223	learn	_	_	_	_	_	
+11-4	1224-1228	more	_	_	_	_	_	
+11-5	1229-1234	about	_	_	_	_	_	
+11-6	1235-1240	COPPA	_	_	_	_	_	
+11-7	1240-1241	,	_	_	_	_	_	
+11-8	1242-1244	by	_	_	_	_	_	
+11-9	1245-1252	looking	_	_	_	_	_	
+11-10	1253-1255	at	_	_	_	_	_	
+11-11	1256-1260	this	_	_	_	_	_	
+11-12	1261-1267	simple	_	_	_	_	_	
+11-13	1268-1273	guide	_	_	_	_	_	
+11-14	1274-1278	from	_	_	_	_	_	
+11-15	1279-1282	the	_	_	_	_	_	
+11-16	1283-1290	kidSAFE	_	_	_	_	_	
+11-17	1291-1295	Seal	_	_	_	_	_	
+11-18	1296-1303	Program	_	_	_	_	_	
+11-19	1304-1305	–	_	_	_	_	_	
+11-20	1306-1325	www.kidsafeseal.com	_	_	_	_	_	
+11-21	1325-1326	/	_	_	_	_	_	
+11-22	1326-1345	knowaboutcoppa.html	_	_	_	_	_	
+11-23	1345-1346	.	_	_	_	_	_	
+
+#Text=If you have any questions, comments, or concerns regarding this Privacy Policy and/or our data practices, please contact us at the following support form, telephone number, or mailing address:
+#Text=Customer Support Form
+#Text=(888) 858 - BLOX
+#Text=Roblox Corporation
+#Text=Attn: Roblox Privacy Manager
+#Text=Address: 970 Park Place, Suite 100
+#Text=San Mateo, California, 94403
+#Text=privacy@roblox.com
+#Text=For users based in the European Economic Area, the United Kingdom, or Switzerland, you may also contact our Representative according to Articles 17 EU and UK GDPR in the European Union:
+#Text=roblox@gdpr-rep.com
+#Text=EEA:
+#Text=Tel: +49 (0) 40 99999 - 3430
+#Text=DP-Dock GmbH
+#Text=Attn: Roblox Corporation
+#Text=Ballindamm 39 / Ecke Jungfernstieg
+#Text=0095 Hamburg, Germany
+#Text=UK:
+#Text=DP Data Protection Services UK Ltd.
+12-1	1347-1349	If	_	_	_	_	_	
+12-2	1350-1353	you	_	_	_	_	_	
+12-3	1354-1358	have	_	_	_	_	_	
+12-4	1359-1362	any	_	_	_	_	_	
+12-5	1363-1372	questions	_	_	_	_	_	
+12-6	1372-1373	,	_	_	_	_	_	
+12-7	1374-1382	comments	_	_	_	_	_	
+12-8	1382-1383	,	_	_	_	_	_	
+12-9	1384-1386	or	_	_	_	_	_	
+12-10	1387-1395	concerns	_	_	_	_	_	
+12-11	1396-1405	regarding	_	_	_	_	_	
+12-12	1406-1410	this	_	_	_	_	_	
+12-13	1411-1418	Privacy	_	_	_	_	_	
+12-14	1419-1425	Policy	_	_	_	_	_	
+12-15	1426-1429	and	_	_	_	_	_	
+12-16	1429-1430	/	_	_	_	_	_	
+12-17	1430-1432	or	_	_	_	_	_	
+12-18	1433-1436	our	_	_	_	_	_	
+12-19	1437-1441	data	_	_	_	_	_	
+12-20	1442-1451	practices	_	_	_	_	_	
+12-21	1451-1452	,	_	_	_	_	_	
+12-22	1453-1459	please	_	_	_	_	_	
+12-23	1460-1467	contact	_	_	_	_	_	
+12-24	1468-1470	us	_	_	_	_	_	
+12-25	1471-1473	at	_	_	_	_	_	
+12-26	1474-1477	the	_	_	_	_	_	
+12-27	1478-1487	following	_	_	_	_	_	
+12-28	1488-1495	support	_	_	_	_	_	
+12-29	1496-1500	form	_	_	_	_	_	
+12-30	1500-1501	,	_	_	_	_	_	
+12-31	1502-1511	telephone	_	_	_	_	_	
+12-32	1512-1518	number	_	_	_	_	_	
+12-33	1518-1519	,	_	_	_	_	_	
+12-34	1520-1522	or	_	_	_	_	_	
+12-35	1523-1530	mailing	_	_	_	_	_	
+12-36	1531-1538	address	_	_	_	_	_	
+12-37	1538-1539	:	_	_	_	_	_	
+12-38	1540-1548	Customer	_	_	_	_	_	
+12-39	1549-1556	Support	_	_	_	_	_	
+12-40	1557-1561	Form	_	_	_	_	_	
+12-41	1562-1563	(	_	_	_	_	_	
+12-42	1563-1566	888	_	_	_	_	_	
+12-43	1566-1567	)	_	_	_	_	_	
+12-44	1568-1571	858	_	_	_	_	_	
+12-45	1572-1573	-	_	_	_	_	_	
+12-46	1574-1578	BLOX	_	_	_	_	_	
+12-47	1579-1585	Roblox	_	_	_	_	_	
+12-48	1586-1597	Corporation	_	_	_	_	_	
+12-49	1598-1602	Attn	_	_	_	_	_	
+12-50	1602-1603	:	_	_	_	_	_	
+12-51	1604-1610	Roblox	_	_	_	_	_	
+12-52	1611-1618	Privacy	_	_	_	_	_	
+12-53	1619-1626	Manager	_	_	_	_	_	
+12-54	1627-1634	Address	_	_	_	_	_	
+12-55	1634-1635	:	_	_	_	_	_	
+12-56	1636-1639	970	_	_	_	_	_	
+12-57	1640-1644	Park	_	_	_	_	_	
+12-58	1645-1650	Place	_	_	_	_	_	
+12-59	1650-1651	,	_	_	_	_	_	
+12-60	1652-1657	Suite	_	_	_	_	_	
+12-61	1658-1661	100	_	_	_	_	_	
+12-62	1662-1665	San	_	_	_	_	_	
+12-63	1666-1671	Mateo	_	_	_	_	_	
+12-64	1671-1672	,	_	_	_	_	_	
+12-65	1673-1683	California	_	_	_	_	_	
+12-66	1683-1684	,	_	_	_	_	_	
+12-67	1685-1690	94403	_	_	_	_	_	
+12-68	1691-1698	privacy	_	_	_	_	_	
+12-69	1698-1699	@	_	_	_	_	_	
+12-70	1699-1709	roblox.com	_	_	_	_	_	
+12-71	1710-1713	For	_	_	_	_	_	
+12-72	1714-1719	users	_	_	_	_	_	
+12-73	1720-1725	based	_	_	_	_	_	
+12-74	1726-1728	in	_	_	_	_	_	
+12-75	1729-1732	the	_	_	_	_	_	
+12-76	1733-1741	European	_	_	_	_	_	
+12-77	1742-1750	Economic	_	_	_	_	_	
+12-78	1751-1755	Area	_	_	_	_	_	
+12-79	1755-1756	,	_	_	_	_	_	
+12-80	1757-1760	the	_	_	_	_	_	
+12-81	1761-1767	United	_	_	_	_	_	
+12-82	1768-1775	Kingdom	_	_	_	_	_	
+12-83	1775-1776	,	_	_	_	_	_	
+12-84	1777-1779	or	_	_	_	_	_	
+12-85	1780-1791	Switzerland	_	_	_	_	_	
+12-86	1791-1792	,	_	_	_	_	_	
+12-87	1793-1796	you	_	_	_	_	_	
+12-88	1797-1800	may	_	_	_	_	_	
+12-89	1801-1805	also	_	_	_	_	_	
+12-90	1806-1813	contact	_	_	_	_	_	
+12-91	1814-1817	our	_	_	_	_	_	
+12-92	1818-1832	Representative	_	_	_	_	_	
+12-93	1833-1842	according	_	_	_	_	_	
+12-94	1843-1845	to	_	_	_	_	_	
+12-95	1846-1854	Articles	_	_	_	_	_	
+12-96	1855-1857	17	_	_	_	_	_	
+12-97	1858-1860	EU	_	_	_	_	_	
+12-98	1861-1864	and	_	_	_	_	_	
+12-99	1865-1867	UK	_	_	_	_	_	
+12-100	1868-1872	GDPR	_	_	_	_	_	
+12-101	1873-1875	in	_	_	_	_	_	
+12-102	1876-1879	the	_	_	_	_	_	
+12-103	1880-1888	European	_	_	_	_	_	
+12-104	1889-1894	Union	_	_	_	_	_	
+12-105	1894-1895	:	_	_	_	_	_	
+12-106	1896-1902	roblox	_	_	_	_	_	
+12-107	1902-1903	@	_	_	_	_	_	
+12-108	1903-1915	gdpr-rep.com	_	_	_	_	_	
+12-109	1916-1919	EEA	_	_	_	_	_	
+12-110	1919-1920	:	_	_	_	_	_	
+12-111	1921-1924	Tel	_	_	_	_	_	
+12-112	1924-1925	:	_	_	_	_	_	
+12-113	1926-1927	+	_	_	_	_	_	
+12-114	1927-1929	49	_	_	_	_	_	
+12-115	1930-1931	(	_	_	_	_	_	
+12-116	1931-1932	0	_	_	_	_	_	
+12-117	1932-1933	)	_	_	_	_	_	
+12-118	1934-1936	40	_	_	_	_	_	
+12-119	1937-1942	99999	_	_	_	_	_	
+12-120	1943-1944	-	_	_	_	_	_	
+12-121	1945-1949	3430	_	_	_	_	_	
+12-122	1950-1957	DP-Dock	_	_	_	_	_	
+12-123	1958-1962	GmbH	_	_	_	_	_	
+12-124	1963-1967	Attn	_	_	_	_	_	
+12-125	1967-1968	:	_	_	_	_	_	
+12-126	1969-1975	Roblox	_	_	_	_	_	
+12-127	1976-1987	Corporation	_	_	_	_	_	
+12-128	1988-1998	Ballindamm	_	_	_	_	_	
+12-129	1999-2001	39	_	_	_	_	_	
+12-130	2002-2003	/	_	_	_	_	_	
+12-131	2004-2008	Ecke	_	_	_	_	_	
+12-132	2009-2022	Jungfernstieg	_	_	_	_	_	
+12-133	2023-2027	0095	_	_	_	_	_	
+12-134	2028-2035	Hamburg	_	_	_	_	_	
+12-135	2035-2036	,	_	_	_	_	_	
+12-136	2037-2044	Germany	_	_	_	_	_	
+12-137	2045-2047	UK	_	_	_	_	_	
+12-138	2047-2048	:	_	_	_	_	_	
+12-139	2049-2051	DP	_	_	_	_	_	
+12-140	2052-2056	Data	_	_	_	_	_	
+12-141	2057-2067	Protection	_	_	_	_	_	
+12-142	2068-2076	Services	_	_	_	_	_	
+12-143	2077-2079	UK	_	_	_	_	_	
+12-144	2080-2083	Ltd	_	_	_	_	_	
+12-145	2083-2084	.	_	_	_	_	_	
+
+#Text=Attn: Roblox Corporation
+#Text=16 Great Queen Street
+#Text=Covent Garden, London, WC2B 5AH, United Kingdom
+#Text=If you are a user based in Brazil, you may contact our Brazilian Data Protection Officer regarding your personal data by emailing us at privacy@roblox.com.
+#Text=
+#Text=
+#Text=2.
+13-1	2085-2089	Attn	_	_	_	_	_	
+13-2	2089-2090	:	_	_	_	_	_	
+13-3	2091-2097	Roblox	_	_	_	_	_	
+13-4	2098-2109	Corporation	_	_	_	_	_	
+13-5	2110-2112	16	_	_	_	_	_	
+13-6	2113-2118	Great	_	_	_	_	_	
+13-7	2119-2124	Queen	_	_	_	_	_	
+13-8	2125-2131	Street	_	_	_	_	_	
+13-9	2132-2138	Covent	_	_	_	_	_	
+13-10	2139-2145	Garden	_	_	_	_	_	
+13-11	2145-2146	,	_	_	_	_	_	
+13-12	2147-2153	London	_	_	_	_	_	
+13-13	2153-2154	,	_	_	_	_	_	
+13-14	2155-2159	WC2B	_	_	_	_	_	
+13-15	2160-2163	5AH	_	_	_	_	_	
+13-16	2163-2164	,	_	_	_	_	_	
+13-17	2165-2171	United	_	_	_	_	_	
+13-18	2172-2179	Kingdom	_	_	_	_	_	
+13-19	2180-2182	If	_	_	_	_	_	
+13-20	2183-2186	you	_	_	_	_	_	
+13-21	2187-2190	are	_	_	_	_	_	
+13-22	2191-2192	a	_	_	_	_	_	
+13-23	2193-2197	user	_	_	_	_	_	
+13-24	2198-2203	based	_	_	_	_	_	
+13-25	2204-2206	in	_	_	_	_	_	
+13-26	2207-2213	Brazil	_	_	_	_	_	
+13-27	2213-2214	,	_	_	_	_	_	
+13-28	2215-2218	you	_	_	_	_	_	
+13-29	2219-2222	may	_	_	_	_	_	
+13-30	2223-2230	contact	_	_	_	_	_	
+13-31	2231-2234	our	_	_	_	_	_	
+13-32	2235-2244	Brazilian	_	_	_	_	_	
+13-33	2245-2249	Data	_	_	_	_	_	
+13-34	2250-2260	Protection	_	_	_	_	_	
+13-35	2261-2268	Officer	_	_	_	_	_	
+13-36	2269-2278	regarding	_	_	_	_	_	
+13-37	2279-2283	your	_	_	_	_	_	
+13-38	2284-2292	personal	_	_	_	_	_	
+13-39	2293-2297	data	_	_	_	_	_	
+13-40	2298-2300	by	_	_	_	_	_	
+13-41	2301-2309	emailing	_	_	_	_	_	
+13-42	2310-2312	us	_	_	_	_	_	
+13-43	2313-2315	at	_	_	_	_	_	
+13-44	2316-2323	privacy	_	_	_	_	_	
+13-45	2323-2324	@	_	_	_	_	_	
+13-46	2324-2334	roblox.com	_	_	_	_	_	
+13-47	2334-2335	.	_	_	_	_	_	
+13-48	2338-2339	2	_	_	_	_	_	
+13-49	2339-2340	.	_	_	_	_	_	
+
+#Text=Definitions
+#Text=
+#Text=
+#Text=For the purposes of our services, the definitions are as follows:
+#Text=“Children” or “Child” means any user under the age of 13.
+14-1	2341-2352	Definitions	_	_	_	_	_	
+14-2	2355-2358	For	_	_	_	_	_	
+14-3	2359-2362	the	_	_	_	_	_	
+14-4	2363-2371	purposes	_	_	_	_	_	
+14-5	2372-2374	of	_	_	_	_	_	
+14-6	2375-2378	our	_	_	_	_	_	
+14-7	2379-2387	services	_	_	_	_	_	
+14-8	2387-2388	,	_	_	_	_	_	
+14-9	2389-2392	the	_	_	_	_	_	
+14-10	2393-2404	definitions	_	_	_	_	_	
+14-11	2405-2408	are	_	_	_	_	_	
+14-12	2409-2411	as	_	_	_	_	_	
+14-13	2412-2419	follows	_	_	_	_	_	
+14-14	2419-2420	:	_	_	_	_	_	
+14-15	2421-2422	“	_	_	_	_	_	
+14-16	2422-2430	Children	_	_	_	_	_	
+14-17	2430-2431	”	_	_	_	_	_	
+14-18	2432-2434	or	_	_	_	_	_	
+14-19	2435-2436	“	_	_	_	_	_	
+14-20	2436-2441	Child	_	_	_	_	_	
+14-21	2441-2442	”	_	_	_	_	_	
+14-22	2443-2448	means	_	_	_	_	_	
+14-23	2449-2452	any	_	_	_	_	_	
+14-24	2453-2457	user	_	_	_	_	_	
+14-25	2458-2463	under	_	_	_	_	_	
+14-26	2464-2467	the	_	_	_	_	_	
+14-27	2468-2471	age	_	_	_	_	_	
+14-28	2472-2474	of	_	_	_	_	_	
+14-29	2475-2477	13	_	_	_	_	_	
+14-30	2477-2478	.	_	_	_	_	_	
+
+#Text=“Personal Information” means any information relating to a natural person who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, or an online identifier.
+15-1	2479-2480	“	_	_	_	_	_	
+15-2	2480-2488	Personal	_	_	_	_	_	
+15-3	2489-2500	Information	_	_	_	_	_	
+15-4	2500-2501	”	_	_	_	_	_	
+15-5	2502-2507	means	_	_	_	_	_	
+15-6	2508-2511	any	_	_	_	_	_	
+15-7	2512-2523	information	_	_	_	_	_	
+15-8	2524-2532	relating	_	_	_	_	_	
+15-9	2533-2535	to	_	_	_	_	_	
+15-10	2536-2537	a	_	_	_	_	_	
+15-11	2538-2545	natural	_	_	_	_	_	
+15-12	2546-2552	person	_	_	_	_	_	
+15-13	2553-2556	who	_	_	_	_	_	
+15-14	2557-2560	can	_	_	_	_	_	
+15-15	2561-2563	be	_	_	_	_	_	
+15-16	2564-2574	identified	_	_	_	_	_	
+15-17	2574-2575	,	_	_	_	_	_	
+15-18	2576-2584	directly	_	_	_	_	_	
+15-19	2585-2587	or	_	_	_	_	_	
+15-20	2588-2598	indirectly	_	_	_	_	_	
+15-21	2598-2599	,	_	_	_	_	_	
+15-22	2600-2602	in	_	_	_	_	_	
+15-23	2603-2613	particular	_	_	_	_	_	
+15-24	2614-2616	by	_	_	_	_	_	
+15-25	2617-2626	reference	_	_	_	_	_	
+15-26	2627-2629	to	_	_	_	_	_	
+15-27	2630-2632	an	_	_	_	_	_	
+15-28	2633-2643	identifier	_	_	_	_	_	
+15-29	2644-2648	such	_	_	_	_	_	
+15-30	2649-2651	as	_	_	_	_	_	
+15-31	2652-2653	a	_	_	_	_	_	
+15-32	2654-2658	name	_	_	_	_	_	
+15-33	2658-2659	,	_	_	_	_	_	
+15-34	2660-2662	an	_	_	_	_	_	
+15-35	2663-2677	identification	_	_	_	_	_	
+15-36	2678-2684	number	_	_	_	_	_	
+15-37	2684-2685	,	_	_	_	_	_	
+15-38	2686-2694	location	_	_	_	_	_	
+15-39	2695-2699	data	_	_	_	_	_	
+15-40	2699-2700	,	_	_	_	_	_	
+15-41	2701-2703	or	_	_	_	_	_	
+15-42	2704-2706	an	_	_	_	_	_	
+15-43	2707-2713	online	_	_	_	_	_	
+15-44	2714-2724	identifier	_	_	_	_	_	
+15-45	2724-2725	.	_	_	_	_	_	
+
+#Text=“Platform” means our Roblox platform, the ultimate virtual universe where imagination rules.
+16-1	2726-2727	“	_	_	_	_	_	
+16-2	2727-2735	Platform	_	_	_	_	_	
+16-3	2735-2736	”	_	_	_	_	_	
+16-4	2737-2742	means	_	_	_	_	_	
+16-5	2743-2746	our	_	_	_	_	_	
+16-6	2747-2753	Roblox	_	_	_	_	_	
+16-7	2754-2762	platform	_	_	_	_	_	
+16-8	2762-2763	,	_	_	_	_	_	
+16-9	2764-2767	the	_	_	_	_	_	
+16-10	2768-2776	ultimate	_	_	_	_	_	
+16-11	2777-2784	virtual	_	_	_	_	_	
+16-12	2785-2793	universe	_	_	_	_	_	
+16-13	2794-2799	where	_	_	_	_	_	
+16-14	2800-2811	imagination	_	_	_	_	_	
+16-15	2812-2817	rules	_	_	_	_	_	
+16-16	2817-2818	.	_	_	_	_	_	
+
+#Text=“Privacy Policy” or “Policy” means this Roblox Privacy Policy.
+17-1	2819-2820	“	_	_	_	_	_	
+17-2	2820-2827	Privacy	_	_	_	_	_	
+17-3	2828-2834	Policy	_	_	_	_	_	
+17-4	2834-2835	”	_	_	_	_	_	
+17-5	2836-2838	or	_	_	_	_	_	
+17-6	2839-2840	“	_	_	_	_	_	
+17-7	2840-2846	Policy	_	_	_	_	_	
+17-8	2846-2847	”	_	_	_	_	_	
+17-9	2848-2853	means	_	_	_	_	_	
+17-10	2854-2858	this	_	_	_	_	_	
+17-11	2859-2865	Roblox	_	_	_	_	_	
+17-12	2866-2873	Privacy	_	_	_	_	_	
+17-13	2874-2880	Policy	_	_	_	_	_	
+17-14	2880-2881	.	_	_	_	_	_	
+
+#Text=“Processing” means any operation which is performed on Personal Information, such as collection, recording, organization, structuring, storage, adaptation or any kind of disclosure or other use.
+18-1	2882-2883	“	_	_	_	_	_	
+18-2	2883-2893	Processing	_	_	_	_	_	
+18-3	2893-2894	”	_	_	_	_	_	
+18-4	2895-2900	means	_	_	_	_	_	
+18-5	2901-2904	any	_	_	_	_	_	
+18-6	2905-2914	operation	_	_	_	_	_	
+18-7	2915-2920	which	_	_	_	_	_	
+18-8	2921-2923	is	_	_	_	_	_	
+18-9	2924-2933	performed	_	_	_	_	_	
+18-10	2934-2936	on	_	_	_	_	_	
+18-11	2937-2945	Personal	_	_	_	_	_	
+18-12	2946-2957	Information	_	_	_	_	_	
+18-13	2957-2958	,	_	_	_	_	_	
+18-14	2959-2963	such	_	_	_	_	_	
+18-15	2964-2966	as	_	_	_	_	_	
+18-16	2967-2977	collection	_	_	_	_	_	
+18-17	2977-2978	,	_	_	_	_	_	
+18-18	2979-2988	recording	_	_	_	_	_	
+18-19	2988-2989	,	_	_	_	_	_	
+18-20	2990-3002	organization	_	_	_	_	_	
+18-21	3002-3003	,	_	_	_	_	_	
+18-22	3004-3015	structuring	_	_	_	_	_	
+18-23	3015-3016	,	_	_	_	_	_	
+18-24	3017-3024	storage	_	_	_	_	_	
+18-25	3024-3025	,	_	_	_	_	_	
+18-26	3026-3036	adaptation	_	_	_	_	_	
+18-27	3037-3039	or	_	_	_	_	_	
+18-28	3040-3043	any	_	_	_	_	_	
+18-29	3044-3048	kind	_	_	_	_	_	
+18-30	3049-3051	of	_	_	_	_	_	
+18-31	3052-3062	disclosure	_	_	_	_	_	
+18-32	3063-3065	or	_	_	_	_	_	
+18-33	3066-3071	other	_	_	_	_	_	
+18-34	3072-3075	use	_	_	_	_	_	
+18-35	3075-3076	.	_	_	_	_	_	
+
+#Text=“Service” means any service or application offered by Roblox, such as allowing users to develop Platform experiences, connect with others, and use content created by you and other users.
+19-1	3077-3078	“	_	_	_	_	_	
+19-2	3078-3085	Service	_	_	_	_	_	
+19-3	3085-3086	”	_	_	_	_	_	
+19-4	3087-3092	means	_	_	_	_	_	
+19-5	3093-3096	any	_	_	_	_	_	
+19-6	3097-3104	service	_	_	_	_	_	
+19-7	3105-3107	or	_	_	_	_	_	
+19-8	3108-3119	application	_	_	_	_	_	
+19-9	3120-3127	offered	_	_	_	_	_	
+19-10	3128-3130	by	_	_	_	_	_	
+19-11	3131-3137	Roblox	_	_	_	_	_	
+19-12	3137-3138	,	_	_	_	_	_	
+19-13	3139-3143	such	_	_	_	_	_	
+19-14	3144-3146	as	_	_	_	_	_	
+19-15	3147-3155	allowing	_	_	_	_	_	
+19-16	3156-3161	users	_	_	_	_	_	
+19-17	3162-3164	to	_	_	_	_	_	
+19-18	3165-3172	develop	_	_	_	_	_	
+19-19	3173-3181	Platform	_	_	_	_	_	
+19-20	3182-3193	experiences	_	_	_	_	_	
+19-21	3193-3194	,	_	_	_	_	_	
+19-22	3195-3202	connect	_	_	_	_	_	
+19-23	3203-3207	with	_	_	_	_	_	
+19-24	3208-3214	others	_	_	_	_	_	
+19-25	3214-3215	,	_	_	_	_	_	
+19-26	3216-3219	and	_	_	_	_	_	
+19-27	3220-3223	use	_	_	_	_	_	
+19-28	3224-3231	content	_	_	_	_	_	
+19-29	3232-3239	created	_	_	_	_	_	
+19-30	3240-3242	by	_	_	_	_	_	
+19-31	3243-3246	you	_	_	_	_	_	
+19-32	3247-3250	and	_	_	_	_	_	
+19-33	3251-3256	other	_	_	_	_	_	
+19-34	3257-3262	users	_	_	_	_	_	
+19-35	3262-3263	.	_	_	_	_	_	
+
+#Text=It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds and other services on which an authorized link to this Policy is posted.
+20-1	3264-3266	It	_	_	_	_	_	
+20-2	3267-3275	includes	_	_	_	_	_	
+20-3	3276-3284	websites	_	_	_	_	_	
+20-4	3285-3287	on	_	_	_	_	_	
+20-5	3288-3291	the	_	_	_	_	_	
+20-6	3292-3302	roblox.com	_	_	_	_	_	
+20-7	3303-3309	domain	_	_	_	_	_	
+20-8	3309-3310	,	_	_	_	_	_	
+20-9	3311-3314	our	_	_	_	_	_	
+20-10	3315-3321	Roblox	_	_	_	_	_	
+20-11	3322-3328	mobile	_	_	_	_	_	
+20-12	3328-3329	,	_	_	_	_	_	
+20-13	3330-3337	virtual	_	_	_	_	_	
+20-14	3338-3345	reality	_	_	_	_	_	
+20-15	3346-3349	and	_	_	_	_	_	
+20-16	3350-3354	Xbox	_	_	_	_	_	
+20-17	3355-3359	apps	_	_	_	_	_	
+20-18	3359-3360	,	_	_	_	_	_	
+20-19	3361-3364	the	_	_	_	_	_	
+20-20	3365-3371	Roblox	_	_	_	_	_	
+20-21	3372-3378	Player	_	_	_	_	_	
+20-22	3378-3379	,	_	_	_	_	_	
+20-23	3380-3383	the	_	_	_	_	_	
+20-24	3384-3390	Roblox	_	_	_	_	_	
+20-25	3391-3397	Studio	_	_	_	_	_	
+20-26	3397-3398	,	_	_	_	_	_	
+20-27	3399-3402	and	_	_	_	_	_	
+20-28	3403-3406	our	_	_	_	_	_	
+20-29	3407-3412	other	_	_	_	_	_	
+20-30	3413-3421	websites	_	_	_	_	_	
+20-31	3421-3422	,	_	_	_	_	_	
+20-32	3423-3431	products	_	_	_	_	_	
+20-33	3431-3432	,	_	_	_	_	_	
+20-34	3433-3441	software	_	_	_	_	_	
+20-35	3441-3442	,	_	_	_	_	_	
+20-36	3443-3455	applications	_	_	_	_	_	
+20-37	3455-3456	,	_	_	_	_	_	
+20-38	3457-3464	content	_	_	_	_	_	
+20-39	3464-3465	,	_	_	_	_	_	
+20-40	3466-3470	data	_	_	_	_	_	
+20-41	3471-3476	feeds	_	_	_	_	_	
+20-42	3477-3480	and	_	_	_	_	_	
+20-43	3481-3486	other	_	_	_	_	_	
+20-44	3487-3495	services	_	_	_	_	_	
+20-45	3496-3498	on	_	_	_	_	_	
+20-46	3499-3504	which	_	_	_	_	_	
+20-47	3505-3507	an	_	_	_	_	_	
+20-48	3508-3518	authorized	_	_	_	_	_	
+20-49	3519-3523	link	_	_	_	_	_	
+20-50	3524-3526	to	_	_	_	_	_	
+20-51	3527-3531	this	_	_	_	_	_	
+20-52	3532-3538	Policy	_	_	_	_	_	
+20-53	3539-3541	is	_	_	_	_	_	
+20-54	3542-3548	posted	_	_	_	_	_	
+20-55	3548-3549	.	_	_	_	_	_	
+
+#Text=Any other capitalized term that is not defined in this Policy is defined and has the meaning set out in our Terms of Use.
+#Text=
+#Text=
+#Text=3.
+21-1	3550-3553	Any	_	_	_	_	_	
+21-2	3554-3559	other	_	_	_	_	_	
+21-3	3560-3571	capitalized	_	_	_	_	_	
+21-4	3572-3576	term	_	_	_	_	_	
+21-5	3577-3581	that	_	_	_	_	_	
+21-6	3582-3584	is	_	_	_	_	_	
+21-7	3585-3588	not	_	_	_	_	_	
+21-8	3589-3596	defined	_	_	_	_	_	
+21-9	3597-3599	in	_	_	_	_	_	
+21-10	3600-3604	this	_	_	_	_	_	
+21-11	3605-3611	Policy	_	_	_	_	_	
+21-12	3612-3614	is	_	_	_	_	_	
+21-13	3615-3622	defined	_	_	_	_	_	
+21-14	3623-3626	and	_	_	_	_	_	
+21-15	3627-3630	has	_	_	_	_	_	
+21-16	3631-3634	the	_	_	_	_	_	
+21-17	3635-3642	meaning	_	_	_	_	_	
+21-18	3643-3646	set	_	_	_	_	_	
+21-19	3647-3650	out	_	_	_	_	_	
+21-20	3651-3653	in	_	_	_	_	_	
+21-21	3654-3657	our	_	_	_	_	_	
+21-22	3658-3663	Terms	_	_	_	_	_	
+21-23	3664-3666	of	_	_	_	_	_	
+21-24	3667-3670	Use	_	_	_	_	_	
+21-25	3670-3671	.	_	_	_	_	_	
+21-26	3674-3675	3	_	_	_	_	_	
+21-27	3675-3676	.	_	_	_	_	_	
+
+#Text=Information Collected on our Corporate Websites
+#Text=
+#Text=
+#Text=We have a number of corporate websites, such as corp.roblox.com and blog.roblox.com.
+22-1	3677-3688	Information	_	_	_	_	_	
+22-2	3689-3698	Collected	_	_	_	_	_	
+22-3	3699-3701	on	_	_	_	_	_	
+22-4	3702-3705	our	_	_	_	_	_	
+22-5	3706-3715	Corporate	_	_	_	_	_	
+22-6	3716-3724	Websites	_	_	_	_	_	
+22-7	3727-3729	We	_	_	_	_	_	
+22-8	3730-3734	have	_	_	_	_	_	
+22-9	3735-3736	a	_	_	_	_	_	
+22-10	3737-3743	number	_	_	_	_	_	
+22-11	3744-3746	of	_	_	_	_	_	
+22-12	3747-3756	corporate	_	_	_	_	_	
+22-13	3757-3765	websites	_	_	_	_	_	
+22-14	3765-3766	,	_	_	_	_	_	
+22-15	3767-3771	such	_	_	_	_	_	
+22-16	3772-3774	as	_	_	_	_	_	
+22-17	3775-3790	corp.roblox.com	_	_	_	_	_	
+22-18	3791-3794	and	_	_	_	_	_	
+22-19	3795-3810	blog.roblox.com	_	_	_	_	_	
+22-20	3810-3811	.	_	_	_	_	_	
+
+#Text=These sites explain our technology and who works at Roblox.
+23-1	3812-3817	These	_	_	_	_	_	
+23-2	3818-3823	sites	_	_	_	_	_	
+23-3	3824-3831	explain	_	_	_	_	_	
+23-4	3832-3835	our	_	_	_	_	_	
+23-5	3836-3846	technology	_	_	_	_	_	
+23-6	3847-3850	and	_	_	_	_	_	
+23-7	3851-3854	who	_	_	_	_	_	
+23-8	3855-3860	works	_	_	_	_	_	
+23-9	3861-3863	at	_	_	_	_	_	
+23-10	3864-3870	Roblox	_	_	_	_	_	
+23-11	3870-3871	.	_	_	_	_	_	
+
+#Text=There is news on there about the company and we let people know about job openings that they can apply for at Roblox.
+24-1	3872-3877	There	_	_	_	_	_	
+24-2	3878-3880	is	_	_	_	_	_	
+24-3	3881-3885	news	_	_	_	_	_	
+24-4	3886-3888	on	_	_	_	_	_	
+24-5	3889-3894	there	_	_	_	_	_	
+24-6	3895-3900	about	_	_	_	_	_	
+24-7	3901-3904	the	_	_	_	_	_	
+24-8	3905-3912	company	_	_	_	_	_	
+24-9	3913-3916	and	_	_	_	_	_	
+24-10	3917-3919	we	_	_	_	_	_	
+24-11	3920-3923	let	_	_	_	_	_	
+24-12	3924-3930	people	_	_	_	_	_	
+24-13	3931-3935	know	_	_	_	_	_	
+24-14	3936-3941	about	_	_	_	_	_	
+24-15	3942-3945	job	_	_	_	_	_	
+24-16	3946-3954	openings	_	_	_	_	_	
+24-17	3955-3959	that	_	_	_	_	_	
+24-18	3960-3964	they	_	_	_	_	_	
+24-19	3965-3968	can	_	_	_	_	_	
+24-20	3969-3974	apply	_	_	_	_	_	
+24-21	3975-3978	for	_	_	_	_	_	
+24-22	3979-3981	at	_	_	_	_	_	
+24-23	3982-3988	Roblox	_	_	_	_	_	
+24-24	3988-3989	.	_	_	_	_	_	
+
+#Text=There is also information on there for parents in the resources section.
+25-1	3990-3995	There	_	_	_	_	_	
+25-2	3996-3998	is	_	_	_	_	_	
+25-3	3999-4003	also	_	_	_	_	_	
+25-4	4004-4015	information	_	_	_	_	_	
+25-5	4016-4018	on	_	_	_	_	_	
+25-6	4019-4024	there	_	_	_	_	_	
+25-7	4025-4028	for	_	_	_	_	_	
+25-8	4029-4036	parents	_	_	_	_	_	
+25-9	4037-4039	in	_	_	_	_	_	
+25-10	4040-4043	the	_	_	_	_	_	
+25-11	4044-4053	resources	_	_	_	_	_	
+25-12	4054-4061	section	_	_	_	_	_	
+25-13	4061-4062	.	_	_	_	_	_	
+
+#Text=While these websites are generally aimed at adults, you can also visit them to learn more about Roblox as a company.
+26-1	4063-4068	While	_	_	_	_	_	
+26-2	4069-4074	these	_	_	_	_	_	
+26-3	4075-4083	websites	_	_	_	_	_	
+26-4	4084-4087	are	_	_	_	_	_	
+26-5	4088-4097	generally	_	_	_	_	_	
+26-6	4098-4103	aimed	_	_	_	_	_	
+26-7	4104-4106	at	_	_	_	_	_	
+26-8	4107-4113	adults	_	_	_	_	_	
+26-9	4113-4114	,	_	_	_	_	_	
+26-10	4115-4118	you	_	_	_	_	_	
+26-11	4119-4122	can	_	_	_	_	_	
+26-12	4123-4127	also	_	_	_	_	_	
+26-13	4128-4133	visit	_	_	_	_	_	
+26-14	4134-4138	them	_	_	_	_	_	
+26-15	4139-4141	to	_	_	_	_	_	
+26-16	4142-4147	learn	_	_	_	_	_	
+26-17	4148-4152	more	_	_	_	_	_	
+26-18	4153-4158	about	_	_	_	_	_	
+26-19	4159-4165	Roblox	_	_	_	_	_	
+26-20	4166-4168	as	_	_	_	_	_	
+26-21	4169-4170	a	_	_	_	_	_	
+26-22	4171-4178	company	_	_	_	_	_	
+26-23	4178-4179	.	_	_	_	_	_	
+
+#Text=We only collect information from people on these websites when someone is applying for a job or interested in partnering with Roblox.
+#Text=
+#Text=
+#Text=4.
+27-1	4180-4182	We	_	_	_	_	_	
+27-2	4183-4187	only	_	_	_	_	_	
+27-3	4188-4195	collect	_	_	_	_	_	
+27-4	4196-4207	information	_	_	_	_	_	
+27-5	4208-4212	from	_	_	_	_	_	
+27-6	4213-4219	people	_	_	_	_	_	
+27-7	4220-4222	on	_	_	_	_	_	
+27-8	4223-4228	these	_	_	_	_	_	
+27-9	4229-4237	websites	_	_	_	_	_	
+27-10	4238-4242	when	_	_	_	_	_	
+27-11	4243-4250	someone	_	_	_	_	_	
+27-12	4251-4253	is	_	_	_	_	_	
+27-13	4254-4262	applying	_	_	_	_	_	
+27-14	4263-4266	for	_	_	_	_	_	
+27-15	4267-4268	a	_	_	_	_	_	
+27-16	4269-4272	job	_	_	_	_	_	
+27-17	4273-4275	or	_	_	_	_	_	
+27-18	4276-4286	interested	_	_	_	_	_	
+27-19	4287-4289	in	_	_	_	_	_	
+27-20	4290-4300	partnering	_	_	_	_	_	
+27-21	4301-4305	with	_	_	_	_	_	
+27-22	4306-4312	Roblox	_	_	_	_	_	
+27-23	4312-4313	.	_	_	_	_	_	
+27-24	4316-4317	4	_	_	_	_	_	
+27-25	4317-4318	.	_	_	_	_	_	
+
+#Text=Information You Provide when Setting Up an Account on Roblox
+#Text=
+#Text=
+#Text=Everyone on Roblox has to create an account in order to participate in our experiences.
+28-1	4319-4330	Information	_	_	_	_	_	
+28-2	4331-4334	You	_	_	_	_	_	
+28-3	4335-4342	Provide	_	_	_	_	_	
+28-4	4343-4347	when	_	_	_	_	_	
+28-5	4348-4355	Setting	_	_	_	_	_	
+28-6	4356-4358	Up	_	_	_	_	_	
+28-7	4359-4361	an	_	_	_	_	_	
+28-8	4362-4369	Account	_	_	_	_	_	
+28-9	4370-4372	on	_	_	_	_	_	
+28-10	4373-4379	Roblox	_	_	_	_	_	
+28-11	4382-4390	Everyone	_	_	_	_	_	
+28-12	4391-4393	on	_	_	_	_	_	
+28-13	4394-4400	Roblox	_	_	_	_	_	
+28-14	4401-4404	has	_	_	_	_	_	
+28-15	4405-4407	to	_	_	_	_	_	
+28-16	4408-4414	create	_	_	_	_	_	
+28-17	4415-4417	an	_	_	_	_	_	
+28-18	4418-4425	account	_	_	_	_	_	
+28-19	4426-4428	in	_	_	_	_	_	
+28-20	4429-4434	order	_	_	_	_	_	
+28-21	4435-4437	to	_	_	_	_	_	
+28-22	4438-4449	participate	_	_	_	_	_	
+28-23	4450-4452	in	_	_	_	_	_	
+28-24	4453-4456	our	_	_	_	_	_	
+28-25	4457-4468	experiences	_	_	_	_	_	
+28-26	4468-4469	.	_	_	_	_	_	
+
+#Text=When you create a Roblox account, we will ask you to choose a unique username and password.
+29-1	4470-4474	When	_	_	_	_	_	
+29-2	4475-4478	you	_	_	_	_	_	
+29-3	4479-4485	create	_	_	_	_	_	
+29-4	4486-4487	a	_	_	_	_	_	
+29-5	4488-4494	Roblox	_	_	_	_	_	
+29-6	4495-4502	account	_	_	_	_	_	
+29-7	4502-4503	,	_	_	_	_	_	
+29-8	4504-4506	we	_	_	_	_	_	
+29-9	4507-4511	will	_	_	_	_	_	
+29-10	4512-4515	ask	_	_	_	_	_	
+29-11	4516-4519	you	_	_	_	_	_	
+29-12	4520-4522	to	_	_	_	_	_	
+29-13	4523-4529	choose	_	_	_	_	_	
+29-14	4530-4531	a	_	_	_	_	_	
+29-15	4532-4538	unique	_	_	_	_	_	
+29-16	4539-4547	username	_	_	_	_	_	
+29-17	4548-4551	and	_	_	_	_	_	
+29-18	4552-4560	password	_	_	_	_	_	
+29-19	4560-4561	.	_	_	_	_	_	
+
+#Text=We require this information so that you can log into your account and participate in Service features.
+30-1	4562-4564	We	_	_	_	_	_	
+30-2	4565-4572	require	_	_	_	_	_	
+30-3	4573-4577	this	_	_	_	_	_	
+30-4	4578-4589	information	_	_	_	_	_	
+30-5	4590-4592	so	_	_	_	_	_	
+30-6	4593-4597	that	_	_	_	_	_	
+30-7	4598-4601	you	_	_	_	_	_	
+30-8	4602-4605	can	_	_	_	_	_	
+30-9	4606-4609	log	_	_	_	_	_	
+30-10	4610-4614	into	_	_	_	_	_	
+30-11	4615-4619	your	_	_	_	_	_	
+30-12	4620-4627	account	_	_	_	_	_	
+30-13	4628-4631	and	_	_	_	_	_	
+30-14	4632-4643	participate	_	_	_	_	_	
+30-15	4644-4646	in	_	_	_	_	_	
+30-16	4647-4654	Service	_	_	_	_	_	
+30-17	4655-4663	features	_	_	_	_	_	
+30-18	4663-4664	.	_	_	_	_	_	
+
+#Text=We do not use usernames to identify individual users outside of their activities on our Service.
+31-1	4665-4667	We	_	_	_	_	_	
+31-2	4668-4670	do	_	_	_	_	_	
+31-3	4671-4674	not	_	_	_	_	_	
+31-4	4675-4678	use	_	_	_	_	_	
+31-5	4679-4688	usernames	_	_	_	_	_	
+31-6	4689-4691	to	_	_	_	_	_	
+31-7	4692-4700	identify	_	_	_	_	_	
+31-8	4701-4711	individual	_	_	_	_	_	
+31-9	4712-4717	users	_	_	_	_	_	
+31-10	4718-4725	outside	_	_	_	_	_	
+31-11	4726-4728	of	_	_	_	_	_	
+31-12	4729-4734	their	_	_	_	_	_	
+31-13	4735-4745	activities	_	_	_	_	_	
+31-14	4746-4748	on	_	_	_	_	_	
+31-15	4749-4752	our	_	_	_	_	_	
+31-16	4753-4760	Service	_	_	_	_	_	
+31-17	4760-4761	.	_	_	_	_	_	
+
+#Text=We will also ask you for your date of birth, your gender, the country you live in and which language you speak so we can customize your experience on Roblox..
+32-1	4762-4764	We	_	_	_	_	_	
+32-2	4765-4769	will	_	_	_	_	_	
+32-3	4770-4774	also	_	_	_	_	_	
+32-4	4775-4778	ask	_	_	_	_	_	
+32-5	4779-4782	you	_	_	_	_	_	
+32-6	4783-4786	for	_	_	_	_	_	
+32-7	4787-4791	your	_	_	_	_	_	
+32-8	4792-4796	date	_	_	_	_	_	
+32-9	4797-4799	of	_	_	_	_	_	
+32-10	4800-4805	birth	_	_	_	_	_	
+32-11	4805-4806	,	_	_	_	_	_	
+32-12	4807-4811	your	_	_	_	_	_	
+32-13	4812-4818	gender	_	_	_	_	_	
+32-14	4818-4819	,	_	_	_	_	_	
+32-15	4820-4823	the	_	_	_	_	_	
+32-16	4824-4831	country	_	_	_	_	_	
+32-17	4832-4835	you	_	_	_	_	_	
+32-18	4836-4840	live	_	_	_	_	_	
+32-19	4841-4843	in	_	_	_	_	_	
+32-20	4844-4847	and	_	_	_	_	_	
+32-21	4848-4853	which	_	_	_	_	_	
+32-22	4854-4862	language	_	_	_	_	_	
+32-23	4863-4866	you	_	_	_	_	_	
+32-24	4867-4872	speak	_	_	_	_	_	
+32-25	4873-4875	so	_	_	_	_	_	
+32-26	4876-4878	we	_	_	_	_	_	
+32-27	4879-4882	can	_	_	_	_	_	
+32-28	4883-4892	customize	_	_	_	_	_	
+32-29	4893-4897	your	_	_	_	_	_	
+32-30	4898-4908	experience	_	_	_	_	_	
+32-31	4909-4911	on	_	_	_	_	_	
+32-32	4912-4918	Roblox	_	_	_	_	_	
+32-33	4918-4919	.	_	_	_	_	_	
+32-34	4919-4920	.	_	_	_	_	_	
+
+#Text=You must not create a username that includes your real name or other Personal Information.
+33-1	4921-4924	You	_	_	_	_	_	
+33-2	4925-4929	must	_	_	_	_	_	
+33-3	4930-4933	not	_	_	_	_	_	
+33-4	4934-4940	create	_	_	_	_	_	
+33-5	4941-4942	a	_	_	_	_	_	
+33-6	4943-4951	username	_	_	_	_	_	
+33-7	4952-4956	that	_	_	_	_	_	
+33-8	4957-4965	includes	_	_	_	_	_	
+33-9	4966-4970	your	_	_	_	_	_	
+33-10	4971-4975	real	_	_	_	_	_	
+33-11	4976-4980	name	_	_	_	_	_	
+33-12	4981-4983	or	_	_	_	_	_	
+33-13	4984-4989	other	_	_	_	_	_	
+33-14	4990-4998	Personal	_	_	_	_	_	
+33-15	4999-5010	Information	_	_	_	_	_	
+33-16	5010-5011	.	_	_	_	_	_	
+
+#Text=It is also important to create a password that is not easy to guess.
+34-1	5012-5014	It	_	_	_	_	_	
+34-2	5015-5017	is	_	_	_	_	_	
+34-3	5018-5022	also	_	_	_	_	_	
+34-4	5023-5032	important	_	_	_	_	_	
+34-5	5033-5035	to	_	_	_	_	_	
+34-6	5036-5042	create	_	_	_	_	_	
+34-7	5043-5044	a	_	_	_	_	_	
+34-8	5045-5053	password	_	_	_	_	_	
+34-9	5054-5058	that	_	_	_	_	_	
+34-10	5059-5061	is	_	_	_	_	_	
+34-11	5062-5065	not	_	_	_	_	_	
+34-12	5066-5070	easy	_	_	_	_	_	
+34-13	5071-5073	to	_	_	_	_	_	
+34-14	5074-5079	guess	_	_	_	_	_	
+34-15	5079-5080	.	_	_	_	_	_	
+
+#Text=You may share your password with your parent(s) or legal guardian, but never share it with anyone else, not even your friends.
+35-1	5081-5084	You	_	_	_	_	_	
+35-2	5085-5088	may	_	_	_	_	_	
+35-3	5089-5094	share	_	_	_	_	_	
+35-4	5095-5099	your	_	_	_	_	_	
+35-5	5100-5108	password	_	_	_	_	_	
+35-6	5109-5113	with	_	_	_	_	_	
+35-7	5114-5118	your	_	_	_	_	_	
+35-8	5119-5125	parent	_	_	_	_	_	
+35-9	5125-5126	(	_	_	_	_	_	
+35-10	5126-5127	s	_	_	_	_	_	
+35-11	5127-5128	)	_	_	_	_	_	
+35-12	5129-5131	or	_	_	_	_	_	
+35-13	5132-5137	legal	_	_	_	_	_	
+35-14	5138-5146	guardian	_	_	_	_	_	
+35-15	5146-5147	,	_	_	_	_	_	
+35-16	5148-5151	but	_	_	_	_	_	
+35-17	5152-5157	never	_	_	_	_	_	
+35-18	5158-5163	share	_	_	_	_	_	
+35-19	5164-5166	it	_	_	_	_	_	
+35-20	5167-5171	with	_	_	_	_	_	
+35-21	5172-5178	anyone	_	_	_	_	_	
+35-22	5179-5183	else	_	_	_	_	_	
+35-23	5183-5184	,	_	_	_	_	_	
+35-24	5185-5188	not	_	_	_	_	_	
+35-25	5189-5193	even	_	_	_	_	_	
+35-26	5194-5198	your	_	_	_	_	_	
+35-27	5199-5206	friends	_	_	_	_	_	
+35-28	5206-5207	.	_	_	_	_	_	
+
+#Text=You can also add an email address to your account in case you cannot remember your password and need to reset it.
+36-1	5208-5211	You	_	_	_	_	_	
+36-2	5212-5215	can	_	_	_	_	_	
+36-3	5216-5220	also	_	_	_	_	_	
+36-4	5221-5224	add	_	_	_	_	_	
+36-5	5225-5227	an	_	_	_	_	_	
+36-6	5228-5233	email	_	_	_	_	_	
+36-7	5234-5241	address	_	_	_	_	_	
+36-8	5242-5244	to	_	_	_	_	_	
+36-9	5245-5249	your	_	_	_	_	_	
+36-10	5250-5257	account	_	_	_	_	_	
+36-11	5258-5260	in	_	_	_	_	_	
+36-12	5261-5265	case	_	_	_	_	_	
+36-13	5266-5269	you	_	_	_	_	_	
+36-14	5270-5276	cannot	_	_	_	_	_	
+36-15	5277-5285	remember	_	_	_	_	_	
+36-16	5286-5290	your	_	_	_	_	_	
+36-17	5291-5299	password	_	_	_	_	_	
+36-18	5300-5303	and	_	_	_	_	_	
+36-19	5304-5308	need	_	_	_	_	_	
+36-20	5309-5311	to	_	_	_	_	_	
+36-21	5312-5317	reset	_	_	_	_	_	
+36-22	5318-5320	it	_	_	_	_	_	
+36-23	5320-5321	.	_	_	_	_	_	
+
+#Text=Users may be asked to provide or may choose to add an email address to their account for added verification and/or to enable certain features.
+37-1	5322-5327	Users	_	_	_	_	_	
+37-2	5328-5331	may	_	_	_	_	_	
+37-3	5332-5334	be	_	_	_	_	_	
+37-4	5335-5340	asked	_	_	_	_	_	
+37-5	5341-5343	to	_	_	_	_	_	
+37-6	5344-5351	provide	_	_	_	_	_	
+37-7	5352-5354	or	_	_	_	_	_	
+37-8	5355-5358	may	_	_	_	_	_	
+37-9	5359-5365	choose	_	_	_	_	_	
+37-10	5366-5368	to	_	_	_	_	_	
+37-11	5369-5372	add	_	_	_	_	_	
+37-12	5373-5375	an	_	_	_	_	_	
+37-13	5376-5381	email	_	_	_	_	_	
+37-14	5382-5389	address	_	_	_	_	_	
+37-15	5390-5392	to	_	_	_	_	_	
+37-16	5393-5398	their	_	_	_	_	_	
+37-17	5399-5406	account	_	_	_	_	_	
+37-18	5407-5410	for	_	_	_	_	_	
+37-19	5411-5416	added	_	_	_	_	_	
+37-20	5417-5429	verification	_	_	_	_	_	
+37-21	5430-5433	and	_	_	_	_	_	
+37-22	5433-5434	/	_	_	_	_	_	
+37-23	5434-5436	or	_	_	_	_	_	
+37-24	5437-5439	to	_	_	_	_	_	
+37-25	5440-5446	enable	_	_	_	_	_	
+37-26	5447-5454	certain	_	_	_	_	_	
+37-27	5455-5463	features	_	_	_	_	_	
+37-28	5463-5464	.	_	_	_	_	_	
+
+#Text=The primary purpose for this email address is to provide account security, since this is the only way for Roblox to check the authenticity of an account owner.
+38-1	5465-5468	The	_	_	_	_	_	
+38-2	5469-5476	primary	_	_	_	_	_	
+38-3	5477-5484	purpose	_	_	_	_	_	
+38-4	5485-5488	for	_	_	_	_	_	
+38-5	5489-5493	this	_	_	_	_	_	
+38-6	5494-5499	email	_	_	_	_	_	
+38-7	5500-5507	address	_	_	_	_	_	
+38-8	5508-5510	is	_	_	_	_	_	
+38-9	5511-5513	to	_	_	_	_	_	
+38-10	5514-5521	provide	_	_	_	_	_	
+38-11	5522-5529	account	_	_	_	_	_	
+38-12	5530-5538	security	_	_	_	_	_	
+38-13	5538-5539	,	_	_	_	_	_	
+38-14	5540-5545	since	_	_	_	_	_	
+38-15	5546-5550	this	_	_	_	_	_	
+38-16	5551-5553	is	_	_	_	_	_	
+38-17	5554-5557	the	_	_	_	_	_	
+38-18	5558-5562	only	_	_	_	_	_	
+38-19	5563-5566	way	_	_	_	_	_	
+38-20	5567-5570	for	_	_	_	_	_	
+38-21	5571-5577	Roblox	_	_	_	_	_	
+38-22	5578-5580	to	_	_	_	_	_	
+38-23	5581-5586	check	_	_	_	_	_	
+38-24	5587-5590	the	_	_	_	_	_	
+38-25	5591-5603	authenticity	_	_	_	_	_	
+38-26	5604-5606	of	_	_	_	_	_	
+38-27	5607-5609	an	_	_	_	_	_	
+38-28	5610-5617	account	_	_	_	_	_	
+38-29	5618-5623	owner	_	_	_	_	_	
+38-30	5623-5624	.	_	_	_	_	_	
+
+#Text=In this circumstance, children are asked to provide a parent email address.
+39-1	5625-5627	In	_	_	_	_	_	
+39-2	5628-5632	this	_	_	_	_	_	
+39-3	5633-5645	circumstance	_	_	_	_	_	
+39-4	5645-5646	,	_	_	_	_	_	
+39-5	5647-5655	children	_	_	_	_	_	
+39-6	5656-5659	are	_	_	_	_	_	
+39-7	5660-5665	asked	_	_	_	_	_	
+39-8	5666-5668	to	_	_	_	_	_	
+39-9	5669-5676	provide	_	_	_	_	_	
+39-10	5677-5678	a	_	_	_	_	_	
+39-11	5679-5685	parent	_	_	_	_	_	
+39-12	5686-5691	email	_	_	_	_	_	
+39-13	5692-5699	address	_	_	_	_	_	
+39-14	5699-5700	.	_	_	_	_	_	
+
+#Text=Users may change the email address associated with their account at any time; however, a notification will be sent to the previously provided email address upon making that change.
+#Text=
+#Text=
+#Text=5.
+40-1	5701-5706	Users	_	_	_	_	_	
+40-2	5707-5710	may	_	_	_	_	_	
+40-3	5711-5717	change	_	_	_	_	_	
+40-4	5718-5721	the	_	_	_	_	_	
+40-5	5722-5727	email	_	_	_	_	_	
+40-6	5728-5735	address	_	_	_	_	_	
+40-7	5736-5746	associated	_	_	_	_	_	
+40-8	5747-5751	with	_	_	_	_	_	
+40-9	5752-5757	their	_	_	_	_	_	
+40-10	5758-5765	account	_	_	_	_	_	
+40-11	5766-5768	at	_	_	_	_	_	
+40-12	5769-5772	any	_	_	_	_	_	
+40-13	5773-5777	time	_	_	_	_	_	
+40-14	5777-5778	;	_	_	_	_	_	
+40-15	5779-5786	however	_	_	_	_	_	
+40-16	5786-5787	,	_	_	_	_	_	
+40-17	5788-5789	a	_	_	_	_	_	
+40-18	5790-5802	notification	_	_	_	_	_	
+40-19	5803-5807	will	_	_	_	_	_	
+40-20	5808-5810	be	_	_	_	_	_	
+40-21	5811-5815	sent	_	_	_	_	_	
+40-22	5816-5818	to	_	_	_	_	_	
+40-23	5819-5822	the	_	_	_	_	_	
+40-24	5823-5833	previously	_	_	_	_	_	
+40-25	5834-5842	provided	_	_	_	_	_	
+40-26	5843-5848	email	_	_	_	_	_	
+40-27	5849-5856	address	_	_	_	_	_	
+40-28	5857-5861	upon	_	_	_	_	_	
+40-29	5862-5868	making	_	_	_	_	_	
+40-30	5869-5873	that	_	_	_	_	_	
+40-31	5874-5880	change	_	_	_	_	_	
+40-32	5880-5881	.	_	_	_	_	_	
+40-33	5884-5885	5	_	_	_	_	_	
+40-34	5885-5886	.	_	_	_	_	_	
+
+#Text=Additional Personal Information We Collect When You Use Roblox Features
+#Text=
+#Text=
+#Text=You don't have to share any additional personal information with us (other than the information described above) to use our websites or app.
+41-1	5887-5897	Additional	_	_	_	_	_	
+41-2	5898-5906	Personal	_	_	_	_	_	
+41-3	5907-5918	Information	_	_	_	_	_	
+41-4	5919-5921	We	_	_	_	_	_	
+41-5	5922-5929	Collect	_	_	_	_	_	
+41-6	5930-5934	When	_	_	_	_	_	
+41-7	5935-5938	You	_	_	_	_	_	
+41-8	5939-5942	Use	_	_	_	_	_	
+41-9	5943-5949	Roblox	_	_	_	_	_	
+41-10	5950-5958	Features	_	_	_	_	_	
+41-11	5961-5964	You	_	_	_	_	_	
+41-12	5965-5970	don't	_	_	_	_	_	
+41-13	5971-5975	have	_	_	_	_	_	
+41-14	5976-5978	to	_	_	_	_	_	
+41-15	5979-5984	share	_	_	_	_	_	
+41-16	5985-5988	any	_	_	_	_	_	
+41-17	5989-5999	additional	_	_	_	_	_	
+41-18	6000-6008	personal	_	_	_	_	_	
+41-19	6009-6020	information	_	_	_	_	_	
+41-20	6021-6025	with	_	_	_	_	_	
+41-21	6026-6028	us	_	_	_	_	_	
+41-22	6029-6030	(	_	_	_	_	_	
+41-23	6030-6035	other	_	_	_	_	_	
+41-24	6036-6040	than	_	_	_	_	_	
+41-25	6041-6044	the	_	_	_	_	_	
+41-26	6045-6056	information	_	_	_	_	_	
+41-27	6057-6066	described	_	_	_	_	_	
+41-28	6067-6072	above	_	_	_	_	_	
+41-29	6072-6073	)	_	_	_	_	_	
+41-30	6074-6076	to	_	_	_	_	_	
+41-31	6077-6080	use	_	_	_	_	_	
+41-32	6081-6084	our	_	_	_	_	_	
+41-33	6085-6093	websites	_	_	_	_	_	
+41-34	6094-6096	or	_	_	_	_	_	
+41-35	6097-6100	app	_	_	_	_	_	
+41-36	6100-6101	.	_	_	_	_	_	
+
+#Text=We may collect other personal information when you use our other features and services of the Service.
+42-1	6102-6104	We	_	_	_	_	_	
+42-2	6105-6108	may	_	_	_	_	_	
+42-3	6109-6116	collect	_	_	_	_	_	
+42-4	6117-6122	other	_	_	_	_	_	
+42-5	6123-6131	personal	_	_	_	_	_	
+42-6	6132-6143	information	_	_	_	_	_	
+42-7	6144-6148	when	_	_	_	_	_	
+42-8	6149-6152	you	_	_	_	_	_	
+42-9	6153-6156	use	_	_	_	_	_	
+42-10	6157-6160	our	_	_	_	_	_	
+42-11	6161-6166	other	_	_	_	_	_	
+42-12	6167-6175	features	_	_	_	_	_	
+42-13	6176-6179	and	_	_	_	_	_	
+42-14	6180-6188	services	_	_	_	_	_	
+42-15	6189-6191	of	_	_	_	_	_	
+42-16	6192-6195	the	_	_	_	_	_	
+42-17	6196-6203	Service	_	_	_	_	_	
+42-18	6203-6204	.	_	_	_	_	_	
+
+#Text=For example, when you make purchases on the Service, if you or your parents buy Robux, we will collect additional information from the buyer in order to take the payment such as your name, billing address, email address and payment card details or other payment information.
+43-1	6205-6208	For	_	_	_	_	_	
+43-2	6209-6216	example	_	_	_	_	_	
+43-3	6216-6217	,	_	_	_	_	_	
+43-4	6218-6222	when	_	_	_	_	_	
+43-5	6223-6226	you	_	_	_	_	_	
+43-6	6227-6231	make	_	_	_	_	_	
+43-7	6232-6241	purchases	_	_	_	_	_	
+43-8	6242-6244	on	_	_	_	_	_	
+43-9	6245-6248	the	_	_	_	_	_	
+43-10	6249-6256	Service	_	_	_	_	_	
+43-11	6256-6257	,	_	_	_	_	_	
+43-12	6258-6260	if	_	_	_	_	_	
+43-13	6261-6264	you	_	_	_	_	_	
+43-14	6265-6267	or	_	_	_	_	_	
+43-15	6268-6272	your	_	_	_	_	_	
+43-16	6273-6280	parents	_	_	_	_	_	
+43-17	6281-6284	buy	_	_	_	_	_	
+43-18	6285-6290	Robux	_	_	_	_	_	
+43-19	6290-6291	,	_	_	_	_	_	
+43-20	6292-6294	we	_	_	_	_	_	
+43-21	6295-6299	will	_	_	_	_	_	
+43-22	6300-6307	collect	_	_	_	_	_	
+43-23	6308-6318	additional	_	_	_	_	_	
+43-24	6319-6330	information	_	_	_	_	_	
+43-25	6331-6335	from	_	_	_	_	_	
+43-26	6336-6339	the	_	_	_	_	_	
+43-27	6340-6345	buyer	_	_	_	_	_	
+43-28	6346-6348	in	_	_	_	_	_	
+43-29	6349-6354	order	_	_	_	_	_	
+43-30	6355-6357	to	_	_	_	_	_	
+43-31	6358-6362	take	_	_	_	_	_	
+43-32	6363-6366	the	_	_	_	_	_	
+43-33	6367-6374	payment	_	_	_	_	_	
+43-34	6375-6379	such	_	_	_	_	_	
+43-35	6380-6382	as	_	_	_	_	_	
+43-36	6383-6387	your	_	_	_	_	_	
+43-37	6388-6392	name	_	_	_	_	_	
+43-38	6392-6393	,	_	_	_	_	_	
+43-39	6394-6401	billing	_	_	_	_	_	
+43-40	6402-6409	address	_	_	_	_	_	
+43-41	6409-6410	,	_	_	_	_	_	
+43-42	6411-6416	email	_	_	_	_	_	
+43-43	6417-6424	address	_	_	_	_	_	
+43-44	6425-6428	and	_	_	_	_	_	
+43-45	6429-6436	payment	_	_	_	_	_	
+43-46	6437-6441	card	_	_	_	_	_	
+43-47	6442-6449	details	_	_	_	_	_	
+43-48	6450-6452	or	_	_	_	_	_	
+43-49	6453-6458	other	_	_	_	_	_	
+43-50	6459-6466	payment	_	_	_	_	_	
+43-51	6467-6478	information	_	_	_	_	_	
+43-52	6478-6479	.	_	_	_	_	_	
+
+#Text=When you use voice chat or type content on Roblox in public chat, private chat, forums, group walls, personal posts or portfolios, we will monitor what you say and write to check that it does not contain inappropriate content, your personal information, or chat that is not suitable for users to have on Roblox.
+44-1	6480-6484	When	_	_	_	_	_	
+44-2	6485-6488	you	_	_	_	_	_	
+44-3	6489-6492	use	_	_	_	_	_	
+44-4	6493-6498	voice	_	_	_	_	_	
+44-5	6499-6503	chat	_	_	_	_	_	
+44-6	6504-6506	or	_	_	_	_	_	
+44-7	6507-6511	type	_	_	_	_	_	
+44-8	6512-6519	content	_	_	_	_	_	
+44-9	6520-6522	on	_	_	_	_	_	
+44-10	6523-6529	Roblox	_	_	_	_	_	
+44-11	6530-6532	in	_	_	_	_	_	
+44-12	6533-6539	public	_	_	_	_	_	
+44-13	6540-6544	chat	_	_	_	_	_	
+44-14	6544-6545	,	_	_	_	_	_	
+44-15	6546-6553	private	_	_	_	_	_	
+44-16	6554-6558	chat	_	_	_	_	_	
+44-17	6558-6559	,	_	_	_	_	_	
+44-18	6560-6566	forums	_	_	_	_	_	
+44-19	6566-6567	,	_	_	_	_	_	
+44-20	6568-6573	group	_	_	_	_	_	
+44-21	6574-6579	walls	_	_	_	_	_	
+44-22	6579-6580	,	_	_	_	_	_	
+44-23	6581-6589	personal	_	_	_	_	_	
+44-24	6590-6595	posts	_	_	_	_	_	
+44-25	6596-6598	or	_	_	_	_	_	
+44-26	6599-6609	portfolios	_	_	_	_	_	
+44-27	6609-6610	,	_	_	_	_	_	
+44-28	6611-6613	we	_	_	_	_	_	
+44-29	6614-6618	will	_	_	_	_	_	
+44-30	6619-6626	monitor	_	_	_	_	_	
+44-31	6627-6631	what	_	_	_	_	_	
+44-32	6632-6635	you	_	_	_	_	_	
+44-33	6636-6639	say	_	_	_	_	_	
+44-34	6640-6643	and	_	_	_	_	_	
+44-35	6644-6649	write	_	_	_	_	_	
+44-36	6650-6652	to	_	_	_	_	_	
+44-37	6653-6658	check	_	_	_	_	_	
+44-38	6659-6663	that	_	_	_	_	_	
+44-39	6664-6666	it	_	_	_	_	_	
+44-40	6667-6671	does	_	_	_	_	_	
+44-41	6672-6675	not	_	_	_	_	_	
+44-42	6676-6683	contain	_	_	_	_	_	
+44-43	6684-6697	inappropriate	_	_	_	_	_	
+44-44	6698-6705	content	_	_	_	_	_	
+44-45	6705-6706	,	_	_	_	_	_	
+44-46	6707-6711	your	_	_	_	_	_	
+44-47	6712-6720	personal	_	_	_	_	_	
+44-48	6721-6732	information	_	_	_	_	_	
+44-49	6732-6733	,	_	_	_	_	_	
+44-50	6734-6736	or	_	_	_	_	_	
+44-51	6737-6741	chat	_	_	_	_	_	
+44-52	6742-6746	that	_	_	_	_	_	
+44-53	6747-6749	is	_	_	_	_	_	
+44-54	6750-6753	not	_	_	_	_	_	
+44-55	6754-6762	suitable	_	_	_	_	_	
+44-56	6763-6766	for	_	_	_	_	_	
+44-57	6767-6772	users	_	_	_	_	_	
+44-58	6773-6775	to	_	_	_	_	_	
+44-59	6776-6780	have	_	_	_	_	_	
+44-60	6781-6783	on	_	_	_	_	_	
+44-61	6784-6790	Roblox	_	_	_	_	_	
+44-62	6790-6791	.	_	_	_	_	_	
+
+#Text=If you contact us, for example, about a problem with our services, we may collect your contact information, such as your email address and other important information about your issue or concern.
+45-1	6792-6794	If	_	_	_	_	_	
+45-2	6795-6798	you	_	_	_	_	_	
+45-3	6799-6806	contact	_	_	_	_	_	
+45-4	6807-6809	us	_	_	_	_	_	
+45-5	6809-6810	,	_	_	_	_	_	
+45-6	6811-6814	for	_	_	_	_	_	
+45-7	6815-6822	example	_	_	_	_	_	
+45-8	6822-6823	,	_	_	_	_	_	
+45-9	6824-6829	about	_	_	_	_	_	
+45-10	6830-6831	a	_	_	_	_	_	
+45-11	6832-6839	problem	_	_	_	_	_	
+45-12	6840-6844	with	_	_	_	_	_	
+45-13	6845-6848	our	_	_	_	_	_	
+45-14	6849-6857	services	_	_	_	_	_	
+45-15	6857-6858	,	_	_	_	_	_	
+45-16	6859-6861	we	_	_	_	_	_	
+45-17	6862-6865	may	_	_	_	_	_	
+45-18	6866-6873	collect	_	_	_	_	_	
+45-19	6874-6878	your	_	_	_	_	_	
+45-20	6879-6886	contact	_	_	_	_	_	
+45-21	6887-6898	information	_	_	_	_	_	
+45-22	6898-6899	,	_	_	_	_	_	
+45-23	6900-6904	such	_	_	_	_	_	
+45-24	6905-6907	as	_	_	_	_	_	
+45-25	6908-6912	your	_	_	_	_	_	
+45-26	6913-6918	email	_	_	_	_	_	
+45-27	6919-6926	address	_	_	_	_	_	
+45-28	6927-6930	and	_	_	_	_	_	
+45-29	6931-6936	other	_	_	_	_	_	
+45-30	6937-6946	important	_	_	_	_	_	
+45-31	6947-6958	information	_	_	_	_	_	
+45-32	6959-6964	about	_	_	_	_	_	
+45-33	6965-6969	your	_	_	_	_	_	
+45-34	6970-6975	issue	_	_	_	_	_	
+45-35	6976-6978	or	_	_	_	_	_	
+45-36	6979-6986	concern	_	_	_	_	_	
+45-37	6986-6987	.	_	_	_	_	_	
+
+#Text=We will only use this information to solve your problem/concerns and to be able to reply to you.
+46-1	6988-6990	We	_	_	_	_	_	
+46-2	6991-6995	will	_	_	_	_	_	
+46-3	6996-7000	only	_	_	_	_	_	
+46-4	7001-7004	use	_	_	_	_	_	
+46-5	7005-7009	this	_	_	_	_	_	
+46-6	7010-7021	information	_	_	_	_	_	
+46-7	7022-7024	to	_	_	_	_	_	
+46-8	7025-7030	solve	_	_	_	_	_	
+46-9	7031-7035	your	_	_	_	_	_	
+46-10	7036-7043	problem	_	_	_	_	_	
+46-11	7043-7044	/	_	_	_	_	_	
+46-12	7044-7052	concerns	_	_	_	_	_	
+46-13	7053-7056	and	_	_	_	_	_	
+46-14	7057-7059	to	_	_	_	_	_	
+46-15	7060-7062	be	_	_	_	_	_	
+46-16	7063-7067	able	_	_	_	_	_	
+46-17	7068-7070	to	_	_	_	_	_	
+46-18	7071-7076	reply	_	_	_	_	_	
+46-19	7077-7079	to	_	_	_	_	_	
+46-20	7080-7083	you	_	_	_	_	_	
+46-21	7083-7084	.	_	_	_	_	_	
+
+#Text=When you browse and use our websites and app we might collect information about your actions on the website and app to make your experience better.
+47-1	7085-7089	When	_	_	_	_	_	
+47-2	7090-7093	you	_	_	_	_	_	
+47-3	7094-7100	browse	_	_	_	_	_	
+47-4	7101-7104	and	_	_	_	_	_	
+47-5	7105-7108	use	_	_	_	_	_	
+47-6	7109-7112	our	_	_	_	_	_	
+47-7	7113-7121	websites	_	_	_	_	_	
+47-8	7122-7125	and	_	_	_	_	_	
+47-9	7126-7129	app	_	_	_	_	_	
+47-10	7130-7132	we	_	_	_	_	_	
+47-11	7133-7138	might	_	_	_	_	_	
+47-12	7139-7146	collect	_	_	_	_	_	
+47-13	7147-7158	information	_	_	_	_	_	
+47-14	7159-7164	about	_	_	_	_	_	
+47-15	7165-7169	your	_	_	_	_	_	
+47-16	7170-7177	actions	_	_	_	_	_	
+47-17	7178-7180	on	_	_	_	_	_	
+47-18	7181-7184	the	_	_	_	_	_	
+47-19	7185-7192	website	_	_	_	_	_	
+47-20	7193-7196	and	_	_	_	_	_	
+47-21	7197-7200	app	_	_	_	_	_	
+47-22	7201-7203	to	_	_	_	_	_	
+47-23	7204-7208	make	_	_	_	_	_	
+47-24	7209-7213	your	_	_	_	_	_	
+47-25	7214-7224	experience	_	_	_	_	_	
+47-26	7225-7231	better	_	_	_	_	_	
+47-27	7231-7232	.	_	_	_	_	_	
+
+#Text=For example, we might look at your search history and suggest other games that are similar.
+48-1	7233-7236	For	_	_	_	_	_	
+48-2	7237-7244	example	_	_	_	_	_	
+48-3	7244-7245	,	_	_	_	_	_	
+48-4	7246-7248	we	_	_	_	_	_	
+48-5	7249-7254	might	_	_	_	_	_	
+48-6	7255-7259	look	_	_	_	_	_	
+48-7	7260-7262	at	_	_	_	_	_	
+48-8	7263-7267	your	_	_	_	_	_	
+48-9	7268-7274	search	_	_	_	_	_	
+48-10	7275-7282	history	_	_	_	_	_	
+48-11	7283-7286	and	_	_	_	_	_	
+48-12	7287-7294	suggest	_	_	_	_	_	
+48-13	7295-7300	other	_	_	_	_	_	
+48-14	7301-7306	games	_	_	_	_	_	
+48-15	7307-7311	that	_	_	_	_	_	
+48-16	7312-7315	are	_	_	_	_	_	
+48-17	7316-7323	similar	_	_	_	_	_	
+48-18	7323-7324	.	_	_	_	_	_	
+
+#Text=We might also collect information from your device when you visit our websites, as outlined in the “Cookies and Similar Technologies” section.
+49-1	7325-7327	We	_	_	_	_	_	
+49-2	7328-7333	might	_	_	_	_	_	
+49-3	7334-7338	also	_	_	_	_	_	
+49-4	7339-7346	collect	_	_	_	_	_	
+49-5	7347-7358	information	_	_	_	_	_	
+49-6	7359-7363	from	_	_	_	_	_	
+49-7	7364-7368	your	_	_	_	_	_	
+49-8	7369-7375	device	_	_	_	_	_	
+49-9	7376-7380	when	_	_	_	_	_	
+49-10	7381-7384	you	_	_	_	_	_	
+49-11	7385-7390	visit	_	_	_	_	_	
+49-12	7391-7394	our	_	_	_	_	_	
+49-13	7395-7403	websites	_	_	_	_	_	
+49-14	7403-7404	,	_	_	_	_	_	
+49-15	7405-7407	as	_	_	_	_	_	
+49-16	7408-7416	outlined	_	_	_	_	_	
+49-17	7417-7419	in	_	_	_	_	_	
+49-18	7420-7423	the	_	_	_	_	_	
+49-19	7424-7425	“	_	_	_	_	_	
+49-20	7425-7432	Cookies	_	_	_	_	_	
+49-21	7433-7436	and	_	_	_	_	_	
+49-22	7437-7444	Similar	_	_	_	_	_	
+49-23	7445-7457	Technologies	_	_	_	_	_	
+49-24	7457-7458	”	_	_	_	_	_	
+49-25	7459-7466	section	_	_	_	_	_	
+49-26	7466-7467	.	_	_	_	_	_	
+
+#Text=If you or your parent(s) want more information about the additional personal information we may collect, it can be found in the detailed section of our full privacy policy.
+50-1	7468-7470	If	_	_	_	_	_	
+50-2	7471-7474	you	_	_	_	_	_	
+50-3	7475-7477	or	_	_	_	_	_	
+50-4	7478-7482	your	_	_	_	_	_	
+50-5	7483-7489	parent	_	_	_	_	_	
+50-6	7489-7490	(	_	_	_	_	_	
+50-7	7490-7491	s	_	_	_	_	_	
+50-8	7491-7492	)	_	_	_	_	_	
+50-9	7493-7497	want	_	_	_	_	_	
+50-10	7498-7502	more	_	_	_	_	_	
+50-11	7503-7514	information	_	_	_	_	_	
+50-12	7515-7520	about	_	_	_	_	_	
+50-13	7521-7524	the	_	_	_	_	_	
+50-14	7525-7535	additional	_	_	_	_	_	
+50-15	7536-7544	personal	_	_	_	_	_	
+50-16	7545-7556	information	_	_	_	_	_	
+50-17	7557-7559	we	_	_	_	_	_	
+50-18	7560-7563	may	_	_	_	_	_	
+50-19	7564-7571	collect	_	_	_	_	_	
+50-20	7571-7572	,	_	_	_	_	_	
+50-21	7573-7575	it	_	_	_	_	_	
+50-22	7576-7579	can	_	_	_	_	_	
+50-23	7580-7582	be	_	_	_	_	_	
+50-24	7583-7588	found	_	_	_	_	_	
+50-25	7589-7591	in	_	_	_	_	_	
+50-26	7592-7595	the	_	_	_	_	_	
+50-27	7596-7604	detailed	_	_	_	_	_	
+50-28	7605-7612	section	_	_	_	_	_	
+50-29	7613-7615	of	_	_	_	_	_	
+50-30	7616-7619	our	_	_	_	_	_	
+50-31	7620-7624	full	_	_	_	_	_	
+50-32	7625-7632	privacy	_	_	_	_	_	
+50-33	7633-7639	policy	_	_	_	_	_	
+50-34	7639-7640	.	_	_	_	_	_	
+
+#Text=Any information that you give to us or that we collect might be used to:
+#Text=* keep the website and/or app running and to improve it;
+#Text=* give you access to the website or app and additional features, or to restrict your access;
+#Text=* make the content on the website or app personalized to you and make it easier for you to use;
+#Text=* help you look after your Roblox account, like changing your account settings, and pay for Robux;
+#Text=* detect security incidents and protect against bad or illegal activity, and find those responsible for that activity; and
+#Text=* protect your safety.
+51-1	7641-7644	Any	_	_	_	_	_	
+51-2	7645-7656	information	_	_	_	_	_	
+51-3	7657-7661	that	_	_	_	_	_	
+51-4	7662-7665	you	_	_	_	_	_	
+51-5	7666-7670	give	_	_	_	_	_	
+51-6	7671-7673	to	_	_	_	_	_	
+51-7	7674-7676	us	_	_	_	_	_	
+51-8	7677-7679	or	_	_	_	_	_	
+51-9	7680-7684	that	_	_	_	_	_	
+51-10	7685-7687	we	_	_	_	_	_	
+51-11	7688-7695	collect	_	_	_	_	_	
+51-12	7696-7701	might	_	_	_	_	_	
+51-13	7702-7704	be	_	_	_	_	_	
+51-14	7705-7709	used	_	_	_	_	_	
+51-15	7710-7712	to	_	_	_	_	_	
+51-16	7712-7713	:	_	_	_	_	_	
+51-17	7714-7715	*	_	_	_	_	_	
+51-18	7716-7720	keep	_	_	_	_	_	
+51-19	7721-7724	the	_	_	_	_	_	
+51-20	7725-7732	website	_	_	_	_	_	
+51-21	7733-7736	and	_	_	_	_	_	
+51-22	7736-7737	/	_	_	_	_	_	
+51-23	7737-7739	or	_	_	_	_	_	
+51-24	7740-7743	app	_	_	_	_	_	
+51-25	7744-7751	running	_	_	_	_	_	
+51-26	7752-7755	and	_	_	_	_	_	
+51-27	7756-7758	to	_	_	_	_	_	
+51-28	7759-7766	improve	_	_	_	_	_	
+51-29	7767-7769	it	_	_	_	_	_	
+51-30	7769-7770	;	_	_	_	_	_	
+51-31	7771-7772	*	_	_	_	_	_	
+51-32	7773-7777	give	_	_	_	_	_	
+51-33	7778-7781	you	_	_	_	_	_	
+51-34	7782-7788	access	_	_	_	_	_	
+51-35	7789-7791	to	_	_	_	_	_	
+51-36	7792-7795	the	_	_	_	_	_	
+51-37	7796-7803	website	_	_	_	_	_	
+51-38	7804-7806	or	_	_	_	_	_	
+51-39	7807-7810	app	_	_	_	_	_	
+51-40	7811-7814	and	_	_	_	_	_	
+51-41	7815-7825	additional	_	_	_	_	_	
+51-42	7826-7834	features	_	_	_	_	_	
+51-43	7834-7835	,	_	_	_	_	_	
+51-44	7836-7838	or	_	_	_	_	_	
+51-45	7839-7841	to	_	_	_	_	_	
+51-46	7842-7850	restrict	_	_	_	_	_	
+51-47	7851-7855	your	_	_	_	_	_	
+51-48	7856-7862	access	_	_	_	_	_	
+51-49	7862-7863	;	_	_	_	_	_	
+51-50	7864-7865	*	_	_	_	_	_	
+51-51	7866-7870	make	_	_	_	_	_	
+51-52	7871-7874	the	_	_	_	_	_	
+51-53	7875-7882	content	_	_	_	_	_	
+51-54	7883-7885	on	_	_	_	_	_	
+51-55	7886-7889	the	_	_	_	_	_	
+51-56	7890-7897	website	_	_	_	_	_	
+51-57	7898-7900	or	_	_	_	_	_	
+51-58	7901-7904	app	_	_	_	_	_	
+51-59	7905-7917	personalized	_	_	_	_	_	
+51-60	7918-7920	to	_	_	_	_	_	
+51-61	7921-7924	you	_	_	_	_	_	
+51-62	7925-7928	and	_	_	_	_	_	
+51-63	7929-7933	make	_	_	_	_	_	
+51-64	7934-7936	it	_	_	_	_	_	
+51-65	7937-7943	easier	_	_	_	_	_	
+51-66	7944-7947	for	_	_	_	_	_	
+51-67	7948-7951	you	_	_	_	_	_	
+51-68	7952-7954	to	_	_	_	_	_	
+51-69	7955-7958	use	_	_	_	_	_	
+51-70	7958-7959	;	_	_	_	_	_	
+51-71	7960-7961	*	_	_	_	_	_	
+51-72	7962-7966	help	_	_	_	_	_	
+51-73	7967-7970	you	_	_	_	_	_	
+51-74	7971-7975	look	_	_	_	_	_	
+51-75	7976-7981	after	_	_	_	_	_	
+51-76	7982-7986	your	_	_	_	_	_	
+51-77	7987-7993	Roblox	_	_	_	_	_	
+51-78	7994-8001	account	_	_	_	_	_	
+51-79	8001-8002	,	_	_	_	_	_	
+51-80	8003-8007	like	_	_	_	_	_	
+51-81	8008-8016	changing	_	_	_	_	_	
+51-82	8017-8021	your	_	_	_	_	_	
+51-83	8022-8029	account	_	_	_	_	_	
+51-84	8030-8038	settings	_	_	_	_	_	
+51-85	8038-8039	,	_	_	_	_	_	
+51-86	8040-8043	and	_	_	_	_	_	
+51-87	8044-8047	pay	_	_	_	_	_	
+51-88	8048-8051	for	_	_	_	_	_	
+51-89	8052-8057	Robux	_	_	_	_	_	
+51-90	8057-8058	;	_	_	_	_	_	
+51-91	8059-8060	*	_	_	_	_	_	
+51-92	8061-8067	detect	_	_	_	_	_	
+51-93	8068-8076	security	_	_	_	_	_	
+51-94	8077-8086	incidents	_	_	_	_	_	
+51-95	8087-8090	and	_	_	_	_	_	
+51-96	8091-8098	protect	_	_	_	_	_	
+51-97	8099-8106	against	_	_	_	_	_	
+51-98	8107-8110	bad	_	_	_	_	_	
+51-99	8111-8113	or	_	_	_	_	_	
+51-100	8114-8121	illegal	_	_	_	_	_	
+51-101	8122-8130	activity	_	_	_	_	_	
+51-102	8130-8131	,	_	_	_	_	_	
+51-103	8132-8135	and	_	_	_	_	_	
+51-104	8136-8140	find	_	_	_	_	_	
+51-105	8141-8146	those	_	_	_	_	_	
+51-106	8147-8158	responsible	_	_	_	_	_	
+51-107	8159-8162	for	_	_	_	_	_	
+51-108	8163-8167	that	_	_	_	_	_	
+51-109	8168-8176	activity	_	_	_	_	_	
+51-110	8176-8177	;	_	_	_	_	_	
+51-111	8178-8181	and	_	_	_	_	_	
+51-112	8182-8183	*	_	_	_	_	_	
+51-113	8184-8191	protect	_	_	_	_	_	
+51-114	8192-8196	your	_	_	_	_	_	
+51-115	8197-8203	safety	_	_	_	_	_	
+51-116	8203-8204	.	_	_	_	_	_	
+
+#Text=If your parents want more detail about this, they can view our full privacy policy.
+#Text=
+#Text=
+#Text=6.
+52-1	8205-8207	If	_	_	_	_	_	
+52-2	8208-8212	your	_	_	_	_	_	
+52-3	8213-8220	parents	_	_	_	_	_	
+52-4	8221-8225	want	_	_	_	_	_	
+52-5	8226-8230	more	_	_	_	_	_	
+52-6	8231-8237	detail	_	_	_	_	_	
+52-7	8238-8243	about	_	_	_	_	_	
+52-8	8244-8248	this	_	_	_	_	_	
+52-9	8248-8249	,	_	_	_	_	_	
+52-10	8250-8254	they	_	_	_	_	_	
+52-11	8255-8258	can	_	_	_	_	_	
+52-12	8259-8263	view	_	_	_	_	_	
+52-13	8264-8267	our	_	_	_	_	_	
+52-14	8268-8272	full	_	_	_	_	_	
+52-15	8273-8280	privacy	_	_	_	_	_	
+52-16	8281-8287	policy	_	_	_	_	_	
+52-17	8287-8288	.	_	_	_	_	_	
+52-18	8291-8292	6	_	_	_	_	_	
+52-19	8292-8293	.	_	_	_	_	_	
+
+#Text=Cookies and Similar Technologies
+#Text=
+#Text=
+#Text=We use tracking technology (such as "Cookies") on our websites and app to help us understand and improve our service, as well as to understand your preferences.
+53-1	8294-8301	Cookies	_	_	_	_	_	
+53-2	8302-8305	and	_	_	_	_	_	
+53-3	8306-8313	Similar	_	_	_	_	_	
+53-4	8314-8326	Technologies	_	_	_	_	_	
+53-5	8329-8331	We	_	_	_	_	_	
+53-6	8332-8335	use	_	_	_	_	_	
+53-7	8336-8344	tracking	_	_	_	_	_	
+53-8	8345-8355	technology	_	_	_	_	_	
+53-9	8356-8357	(	_	_	_	_	_	
+53-10	8357-8361	such	_	_	_	_	_	
+53-11	8362-8364	as	_	_	_	_	_	
+53-12	8365-8366	"	_	_	_	_	_	
+53-13	8366-8373	Cookies	_	_	_	_	_	
+53-14	8373-8374	"	_	_	_	_	_	
+53-15	8374-8375	)	_	_	_	_	_	
+53-16	8376-8378	on	_	_	_	_	_	
+53-17	8379-8382	our	_	_	_	_	_	
+53-18	8383-8391	websites	_	_	_	_	_	
+53-19	8392-8395	and	_	_	_	_	_	
+53-20	8396-8399	app	_	_	_	_	_	
+53-21	8400-8402	to	_	_	_	_	_	
+53-22	8403-8407	help	_	_	_	_	_	
+53-23	8408-8410	us	_	_	_	_	_	
+53-24	8411-8421	understand	_	_	_	_	_	
+53-25	8422-8425	and	_	_	_	_	_	
+53-26	8426-8433	improve	_	_	_	_	_	
+53-27	8434-8437	our	_	_	_	_	_	
+53-28	8438-8445	service	_	_	_	_	_	
+53-29	8445-8446	,	_	_	_	_	_	
+53-30	8447-8449	as	_	_	_	_	_	
+53-31	8450-8454	well	_	_	_	_	_	
+53-32	8455-8457	as	_	_	_	_	_	
+53-33	8458-8460	to	_	_	_	_	_	
+53-34	8461-8471	understand	_	_	_	_	_	
+53-35	8472-8476	your	_	_	_	_	_	
+53-36	8477-8488	preferences	_	_	_	_	_	
+53-37	8488-8489	.	_	_	_	_	_	
+
+#Text=A Cookie is a small text file that allows us to remember your actions and preferences on the website (such as your login details, your language settings and your font size preference) over a period of time so you don't have to re-enter them whenever you come back to the website or browse from one page to another.
+54-1	8490-8491	A	_	_	_	_	_	
+54-2	8492-8498	Cookie	_	_	_	_	_	
+54-3	8499-8501	is	_	_	_	_	_	
+54-4	8502-8503	a	_	_	_	_	_	
+54-5	8504-8509	small	_	_	_	_	_	
+54-6	8510-8514	text	_	_	_	_	_	
+54-7	8515-8519	file	_	_	_	_	_	
+54-8	8520-8524	that	_	_	_	_	_	
+54-9	8525-8531	allows	_	_	_	_	_	
+54-10	8532-8534	us	_	_	_	_	_	
+54-11	8535-8537	to	_	_	_	_	_	
+54-12	8538-8546	remember	_	_	_	_	_	
+54-13	8547-8551	your	_	_	_	_	_	
+54-14	8552-8559	actions	_	_	_	_	_	
+54-15	8560-8563	and	_	_	_	_	_	
+54-16	8564-8575	preferences	_	_	_	_	_	
+54-17	8576-8578	on	_	_	_	_	_	
+54-18	8579-8582	the	_	_	_	_	_	
+54-19	8583-8590	website	_	_	_	_	_	
+54-20	8591-8592	(	_	_	_	_	_	
+54-21	8592-8596	such	_	_	_	_	_	
+54-22	8597-8599	as	_	_	_	_	_	
+54-23	8600-8604	your	_	_	_	_	_	
+54-24	8605-8610	login	_	_	_	_	_	
+54-25	8611-8618	details	_	_	_	_	_	
+54-26	8618-8619	,	_	_	_	_	_	
+54-27	8620-8624	your	_	_	_	_	_	
+54-28	8625-8633	language	_	_	_	_	_	
+54-29	8634-8642	settings	_	_	_	_	_	
+54-30	8643-8646	and	_	_	_	_	_	
+54-31	8647-8651	your	_	_	_	_	_	
+54-32	8652-8656	font	_	_	_	_	_	
+54-33	8657-8661	size	_	_	_	_	_	
+54-34	8662-8672	preference	_	_	_	_	_	
+54-35	8672-8673	)	_	_	_	_	_	
+54-36	8674-8678	over	_	_	_	_	_	
+54-37	8679-8680	a	_	_	_	_	_	
+54-38	8681-8687	period	_	_	_	_	_	
+54-39	8688-8690	of	_	_	_	_	_	
+54-40	8691-8695	time	_	_	_	_	_	
+54-41	8696-8698	so	_	_	_	_	_	
+54-42	8699-8702	you	_	_	_	_	_	
+54-43	8703-8708	don't	_	_	_	_	_	
+54-44	8709-8713	have	_	_	_	_	_	
+54-45	8714-8716	to	_	_	_	_	_	
+54-46	8717-8725	re-enter	_	_	_	_	_	
+54-47	8726-8730	them	_	_	_	_	_	
+54-48	8731-8739	whenever	_	_	_	_	_	
+54-49	8740-8743	you	_	_	_	_	_	
+54-50	8744-8748	come	_	_	_	_	_	
+54-51	8749-8753	back	_	_	_	_	_	
+54-52	8754-8756	to	_	_	_	_	_	
+54-53	8757-8760	the	_	_	_	_	_	
+54-54	8761-8768	website	_	_	_	_	_	
+54-55	8769-8771	or	_	_	_	_	_	
+54-56	8772-8778	browse	_	_	_	_	_	
+54-57	8779-8783	from	_	_	_	_	_	
+54-58	8784-8787	one	_	_	_	_	_	
+54-59	8788-8792	page	_	_	_	_	_	
+54-60	8793-8795	to	_	_	_	_	_	
+54-61	8796-8803	another	_	_	_	_	_	
+54-62	8803-8804	.	_	_	_	_	_	
+
+#Text=We will also remember your favorite games and friends.
+55-1	8805-8807	We	_	_	_	_	_	
+55-2	8808-8812	will	_	_	_	_	_	
+55-3	8813-8817	also	_	_	_	_	_	
+55-4	8818-8826	remember	_	_	_	_	_	
+55-5	8827-8831	your	_	_	_	_	_	
+55-6	8832-8840	favorite	_	_	_	_	_	
+55-7	8841-8846	games	_	_	_	_	_	
+55-8	8847-8850	and	_	_	_	_	_	
+55-9	8851-8858	friends	_	_	_	_	_	
+55-10	8858-8859	.	_	_	_	_	_	
+
+#Text=If your parents or guardians want more information about Cookies and similar tracking technology, they can view our full privacy policy.
+#Text=
+#Text=
+#Text=7.
+56-1	8860-8862	If	_	_	_	_	_	
+56-2	8863-8867	your	_	_	_	_	_	
+56-3	8868-8875	parents	_	_	_	_	_	
+56-4	8876-8878	or	_	_	_	_	_	
+56-5	8879-8888	guardians	_	_	_	_	_	
+56-6	8889-8893	want	_	_	_	_	_	
+56-7	8894-8898	more	_	_	_	_	_	
+56-8	8899-8910	information	_	_	_	_	_	
+56-9	8911-8916	about	_	_	_	_	_	
+56-10	8917-8924	Cookies	_	_	_	_	_	
+56-11	8925-8928	and	_	_	_	_	_	
+56-12	8929-8936	similar	_	_	_	_	_	
+56-13	8937-8945	tracking	_	_	_	_	_	
+56-14	8946-8956	technology	_	_	_	_	_	
+56-15	8956-8957	,	_	_	_	_	_	
+56-16	8958-8962	they	_	_	_	_	_	
+56-17	8963-8966	can	_	_	_	_	_	
+56-18	8967-8971	view	_	_	_	_	_	
+56-19	8972-8975	our	_	_	_	_	_	
+56-20	8976-8980	full	_	_	_	_	_	
+56-21	8981-8988	privacy	_	_	_	_	_	
+56-22	8989-8995	policy	_	_	_	_	_	
+56-23	8995-8996	.	_	_	_	_	_	
+56-24	8999-9000	7	_	_	_	_	_	
+56-25	9000-9001	.	_	_	_	_	_	
+
+#Text=Information Sharing
+#Text=
+#Text=
+#Text=Roblox doesn’t sell your information to other companies for them to use as they want.
+57-1	9002-9013	Information	_	_	_	_	_	
+57-2	9014-9021	Sharing	_	_	_	_	_	
+57-3	9024-9030	Roblox	_	_	_	_	_	
+57-4	9031-9036	doesn	_	_	_	_	_	
+57-5	9036-9037	’	_	_	_	_	_	
+57-6	9037-9038	t	_	_	_	_	_	
+57-7	9039-9043	sell	_	_	_	_	_	
+57-8	9044-9048	your	_	_	_	_	_	
+57-9	9049-9060	information	_	_	_	_	_	
+57-10	9061-9063	to	_	_	_	_	_	
+57-11	9064-9069	other	_	_	_	_	_	
+57-12	9070-9079	companies	_	_	_	_	_	
+57-13	9080-9083	for	_	_	_	_	_	
+57-14	9084-9088	them	_	_	_	_	_	
+57-15	9089-9091	to	_	_	_	_	_	
+57-16	9092-9095	use	_	_	_	_	_	
+57-17	9096-9098	as	_	_	_	_	_	
+57-18	9099-9103	they	_	_	_	_	_	
+57-19	9104-9108	want	_	_	_	_	_	
+57-20	9108-9109	.	_	_	_	_	_	
+
+#Text=Roblox does have relationships with some companies that help us provide our services (for example, when you or your parent purchase Robux), so we may provide some of your information to them, but only because we need to in order to complete your transaction.
+58-1	9110-9116	Roblox	_	_	_	_	_	
+58-2	9117-9121	does	_	_	_	_	_	
+58-3	9122-9126	have	_	_	_	_	_	
+58-4	9127-9140	relationships	_	_	_	_	_	
+58-5	9141-9145	with	_	_	_	_	_	
+58-6	9146-9150	some	_	_	_	_	_	
+58-7	9151-9160	companies	_	_	_	_	_	
+58-8	9161-9165	that	_	_	_	_	_	
+58-9	9166-9170	help	_	_	*[2]	_	_	
+58-10	9171-9173	us	_	_	*[2]	_	_	
+58-11	9174-9181	provide	_	_	*[2]	_	_	
+58-12	9182-9185	our	_	_	*[2]	_	_	
+58-13	9186-9194	services	_	_	*[2]	_	_	
+58-14	9195-9196	(	_	_	_	_	_	
+58-15	9196-9199	for	_	_	_	_	_	
+58-16	9200-9207	example	_	_	_	_	_	
+58-17	9207-9208	,	_	_	_	_	_	
+58-18	9209-9213	when	_	_	_	_	_	
+58-19	9214-9217	you	_	_	_	_	_	
+58-20	9218-9220	or	_	_	_	_	_	
+58-21	9221-9225	your	_	_	_	_	_	
+58-22	9226-9232	parent	_	_	_	_	_	
+58-23	9233-9241	purchase	_	_	_	_	_	
+58-24	9242-9247	Robux	_	_	_	_	_	
+58-25	9247-9248	)	_	_	_	_	_	
+58-26	9248-9249	,	_	_	_	_	_	
+58-27	9250-9252	so	_	_	_	_	_	
+58-28	9253-9255	we	_	_	_	_	_	
+58-29	9256-9259	may	_	_	_	_	_	
+58-30	9260-9267	provide	Exact Match/Synonym	_	_	_	_	
+58-31	9268-9272	some	_	_	_	_	_	
+58-32	9273-9275	of	_	_	_	_	_	
+58-33	9276-9280	your	_	_	_	_	_	
+58-34	9281-9292	information	_	_	_	\[CONDITIONAL\] modality	Hypernym	
+58-35	9293-9295	to	_	_	_	_	_	
+58-36	9296-9300	them	_	_	_	_	_	
+58-37	9300-9301	,	_	_	_	_	_	
+58-38	9302-9305	but	_	_	_	_	_	
+58-39	9306-9310	only	_	_	_	_	_	
+58-40	9311-9318	because	_	_	_	_	_	
+58-41	9319-9321	we	_	_	_	_	_	
+58-42	9322-9326	need	_	_	_	_	_	
+58-43	9327-9329	to	_	_	_	_	_	
+58-44	9330-9332	in	_	_	_	_	_	
+58-45	9333-9338	order	_	_	_	_	_	
+58-46	9339-9341	to	_	_	_	_	_	
+58-47	9342-9350	complete	_	_	_	_	_	
+58-48	9351-9355	your	_	_	_	_	_	
+58-49	9356-9367	transaction	_	_	_	_	_	
+58-50	9367-9368	.	_	_	_	_	_	
+
+#Text=We also hire other people and companies to perform services for us.
+59-1	9369-9371	We	_	_	_	_	_	
+59-2	9372-9376	also	_	_	_	_	_	
+59-3	9377-9381	hire	_	_	_	_	_	
+59-4	9382-9387	other	_	_	_	_	_	
+59-5	9388-9394	people	_	_	_	_	_	
+59-6	9395-9398	and	_	_	_	_	_	
+59-7	9399-9408	companies	_	_	_	_	_	
+59-8	9409-9411	to	_	_	_	_	_	
+59-9	9412-9419	perform	_	_	_	_	_	
+59-10	9420-9428	services	_	_	_	_	_	
+59-11	9429-9432	for	_	_	_	_	_	
+59-12	9433-9435	us	_	_	_	_	_	
+59-13	9435-9436	.	_	_	_	_	_	
+
+#Text=A list of some of the companies we may use to perform these functions can be found in the detailed version of our privacy policy.
+60-1	9437-9438	A	_	_	_	_	_	
+60-2	9439-9443	list	_	_	_	_	_	
+60-3	9444-9446	of	_	_	_	_	_	
+60-4	9447-9451	some	_	_	_	_	_	
+60-5	9452-9454	of	_	_	_	_	_	
+60-6	9455-9458	the	_	_	_	_	_	
+60-7	9459-9468	companies	_	_	_	_	_	
+60-8	9469-9471	we	_	_	_	_	_	
+60-9	9472-9475	may	_	_	_	_	_	
+60-10	9476-9479	use	_	_	_	_	_	
+60-11	9480-9482	to	_	_	_	_	_	
+60-12	9483-9490	perform	_	_	_	_	_	
+60-13	9491-9496	these	_	_	_	_	_	
+60-14	9497-9506	functions	_	_	_	_	_	
+60-15	9507-9510	can	_	_	_	_	_	
+60-16	9511-9513	be	_	_	_	_	_	
+60-17	9514-9519	found	_	_	_	_	_	
+60-18	9520-9522	in	_	_	_	_	_	
+60-19	9523-9526	the	_	_	_	_	_	
+60-20	9527-9535	detailed	_	_	_	_	_	
+60-21	9536-9543	version	_	_	_	_	_	
+60-22	9544-9546	of	_	_	_	_	_	
+60-23	9547-9550	our	_	_	_	_	_	
+60-24	9551-9558	privacy	_	_	_	_	_	
+60-25	9559-9565	policy	_	_	_	_	_	
+60-26	9565-9566	.	_	_	_	_	_	
+
+#Text=The other companies are only allowed to use the personal information we share with them to complete tasks that we hire them to do.
+61-1	9567-9570	The	_	_	_	_	_	
+61-2	9571-9576	other	_	_	_	_	_	
+61-3	9577-9586	companies	_	_	_	_	_	
+61-4	9587-9590	are	_	_	_	_	_	
+61-5	9591-9595	only	_	_	_	_	_	
+61-6	9596-9603	allowed	_	_	_	_	_	
+61-7	9604-9606	to	_	_	_	_	_	
+61-8	9607-9610	use	_	_	_	_	_	
+61-9	9611-9614	the	_	_	_	_	_	
+61-10	9615-9623	personal	_	_	_	_	_	
+61-11	9624-9635	information	_	_	_	_	_	
+61-12	9636-9638	we	_	_	_	_	_	
+61-13	9639-9644	share	_	_	_	_	_	
+61-14	9645-9649	with	_	_	_	_	_	
+61-15	9650-9654	them	_	_	_	_	_	
+61-16	9655-9657	to	_	_	_	_	_	
+61-17	9658-9666	complete	_	_	_	_	_	
+61-18	9667-9672	tasks	_	_	_	_	_	
+61-19	9673-9677	that	_	_	_	_	_	
+61-20	9678-9680	we	_	_	_	_	_	
+61-21	9681-9685	hire	_	_	_	_	_	
+61-22	9686-9690	them	_	_	_	_	_	
+61-23	9691-9693	to	_	_	_	_	_	
+61-24	9694-9696	do	_	_	_	_	_	
+61-25	9696-9697	.	_	_	_	_	_	
+
+#Text=They are not allowed to sell your personal information or use it for their own purposes.
+62-1	9698-9702	They	_	_	_	_	_	
+62-2	9703-9706	are	_	_	_	_	_	
+62-3	9707-9710	not	_	_	_	_	_	
+62-4	9711-9718	allowed	_	_	_	_	_	
+62-5	9719-9721	to	_	_	_	_	_	
+62-6	9722-9726	sell	_	_	_	_	_	
+62-7	9727-9731	your	_	_	_	_	_	
+62-8	9732-9740	personal	_	_	_	_	_	
+62-9	9741-9752	information	_	_	_	_	_	
+62-10	9753-9755	or	_	_	_	_	_	
+62-11	9756-9759	use	_	_	_	_	_	
+62-12	9760-9762	it	_	_	_	_	_	
+62-13	9763-9766	for	_	_	_	_	_	
+62-14	9767-9772	their	_	_	_	_	_	
+62-15	9773-9776	own	_	_	_	_	_	
+62-16	9777-9785	purposes	_	_	_	_	_	
+62-17	9785-9786	.	_	_	_	_	_	
+
+#Text=Public forums and community areas
+#Text=There are some areas on Roblox such as in game chat where you can communicate with other Roblox users.
+63-1	9787-9793	Public	_	_	_	_	_	
+63-2	9794-9800	forums	_	_	_	_	_	
+63-3	9801-9804	and	_	_	_	_	_	
+63-4	9805-9814	community	_	_	_	_	_	
+63-5	9815-9820	areas	_	_	_	_	_	
+63-6	9821-9826	There	_	_	_	_	_	
+63-7	9827-9830	are	_	_	_	_	_	
+63-8	9831-9835	some	_	_	_	_	_	
+63-9	9836-9841	areas	_	_	_	_	_	
+63-10	9842-9844	on	_	_	_	_	_	
+63-11	9845-9851	Roblox	_	_	_	_	_	
+63-12	9852-9856	such	_	_	_	_	_	
+63-13	9857-9859	as	_	_	_	_	_	
+63-14	9860-9862	in	_	_	_	_	_	
+63-15	9863-9867	game	_	_	_	_	_	
+63-16	9868-9872	chat	_	_	_	_	_	
+63-17	9873-9878	where	_	_	_	_	_	
+63-18	9879-9882	you	_	_	_	_	_	
+63-19	9883-9886	can	_	_	_	_	_	
+63-20	9887-9898	communicate	_	_	_	_	_	
+63-21	9899-9903	with	_	_	_	_	_	
+63-22	9904-9909	other	_	_	_	_	_	
+63-23	9910-9916	Roblox	_	_	_	_	_	
+63-24	9917-9922	users	_	_	_	_	_	
+63-25	9922-9923	.	_	_	_	_	_	
+
+#Text=These are public places and anything you share in these areas is available to other Roblox users who can access the same places.
+64-1	9924-9929	These	_	_	_	_	_	
+64-2	9930-9933	are	_	_	_	_	_	
+64-3	9934-9940	public	_	_	_	_	_	
+64-4	9941-9947	places	_	_	_	_	_	
+64-5	9948-9951	and	_	_	_	_	_	
+64-6	9952-9960	anything	_	_	_	_	_	
+64-7	9961-9964	you	_	_	_	_	_	
+64-8	9965-9970	share	_	_	_	_	_	
+64-9	9971-9973	in	_	_	_	_	_	
+64-10	9974-9979	these	_	_	_	_	_	
+64-11	9980-9985	areas	_	_	_	_	_	
+64-12	9986-9988	is	_	_	_	_	_	
+64-13	9989-9998	available	_	_	_	_	_	
+64-14	9999-10001	to	_	_	_	_	_	
+64-15	10002-10007	other	_	_	_	_	_	
+64-16	10008-10014	Roblox	_	_	_	_	_	
+64-17	10015-10020	users	_	_	_	_	_	
+64-18	10021-10024	who	_	_	_	_	_	
+64-19	10025-10028	can	_	_	_	_	_	
+64-20	10029-10035	access	_	_	_	_	_	
+64-21	10036-10039	the	_	_	_	_	_	
+64-22	10040-10044	same	_	_	_	_	_	
+64-23	10045-10051	places	_	_	_	_	_	
+64-24	10051-10052	.	_	_	_	_	_	
+
+#Text=You should remember this before you post any information in these public areas.
+65-1	10053-10056	You	_	_	_	_	_	
+65-2	10057-10063	should	_	_	_	_	_	
+65-3	10064-10072	remember	_	_	_	_	_	
+65-4	10073-10077	this	_	_	_	_	_	
+65-5	10078-10084	before	_	_	_	_	_	
+65-6	10085-10088	you	_	_	_	_	_	
+65-7	10089-10093	post	_	_	_	_	_	
+65-8	10094-10097	any	_	_	_	_	_	
+65-9	10098-10109	information	_	_	_	_	_	
+65-10	10110-10112	in	_	_	_	_	_	
+65-11	10113-10118	these	_	_	_	_	_	
+65-12	10119-10125	public	_	_	_	_	_	
+65-13	10126-10131	areas	_	_	_	_	_	
+65-14	10131-10132	.	_	_	_	_	_	
+
+#Text=As you know, Roblox wants to create a safe space for all its users, so we do not allow you to share any personal information about yourself such as your name, where you live, or your email address.
+66-1	10133-10135	As	_	_	_	_	_	
+66-2	10136-10139	you	_	_	_	_	_	
+66-3	10140-10144	know	_	_	_	_	_	
+66-4	10144-10145	,	_	_	_	_	_	
+66-5	10146-10152	Roblox	_	_	_	_	_	
+66-6	10153-10158	wants	_	_	_	_	_	
+66-7	10159-10161	to	_	_	_	_	_	
+66-8	10162-10168	create	_	_	_	_	_	
+66-9	10169-10170	a	_	_	_	_	_	
+66-10	10171-10175	safe	_	_	_	_	_	
+66-11	10176-10181	space	_	_	_	_	_	
+66-12	10182-10185	for	_	_	_	_	_	
+66-13	10186-10189	all	_	_	_	_	_	
+66-14	10190-10193	its	_	_	_	_	_	
+66-15	10194-10199	users	_	_	_	_	_	
+66-16	10199-10200	,	_	_	_	_	_	
+66-17	10201-10203	so	_	_	_	_	_	
+66-18	10204-10206	we	_	_	_	_	_	
+66-19	10207-10209	do	_	_	_	_	_	
+66-20	10210-10213	not	_	_	_	_	_	
+66-21	10214-10219	allow	_	_	_	_	_	
+66-22	10220-10223	you	_	_	_	_	_	
+66-23	10224-10226	to	_	_	_	_	_	
+66-24	10227-10232	share	_	_	_	_	_	
+66-25	10233-10236	any	_	_	_	_	_	
+66-26	10237-10245	personal	_	_	_	_	_	
+66-27	10246-10257	information	_	_	_	_	_	
+66-28	10258-10263	about	_	_	_	_	_	
+66-29	10264-10272	yourself	_	_	_	_	_	
+66-30	10273-10277	such	_	_	_	_	_	
+66-31	10278-10280	as	_	_	_	_	_	
+66-32	10281-10285	your	_	_	_	_	_	
+66-33	10286-10290	name	_	_	_	_	_	
+66-34	10290-10291	,	_	_	_	_	_	
+66-35	10292-10297	where	_	_	_	_	_	
+66-36	10298-10301	you	_	_	_	_	_	
+66-37	10302-10306	live	_	_	_	_	_	
+66-38	10306-10307	,	_	_	_	_	_	
+66-39	10308-10310	or	_	_	_	_	_	
+66-40	10311-10315	your	_	_	_	_	_	
+66-41	10316-10321	email	_	_	_	_	_	
+66-42	10322-10329	address	_	_	_	_	_	
+66-43	10329-10330	.	_	_	_	_	_	
+
+#Text=Creators
+#Text=We share your username, display name, game metrics, regional location and user ID with the creators of the experiences you access.
+67-1	10331-10339	Creators	_	_	_	_	_	
+67-2	10340-10342	We	_	_	_	_	_	
+67-3	10343-10348	share	_	_	_	_	_	
+67-4	10349-10353	your	_	_	_	_	_	
+67-5	10354-10362	username	_	_	_	_	_	
+67-6	10362-10363	,	_	_	_	_	_	
+67-7	10364-10371	display	_	_	_	_	_	
+67-8	10372-10376	name	_	_	_	_	_	
+67-9	10376-10377	,	_	_	_	_	_	
+67-10	10378-10382	game	_	_	_	_	_	
+67-11	10383-10390	metrics	_	_	_	_	_	
+67-12	10390-10391	,	_	_	_	_	_	
+67-13	10392-10400	regional	_	_	_	_	_	
+67-14	10401-10409	location	_	_	_	_	_	
+67-15	10410-10413	and	_	_	_	_	_	
+67-16	10414-10418	user	_	_	_	_	_	
+67-17	10419-10421	ID	_	_	_	_	_	
+67-18	10422-10426	with	_	_	_	_	_	
+67-19	10427-10430	the	_	_	_	_	_	
+67-20	10431-10439	creators	_	_	_	_	_	
+67-21	10440-10442	of	_	_	_	_	_	
+67-22	10443-10446	the	_	_	_	_	_	
+67-23	10447-10458	experiences	_	_	_	_	_	
+67-24	10459-10462	you	_	_	_	_	_	
+67-25	10463-10469	access	_	_	_	_	_	
+67-26	10469-10470	.	_	_	_	_	_	
+
+#Text=Legal disclosures, business transfers, and other important content
+#Text=If you or your parents or guardians want details about our legal disclosures, business transfers and other important content, they can view our full privacy policy.
+#Text=
+#Text=
+#Text=8.
+68-1	10471-10476	Legal	_	_	_	_	_	
+68-2	10477-10488	disclosures	_	_	_	_	_	
+68-3	10488-10489	,	_	_	_	_	_	
+68-4	10490-10498	business	_	_	_	_	_	
+68-5	10499-10508	transfers	_	_	_	_	_	
+68-6	10508-10509	,	_	_	_	_	_	
+68-7	10510-10513	and	_	_	_	_	_	
+68-8	10514-10519	other	_	_	_	_	_	
+68-9	10520-10529	important	_	_	_	_	_	
+68-10	10530-10537	content	_	_	_	_	_	
+68-11	10538-10540	If	_	_	_	_	_	
+68-12	10541-10544	you	_	_	_	_	_	
+68-13	10545-10547	or	_	_	_	_	_	
+68-14	10548-10552	your	_	_	_	_	_	
+68-15	10553-10560	parents	_	_	_	_	_	
+68-16	10561-10563	or	_	_	_	_	_	
+68-17	10564-10573	guardians	_	_	_	_	_	
+68-18	10574-10578	want	_	_	_	_	_	
+68-19	10579-10586	details	_	_	_	_	_	
+68-20	10587-10592	about	_	_	_	_	_	
+68-21	10593-10596	our	_	_	_	_	_	
+68-22	10597-10602	legal	_	_	_	_	_	
+68-23	10603-10614	disclosures	_	_	_	_	_	
+68-24	10614-10615	,	_	_	_	_	_	
+68-25	10616-10624	business	_	_	_	_	_	
+68-26	10625-10634	transfers	_	_	_	_	_	
+68-27	10635-10638	and	_	_	_	_	_	
+68-28	10639-10644	other	_	_	_	_	_	
+68-29	10645-10654	important	_	_	_	_	_	
+68-30	10655-10662	content	_	_	_	_	_	
+68-31	10662-10663	,	_	_	_	_	_	
+68-32	10664-10668	they	_	_	_	_	_	
+68-33	10669-10672	can	_	_	_	_	_	
+68-34	10673-10677	view	_	_	_	_	_	
+68-35	10678-10681	our	_	_	_	_	_	
+68-36	10682-10686	full	_	_	_	_	_	
+68-37	10687-10694	privacy	_	_	_	_	_	
+68-38	10695-10701	policy	_	_	_	_	_	
+68-39	10701-10702	.	_	_	_	_	_	
+68-40	10705-10706	8	_	_	_	_	_	
+68-41	10706-10707	.	_	_	_	_	_	
+
+#Text=Security and Data Retention
+#Text=
+#Text=
+#Text=The security of your information is important to us.
+69-1	10708-10716	Security	_	_	_	_	_	
+69-2	10717-10720	and	_	_	_	_	_	
+69-3	10721-10725	Data	_	_	_	_	_	
+69-4	10726-10735	Retention	_	_	_	_	_	
+69-5	10738-10741	The	_	_	_	_	_	
+69-6	10742-10750	security	_	_	_	_	_	
+69-7	10751-10753	of	_	_	_	_	_	
+69-8	10754-10758	your	_	_	_	_	_	
+69-9	10759-10770	information	_	_	_	_	_	
+69-10	10771-10773	is	_	_	_	_	_	
+69-11	10774-10783	important	_	_	_	_	_	
+69-12	10784-10786	to	_	_	_	_	_	
+69-13	10787-10789	us	_	_	_	_	_	
+69-14	10789-10790	.	_	_	_	_	_	
+
+#Text=We have measures in place to protect it against loss, misuse, or tampering.
+70-1	10791-10793	We	_	_	_	_	_	
+70-2	10794-10798	have	_	_	_	_	_	
+70-3	10799-10807	measures	_	_	_	_	_	
+70-4	10808-10810	in	_	_	_	_	_	
+70-5	10811-10816	place	_	_	_	_	_	
+70-6	10817-10819	to	_	_	_	_	_	
+70-7	10820-10827	protect	_	_	_	_	_	
+70-8	10828-10830	it	_	_	_	_	_	
+70-9	10831-10838	against	_	_	_	_	_	
+70-10	10839-10843	loss	_	_	_	_	_	
+70-11	10843-10844	,	_	_	_	_	_	
+70-12	10845-10851	misuse	_	_	_	_	_	
+70-13	10851-10852	,	_	_	_	_	_	
+70-14	10853-10855	or	_	_	_	_	_	
+70-15	10856-10865	tampering	_	_	_	_	_	
+70-16	10865-10866	.	_	_	_	_	_	
+
+#Text=However, no security measures are 100% effective, so we cannot guarantee against these risks.
+71-1	10867-10874	However	_	_	_	_	_	
+71-2	10874-10875	,	_	_	_	_	_	
+71-3	10876-10878	no	_	_	_	_	_	
+71-4	10879-10887	security	_	_	_	_	_	
+71-5	10888-10896	measures	_	_	_	_	_	
+71-6	10897-10900	are	_	_	_	_	_	
+71-7	10901-10905	100%	_	_	_	_	_	
+71-8	10906-10915	effective	_	_	_	_	_	
+71-9	10915-10916	,	_	_	_	_	_	
+71-10	10917-10919	so	_	_	_	_	_	
+71-11	10920-10922	we	_	_	_	_	_	
+71-12	10923-10929	cannot	_	_	_	_	_	
+71-13	10930-10939	guarantee	_	_	_	_	_	
+71-14	10940-10947	against	_	_	_	_	_	
+71-15	10948-10953	these	_	_	_	_	_	
+71-16	10954-10959	risks	_	_	_	_	_	
+71-17	10959-10960	.	_	_	_	_	_	
+
+#Text=How long do we keep your information for?
+72-1	10961-10964	How	_	_	_	_	_	
+72-2	10965-10969	long	_	_	_	_	_	
+72-3	10970-10972	do	_	_	_	_	_	
+72-4	10973-10975	we	_	_	_	_	_	
+72-5	10976-10980	keep	_	_	_	_	_	
+72-6	10981-10985	your	_	_	_	_	_	
+72-7	10986-10997	information	_	_	_	_	_	
+72-8	10998-11001	for	_	_	_	_	_	
+72-9	11001-11002	?	_	_	_	_	_	
+
+#Text=We will only keep your information for as long as we need to.
+73-1	11003-11005	We	_	_	_	_	_	
+73-2	11006-11010	will	_	_	_	_	_	
+73-3	11011-11015	only	_	_	_	_	_	
+73-4	11016-11020	keep	_	_	_	_	_	
+73-5	11021-11025	your	_	_	_	_	_	
+73-6	11026-11037	information	_	_	_	_	_	
+73-7	11038-11041	for	_	_	_	_	_	
+73-8	11042-11044	as	_	_	_	_	_	
+73-9	11045-11049	long	_	_	_	_	_	
+73-10	11050-11052	as	_	_	_	_	_	
+73-11	11053-11055	we	_	_	_	_	_	
+73-12	11056-11060	need	_	_	_	_	_	
+73-13	11061-11063	to	_	_	_	_	_	
+73-14	11063-11064	.	_	_	_	_	_	
+
+#Text=For more information, please review the detailed version of our full privacy policy.
+#Text=
+#Text=
+#Text=9.
+74-1	11065-11068	For	_	_	_	_	_	
+74-2	11069-11073	more	_	_	_	_	_	
+74-3	11074-11085	information	_	_	_	_	_	
+74-4	11085-11086	,	_	_	_	_	_	
+74-5	11087-11093	please	_	_	_	_	_	
+74-6	11094-11100	review	_	_	_	_	_	
+74-7	11101-11104	the	_	_	_	_	_	
+74-8	11105-11113	detailed	_	_	_	_	_	
+74-9	11114-11121	version	_	_	_	_	_	
+74-10	11122-11124	of	_	_	_	_	_	
+74-11	11125-11128	our	_	_	_	_	_	
+74-12	11129-11133	full	_	_	_	_	_	
+74-13	11134-11141	privacy	_	_	_	_	_	
+74-14	11142-11148	policy	_	_	_	_	_	
+74-15	11148-11149	.	_	_	_	_	_	
+74-16	11152-11153	9	_	_	_	_	_	
+74-17	11153-11154	.	_	_	_	_	_	
+
+#Text=External Links
+#Text=
+#Text=
+#Text=Sometimes you may find a link to another company’s website on our website or app.
+75-1	11155-11163	External	_	_	_	_	_	
+75-2	11164-11169	Links	_	_	_	_	_	
+75-3	11172-11181	Sometimes	_	_	_	_	_	
+75-4	11182-11185	you	_	_	_	_	_	
+75-5	11186-11189	may	_	_	_	_	_	
+75-6	11190-11194	find	_	_	_	_	_	
+75-7	11195-11196	a	_	_	_	_	_	
+75-8	11197-11201	link	_	_	_	_	_	
+75-9	11202-11204	to	_	_	_	_	_	
+75-10	11205-11212	another	_	_	_	_	_	
+75-11	11213-11220	company	_	_	_	_	_	
+75-12	11220-11221	’	_	_	_	_	_	
+75-13	11221-11222	s	_	_	_	_	_	
+75-14	11223-11230	website	_	_	_	_	_	
+75-15	11231-11233	on	_	_	_	_	_	
+75-16	11234-11237	our	_	_	_	_	_	
+75-17	11238-11245	website	_	_	_	_	_	
+75-18	11246-11248	or	_	_	_	_	_	
+75-19	11249-11252	app	_	_	_	_	_	
+75-20	11252-11253	.	_	_	_	_	_	
+
+#Text=We aren’t responsible for that company’s privacy policies or content.
+76-1	11254-11256	We	_	_	_	_	_	
+76-2	11257-11261	aren	_	_	_	_	_	
+76-3	11261-11262	’	_	_	_	_	_	
+76-4	11262-11263	t	_	_	_	_	_	
+76-5	11264-11275	responsible	_	_	_	_	_	
+76-6	11276-11279	for	_	_	_	_	_	
+76-7	11280-11284	that	_	_	_	_	_	
+76-8	11285-11292	company	_	_	_	_	_	
+76-9	11292-11293	’	_	_	_	_	_	
+76-10	11293-11294	s	_	_	_	_	_	
+76-11	11295-11302	privacy	_	_	_	_	_	
+76-12	11303-11311	policies	_	_	_	_	_	
+76-13	11312-11314	or	_	_	_	_	_	
+76-14	11315-11322	content	_	_	_	_	_	
+76-15	11322-11323	.	_	_	_	_	_	
+
+#Text=If you are being directed to another site, we may display a warning message to give you a heads up.
+#Text=
+#Text=
+#Text=10.
+77-1	11324-11326	If	_	_	_	_	_	
+77-2	11327-11330	you	_	_	_	_	_	
+77-3	11331-11334	are	_	_	_	_	_	
+77-4	11335-11340	being	_	_	_	_	_	
+77-5	11341-11349	directed	_	_	_	_	_	
+77-6	11350-11352	to	_	_	_	_	_	
+77-7	11353-11360	another	_	_	_	_	_	
+77-8	11361-11365	site	_	_	_	_	_	
+77-9	11365-11366	,	_	_	_	_	_	
+77-10	11367-11369	we	_	_	_	_	_	
+77-11	11370-11373	may	_	_	_	_	_	
+77-12	11374-11381	display	_	_	_	_	_	
+77-13	11382-11383	a	_	_	_	_	_	
+77-14	11384-11391	warning	_	_	_	_	_	
+77-15	11392-11399	message	_	_	_	_	_	
+77-16	11400-11402	to	_	_	_	_	_	
+77-17	11403-11407	give	_	_	_	_	_	
+77-18	11408-11411	you	_	_	_	_	_	
+77-19	11412-11413	a	_	_	_	_	_	
+77-20	11414-11419	heads	_	_	_	_	_	
+77-21	11420-11422	up	_	_	_	_	_	
+77-22	11422-11423	.	_	_	_	_	_	
+77-23	11426-11428	10	_	_	_	_	_	
+77-24	11428-11429	.	_	_	_	_	_	
+
+#Text=Children’s Privacy and Parental Controls
+#Text=
+#Text=
+#Text=As a user you are entitled to additional protections for your information and privacy online.
+78-1	11430-11438	Children	_	_	_	_	_	
+78-2	11438-11439	’	_	_	_	_	_	
+78-3	11439-11440	s	_	_	_	_	_	
+78-4	11441-11448	Privacy	_	_	_	_	_	
+78-5	11449-11452	and	_	_	_	_	_	
+78-6	11453-11461	Parental	_	_	_	_	_	
+78-7	11462-11470	Controls	_	_	_	_	_	
+78-8	11473-11475	As	_	_	_	_	_	
+78-9	11476-11477	a	_	_	_	_	_	
+78-10	11478-11482	user	_	_	_	_	_	
+78-11	11483-11486	you	_	_	_	_	_	
+78-12	11487-11490	are	_	_	_	_	_	
+78-13	11491-11499	entitled	_	_	_	_	_	
+78-14	11500-11502	to	_	_	_	_	_	
+78-15	11503-11513	additional	_	_	_	_	_	
+78-16	11514-11525	protections	_	_	_	_	_	
+78-17	11526-11529	for	_	_	_	_	_	
+78-18	11530-11534	your	_	_	_	_	_	
+78-19	11535-11546	information	_	_	_	_	_	
+78-20	11547-11550	and	_	_	_	_	_	
+78-21	11551-11558	privacy	_	_	_	_	_	
+78-22	11559-11565	online	_	_	_	_	_	
+78-23	11565-11566	.	_	_	_	_	_	
+
+#Text=When you register an account with Roblox, we make sure your account is set to a restrictive mode, which means that you won’t have access to certain features, such as social media links, if you are not 13 or over and your text filtering will be restricted.
+79-1	11567-11571	When	_	_	_	_	_	
+79-2	11572-11575	you	_	_	_	_	_	
+79-3	11576-11584	register	_	_	_	_	_	
+79-4	11585-11587	an	_	_	_	_	_	
+79-5	11588-11595	account	_	_	_	_	_	
+79-6	11596-11600	with	_	_	_	_	_	
+79-7	11601-11607	Roblox	_	_	_	_	_	
+79-8	11607-11608	,	_	_	_	_	_	
+79-9	11609-11611	we	_	_	_	_	_	
+79-10	11612-11616	make	_	_	_	_	_	
+79-11	11617-11621	sure	_	_	_	_	_	
+79-12	11622-11626	your	_	_	_	_	_	
+79-13	11627-11634	account	_	_	_	_	_	
+79-14	11635-11637	is	_	_	_	_	_	
+79-15	11638-11641	set	_	_	_	_	_	
+79-16	11642-11644	to	_	_	_	_	_	
+79-17	11645-11646	a	_	_	_	_	_	
+79-18	11647-11658	restrictive	_	_	_	_	_	
+79-19	11659-11663	mode	_	_	_	_	_	
+79-20	11663-11664	,	_	_	_	_	_	
+79-21	11665-11670	which	_	_	_	_	_	
+79-22	11671-11676	means	_	_	_	_	_	
+79-23	11677-11681	that	_	_	_	_	_	
+79-24	11682-11685	you	_	_	_	_	_	
+79-25	11686-11689	won	_	_	_	_	_	
+79-26	11689-11690	’	_	_	_	_	_	
+79-27	11690-11691	t	_	_	_	_	_	
+79-28	11692-11696	have	_	_	_	_	_	
+79-29	11697-11703	access	_	_	_	_	_	
+79-30	11704-11706	to	_	_	_	_	_	
+79-31	11707-11714	certain	_	_	_	_	_	
+79-32	11715-11723	features	_	_	_	_	_	
+79-33	11723-11724	,	_	_	_	_	_	
+79-34	11725-11729	such	_	_	_	_	_	
+79-35	11730-11732	as	_	_	_	_	_	
+79-36	11733-11739	social	_	_	_	_	_	
+79-37	11740-11745	media	_	_	_	_	_	
+79-38	11746-11751	links	_	_	_	_	_	
+79-39	11751-11752	,	_	_	_	_	_	
+79-40	11753-11755	if	_	_	_	_	_	
+79-41	11756-11759	you	_	_	_	_	_	
+79-42	11760-11763	are	_	_	_	_	_	
+79-43	11764-11767	not	_	_	_	_	_	
+79-44	11768-11770	13	_	_	_	_	_	
+79-45	11771-11773	or	_	_	_	_	_	
+79-46	11774-11778	over	_	_	_	_	_	
+79-47	11779-11782	and	_	_	_	_	_	
+79-48	11783-11787	your	_	_	_	_	_	
+79-49	11788-11792	text	_	_	_	_	_	
+79-50	11793-11802	filtering	_	_	_	_	_	
+79-51	11803-11807	will	_	_	_	_	_	
+79-52	11808-11810	be	_	_	_	_	_	
+79-53	11811-11821	restricted	_	_	_	_	_	
+79-54	11821-11822	.	_	_	_	_	_	
+
+#Text=These additional measures are in place to keep you as safe as possible online.
+80-1	11823-11828	These	_	_	_	_	_	
+80-2	11829-11839	additional	_	_	_	_	_	
+80-3	11840-11848	measures	_	_	_	_	_	
+80-4	11849-11852	are	_	_	_	_	_	
+80-5	11853-11855	in	_	_	_	_	_	
+80-6	11856-11861	place	_	_	_	_	_	
+80-7	11862-11864	to	_	_	_	_	_	
+80-8	11865-11869	keep	_	_	_	_	_	
+80-9	11870-11873	you	_	_	_	_	_	
+80-10	11874-11876	as	_	_	_	_	_	
+80-11	11877-11881	safe	_	_	_	_	_	
+80-12	11882-11884	as	_	_	_	_	_	
+80-13	11885-11893	possible	_	_	_	_	_	
+80-14	11894-11900	online	_	_	_	_	_	
+80-15	11900-11901	.	_	_	_	_	_	
+
+#Text=If your parent or guardian's email address is provided to us when you create an account on Roblox, we will share information about your account with them by email.
+81-1	11902-11904	If	_	_	_	_	_	
+81-2	11905-11909	your	_	_	_	_	_	
+81-3	11910-11916	parent	_	_	_	_	_	
+81-4	11917-11919	or	_	_	_	_	_	
+81-5	11920-11930	guardian's	_	_	_	_	_	
+81-6	11931-11936	email	_	_	_	_	_	
+81-7	11937-11944	address	_	_	_	_	_	
+81-8	11945-11947	is	_	_	_	_	_	
+81-9	11948-11956	provided	_	_	_	_	_	
+81-10	11957-11959	to	_	_	_	_	_	
+81-11	11960-11962	us	_	_	_	_	_	
+81-12	11963-11967	when	_	_	_	_	_	
+81-13	11968-11971	you	_	_	_	_	_	
+81-14	11972-11978	create	_	_	_	_	_	
+81-15	11979-11981	an	_	_	_	_	_	
+81-16	11982-11989	account	_	_	_	_	_	
+81-17	11990-11992	on	_	_	_	_	_	
+81-18	11993-11999	Roblox	_	_	_	_	_	
+81-19	11999-12000	,	_	_	_	_	_	
+81-20	12001-12003	we	_	_	_	_	_	
+81-21	12004-12008	will	_	_	_	_	_	
+81-22	12009-12014	share	_	_	_	_	_	
+81-23	12015-12026	information	_	_	_	_	_	
+81-24	12027-12032	about	_	_	_	_	_	
+81-25	12033-12037	your	_	_	_	_	_	
+81-26	12038-12045	account	_	_	_	_	_	
+81-27	12046-12050	with	_	_	_	_	_	
+81-28	12051-12055	them	_	_	_	_	_	
+81-29	12056-12058	by	_	_	_	_	_	
+81-30	12059-12064	email	_	_	_	_	_	
+81-31	12064-12065	.	_	_	_	_	_	
+
+#Text=We can also invite your parent or guardian to review or update settings and approve your account.
+82-1	12066-12068	We	_	_	_	_	_	
+82-2	12069-12072	can	_	_	_	_	_	
+82-3	12073-12077	also	_	_	_	_	_	
+82-4	12078-12084	invite	_	_	_	_	_	
+82-5	12085-12089	your	_	_	_	_	_	
+82-6	12090-12096	parent	_	_	_	_	_	
+82-7	12097-12099	or	_	_	_	_	_	
+82-8	12100-12108	guardian	_	_	_	_	_	
+82-9	12109-12111	to	_	_	_	_	_	
+82-10	12112-12118	review	_	_	_	_	_	
+82-11	12119-12121	or	_	_	_	_	_	
+82-12	12122-12128	update	_	_	_	_	_	
+82-13	12129-12137	settings	_	_	_	_	_	
+82-14	12138-12141	and	_	_	_	_	_	
+82-15	12142-12149	approve	_	_	_	_	_	
+82-16	12150-12154	your	_	_	_	_	_	
+82-17	12155-12162	account	_	_	_	_	_	
+82-18	12162-12163	.	_	_	_	_	_	
+
+#Text=If you or your parents or guardian would like more information about the restrictive account mode, or parental controls available to them, please review our full privacy policy.
+83-1	12164-12166	If	_	_	_	_	_	
+83-2	12167-12170	you	_	_	_	_	_	
+83-3	12171-12173	or	_	_	_	_	_	
+83-4	12174-12178	your	_	_	_	_	_	
+83-5	12179-12186	parents	_	_	_	_	_	
+83-6	12187-12189	or	_	_	_	_	_	
+83-7	12190-12198	guardian	_	_	_	_	_	
+83-8	12199-12204	would	_	_	_	_	_	
+83-9	12205-12209	like	_	_	_	_	_	
+83-10	12210-12214	more	_	_	_	_	_	
+83-11	12215-12226	information	_	_	_	_	_	
+83-12	12227-12232	about	_	_	_	_	_	
+83-13	12233-12236	the	_	_	_	_	_	
+83-14	12237-12248	restrictive	_	_	_	_	_	
+83-15	12249-12256	account	_	_	_	_	_	
+83-16	12257-12261	mode	_	_	_	_	_	
+83-17	12261-12262	,	_	_	_	_	_	
+83-18	12263-12265	or	_	_	_	_	_	
+83-19	12266-12274	parental	_	_	_	_	_	
+83-20	12275-12283	controls	_	_	_	_	_	
+83-21	12284-12293	available	_	_	_	_	_	
+83-22	12294-12296	to	_	_	_	_	_	
+83-23	12297-12301	them	_	_	_	_	_	
+83-24	12301-12302	,	_	_	_	_	_	
+83-25	12303-12309	please	_	_	_	_	_	
+83-26	12310-12316	review	_	_	_	_	_	
+83-27	12317-12320	our	_	_	_	_	_	
+83-28	12321-12325	full	_	_	_	_	_	
+83-29	12326-12333	privacy	_	_	_	_	_	
+83-30	12334-12340	policy	_	_	_	_	_	
+83-31	12340-12341	.	_	_	_	_	_	
+
+#Text=If you are a parent and need to make changes to your child’s account, you can contact us by completing this Customer Support Form.
+#Text=
+#Text=
+#Text=11.
+84-1	12342-12344	If	_	_	_	_	_	
+84-2	12345-12348	you	_	_	_	_	_	
+84-3	12349-12352	are	_	_	_	_	_	
+84-4	12353-12354	a	_	_	_	_	_	
+84-5	12355-12361	parent	_	_	_	_	_	
+84-6	12362-12365	and	_	_	_	_	_	
+84-7	12366-12370	need	_	_	_	_	_	
+84-8	12371-12373	to	_	_	_	_	_	
+84-9	12374-12378	make	_	_	_	_	_	
+84-10	12379-12386	changes	_	_	_	_	_	
+84-11	12387-12389	to	_	_	_	_	_	
+84-12	12390-12394	your	_	_	_	_	_	
+84-13	12395-12400	child	_	_	_	_	_	
+84-14	12400-12401	’	_	_	_	_	_	
+84-15	12401-12402	s	_	_	_	_	_	
+84-16	12403-12410	account	_	_	_	_	_	
+84-17	12410-12411	,	_	_	_	_	_	
+84-18	12412-12415	you	_	_	_	_	_	
+84-19	12416-12419	can	_	_	_	_	_	
+84-20	12420-12427	contact	_	_	_	_	_	
+84-21	12428-12430	us	_	_	_	_	_	
+84-22	12431-12433	by	_	_	_	_	_	
+84-23	12434-12444	completing	_	_	_	_	_	
+84-24	12445-12449	this	_	_	_	_	_	
+84-25	12450-12458	Customer	_	_	_	_	_	
+84-26	12459-12466	Support	_	_	_	_	_	
+84-27	12467-12471	Form	_	_	_	_	_	
+84-28	12471-12472	.	_	_	_	_	_	
+84-29	12475-12477	11	_	_	_	_	_	
+84-30	12477-12478	.	_	_	_	_	_	
+
+#Text=Accessing, Updating, and Deleting Your Personal Information
+#Text=
+#Text=
+#Text=If you want to fix any of your personal information, or if you want us to delete your personal information, you can contact us by completing this Customer Support Form.
+85-1	12479-12488	Accessing	_	_	_	_	_	
+85-2	12488-12489	,	_	_	_	_	_	
+85-3	12490-12498	Updating	_	_	_	_	_	
+85-4	12498-12499	,	_	_	_	_	_	
+85-5	12500-12503	and	_	_	_	_	_	
+85-6	12504-12512	Deleting	_	_	_	_	_	
+85-7	12513-12517	Your	_	_	_	_	_	
+85-8	12518-12526	Personal	_	_	_	_	_	
+85-9	12527-12538	Information	_	_	_	_	_	
+85-10	12541-12543	If	_	_	_	_	_	
+85-11	12544-12547	you	_	_	_	_	_	
+85-12	12548-12552	want	_	_	_	_	_	
+85-13	12553-12555	to	_	_	_	_	_	
+85-14	12556-12559	fix	_	_	_	_	_	
+85-15	12560-12563	any	_	_	_	_	_	
+85-16	12564-12566	of	_	_	_	_	_	
+85-17	12567-12571	your	_	_	_	_	_	
+85-18	12572-12580	personal	_	_	_	_	_	
+85-19	12581-12592	information	_	_	_	_	_	
+85-20	12592-12593	,	_	_	_	_	_	
+85-21	12594-12596	or	_	_	_	_	_	
+85-22	12597-12599	if	_	_	_	_	_	
+85-23	12600-12603	you	_	_	_	_	_	
+85-24	12604-12608	want	_	_	_	_	_	
+85-25	12609-12611	us	_	_	_	_	_	
+85-26	12612-12614	to	_	_	_	_	_	
+85-27	12615-12621	delete	_	_	_	_	_	
+85-28	12622-12626	your	_	_	_	_	_	
+85-29	12627-12635	personal	_	_	_	_	_	
+85-30	12636-12647	information	_	_	_	_	_	
+85-31	12647-12648	,	_	_	_	_	_	
+85-32	12649-12652	you	_	_	_	_	_	
+85-33	12653-12656	can	_	_	_	_	_	
+85-34	12657-12664	contact	_	_	_	_	_	
+85-35	12665-12667	us	_	_	_	_	_	
+85-36	12668-12670	by	_	_	_	_	_	
+85-37	12671-12681	completing	_	_	_	_	_	
+85-38	12682-12686	this	_	_	_	_	_	
+85-39	12687-12695	Customer	_	_	_	_	_	
+85-40	12696-12703	Support	_	_	_	_	_	
+85-41	12704-12708	Form	_	_	_	_	_	
+85-42	12708-12709	.	_	_	_	_	_	
+
+#Text=Select the desired option under the Data Privacy Requests.
+86-1	12710-12716	Select	_	_	_	_	_	
+86-2	12717-12720	the	_	_	_	_	_	
+86-3	12721-12728	desired	_	_	_	_	_	
+86-4	12729-12735	option	_	_	_	_	_	
+86-5	12736-12741	under	_	_	_	_	_	
+86-6	12742-12745	the	_	_	_	_	_	
+86-7	12746-12750	Data	_	_	_	_	_	
+86-8	12751-12758	Privacy	_	_	_	_	_	
+86-9	12759-12767	Requests	_	_	_	_	_	
+86-10	12767-12768	.	_	_	_	_	_	
+
+#Text=To protect your privacy, we will take steps to verify your identity before fulfilling your request.
+87-1	12769-12771	To	_	_	_	_	_	
+87-2	12772-12779	protect	_	_	_	_	_	
+87-3	12780-12784	your	_	_	_	_	_	
+87-4	12785-12792	privacy	_	_	_	_	_	
+87-5	12792-12793	,	_	_	_	_	_	
+87-6	12794-12796	we	_	_	_	_	_	
+87-7	12797-12801	will	_	_	_	_	_	
+87-8	12802-12806	take	_	_	_	_	_	
+87-9	12807-12812	steps	_	_	_	_	_	
+87-10	12813-12815	to	_	_	_	_	_	
+87-11	12816-12822	verify	_	_	_	_	_	
+87-12	12823-12827	your	_	_	_	_	_	
+87-13	12828-12836	identity	_	_	_	_	_	
+87-14	12837-12843	before	_	_	_	_	_	
+87-15	12844-12854	fulfilling	_	_	_	_	_	
+87-16	12855-12859	your	_	_	_	_	_	
+87-17	12860-12867	request	_	_	_	_	_	
+87-18	12867-12868	.	_	_	_	_	_	
+
+#Text=We will get back to you within a reasonable timeframe.
+#Text=
+#Text=
+#Text=12.
+88-1	12869-12871	We	_	_	_	_	_	
+88-2	12872-12876	will	_	_	_	_	_	
+88-3	12877-12880	get	_	_	_	_	_	
+88-4	12881-12885	back	_	_	_	_	_	
+88-5	12886-12888	to	_	_	_	_	_	
+88-6	12889-12892	you	_	_	_	_	_	
+88-7	12893-12899	within	_	_	_	_	_	
+88-8	12900-12901	a	_	_	_	_	_	
+88-9	12902-12912	reasonable	_	_	_	_	_	
+88-10	12913-12922	timeframe	_	_	_	_	_	
+88-11	12922-12923	.	_	_	_	_	_	
+88-12	12926-12928	12	_	_	_	_	_	
+88-13	12928-12929	.	_	_	_	_	_	
+
+#Text=Storage and International Transfer of Your Personal Information
+#Text=
+#Text=
+#Text=Roblox stores your information in the United States.
+89-1	12930-12937	Storage	_	_	_	_	_	
+89-2	12938-12941	and	_	_	_	_	_	
+89-3	12942-12955	International	_	_	_	_	_	
+89-4	12956-12964	Transfer	_	_	_	_	_	
+89-5	12965-12967	of	_	_	_	_	_	
+89-6	12968-12972	Your	_	_	_	_	_	
+89-7	12973-12981	Personal	_	_	_	_	_	
+89-8	12982-12993	Information	_	_	_	_	_	
+89-9	12996-13002	Roblox	_	_	_	_	_	
+89-10	13003-13009	stores	_	_	_	_	_	
+89-11	13010-13014	your	_	_	_	_	_	
+89-12	13015-13026	information	_	_	_	_	_	
+89-13	13027-13029	in	_	_	_	_	_	
+89-14	13030-13033	the	_	_	_	_	_	
+89-15	13034-13040	United	_	_	_	_	_	
+89-16	13041-13047	States	_	_	_	_	_	
+89-17	13047-13048	.	_	_	_	_	_	
+
+#Text=The privacy laws of the United States may not be as strict as those in your country (especially if you live in the EU or the UK), but we take reasonable steps to protect your information and your privacy rights.
+#Text=
+#Text=
+#Text=13.
+90-1	13049-13052	The	_	_	_	_	_	
+90-2	13053-13060	privacy	_	_	_	_	_	
+90-3	13061-13065	laws	_	_	_	_	_	
+90-4	13066-13068	of	_	_	_	_	_	
+90-5	13069-13072	the	_	_	_	_	_	
+90-6	13073-13079	United	_	_	_	_	_	
+90-7	13080-13086	States	_	_	_	_	_	
+90-8	13087-13090	may	_	_	_	_	_	
+90-9	13091-13094	not	_	_	_	_	_	
+90-10	13095-13097	be	_	_	_	_	_	
+90-11	13098-13100	as	_	_	_	_	_	
+90-12	13101-13107	strict	_	_	_	_	_	
+90-13	13108-13110	as	_	_	_	_	_	
+90-14	13111-13116	those	_	_	_	_	_	
+90-15	13117-13119	in	_	_	_	_	_	
+90-16	13120-13124	your	_	_	_	_	_	
+90-17	13125-13132	country	_	_	_	_	_	
+90-18	13133-13134	(	_	_	_	_	_	
+90-19	13134-13144	especially	_	_	_	_	_	
+90-20	13145-13147	if	_	_	_	_	_	
+90-21	13148-13151	you	_	_	_	_	_	
+90-22	13152-13156	live	_	_	_	_	_	
+90-23	13157-13159	in	_	_	_	_	_	
+90-24	13160-13163	the	_	_	_	_	_	
+90-25	13164-13166	EU	_	_	_	_	_	
+90-26	13167-13169	or	_	_	_	_	_	
+90-27	13170-13173	the	_	_	_	_	_	
+90-28	13174-13176	UK	_	_	_	_	_	
+90-29	13176-13177	)	_	_	_	_	_	
+90-30	13177-13178	,	_	_	_	_	_	
+90-31	13179-13182	but	_	_	_	_	_	
+90-32	13183-13185	we	_	_	_	_	_	
+90-33	13186-13190	take	_	_	_	_	_	
+90-34	13191-13201	reasonable	_	_	_	_	_	
+90-35	13202-13207	steps	_	_	_	_	_	
+90-36	13208-13210	to	_	_	_	_	_	
+90-37	13211-13218	protect	_	_	_	_	_	
+90-38	13219-13223	your	_	_	_	_	_	
+90-39	13224-13235	information	_	_	_	_	_	
+90-40	13236-13239	and	_	_	_	_	_	
+90-41	13240-13244	your	_	_	_	_	_	
+90-42	13245-13252	privacy	_	_	_	_	_	
+90-43	13253-13259	rights	_	_	_	_	_	
+90-44	13259-13260	.	_	_	_	_	_	
+90-45	13263-13265	13	_	_	_	_	_	
+90-46	13265-13266	.	_	_	_	_	_	
+
+#Text=Your Privacy Rights in California
+#Text=
+#Text=
+#Text=If you live in California, you may have additional rights when it comes to your information.
+91-1	13267-13271	Your	_	_	_	_	_	
+91-2	13272-13279	Privacy	_	_	_	_	_	
+91-3	13280-13286	Rights	_	_	_	_	_	
+91-4	13287-13289	in	_	_	_	_	_	
+91-5	13290-13300	California	_	_	_	_	_	
+91-6	13303-13305	If	_	_	_	_	_	
+91-7	13306-13309	you	_	_	_	_	_	
+91-8	13310-13314	live	_	_	_	_	_	
+91-9	13315-13317	in	_	_	_	_	_	
+91-10	13318-13328	California	_	_	_	_	_	
+91-11	13328-13329	,	_	_	_	_	_	
+91-12	13330-13333	you	_	_	_	_	_	
+91-13	13334-13337	may	_	_	_	_	_	
+91-14	13338-13342	have	_	_	_	_	_	
+91-15	13343-13353	additional	_	_	_	_	_	
+91-16	13354-13360	rights	_	_	_	_	_	
+91-17	13361-13365	when	_	_	_	_	_	
+91-18	13366-13368	it	_	_	_	_	_	
+91-19	13369-13374	comes	_	_	_	_	_	
+91-20	13375-13377	to	_	_	_	_	_	
+91-21	13378-13382	your	_	_	_	_	_	
+91-22	13383-13394	information	_	_	_	_	_	
+91-23	13394-13395	.	_	_	_	_	_	
+
+#Text=You can ask us to:
+#Text=   * Give you a copy of the personal information we have collected about you in the last year;
+#Text=   * Fix your personal information if it is incorrect;
+#Text=   * Delete some of your personal information; and
+#Text=   * Request us to stop using your information in some situations.
+92-1	13396-13399	You	_	_	_	_	_	
+92-2	13400-13403	can	_	_	_	_	_	
+92-3	13404-13407	ask	_	_	_	_	_	
+92-4	13408-13410	us	_	_	_	_	_	
+92-5	13411-13413	to	_	_	_	_	_	
+92-6	13413-13414	:	_	_	_	_	_	
+92-7	13418-13419	*	_	_	_	_	_	
+92-8	13420-13424	Give	_	_	_	_	_	
+92-9	13425-13428	you	_	_	_	_	_	
+92-10	13429-13430	a	_	_	_	_	_	
+92-11	13431-13435	copy	_	_	_	_	_	
+92-12	13436-13438	of	_	_	_	_	_	
+92-13	13439-13442	the	_	_	_	_	_	
+92-14	13443-13451	personal	_	_	_	_	_	
+92-15	13452-13463	information	_	_	_	_	_	
+92-16	13464-13466	we	_	_	_	_	_	
+92-17	13467-13471	have	_	_	_	_	_	
+92-18	13472-13481	collected	_	_	_	_	_	
+92-19	13482-13487	about	_	_	_	_	_	
+92-20	13488-13491	you	_	_	_	_	_	
+92-21	13492-13494	in	_	_	_	_	_	
+92-22	13495-13498	the	_	_	_	_	_	
+92-23	13499-13503	last	_	_	_	_	_	
+92-24	13504-13508	year	_	_	_	_	_	
+92-25	13508-13509	;	_	_	_	_	_	
+92-26	13513-13514	*	_	_	_	_	_	
+92-27	13515-13518	Fix	_	_	_	_	_	
+92-28	13519-13523	your	_	_	_	_	_	
+92-29	13524-13532	personal	_	_	_	_	_	
+92-30	13533-13544	information	_	_	_	_	_	
+92-31	13545-13547	if	_	_	_	_	_	
+92-32	13548-13550	it	_	_	_	_	_	
+92-33	13551-13553	is	_	_	_	_	_	
+92-34	13554-13563	incorrect	_	_	_	_	_	
+92-35	13563-13564	;	_	_	_	_	_	
+92-36	13568-13569	*	_	_	_	_	_	
+92-37	13570-13576	Delete	_	_	_	_	_	
+92-38	13577-13581	some	_	_	_	_	_	
+92-39	13582-13584	of	_	_	_	_	_	
+92-40	13585-13589	your	_	_	_	_	_	
+92-41	13590-13598	personal	_	_	_	_	_	
+92-42	13599-13610	information	_	_	_	_	_	
+92-43	13610-13611	;	_	_	_	_	_	
+92-44	13612-13615	and	_	_	_	_	_	
+92-45	13619-13620	*	_	_	_	_	_	
+92-46	13621-13628	Request	_	_	_	_	_	
+92-47	13629-13631	us	_	_	_	_	_	
+92-48	13632-13634	to	_	_	_	_	_	
+92-49	13635-13639	stop	_	_	_	_	_	
+92-50	13640-13645	using	_	_	_	_	_	
+92-51	13646-13650	your	_	_	_	_	_	
+92-52	13651-13662	information	_	_	_	_	_	
+92-53	13663-13665	in	_	_	_	_	_	
+92-54	13666-13670	some	_	_	_	_	_	
+92-55	13671-13681	situations	_	_	_	_	_	
+92-56	13681-13682	.	_	_	_	_	_	
+
+#Text=If you want to understand more, please review our full privacy policy.
+#Text=
+#Text=
+#Text=14.
+93-1	13683-13685	If	_	_	_	_	_	
+93-2	13686-13689	you	_	_	_	_	_	
+93-3	13690-13694	want	_	_	_	_	_	
+93-4	13695-13697	to	_	_	_	_	_	
+93-5	13698-13708	understand	_	_	_	_	_	
+93-6	13709-13713	more	_	_	_	_	_	
+93-7	13713-13714	,	_	_	_	_	_	
+93-8	13715-13721	please	_	_	_	_	_	
+93-9	13722-13728	review	_	_	_	_	_	
+93-10	13729-13732	our	_	_	_	_	_	
+93-11	13733-13737	full	_	_	_	_	_	
+93-12	13738-13745	privacy	_	_	_	_	_	
+93-13	13746-13752	policy	_	_	_	_	_	
+93-14	13752-13753	.	_	_	_	_	_	
+93-15	13756-13758	14	_	_	_	_	_	
+93-16	13758-13759	.	_	_	_	_	_	
+
+#Text=Your Privacy Rights if you live in the EEA, UK or Switzerland
+#Text=
+#Text=
+#Text=If you live in the EEA, the UK or Switzerland, you may have additional "rights" when it comes to your personal information.
+94-1	13760-13764	Your	_	_	_	_	_	
+94-2	13765-13772	Privacy	_	_	_	_	_	
+94-3	13773-13779	Rights	_	_	_	_	_	
+94-4	13780-13782	if	_	_	_	_	_	
+94-5	13783-13786	you	_	_	_	_	_	
+94-6	13787-13791	live	_	_	_	_	_	
+94-7	13792-13794	in	_	_	_	_	_	
+94-8	13795-13798	the	_	_	_	_	_	
+94-9	13799-13802	EEA	_	_	_	_	_	
+94-10	13802-13803	,	_	_	_	_	_	
+94-11	13804-13806	UK	_	_	_	_	_	
+94-12	13807-13809	or	_	_	_	_	_	
+94-13	13810-13821	Switzerland	_	_	_	_	_	
+94-14	13824-13826	If	_	_	_	_	_	
+94-15	13827-13830	you	_	_	_	_	_	
+94-16	13831-13835	live	_	_	_	_	_	
+94-17	13836-13838	in	_	_	_	_	_	
+94-18	13839-13842	the	_	_	_	_	_	
+94-19	13843-13846	EEA	_	_	_	_	_	
+94-20	13846-13847	,	_	_	_	_	_	
+94-21	13848-13851	the	_	_	_	_	_	
+94-22	13852-13854	UK	_	_	_	_	_	
+94-23	13855-13857	or	_	_	_	_	_	
+94-24	13858-13869	Switzerland	_	_	_	_	_	
+94-25	13869-13870	,	_	_	_	_	_	
+94-26	13871-13874	you	_	_	_	_	_	
+94-27	13875-13878	may	_	_	_	_	_	
+94-28	13879-13883	have	_	_	_	_	_	
+94-29	13884-13894	additional	_	_	_	_	_	
+94-30	13895-13896	"	_	_	_	_	_	
+94-31	13896-13902	rights	_	_	_	_	_	
+94-32	13902-13903	"	_	_	_	_	_	
+94-33	13904-13908	when	_	_	_	_	_	
+94-34	13909-13911	it	_	_	_	_	_	
+94-35	13912-13917	comes	_	_	_	_	_	
+94-36	13918-13920	to	_	_	_	_	_	
+94-37	13921-13925	your	_	_	_	_	_	
+94-38	13926-13934	personal	_	_	_	_	_	
+94-39	13935-13946	information	_	_	_	_	_	
+94-40	13946-13947	.	_	_	_	_	_	
+
+#Text=You can ask us to:
+#Text=* Tell you what information we have about you and what we do with it;
+#Text=* Fix your personal information if it's incorrect;
+#Text=* Delete your information.
+95-1	13948-13951	You	_	_	_	_	_	
+95-2	13952-13955	can	_	_	_	_	_	
+95-3	13956-13959	ask	_	_	_	_	_	
+95-4	13960-13962	us	_	_	_	_	_	
+95-5	13963-13965	to	_	_	_	_	_	
+95-6	13965-13966	:	_	_	_	_	_	
+95-7	13967-13968	*	_	_	_	_	_	
+95-8	13969-13973	Tell	_	_	_	_	_	
+95-9	13974-13977	you	_	_	_	_	_	
+95-10	13978-13982	what	_	_	_	_	_	
+95-11	13983-13994	information	_	_	_	_	_	
+95-12	13995-13997	we	_	_	_	_	_	
+95-13	13998-14002	have	_	_	_	_	_	
+95-14	14003-14008	about	_	_	_	_	_	
+95-15	14009-14012	you	_	_	_	_	_	
+95-16	14013-14016	and	_	_	_	_	_	
+95-17	14017-14021	what	_	_	_	_	_	
+95-18	14022-14024	we	_	_	_	_	_	
+95-19	14025-14027	do	_	_	_	_	_	
+95-20	14028-14032	with	_	_	_	_	_	
+95-21	14033-14035	it	_	_	_	_	_	
+95-22	14035-14036	;	_	_	_	_	_	
+95-23	14037-14038	*	_	_	_	_	_	
+95-24	14039-14042	Fix	_	_	_	_	_	
+95-25	14043-14047	your	_	_	_	_	_	
+95-26	14048-14056	personal	_	_	_	_	_	
+95-27	14057-14068	information	_	_	_	_	_	
+95-28	14069-14071	if	_	_	_	_	_	
+95-29	14072-14076	it's	_	_	_	_	_	
+95-30	14077-14086	incorrect	_	_	_	_	_	
+95-31	14086-14087	;	_	_	_	_	_	
+95-32	14088-14089	*	_	_	_	_	_	
+95-33	14090-14096	Delete	_	_	_	_	_	
+95-34	14097-14101	your	_	_	_	_	_	
+95-35	14102-14113	information	_	_	_	_	_	
+95-36	14113-14114	.	_	_	_	_	_	
+
+#Text=If you want to understand more, you can refer to the full privacy policy.
+96-1	14115-14117	If	_	_	_	_	_	
+96-2	14118-14121	you	_	_	_	_	_	
+96-3	14122-14126	want	_	_	_	_	_	
+96-4	14127-14129	to	_	_	_	_	_	
+96-5	14130-14140	understand	_	_	_	_	_	
+96-6	14141-14145	more	_	_	_	_	_	
+96-7	14145-14146	,	_	_	_	_	_	
+96-8	14147-14150	you	_	_	_	_	_	
+96-9	14151-14154	can	_	_	_	_	_	
+96-10	14155-14160	refer	_	_	_	_	_	
+96-11	14161-14163	to	_	_	_	_	_	
+96-12	14164-14167	the	_	_	_	_	_	
+96-13	14168-14172	full	_	_	_	_	_	
+96-14	14173-14180	privacy	_	_	_	_	_	
+96-15	14181-14187	policy	_	_	_	_	_	
+96-16	14187-14188	.	_	_	_	_	_	
+
+#Text=If you have reason to, you can complain about how we are using your information by emailing us at roblox@gdpr-rep.com.
+97-1	14189-14191	If	_	_	_	_	_	
+97-2	14192-14195	you	_	_	_	_	_	
+97-3	14196-14200	have	_	_	_	_	_	
+97-4	14201-14207	reason	_	_	_	_	_	
+97-5	14208-14210	to	_	_	_	_	_	
+97-6	14210-14211	,	_	_	_	_	_	
+97-7	14212-14215	you	_	_	_	_	_	
+97-8	14216-14219	can	_	_	_	_	_	
+97-9	14220-14228	complain	_	_	_	_	_	
+97-10	14229-14234	about	_	_	_	_	_	
+97-11	14235-14238	how	_	_	_	_	_	
+97-12	14239-14241	we	_	_	_	_	_	
+97-13	14242-14245	are	_	_	_	_	_	
+97-14	14246-14251	using	_	_	_	_	_	
+97-15	14252-14256	your	_	_	_	_	_	
+97-16	14257-14268	information	_	_	_	_	_	
+97-17	14269-14271	by	_	_	_	_	_	
+97-18	14272-14280	emailing	_	_	_	_	_	
+97-19	14281-14283	us	_	_	_	_	_	
+97-20	14284-14286	at	_	_	_	_	_	
+97-21	14287-14293	roblox	_	_	_	_	_	
+97-22	14293-14294	@	_	_	_	_	_	
+97-23	14294-14306	gdpr-rep.com	_	_	_	_	_	
+97-24	14306-14307	.	_	_	_	_	_	
+
+#Text=You can also complain to a "data protection authority".
+98-1	14308-14311	You	_	_	_	_	_	
+98-2	14312-14315	can	_	_	_	_	_	
+98-3	14316-14320	also	_	_	_	_	_	
+98-4	14321-14329	complain	_	_	_	_	_	
+98-5	14330-14332	to	_	_	_	_	_	
+98-6	14333-14334	a	_	_	_	_	_	
+98-7	14335-14336	"	_	_	_	_	_	
+98-8	14336-14340	data	_	_	_	_	_	
+98-9	14341-14351	protection	_	_	_	_	_	
+98-10	14352-14361	authority	_	_	_	_	_	
+98-11	14361-14362	"	_	_	_	_	_	
+98-12	14362-14363	.	_	_	_	_	_	
+
+#Text=You can find out about which "data protection authority" to complain to in your country here.
+#Text=
+#Text=
+#Text=15.
+99-1	14364-14367	You	_	_	_	_	_	
+99-2	14368-14371	can	_	_	_	_	_	
+99-3	14372-14376	find	_	_	_	_	_	
+99-4	14377-14380	out	_	_	_	_	_	
+99-5	14381-14386	about	_	_	_	_	_	
+99-6	14387-14392	which	_	_	_	_	_	
+99-7	14393-14394	"	_	_	_	_	_	
+99-8	14394-14398	data	_	_	_	_	_	
+99-9	14399-14409	protection	_	_	_	_	_	
+99-10	14410-14419	authority	_	_	_	_	_	
+99-11	14419-14420	"	_	_	_	_	_	
+99-12	14421-14423	to	_	_	_	_	_	
+99-13	14424-14432	complain	_	_	_	_	_	
+99-14	14433-14435	to	_	_	_	_	_	
+99-15	14436-14438	in	_	_	_	_	_	
+99-16	14439-14443	your	_	_	_	_	_	
+99-17	14444-14451	country	_	_	_	_	_	
+99-18	14452-14456	here	_	_	_	_	_	
+99-19	14456-14457	.	_	_	_	_	_	
+99-20	14460-14462	15	_	_	_	_	_	
+99-21	14462-14463	.	_	_	_	_	_	
+
+#Text=Additional Information for users in Brazil
+#Text=
+#Text=
+#Text=If you are a resident of Brazil, you may be entitled to additional privacy rights.
+100-1	14464-14474	Additional	_	_	_	_	_	
+100-2	14475-14486	Information	_	_	_	_	_	
+100-3	14487-14490	for	_	_	_	_	_	
+100-4	14491-14496	users	_	_	_	_	_	
+100-5	14497-14499	in	_	_	_	_	_	
+100-6	14500-14506	Brazil	_	_	_	_	_	
+100-7	14509-14511	If	_	_	_	_	_	
+100-8	14512-14515	you	_	_	_	_	_	
+100-9	14516-14519	are	_	_	_	_	_	
+100-10	14520-14521	a	_	_	_	_	_	
+100-11	14522-14530	resident	_	_	_	_	_	
+100-12	14531-14533	of	_	_	_	_	_	
+100-13	14534-14540	Brazil	_	_	_	_	_	
+100-14	14540-14541	,	_	_	_	_	_	
+100-15	14542-14545	you	_	_	_	_	_	
+100-16	14546-14549	may	_	_	_	_	_	
+100-17	14550-14552	be	_	_	_	_	_	
+100-18	14553-14561	entitled	_	_	_	_	_	
+100-19	14562-14564	to	_	_	_	_	_	
+100-20	14565-14575	additional	_	_	_	_	_	
+100-21	14576-14583	privacy	_	_	_	_	_	
+100-22	14584-14590	rights	_	_	_	_	_	
+100-23	14590-14591	.	_	_	_	_	_	
+
+#Text=Please review the detailed section of our privacy policy in Section 15.
+101-1	14592-14598	Please	_	_	_	_	_	
+101-2	14599-14605	review	_	_	_	_	_	
+101-3	14606-14609	the	_	_	_	_	_	
+101-4	14610-14618	detailed	_	_	_	_	_	
+101-5	14619-14626	section	_	_	_	_	_	
+101-6	14627-14629	of	_	_	_	_	_	
+101-7	14630-14633	our	_	_	_	_	_	
+101-8	14634-14641	privacy	_	_	_	_	_	
+101-9	14642-14648	policy	_	_	_	_	_	
+101-10	14649-14651	in	_	_	_	_	_	
+101-11	14652-14659	Section	_	_	_	_	_	
+101-12	14660-14662	15	_	_	_	_	_	
+101-13	14662-14663	.	_	_	_	_	_	
+
+#Text=If you live in Brazil, you may have additional "rights" when it comes to your personal information.
+102-1	14664-14666	If	_	_	_	_	_	
+102-2	14667-14670	you	_	_	_	_	_	
+102-3	14671-14675	live	_	_	_	_	_	
+102-4	14676-14678	in	_	_	_	_	_	
+102-5	14679-14685	Brazil	_	_	_	_	_	
+102-6	14685-14686	,	_	_	_	_	_	
+102-7	14687-14690	you	_	_	_	_	_	
+102-8	14691-14694	may	_	_	_	_	_	
+102-9	14695-14699	have	_	_	_	_	_	
+102-10	14700-14710	additional	_	_	_	_	_	
+102-11	14711-14712	"	_	_	_	_	_	
+102-12	14712-14718	rights	_	_	_	_	_	
+102-13	14718-14719	"	_	_	_	_	_	
+102-14	14720-14724	when	_	_	_	_	_	
+102-15	14725-14727	it	_	_	_	_	_	
+102-16	14728-14733	comes	_	_	_	_	_	
+102-17	14734-14736	to	_	_	_	_	_	
+102-18	14737-14741	your	_	_	_	_	_	
+102-19	14742-14750	personal	_	_	_	_	_	
+102-20	14751-14762	information	_	_	_	_	_	
+102-21	14762-14763	.	_	_	_	_	_	
+
+#Text=You can ask us to:
+#Text=* Tell you what information we have about you and what we do with it;
+#Text=* Fix your personal information if it's wrong;
+#Text=* Delete your information.
+103-1	14764-14767	You	_	_	_	_	_	
+103-2	14768-14771	can	_	_	_	_	_	
+103-3	14772-14775	ask	_	_	_	_	_	
+103-4	14776-14778	us	_	_	_	_	_	
+103-5	14779-14781	to	_	_	_	_	_	
+103-6	14781-14782	:	_	_	_	_	_	
+103-7	14783-14784	*	_	_	_	_	_	
+103-8	14785-14789	Tell	_	_	_	_	_	
+103-9	14790-14793	you	_	_	_	_	_	
+103-10	14794-14798	what	_	_	_	_	_	
+103-11	14799-14810	information	_	_	_	_	_	
+103-12	14811-14813	we	_	_	_	_	_	
+103-13	14814-14818	have	_	_	_	_	_	
+103-14	14819-14824	about	_	_	_	_	_	
+103-15	14825-14828	you	_	_	_	_	_	
+103-16	14829-14832	and	_	_	_	_	_	
+103-17	14833-14837	what	_	_	_	_	_	
+103-18	14838-14840	we	_	_	_	_	_	
+103-19	14841-14843	do	_	_	_	_	_	
+103-20	14844-14848	with	_	_	_	_	_	
+103-21	14849-14851	it	_	_	_	_	_	
+103-22	14851-14852	;	_	_	_	_	_	
+103-23	14853-14854	*	_	_	_	_	_	
+103-24	14855-14858	Fix	_	_	_	_	_	
+103-25	14859-14863	your	_	_	_	_	_	
+103-26	14864-14872	personal	_	_	_	_	_	
+103-27	14873-14884	information	_	_	_	_	_	
+103-28	14885-14887	if	_	_	_	_	_	
+103-29	14888-14892	it's	_	_	_	_	_	
+103-30	14893-14898	wrong	_	_	_	_	_	
+103-31	14898-14899	;	_	_	_	_	_	
+103-32	14900-14901	*	_	_	_	_	_	
+103-33	14902-14908	Delete	_	_	_	_	_	
+103-34	14909-14913	your	_	_	_	_	_	
+103-35	14914-14925	information	_	_	_	_	_	
+103-36	14925-14926	.	_	_	_	_	_	
+
+#Text=If you want to understand more it might be useful to ask your parent or guardian to explain this section to you.
+104-1	14927-14929	If	_	_	_	_	_	
+104-2	14930-14933	you	_	_	_	_	_	
+104-3	14934-14938	want	_	_	_	_	_	
+104-4	14939-14941	to	_	_	_	_	_	
+104-5	14942-14952	understand	_	_	_	_	_	
+104-6	14953-14957	more	_	_	_	_	_	
+104-7	14958-14960	it	_	_	_	_	_	
+104-8	14961-14966	might	_	_	_	_	_	
+104-9	14967-14969	be	_	_	_	_	_	
+104-10	14970-14976	useful	_	_	_	_	_	
+104-11	14977-14979	to	_	_	_	_	_	
+104-12	14980-14983	ask	_	_	_	_	_	
+104-13	14984-14988	your	_	_	_	_	_	
+104-14	14989-14995	parent	_	_	_	_	_	
+104-15	14996-14998	or	_	_	_	_	_	
+104-16	14999-15007	guardian	_	_	_	_	_	
+104-17	15008-15010	to	_	_	_	_	_	
+104-18	15011-15018	explain	_	_	_	_	_	
+104-19	15019-15023	this	_	_	_	_	_	
+104-20	15024-15031	section	_	_	_	_	_	
+104-21	15032-15034	to	_	_	_	_	_	
+104-22	15035-15038	you	_	_	_	_	_	
+104-23	15038-15039	.	_	_	_	_	_	
+
+#Text=Your parent or guardian can refer to the detailed version of this Policy.
+105-1	15040-15044	Your	_	_	_	_	_	
+105-2	15045-15051	parent	_	_	_	_	_	
+105-3	15052-15054	or	_	_	_	_	_	
+105-4	15055-15063	guardian	_	_	_	_	_	
+105-5	15064-15067	can	_	_	_	_	_	
+105-6	15068-15073	refer	_	_	_	_	_	
+105-7	15074-15076	to	_	_	_	_	_	
+105-8	15077-15080	the	_	_	_	_	_	
+105-9	15081-15089	detailed	_	_	_	_	_	
+105-10	15090-15097	version	_	_	_	_	_	
+105-11	15098-15100	of	_	_	_	_	_	
+105-12	15101-15105	this	_	_	_	_	_	
+105-13	15106-15112	Policy	_	_	_	_	_	
+105-14	15112-15113	.	_	_	_	_	_	
+
+#Text=If you have reason to, you can complain about how we are using your information by emailing us at privacy@roblox.com.
+106-1	15114-15116	If	_	_	_	_	_	
+106-2	15117-15120	you	_	_	_	_	_	
+106-3	15121-15125	have	_	_	_	_	_	
+106-4	15126-15132	reason	_	_	_	_	_	
+106-5	15133-15135	to	_	_	_	_	_	
+106-6	15135-15136	,	_	_	_	_	_	
+106-7	15137-15140	you	_	_	_	_	_	
+106-8	15141-15144	can	_	_	_	_	_	
+106-9	15145-15153	complain	_	_	_	_	_	
+106-10	15154-15159	about	_	_	_	_	_	
+106-11	15160-15163	how	_	_	_	_	_	
+106-12	15164-15166	we	_	_	_	_	_	
+106-13	15167-15170	are	_	_	_	_	_	
+106-14	15171-15176	using	_	_	_	_	_	
+106-15	15177-15181	your	_	_	_	_	_	
+106-16	15182-15193	information	_	_	_	_	_	
+106-17	15194-15196	by	_	_	_	_	_	
+106-18	15197-15205	emailing	_	_	_	_	_	
+106-19	15206-15208	us	_	_	_	_	_	
+106-20	15209-15211	at	_	_	_	_	_	
+106-21	15212-15219	privacy	_	_	_	_	_	
+106-22	15219-15220	@	_	_	_	_	_	
+106-23	15220-15230	roblox.com	_	_	_	_	_	
+106-24	15230-15231	.	_	_	_	_	_	
+
+#Text=You can also complain to the National Data Protection Authority of Brazil at anpd@anpd.gov.br.
+#Text=
+#Text=
+#Text=16.
+107-1	15232-15235	You	_	_	_	_	_	
+107-2	15236-15239	can	_	_	_	_	_	
+107-3	15240-15244	also	_	_	_	_	_	
+107-4	15245-15253	complain	_	_	_	_	_	
+107-5	15254-15256	to	_	_	_	_	_	
+107-6	15257-15260	the	_	_	_	_	_	
+107-7	15261-15269	National	_	_	_	_	_	
+107-8	15270-15274	Data	_	_	_	_	_	
+107-9	15275-15285	Protection	_	_	_	_	_	
+107-10	15286-15295	Authority	_	_	_	_	_	
+107-11	15296-15298	of	_	_	_	_	_	
+107-12	15299-15305	Brazil	_	_	_	_	_	
+107-13	15306-15308	at	_	_	_	_	_	
+107-14	15309-15313	anpd	_	_	_	_	_	
+107-15	15313-15314	@	_	_	_	_	_	
+107-16	15314-15325	anpd.gov.br	_	_	_	_	_	
+107-17	15325-15326	.	_	_	_	_	_	
+107-18	15329-15331	16	_	_	_	_	_	
+107-19	15331-15332	.	_	_	_	_	_	
+
+#Text=Privacy Policy Changes and Updates
+#Text=
+#Text=
+#Text=We update this privacy policy sometimes, so you should review this site regularly.
+108-1	15333-15340	Privacy	_	_	_	_	_	
+108-2	15341-15347	Policy	_	_	_	_	_	
+108-3	15348-15355	Changes	_	_	_	_	_	
+108-4	15356-15359	and	_	_	_	_	_	
+108-5	15360-15367	Updates	_	_	_	_	_	
+108-6	15370-15372	We	_	_	_	_	_	
+108-7	15373-15379	update	_	_	_	_	_	
+108-8	15380-15384	this	_	_	_	_	_	
+108-9	15385-15392	privacy	_	_	_	_	_	
+108-10	15393-15399	policy	_	_	_	_	_	
+108-11	15400-15409	sometimes	_	_	_	_	_	
+108-12	15409-15410	,	_	_	_	_	_	
+108-13	15411-15413	so	_	_	_	_	_	
+108-14	15414-15417	you	_	_	_	_	_	
+108-15	15418-15424	should	_	_	_	_	_	
+108-16	15425-15431	review	_	_	_	_	_	
+108-17	15432-15436	this	_	_	_	_	_	
+108-18	15437-15441	site	_	_	_	_	_	
+108-19	15442-15451	regularly	_	_	_	_	_	
+108-20	15451-15452	.	_	_	_	_	_	
+
+#Text=We always publish the date of the latest version at the bottom of this page.
+109-1	15453-15455	We	_	_	_	_	_	
+109-2	15456-15462	always	_	_	_	_	_	
+109-3	15463-15470	publish	_	_	_	_	_	
+109-4	15471-15474	the	_	_	_	_	_	
+109-5	15475-15479	date	_	_	_	_	_	
+109-6	15480-15482	of	_	_	_	_	_	
+109-7	15483-15486	the	_	_	_	_	_	
+109-8	15487-15493	latest	_	_	_	_	_	
+109-9	15494-15501	version	_	_	_	_	_	
+109-10	15502-15504	at	_	_	_	_	_	
+109-11	15505-15508	the	_	_	_	_	_	
+109-12	15509-15515	bottom	_	_	_	_	_	
+109-13	15516-15518	of	_	_	_	_	_	
+109-14	15519-15523	this	_	_	_	_	_	
+109-15	15524-15528	page	_	_	_	_	_	
+109-16	15528-15529	.	_	_	_	_	_	
+
+#Text=If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective.
+110-1	15530-15532	If	_	_	_	_	_	
+110-2	15533-15535	we	_	_	_	_	_	
+110-3	15536-15540	make	_	_	_	_	_	
+110-4	15541-15544	any	_	_	_	_	_	
+110-5	15545-15550	major	_	_	_	_	_	
+110-6	15551-15558	changes	_	_	_	_	_	
+110-7	15558-15559	,	_	_	_	_	_	
+110-8	15560-15562	we	_	_	_	_	_	
+110-9	15563-15567	will	_	_	_	_	_	
+110-10	15568-15571	let	_	_	_	_	_	
+110-11	15572-15575	you	_	_	_	_	_	
+110-12	15576-15580	know	_	_	_	_	_	
+110-13	15581-15583	by	_	_	_	_	_	
+110-14	15584-15589	email	_	_	_	_	_	
+110-15	15590-15591	(	_	_	_	_	_	
+110-16	15591-15593	if	_	_	_	_	_	
+110-17	15594-15596	we	_	_	_	_	_	
+110-18	15597-15601	have	_	_	_	_	_	
+110-19	15602-15606	your	_	_	_	_	_	
+110-20	15607-15612	email	_	_	_	_	_	
+110-21	15613-15620	address	_	_	_	_	_	
+110-22	15620-15621	)	_	_	_	_	_	
+110-23	15622-15624	or	_	_	_	_	_	
+110-24	15625-15627	by	_	_	_	_	_	
+110-25	15628-15635	showing	_	_	_	_	_	
+110-26	15636-15637	a	_	_	_	_	_	
+110-27	15638-15647	prominent	_	_	_	_	_	
+110-28	15648-15654	notice	_	_	_	_	_	
+110-29	15655-15657	on	_	_	_	_	_	
+110-30	15658-15662	this	_	_	_	_	_	
+110-31	15663-15670	website	_	_	_	_	_	
+110-32	15671-15673	or	_	_	_	_	_	
+110-33	15674-15676	in	_	_	_	_	_	
+110-34	15677-15680	app	_	_	_	_	_	
+110-35	15681-15686	prior	_	_	_	_	_	
+110-36	15687-15689	to	_	_	_	_	_	
+110-37	15690-15693	the	_	_	_	_	_	
+110-38	15694-15700	change	_	_	_	_	_	
+110-39	15701-15709	becoming	_	_	_	_	_	
+110-40	15710-15719	effective	_	_	_	_	_	
+110-41	15719-15720	.	_	_	_	_	_	
+
+#Text=If required by law, we will obtain your parent’s consent if any of these changes impact the data we’ve collected from you in a less protective way.
+111-1	15721-15723	If	_	_	_	_	_	
+111-2	15724-15732	required	_	_	_	_	_	
+111-3	15733-15735	by	_	_	_	_	_	
+111-4	15736-15739	law	_	_	_	_	_	
+111-5	15739-15740	,	_	_	_	_	_	
+111-6	15741-15743	we	_	_	_	_	_	
+111-7	15744-15748	will	_	_	_	_	_	
+111-8	15749-15755	obtain	_	_	_	_	_	
+111-9	15756-15760	your	_	_	_	_	_	
+111-10	15761-15767	parent	_	_	_	_	_	
+111-11	15767-15768	’	_	_	_	_	_	
+111-12	15768-15769	s	_	_	_	_	_	
+111-13	15770-15777	consent	_	_	_	_	_	
+111-14	15778-15780	if	_	_	_	_	_	
+111-15	15781-15784	any	_	_	_	_	_	
+111-16	15785-15787	of	_	_	_	_	_	
+111-17	15788-15793	these	_	_	_	_	_	
+111-18	15794-15801	changes	_	_	_	_	_	
+111-19	15802-15808	impact	_	_	_	_	_	
+111-20	15809-15812	the	_	_	_	_	_	
+111-21	15813-15817	data	_	_	_	_	_	
+111-22	15818-15820	we	_	_	_	_	_	
+111-23	15820-15821	’	_	_	_	_	_	
+111-24	15821-15823	ve	_	_	_	_	_	
+111-25	15824-15833	collected	_	_	_	_	_	
+111-26	15834-15838	from	_	_	_	_	_	
+111-27	15839-15842	you	_	_	_	_	_	
+111-28	15843-15845	in	_	_	_	_	_	
+111-29	15846-15847	a	_	_	_	_	_	
+111-30	15848-15852	less	_	_	_	_	_	
+111-31	15853-15863	protective	_	_	_	_	_	
+111-32	15864-15867	way	_	_	_	_	_	
+111-33	15867-15868	.	_	_	_	_	_	
+
+#Text=--------[END OF POLICY]---------
+#Text=
+#Text=
+#Text=Question 5: Does this app share my location with advertisers?
+112-1	15871-15872	-	_	_	_	_	_	
+112-2	15872-15873	-	_	_	_	_	_	
+112-3	15873-15874	-	_	_	_	_	_	
+112-4	15874-15875	-	_	_	_	_	_	
+112-5	15875-15876	-	_	_	_	_	_	
+112-6	15876-15877	-	_	_	_	_	_	
+112-7	15877-15878	-	_	_	_	_	_	
+112-8	15878-15879	-	_	_	_	_	_	
+112-9	15879-15880	[	_	_	_	_	_	
+112-10	15880-15883	END	_	_	_	_	_	
+112-11	15884-15886	OF	_	_	_	_	_	
+112-12	15887-15893	POLICY	_	_	_	_	_	
+112-13	15893-15894	]	_	_	_	_	_	
+112-14	15894-15895	-	_	_	_	_	_	
+112-15	15895-15896	-	_	_	_	_	_	
+112-16	15896-15897	-	_	_	_	_	_	
+112-17	15897-15898	-	_	_	_	_	_	
+112-18	15898-15899	-	_	_	_	_	_	
+112-19	15899-15900	-	_	_	_	_	_	
+112-20	15900-15901	-	_	_	_	_	_	
+112-21	15901-15902	-	_	_	_	_	_	
+112-22	15902-15903	-	_	_	_	_	_	
+112-23	15906-15914	Question	_	_	_	_	_	
+112-24	15915-15916	5	_	_	_	_	_	
+112-25	15916-15917	:	_	_	_	_	_	
+112-26	15918-15922	Does	_	_	_	_	_	
+112-27	15923-15927	this	_	_	_	_	_	
+112-28	15928-15931	app	_	_	_	_	_	
+112-29	15932-15937	share	_	_	_	_	_	
+112-30	15938-15940	my	_	_	_	_	_	
+112-31	15941-15949	location	_	_	_	_	_	
+112-32	15950-15954	with	_	_	_	_	_	
+112-33	15955-15966	advertisers	_	_	_	_	_	
+112-34	15966-15967	?	_	_	_	_	_	
+
+#Text=<ANSWER FROM POLICY>
+113-1	15970-15971	<	_	\[IMPLICIT CONDITION\] (e) While not explicit, this policy implies that it could engage in this practice under a specific condition[1]	_	_	_	
+113-2	15971-15977	ANSWER	_	\[IMPLICIT CONDITION\] (e) While not explicit, this policy implies that it could engage in this practice under a specific condition[1]	_	_	_	
+113-3	15978-15982	FROM	_	\[IMPLICIT CONDITION\] (e) While not explicit, this policy implies that it could engage in this practice under a specific condition[1]	_	_	_	
+113-4	15983-15989	POLICY	_	\[IMPLICIT CONDITION\] (e) While not explicit, this policy implies that it could engage in this practice under a specific condition[1]	_	_	_	
+113-5	15989-15990	>	_	\[IMPLICIT CONDITION\] (e) While not explicit, this policy implies that it could engage in this practice under a specific condition[1]	_	_	_	

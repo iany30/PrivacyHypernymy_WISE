@@ -1,0 +1,998 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Action|ActionRelationToQuestion
+#T_SP=webanno.custom.Answer|Answer
+#T_SP=webanno.custom.InformationType|Modality|Relation
+
+
+#Text=Question 3: Does this app collect credit card information?
+1-1	0-8	Question	_	_	_	_	
+1-2	9-10	3	_	_	_	_	
+1-3	10-11	:	_	_	_	_	
+1-4	12-16	Does	_	_	_	_	
+1-5	17-21	this	_	_	_	_	
+1-6	22-25	app	_	_	_	_	
+1-7	26-33	collect	_	_	_	_	
+1-8	34-40	credit	_	_	_	_	
+1-9	41-45	card	_	_	_	_	
+1-10	46-57	information	_	_	_	_	
+1-11	57-58	?	_	_	_	_	
+
+#Text=--------[START OF POLICY]---------
+#Text=
+#Text=
+#Text=﻿When you use BeatVideo Mobile applications on Android, This Privacy Policy describes the information collected by BeatVideo through our mobile applications and how we use that information.
+2-1	61-62	-	_	_	_	_	
+2-2	62-63	-	_	_	_	_	
+2-3	63-64	-	_	_	_	_	
+2-4	64-65	-	_	_	_	_	
+2-5	65-66	-	_	_	_	_	
+2-6	66-67	-	_	_	_	_	
+2-7	67-68	-	_	_	_	_	
+2-8	68-69	-	_	_	_	_	
+2-9	69-70	[	_	_	_	_	
+2-10	70-75	START	_	_	_	_	
+2-11	76-78	OF	_	_	_	_	
+2-12	79-85	POLICY	_	_	_	_	
+2-13	85-86	]	_	_	_	_	
+2-14	86-87	-	_	_	_	_	
+2-15	87-88	-	_	_	_	_	
+2-16	88-89	-	_	_	_	_	
+2-17	89-90	-	_	_	_	_	
+2-18	90-91	-	_	_	_	_	
+2-19	91-92	-	_	_	_	_	
+2-20	92-93	-	_	_	_	_	
+2-21	93-94	-	_	_	_	_	
+2-22	94-95	-	_	_	_	_	
+2-23	98-99	﻿	_	_	_	_	
+2-24	99-103	When	_	_	_	_	
+2-25	104-107	you	_	_	_	_	
+2-26	108-111	use	_	_	_	_	
+2-27	112-121	BeatVideo	_	_	_	_	
+2-28	122-128	Mobile	_	_	_	_	
+2-29	129-141	applications	_	_	_	_	
+2-30	142-144	on	_	_	_	_	
+2-31	145-152	Android	_	_	_	_	
+2-32	152-153	,	_	_	_	_	
+2-33	154-158	This	_	_	_	_	
+2-34	159-166	Privacy	_	_	_	_	
+2-35	167-173	Policy	_	_	_	_	
+2-36	174-183	describes	_	_	_	_	
+2-37	184-187	the	_	_	_	_	
+2-38	188-199	information	_	_	_	_	
+2-39	200-209	collected	_	_	_	_	
+2-40	210-212	by	_	_	_	_	
+2-41	213-222	BeatVideo	_	_	_	_	
+2-42	223-230	through	_	_	_	_	
+2-43	231-234	our	_	_	_	_	
+2-44	235-241	mobile	_	_	_	_	
+2-45	242-254	applications	_	_	_	_	
+2-46	255-258	and	_	_	_	_	
+2-47	259-262	how	_	_	_	_	
+2-48	263-265	we	_	_	_	_	
+2-49	266-269	use	_	_	_	_	
+2-50	270-274	that	_	_	_	_	
+2-51	275-286	information	_	_	_	_	
+2-52	286-287	.	_	_	_	_	
+
+#Text=Your privacy is important to BeatVideo Sometimes we need information to provide services that you request; this privacy statement applies to BeatVideo and its Android Applications.
+3-1	289-293	Your	_	_	_	_	
+3-2	294-301	privacy	_	_	_	_	
+3-3	302-304	is	_	_	_	_	
+3-4	305-314	important	_	_	_	_	
+3-5	315-317	to	_	_	_	_	
+3-6	318-327	BeatVideo	_	_	_	_	
+3-7	328-337	Sometimes	_	_	_	_	
+3-8	338-340	we	_	_	_	_	
+3-9	341-345	need	_	_	_	_	
+3-10	346-357	information	_	_	_	_	
+3-11	358-360	to	_	_	_	_	
+3-12	361-368	provide	_	_	_	_	
+3-13	369-377	services	_	_	_	_	
+3-14	378-382	that	_	_	_	_	
+3-15	383-386	you	_	_	_	_	
+3-16	387-394	request	_	_	_	_	
+3-17	394-395	;	_	_	_	_	
+3-18	396-400	this	_	_	_	_	
+3-19	401-408	privacy	_	_	_	_	
+3-20	409-418	statement	_	_	_	_	
+3-21	419-426	applies	_	_	_	_	
+3-22	427-429	to	_	_	_	_	
+3-23	430-439	BeatVideo	_	_	_	_	
+3-24	440-443	and	_	_	_	_	
+3-25	444-447	its	_	_	_	_	
+3-26	448-455	Android	_	_	_	_	
+3-27	456-468	Applications	_	_	_	_	
+3-28	468-469	.	_	_	_	_	
+
+#Text=We are committed to protecting the privacy of all visitors, users and others who access our application (“you,” or “Users”).
+4-1	470-472	We	_	_	_	_	
+4-2	473-476	are	_	_	_	_	
+4-3	477-486	committed	_	_	_	_	
+4-4	487-489	to	_	_	_	_	
+4-5	490-500	protecting	_	_	_	_	
+4-6	501-504	the	_	_	_	_	
+4-7	505-512	privacy	_	_	_	_	
+4-8	513-515	of	_	_	_	_	
+4-9	516-519	all	_	_	_	_	
+4-10	520-528	visitors	_	_	_	_	
+4-11	528-529	,	_	_	_	_	
+4-12	530-535	users	_	_	_	_	
+4-13	536-539	and	_	_	_	_	
+4-14	540-546	others	_	_	_	_	
+4-15	547-550	who	_	_	_	_	
+4-16	551-557	access	_	_	_	_	
+4-17	558-561	our	_	_	_	_	
+4-18	562-573	application	_	_	_	_	
+4-19	574-575	(	_	_	_	_	
+4-20	575-576	“	_	_	_	_	
+4-21	576-579	you	_	_	_	_	
+4-22	579-580	,	_	_	_	_	
+4-23	580-581	”	_	_	_	_	
+4-24	582-584	or	_	_	_	_	
+4-25	585-586	“	_	_	_	_	
+4-26	586-591	Users	_	_	_	_	
+4-27	591-592	”	_	_	_	_	
+4-28	592-593	)	_	_	_	_	
+4-29	593-594	.	_	_	_	_	
+
+#Text=Personal Information :
+#Text=Take Photos and Videos: This permission allows us to use your device’s camera to take photos / videos and turn ON/OFF Camera Flash.
+5-1	597-605	Personal	_	_	_	_	
+5-2	606-617	Information	_	_	_	_	
+5-3	618-619	:	_	_	_	_	
+5-4	620-624	Take	_	_	_	_	
+5-5	625-631	Photos	_	_	_	_	
+5-6	632-635	and	_	_	_	_	
+5-7	636-642	Videos	_	_	_	_	
+5-8	642-643	:	_	_	_	_	
+5-9	644-648	This	_	_	_	_	
+5-10	649-659	permission	_	_	_	_	
+5-11	660-666	allows	_	_	_	_	
+5-12	667-669	us	_	_	_	_	
+5-13	670-672	to	_	_	_	_	
+5-14	673-676	use	_	_	_	_	
+5-15	677-681	your	_	_	_	_	
+5-16	682-688	device	_	_	_	_	
+5-17	688-689	’	_	_	_	_	
+5-18	689-690	s	_	_	_	_	
+5-19	691-697	camera	_	_	_	_	
+5-20	698-700	to	_	_	_	_	
+5-21	701-705	take	_	_	_	_	
+5-22	706-712	photos	_	_	_	_	
+5-23	713-714	/	_	_	_	_	
+5-24	715-721	videos	_	_	_	_	
+5-25	722-725	and	_	_	_	_	
+5-26	726-730	turn	_	_	_	_	
+5-27	731-733	ON	_	_	_	_	
+5-28	733-734	/	_	_	_	_	
+5-29	734-737	OFF	_	_	_	_	
+5-30	738-744	Camera	_	_	_	_	
+5-31	745-750	Flash	_	_	_	_	
+5-32	750-751	.	_	_	_	_	
+
+#Text=Modify system settings: This permission is used in settings, in order to switch or adjust ringtone, vibration and brightness level of the screen.
+6-1	752-758	Modify	_	_	_	_	
+6-2	759-765	system	_	_	_	_	
+6-3	766-774	settings	_	_	_	_	
+6-4	774-775	:	_	_	_	_	
+6-5	776-780	This	_	_	_	_	
+6-6	781-791	permission	_	_	_	_	
+6-7	792-794	is	_	_	_	_	
+6-8	795-799	used	_	_	_	_	
+6-9	800-802	in	_	_	_	_	
+6-10	803-811	settings	_	_	_	_	
+6-11	811-812	,	_	_	_	_	
+6-12	813-815	in	_	_	_	_	
+6-13	816-821	order	_	_	_	_	
+6-14	822-824	to	_	_	_	_	
+6-15	825-831	switch	_	_	_	_	
+6-16	832-834	or	_	_	_	_	
+6-17	835-841	adjust	_	_	_	_	
+6-18	842-850	ringtone	_	_	_	_	
+6-19	850-851	,	_	_	_	_	
+6-20	852-861	vibration	_	_	_	_	
+6-21	862-865	and	_	_	_	_	
+6-22	866-876	brightness	_	_	_	_	
+6-23	877-882	level	_	_	_	_	
+6-24	883-885	of	_	_	_	_	
+6-25	886-889	the	_	_	_	_	
+6-26	890-896	screen	_	_	_	_	
+6-27	896-897	.	_	_	_	_	
+
+#Text=Expand/collapse status bar:This permission is used for the gesture feature of User System to expand and collapse the status bar.
+7-1	898-904	Expand	_	_	_	_	
+7-2	904-905	/	_	_	_	_	
+7-3	905-913	collapse	_	_	_	_	
+7-4	914-920	status	_	_	_	_	
+7-5	921-924	bar	_	_	_	_	
+7-6	924-925	:	_	_	_	_	
+7-7	925-929	This	_	_	_	_	
+7-8	930-940	permission	_	_	_	_	
+7-9	941-943	is	_	_	_	_	
+7-10	944-948	used	_	_	_	_	
+7-11	949-952	for	_	_	_	_	
+7-12	953-956	the	_	_	_	_	
+7-13	957-964	gesture	_	_	_	_	
+7-14	965-972	feature	_	_	_	_	
+7-15	973-975	of	_	_	_	_	
+7-16	976-980	User	_	_	_	_	
+7-17	981-987	System	_	_	_	_	
+7-18	988-990	to	_	_	_	_	
+7-19	991-997	expand	_	_	_	_	
+7-20	998-1001	and	_	_	_	_	
+7-21	1002-1010	collapse	_	_	_	_	
+7-22	1011-1014	the	_	_	_	_	
+7-23	1015-1021	status	_	_	_	_	
+7-24	1022-1025	bar	_	_	_	_	
+7-25	1025-1026	.	_	_	_	_	
+
+#Text=Anonymous identifiers:we use anonymous identifiers when you interact with services such as advertising services and others.
+8-1	1027-1036	Anonymous	_	_	_	_	
+8-2	1037-1048	identifiers	_	_	_	_	
+8-3	1048-1049	:	_	_	_	_	
+8-4	1049-1051	we	_	_	_	_	
+8-5	1052-1055	use	_	_	_	_	
+8-6	1056-1065	anonymous	_	_	_	_	
+8-7	1066-1077	identifiers	_	_	_	_	
+8-8	1078-1082	when	_	_	_	_	
+8-9	1083-1086	you	_	_	_	_	
+8-10	1087-1095	interact	_	_	_	_	
+8-11	1096-1100	with	_	_	_	_	
+8-12	1101-1109	services	_	_	_	_	
+8-13	1110-1114	such	_	_	_	_	
+8-14	1115-1117	as	_	_	_	_	
+8-15	1118-1129	advertising	_	_	_	_	
+8-16	1130-1138	services	_	_	_	_	
+8-17	1139-1142	and	_	_	_	_	
+8-18	1143-1149	others	_	_	_	_	
+8-19	1149-1150	.	_	_	_	_	
+
+#Text=Photos / Media Files:Modify or delete the contents of your Storage.
+9-1	1151-1157	Photos	_	_	_	_	
+9-2	1158-1159	/	_	_	_	_	
+9-3	1160-1165	Media	_	_	_	_	
+9-4	1166-1171	Files	_	_	_	_	
+9-5	1171-1172	:	_	_	_	_	
+9-6	1172-1178	Modify	_	_	_	_	
+9-7	1179-1181	or	_	_	_	_	
+9-8	1182-1188	delete	_	_	_	_	
+9-9	1189-1192	the	_	_	_	_	
+9-10	1193-1201	contents	_	_	_	_	
+9-11	1202-1204	of	_	_	_	_	
+9-12	1205-1209	your	_	_	_	_	
+9-13	1210-1217	Storage	_	_	_	_	
+9-14	1217-1218	.	_	_	_	_	
+
+#Text=Full network access:This permission is used to access the device’s network for certain functions including receiving update notifications or accessing app classification labels.
+10-1	1219-1223	Full	_	_	_	_	
+10-2	1224-1231	network	_	_	_	_	
+10-3	1232-1238	access	_	_	_	_	
+10-4	1238-1239	:	_	_	_	_	
+10-5	1239-1243	This	_	_	_	_	
+10-6	1244-1254	permission	_	_	_	_	
+10-7	1255-1257	is	_	_	_	_	
+10-8	1258-1262	used	_	_	_	_	
+10-9	1263-1265	to	_	_	_	_	
+10-10	1266-1272	access	_	_	_	_	
+10-11	1273-1276	the	_	_	_	_	
+10-12	1277-1283	device	_	_	_	_	
+10-13	1283-1284	’	_	_	_	_	
+10-14	1284-1285	s	_	_	_	_	
+10-15	1286-1293	network	_	_	_	_	
+10-16	1294-1297	for	_	_	_	_	
+10-17	1298-1305	certain	_	_	_	_	
+10-18	1306-1315	functions	_	_	_	_	
+10-19	1316-1325	including	_	_	_	_	
+10-20	1326-1335	receiving	_	_	_	_	
+10-21	1336-1342	update	_	_	_	_	
+10-22	1343-1356	notifications	_	_	_	_	
+10-23	1357-1359	or	_	_	_	_	
+10-24	1360-1369	accessing	_	_	_	_	
+10-25	1370-1373	app	_	_	_	_	
+10-26	1374-1388	classification	_	_	_	_	
+10-27	1389-1395	labels	_	_	_	_	
+10-28	1395-1396	.	_	_	_	_	
+
+#Text=Connect and disconnect from Wi-Fi:This permission is used in settings and notification toolbar in order to connect and disconnect from Wi-Fi.
+11-1	1397-1404	Connect	_	_	_	_	
+11-2	1405-1408	and	_	_	_	_	
+11-3	1409-1419	disconnect	_	_	_	_	
+11-4	1420-1424	from	_	_	_	_	
+11-5	1425-1430	Wi-Fi	_	_	_	_	
+11-6	1430-1431	:	_	_	_	_	
+11-7	1431-1435	This	_	_	_	_	
+11-8	1436-1446	permission	_	_	_	_	
+11-9	1447-1449	is	_	_	_	_	
+11-10	1450-1454	used	_	_	_	_	
+11-11	1455-1457	in	_	_	_	_	
+11-12	1458-1466	settings	_	_	_	_	
+11-13	1467-1470	and	_	_	_	_	
+11-14	1471-1483	notification	_	_	_	_	
+11-15	1484-1491	toolbar	_	_	_	_	
+11-16	1492-1494	in	_	_	_	_	
+11-17	1495-1500	order	_	_	_	_	
+11-18	1501-1503	to	_	_	_	_	
+11-19	1504-1511	connect	_	_	_	_	
+11-20	1512-1515	and	_	_	_	_	
+11-21	1516-1526	disconnect	_	_	_	_	
+11-22	1527-1531	from	_	_	_	_	
+11-23	1532-1537	Wi-Fi	_	_	_	_	
+11-24	1537-1538	.	_	_	_	_	
+
+#Text=Measure app storage space:This permission is used to acquire the amount of storage space used by an application.
+12-1	1539-1546	Measure	_	_	_	_	
+12-2	1547-1550	app	_	_	_	_	
+12-3	1551-1558	storage	_	_	_	_	
+12-4	1559-1564	space	_	_	_	_	
+12-5	1564-1565	:	_	_	_	_	
+12-6	1565-1569	This	_	_	_	_	
+12-7	1570-1580	permission	_	_	_	_	
+12-8	1581-1583	is	_	_	_	_	
+12-9	1584-1588	used	_	_	_	_	
+12-10	1589-1591	to	_	_	_	_	
+12-11	1592-1599	acquire	_	_	_	_	
+12-12	1600-1603	the	_	_	_	_	
+12-13	1604-1610	amount	_	_	_	_	
+12-14	1611-1613	of	_	_	_	_	
+12-15	1614-1621	storage	_	_	_	_	
+12-16	1622-1627	space	_	_	_	_	
+12-17	1628-1632	used	_	_	_	_	
+12-18	1633-1635	by	_	_	_	_	
+12-19	1636-1638	an	_	_	_	_	
+12-20	1639-1650	application	_	_	_	_	
+12-21	1650-1651	.	_	_	_	_	
+
+#Text=How We Use Your Information :
+#Text=We DO NOT collect, store or use any personal information while you visit, download or upgrade our Applications.
+13-1	1652-1655	How	_	_	_	_	
+13-2	1656-1658	We	_	_	_	_	
+13-3	1659-1662	Use	_	_	_	_	
+13-4	1663-1667	Your	_	_	_	_	
+13-5	1668-1679	Information	_	_	_	_	
+13-6	1680-1681	:	_	_	_	_	
+13-7	1682-1684	We	_	_	_	_	
+13-8	1685-1687	DO	_	_	_	_	
+13-9	1688-1691	NOT	_	_	_	_	
+13-10	1692-1699	collect	Exact Match/Synonym	_	_	_	
+13-11	1699-1700	,	_	_	_	_	
+13-12	1701-1706	store	_	_	_	_	
+13-13	1707-1709	or	_	_	_	_	
+13-14	1710-1713	use	_	_	_	_	
+13-15	1714-1717	any	_	_	\[IS NOT\] MODALITY[2]	Hypernym[2]	
+13-16	1718-1726	personal	_	_	\[IS NOT\] MODALITY[2]	Hypernym[2]	
+13-17	1727-1738	information	_	_	\[IS NOT\] MODALITY[2]	Hypernym[2]	
+13-18	1739-1744	while	_	_	_	_	
+13-19	1745-1748	you	_	_	_	_	
+13-20	1749-1754	visit	_	_	_	_	
+13-21	1754-1755	,	_	_	_	_	
+13-22	1756-1764	download	_	_	_	_	
+13-23	1765-1767	or	_	_	_	_	
+13-24	1768-1775	upgrade	_	_	_	_	
+13-25	1776-1779	our	_	_	_	_	
+13-26	1780-1792	Applications	_	_	_	_	
+13-27	1792-1793	.	_	_	_	_	
+
+#Text=We may use personal information submitted by you only for the following purposes: Help us develop, deliver, and improve our products and services and supply higher quality service; manage online surveys and other activities you’ve participated in.
+14-1	1794-1796	We	_	_	_	_	
+14-2	1797-1800	may	_	_	_	_	
+14-3	1801-1804	use	_	_	_	_	
+14-4	1805-1813	personal	_	_	_	_	
+14-5	1814-1825	information	_	_	_	_	
+14-6	1826-1835	submitted	_	_	_	_	
+14-7	1836-1838	by	_	_	_	_	
+14-8	1839-1842	you	_	_	_	_	
+14-9	1843-1847	only	_	_	_	_	
+14-10	1848-1851	for	_	_	_	_	
+14-11	1852-1855	the	_	_	_	_	
+14-12	1856-1865	following	_	_	_	_	
+14-13	1866-1874	purposes	_	_	_	_	
+14-14	1874-1875	:	_	_	_	_	
+14-15	1876-1880	Help	_	_	_	_	
+14-16	1881-1883	us	_	_	_	_	
+14-17	1884-1891	develop	_	_	_	_	
+14-18	1891-1892	,	_	_	_	_	
+14-19	1893-1900	deliver	_	_	_	_	
+14-20	1900-1901	,	_	_	_	_	
+14-21	1902-1905	and	_	_	_	_	
+14-22	1906-1913	improve	_	_	_	_	
+14-23	1914-1917	our	_	_	_	_	
+14-24	1918-1926	products	_	_	_	_	
+14-25	1927-1930	and	_	_	_	_	
+14-26	1931-1939	services	_	_	_	_	
+14-27	1940-1943	and	_	_	_	_	
+14-28	1944-1950	supply	_	_	_	_	
+14-29	1951-1957	higher	_	_	_	_	
+14-30	1958-1965	quality	_	_	_	_	
+14-31	1966-1973	service	_	_	_	_	
+14-32	1973-1974	;	_	_	_	_	
+14-33	1975-1981	manage	_	_	_	_	
+14-34	1982-1988	online	_	_	_	_	
+14-35	1989-1996	surveys	_	_	_	_	
+14-36	1997-2000	and	_	_	_	_	
+14-37	2001-2006	other	_	_	_	_	
+14-38	2007-2017	activities	_	_	_	_	
+14-39	2018-2021	you	_	_	_	_	
+14-40	2021-2022	’	_	_	_	_	
+14-41	2022-2024	ve	_	_	_	_	
+14-42	2025-2037	participated	_	_	_	_	
+14-43	2038-2040	in	_	_	_	_	
+14-44	2040-2041	.	_	_	_	_	
+
+#Text=In the following circumstances, we may disclose your personal information according to your wish or regulations by law:
+#Text=* Your prior permission,
+#Text=* By the applicable law within or outside your country of residence, legal process, litigation requests,
+#Text=* By requests from public and governmental authorities,
+#Text=* To protect our legal rights and interests,
+#Text=*  To improve the Services,
+#Text=* comply with applicable law (e.g., in response to a valid court order or subpoena);
+#Text=Non- Personal Information :
+#Text=We may collect and use non-personal information in the following circumstances.
+15-1	2042-2044	In	_	_	_	_	
+15-2	2045-2048	the	_	_	_	_	
+15-3	2049-2058	following	_	_	_	_	
+15-4	2059-2072	circumstances	_	_	_	_	
+15-5	2072-2073	,	_	_	_	_	
+15-6	2074-2076	we	_	_	_	_	
+15-7	2077-2080	may	_	_	_	_	
+15-8	2081-2089	disclose	_	_	_	_	
+15-9	2090-2094	your	_	_	_	_	
+15-10	2095-2103	personal	_	_	_	_	
+15-11	2104-2115	information	_	_	_	_	
+15-12	2116-2125	according	_	_	_	_	
+15-13	2126-2128	to	_	_	_	_	
+15-14	2129-2133	your	_	_	_	_	
+15-15	2134-2138	wish	_	_	_	_	
+15-16	2139-2141	or	_	_	_	_	
+15-17	2142-2153	regulations	_	_	_	_	
+15-18	2154-2156	by	_	_	_	_	
+15-19	2157-2160	law	_	_	_	_	
+15-20	2160-2161	:	_	_	_	_	
+15-21	2162-2163	*	_	_	_	_	
+15-22	2164-2168	Your	_	_	_	_	
+15-23	2169-2174	prior	_	_	_	_	
+15-24	2175-2185	permission	_	_	_	_	
+15-25	2185-2186	,	_	_	_	_	
+15-26	2187-2188	*	_	_	_	_	
+15-27	2189-2191	By	_	_	_	_	
+15-28	2192-2195	the	_	_	_	_	
+15-29	2196-2206	applicable	_	_	_	_	
+15-30	2207-2210	law	_	_	_	_	
+15-31	2211-2217	within	_	_	_	_	
+15-32	2218-2220	or	_	_	_	_	
+15-33	2221-2228	outside	_	_	_	_	
+15-34	2229-2233	your	_	_	_	_	
+15-35	2234-2241	country	_	_	_	_	
+15-36	2242-2244	of	_	_	_	_	
+15-37	2245-2254	residence	_	_	_	_	
+15-38	2254-2255	,	_	_	_	_	
+15-39	2256-2261	legal	_	_	_	_	
+15-40	2262-2269	process	_	_	_	_	
+15-41	2269-2270	,	_	_	_	_	
+15-42	2271-2281	litigation	_	_	_	_	
+15-43	2282-2290	requests	_	_	_	_	
+15-44	2290-2291	,	_	_	_	_	
+15-45	2292-2293	*	_	_	_	_	
+15-46	2294-2296	By	_	_	_	_	
+15-47	2297-2305	requests	_	_	_	_	
+15-48	2306-2310	from	_	_	_	_	
+15-49	2311-2317	public	_	_	_	_	
+15-50	2318-2321	and	_	_	_	_	
+15-51	2322-2334	governmental	_	_	_	_	
+15-52	2335-2346	authorities	_	_	_	_	
+15-53	2346-2347	,	_	_	_	_	
+15-54	2348-2349	*	_	_	_	_	
+15-55	2350-2352	To	_	_	_	_	
+15-56	2353-2360	protect	_	_	_	_	
+15-57	2361-2364	our	_	_	_	_	
+15-58	2365-2370	legal	_	_	_	_	
+15-59	2371-2377	rights	_	_	_	_	
+15-60	2378-2381	and	_	_	_	_	
+15-61	2382-2391	interests	_	_	_	_	
+15-62	2391-2392	,	_	_	_	_	
+15-63	2393-2394	*	_	_	_	_	
+15-64	2396-2398	To	_	_	_	_	
+15-65	2399-2406	improve	_	_	_	_	
+15-66	2407-2410	the	_	_	_	_	
+15-67	2411-2419	Services	_	_	_	_	
+15-68	2419-2420	,	_	_	_	_	
+15-69	2421-2422	*	_	_	_	_	
+15-70	2423-2429	comply	_	_	_	_	
+15-71	2430-2434	with	_	_	_	_	
+15-72	2435-2445	applicable	_	_	_	_	
+15-73	2446-2449	law	_	_	_	_	
+15-74	2450-2451	(	_	_	_	_	
+15-75	2451-2454	e.g	_	_	_	_	
+15-76	2454-2455	.	_	_	_	_	
+15-77	2455-2456	,	_	_	_	_	
+15-78	2457-2459	in	_	_	_	_	
+15-79	2460-2468	response	_	_	_	_	
+15-80	2469-2471	to	_	_	_	_	
+15-81	2472-2473	a	_	_	_	_	
+15-82	2474-2479	valid	_	_	_	_	
+15-83	2480-2485	court	_	_	_	_	
+15-84	2486-2491	order	_	_	_	_	
+15-85	2492-2494	or	_	_	_	_	
+15-86	2495-2503	subpoena	_	_	_	_	
+15-87	2503-2504	)	_	_	_	_	
+15-88	2504-2505	;	_	_	_	_	
+15-89	2506-2509	Non	_	_	_	_	
+15-90	2509-2510	-	_	_	_	_	
+15-91	2511-2519	Personal	_	_	_	_	
+15-92	2520-2531	Information	_	_	_	_	
+15-93	2532-2533	:	_	_	_	_	
+15-94	2534-2536	We	_	_	_	_	
+15-95	2537-2540	may	_	_	_	_	
+15-96	2541-2548	collect	_	_	_	_	
+15-97	2549-2552	and	_	_	_	_	
+15-98	2553-2556	use	_	_	_	_	
+15-99	2557-2569	non-personal	_	_	_	_	
+15-100	2570-2581	information	_	_	_	_	
+15-101	2582-2584	in	_	_	_	_	
+15-102	2585-2588	the	_	_	_	_	
+15-103	2589-2598	following	_	_	_	_	
+15-104	2599-2612	circumstances	_	_	_	_	
+15-105	2612-2613	.	_	_	_	_	
+
+#Text=To have a better understanding in user’s behaviour, solve problems in products and services, improve our products, services and advertising, we may collect non-personal information such as installed Other Applications name and package name, the data of instal.
+16-1	2614-2616	To	_	_	_	_	
+16-2	2617-2621	have	_	_	_	_	
+16-3	2622-2623	a	_	_	_	_	
+16-4	2624-2630	better	_	_	_	_	
+16-5	2631-2644	understanding	_	_	_	_	
+16-6	2645-2647	in	_	_	_	_	
+16-7	2648-2652	user	_	_	_	_	
+16-8	2652-2653	’	_	_	_	_	
+16-9	2653-2654	s	_	_	_	_	
+16-10	2655-2664	behaviour	_	_	_	_	
+16-11	2664-2665	,	_	_	_	_	
+16-12	2666-2671	solve	_	_	_	_	
+16-13	2672-2680	problems	_	_	_	_	
+16-14	2681-2683	in	_	_	_	_	
+16-15	2684-2692	products	_	_	_	_	
+16-16	2693-2696	and	_	_	_	_	
+16-17	2697-2705	services	_	_	_	_	
+16-18	2705-2706	,	_	_	_	_	
+16-19	2707-2714	improve	_	_	_	_	
+16-20	2715-2718	our	_	_	_	_	
+16-21	2719-2727	products	_	_	_	_	
+16-22	2727-2728	,	_	_	_	_	
+16-23	2729-2737	services	_	_	_	_	
+16-24	2738-2741	and	_	_	_	_	
+16-25	2742-2753	advertising	_	_	_	_	
+16-26	2753-2754	,	_	_	_	_	
+16-27	2755-2757	we	_	_	_	_	
+16-28	2758-2761	may	_	_	_	_	
+16-29	2762-2769	collect	_	_	_	_	
+16-30	2770-2782	non-personal	_	_	_	_	
+16-31	2783-2794	information	_	_	_	_	
+16-32	2795-2799	such	_	_	_	_	
+16-33	2800-2802	as	_	_	_	_	
+16-34	2803-2812	installed	_	_	_	_	
+16-35	2813-2818	Other	_	_	_	_	
+16-36	2819-2831	Applications	_	_	_	_	
+16-37	2832-2836	name	_	_	_	_	
+16-38	2837-2840	and	_	_	_	_	
+16-39	2841-2848	package	_	_	_	_	
+16-40	2849-2853	name	_	_	_	_	
+16-41	2853-2854	,	_	_	_	_	
+16-42	2855-2858	the	_	_	_	_	
+16-43	2859-2863	data	_	_	_	_	
+16-44	2864-2866	of	_	_	_	_	
+16-45	2867-2873	instal	_	_	_	_	
+16-46	2873-2874	.	_	_	_	_	
+
+#Text=If non-personal information is combined with personal information, We treat the combined information as personal information for the purposes of this Privacy Policy.
+17-1	2875-2877	If	_	_	_	_	
+17-2	2878-2890	non-personal	_	_	_	_	
+17-3	2891-2902	information	_	_	_	_	
+17-4	2903-2905	is	_	_	_	_	
+17-5	2906-2914	combined	_	_	_	_	
+17-6	2915-2919	with	_	_	_	_	
+17-7	2920-2928	personal	_	_	_	_	
+17-8	2929-2940	information	_	_	_	_	
+17-9	2940-2941	,	_	_	_	_	
+17-10	2942-2944	We	_	_	_	_	
+17-11	2945-2950	treat	_	_	_	_	
+17-12	2951-2954	the	_	_	_	_	
+17-13	2955-2963	combined	_	_	_	_	
+17-14	2964-2975	information	_	_	_	_	
+17-15	2976-2978	as	_	_	_	_	
+17-16	2979-2987	personal	_	_	_	_	
+17-17	2988-2999	information	_	_	_	_	
+17-18	3000-3003	for	_	_	_	_	
+17-19	3004-3007	the	_	_	_	_	
+17-20	3008-3016	purposes	_	_	_	_	
+17-21	3017-3019	of	_	_	_	_	
+17-22	3020-3024	this	_	_	_	_	
+17-23	3025-3032	Privacy	_	_	_	_	
+17-24	3033-3039	Policy	_	_	_	_	
+17-25	3039-3040	.	_	_	_	_	
+
+#Text=We also collect unique device GCM token for Notification purpose.
+18-1	3042-3044	We	_	_	_	_	
+18-2	3045-3049	also	_	_	_	_	
+18-3	3050-3057	collect	_	_	_	_	
+18-4	3058-3064	unique	_	_	_	_	
+18-5	3065-3071	device	_	_	_	_	
+18-6	3072-3075	GCM	_	_	_	_	
+18-7	3076-3081	token	_	_	_	_	
+18-8	3082-3085	for	_	_	_	_	
+18-9	3086-3098	Notification	_	_	_	_	
+18-10	3099-3106	purpose	_	_	_	_	
+18-11	3106-3107	.	_	_	_	_	
+
+#Text=Information we get from your use of our services  :
+#Text=We may collect information about the services that you use and how you use them, such as when you view and interact with our content.
+19-1	3108-3119	Information	_	_	_	_	
+19-2	3120-3122	we	_	_	_	_	
+19-3	3123-3126	get	_	_	_	_	
+19-4	3127-3131	from	_	_	_	_	
+19-5	3132-3136	your	_	_	_	_	
+19-6	3137-3140	use	_	_	_	_	
+19-7	3141-3143	of	_	_	_	_	
+19-8	3144-3147	our	_	_	_	_	
+19-9	3148-3156	services	_	_	_	_	
+19-10	3158-3159	:	_	_	_	_	
+19-11	3160-3162	We	_	_	_	_	
+19-12	3163-3166	may	_	_	_	_	
+19-13	3167-3174	collect	_	_	_	_	
+19-14	3175-3186	information	_	_	_	_	
+19-15	3187-3192	about	_	_	_	_	
+19-16	3193-3196	the	_	_	_	_	
+19-17	3197-3205	services	_	_	_	_	
+19-18	3206-3210	that	_	_	_	_	
+19-19	3211-3214	you	_	_	_	_	
+19-20	3215-3218	use	_	_	_	_	
+19-21	3219-3222	and	_	_	_	_	
+19-22	3223-3226	how	_	_	_	_	
+19-23	3227-3230	you	_	_	_	_	
+19-24	3231-3234	use	_	_	_	_	
+19-25	3235-3239	them	_	_	_	_	
+19-26	3239-3240	,	_	_	_	_	
+19-27	3241-3245	such	_	_	_	_	
+19-28	3246-3248	as	_	_	_	_	
+19-29	3249-3253	when	_	_	_	_	
+19-30	3254-3257	you	_	_	_	_	
+19-31	3258-3262	view	_	_	_	_	
+19-32	3263-3266	and	_	_	_	_	
+19-33	3267-3275	interact	_	_	_	_	
+19-34	3276-3280	with	_	_	_	_	
+19-35	3281-3284	our	_	_	_	_	
+19-36	3285-3292	content	_	_	_	_	
+19-37	3292-3293	.	_	_	_	_	
+
+#Text=We may collect device-specific information.
+20-1	3294-3296	We	_	_	_	_	
+20-2	3297-3300	may	_	_	_	_	
+20-3	3301-3308	collect	_	_	_	_	
+20-4	3309-3324	device-specific	_	_	_	_	
+20-5	3325-3336	information	_	_	_	_	
+20-6	3336-3337	.	_	_	_	_	
+
+#Text=BeatVideo  will not share that information with third parties.
+21-1	3338-3347	BeatVideo	_	_	_	_	
+21-2	3349-3353	will	_	_	_	_	
+21-3	3354-3357	not	_	_	_	_	
+21-4	3358-3363	share	_	_	_	_	
+21-5	3364-3368	that	_	_	_	_	
+21-6	3369-3380	information	_	_	_	_	
+21-7	3381-3385	with	_	_	_	_	
+21-8	3386-3391	third	_	_	_	_	
+21-9	3392-3399	parties	_	_	_	_	
+21-10	3399-3400	.	_	_	_	_	
+
+#Text=Security :
+#Text=
+#Text=
+#Text=We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use.
+22-1	3405-3413	Security	_	_	_	_	
+22-2	3414-3415	:	_	_	_	_	
+22-3	3418-3420	We	_	_	_	_	
+22-4	3421-3423	do	_	_	_	_	
+22-5	3424-3427	not	_	_	_	_	
+22-6	3428-3435	collect	Exact Match/Synonym	_	_	_	
+22-7	3436-3444	Personal	_	_	\[IS NOT\] MODALITY[3]	*[3]	
+22-8	3445-3456	Information	_	_	\[IS NOT\] MODALITY[3]	*[3]	
+22-9	3456-3457	,	_	_	_	_	
+22-10	3458-3461	and	_	_	_	_	
+22-11	3462-3464	we	_	_	_	_	
+22-12	3465-3471	employ	_	_	_	_	
+22-13	3472-3486	administrative	_	_	_	_	
+22-14	3486-3487	,	_	_	_	_	
+22-15	3488-3496	physical	_	_	_	_	
+22-16	3497-3500	and	_	_	_	_	
+22-17	3501-3511	electronic	_	_	_	_	
+22-18	3512-3520	measures	_	_	_	_	
+22-19	3521-3529	designed	_	_	_	_	
+22-20	3530-3532	to	_	_	_	_	
+22-21	3533-3540	protect	_	_	_	_	
+22-22	3541-3545	your	_	_	_	_	
+22-23	3546-3558	Non-Personal	_	_	_	_	
+22-24	3559-3570	Information	_	_	_	_	
+22-25	3571-3575	from	_	_	_	_	
+22-26	3576-3588	unauthorized	_	_	_	_	
+22-27	3589-3595	access	_	_	_	_	
+22-28	3596-3599	and	_	_	_	_	
+22-29	3600-3603	use	_	_	_	_	
+22-30	3603-3604	.	_	_	_	_	
+
+#Text=Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+23-1	3605-3611	Please	_	_	_	_	
+23-2	3612-3614	be	_	_	_	_	
+23-3	3615-3620	aware	_	_	_	_	
+23-4	3621-3625	that	_	_	_	_	
+23-5	3626-3628	no	_	_	_	_	
+23-6	3629-3637	security	_	_	_	_	
+23-7	3638-3646	measures	_	_	_	_	
+23-8	3647-3651	that	_	_	_	_	
+23-9	3652-3654	we	_	_	_	_	
+23-10	3655-3659	take	_	_	_	_	
+23-11	3660-3662	to	_	_	_	_	
+23-12	3663-3670	protect	_	_	_	_	
+23-13	3671-3675	your	_	_	_	_	
+23-14	3676-3687	information	_	_	_	_	
+23-15	3688-3690	is	_	_	_	_	
+23-16	3691-3701	absolutely	_	_	_	_	
+23-17	3702-3712	guaranteed	_	_	_	_	
+23-18	3713-3715	to	_	_	_	_	
+23-19	3716-3721	avoid	_	_	_	_	
+23-20	3722-3734	unauthorized	_	_	_	_	
+23-21	3735-3741	access	_	_	_	_	
+23-22	3742-3744	or	_	_	_	_	
+23-23	3745-3748	use	_	_	_	_	
+23-24	3749-3751	of	_	_	_	_	
+23-25	3752-3756	your	_	_	_	_	
+23-26	3757-3769	Non-Personal	_	_	_	_	
+23-27	3770-3781	Information	_	_	_	_	
+23-28	3782-3787	which	_	_	_	_	
+23-29	3788-3790	is	_	_	_	_	
+23-30	3791-3803	impenetrable	_	_	_	_	
+23-31	3803-3804	.	_	_	_	_	
+
+#Text=Unique Application numbers :
+#Text=Certain services include a unique application number.
+24-1	3805-3811	Unique	_	_	_	_	
+24-2	3812-3823	Application	_	_	_	_	
+24-3	3824-3831	numbers	_	_	_	_	
+24-4	3832-3833	:	_	_	_	_	
+24-5	3834-3841	Certain	_	_	_	_	
+24-6	3842-3850	services	_	_	_	_	
+24-7	3851-3858	include	_	_	_	_	
+24-8	3859-3860	a	_	_	_	_	
+24-9	3861-3867	unique	_	_	_	_	
+24-10	3868-3879	application	_	_	_	_	
+24-11	3880-3886	number	_	_	_	_	
+24-12	3886-3887	.	_	_	_	_	
+
+#Text=This number and information about your installation (for example, the operating system type and application version number) may be sent to BeatVideo when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
+25-1	3888-3892	This	_	_	_	_	
+25-2	3893-3899	number	_	_	_	_	
+25-3	3900-3903	and	_	_	_	_	
+25-4	3904-3915	information	_	_	_	_	
+25-5	3916-3921	about	_	_	_	_	
+25-6	3922-3926	your	_	_	_	_	
+25-7	3927-3939	installation	_	_	_	_	
+25-8	3940-3941	(	_	_	_	_	
+25-9	3941-3944	for	_	_	_	_	
+25-10	3945-3952	example	_	_	_	_	
+25-11	3952-3953	,	_	_	_	_	
+25-12	3954-3957	the	_	_	_	_	
+25-13	3958-3967	operating	_	_	_	_	
+25-14	3968-3974	system	_	_	_	_	
+25-15	3975-3979	type	_	_	_	_	
+25-16	3980-3983	and	_	_	_	_	
+25-17	3984-3995	application	_	_	_	_	
+25-18	3996-4003	version	_	_	_	_	
+25-19	4004-4010	number	_	_	_	_	
+25-20	4010-4011	)	_	_	_	_	
+25-21	4012-4015	may	_	_	_	_	
+25-22	4016-4018	be	_	_	_	_	
+25-23	4019-4023	sent	_	_	_	_	
+25-24	4024-4026	to	_	_	_	_	
+25-25	4027-4036	BeatVideo	_	_	_	_	
+25-26	4037-4041	when	_	_	_	_	
+25-27	4042-4045	you	_	_	_	_	
+25-28	4046-4053	install	_	_	_	_	
+25-29	4054-4056	or	_	_	_	_	
+25-30	4057-4066	uninstall	_	_	_	_	
+25-31	4067-4071	that	_	_	_	_	
+25-32	4072-4079	service	_	_	_	_	
+25-33	4080-4082	or	_	_	_	_	
+25-34	4083-4087	when	_	_	_	_	
+25-35	4088-4092	that	_	_	_	_	
+25-36	4093-4100	service	_	_	_	_	
+25-37	4101-4113	periodically	_	_	_	_	
+25-38	4114-4122	contacts	_	_	_	_	
+25-39	4123-4126	our	_	_	_	_	
+25-40	4127-4134	servers	_	_	_	_	
+25-41	4134-4135	,	_	_	_	_	
+25-42	4136-4140	such	_	_	_	_	
+25-43	4141-4143	as	_	_	_	_	
+25-44	4144-4147	for	_	_	_	_	
+25-45	4148-4157	automatic	_	_	_	_	
+25-46	4158-4165	updates	_	_	_	_	
+25-47	4165-4166	.	_	_	_	_	
+
+#Text=Advertisement in App:
+#Text=We use Google Admob and other third-part  for advertisements in our Applications.
+26-1	4167-4180	Advertisement	_	_	_	_	
+26-2	4181-4183	in	_	_	_	_	
+26-3	4184-4187	App	_	_	_	_	
+26-4	4187-4188	:	_	_	_	_	
+26-5	4189-4191	We	_	_	_	_	
+26-6	4192-4195	use	_	_	_	_	
+26-7	4196-4202	Google	_	_	_	_	
+26-8	4203-4208	Admob	_	_	_	_	
+26-9	4209-4212	and	_	_	_	_	
+26-10	4213-4218	other	_	_	_	_	
+26-11	4219-4229	third-part	_	_	_	_	
+26-12	4231-4234	for	_	_	_	_	
+26-13	4235-4249	advertisements	_	_	_	_	
+26-14	4250-4252	in	_	_	_	_	
+26-15	4253-4256	our	_	_	_	_	
+26-16	4257-4269	Applications	_	_	_	_	
+26-17	4269-4270	.	_	_	_	_	
+
+#Text=There could be errors in the programming and sometime programming errors may cause unwanted side effects.
+27-1	4271-4276	There	_	_	_	_	
+27-2	4277-4282	could	_	_	_	_	
+27-3	4283-4285	be	_	_	_	_	
+27-4	4286-4292	errors	_	_	_	_	
+27-5	4293-4295	in	_	_	_	_	
+27-6	4296-4299	the	_	_	_	_	
+27-7	4300-4311	programming	_	_	_	_	
+27-8	4312-4315	and	_	_	_	_	
+27-9	4316-4324	sometime	_	_	_	_	
+27-10	4325-4336	programming	_	_	_	_	
+27-11	4337-4343	errors	_	_	_	_	
+27-12	4344-4347	may	_	_	_	_	
+27-13	4348-4353	cause	_	_	_	_	
+27-14	4354-4362	unwanted	_	_	_	_	
+27-15	4363-4367	side	_	_	_	_	
+27-16	4368-4375	effects	_	_	_	_	
+27-17	4375-4376	.	_	_	_	_	
+
+#Text=BeatVideo is very concerned about safeguarding the confidentiality of your information Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable.
+28-1	4377-4386	BeatVideo	_	_	_	_	
+28-2	4387-4389	is	_	_	_	_	
+28-3	4390-4394	very	_	_	_	_	
+28-4	4395-4404	concerned	_	_	_	_	
+28-5	4405-4410	about	_	_	_	_	
+28-6	4411-4423	safeguarding	_	_	_	_	
+28-7	4424-4427	the	_	_	_	_	
+28-8	4428-4443	confidentiality	_	_	_	_	
+28-9	4444-4446	of	_	_	_	_	
+28-10	4447-4451	your	_	_	_	_	
+28-11	4452-4463	information	_	_	_	_	
+28-12	4464-4470	Please	_	_	_	_	
+28-13	4471-4473	be	_	_	_	_	
+28-14	4474-4479	aware	_	_	_	_	
+28-15	4480-4484	that	_	_	_	_	
+28-16	4485-4487	no	_	_	_	_	
+28-17	4488-4496	security	_	_	_	_	
+28-18	4497-4505	measures	_	_	_	_	
+28-19	4506-4510	that	_	_	_	_	
+28-20	4511-4513	we	_	_	_	_	
+28-21	4514-4518	take	_	_	_	_	
+28-22	4519-4521	to	_	_	_	_	
+28-23	4522-4529	protect	_	_	_	_	
+28-24	4530-4534	your	_	_	_	_	
+28-25	4535-4546	information	_	_	_	_	
+28-26	4547-4549	is	_	_	_	_	
+28-27	4550-4560	absolutely	_	_	_	_	
+28-28	4561-4571	guaranteed	_	_	_	_	
+28-29	4572-4574	to	_	_	_	_	
+28-30	4575-4580	avoid	_	_	_	_	
+28-31	4581-4593	unauthorized	_	_	_	_	
+28-32	4594-4600	access	_	_	_	_	
+28-33	4601-4603	or	_	_	_	_	
+28-34	4604-4607	use	_	_	_	_	
+28-35	4608-4610	of	_	_	_	_	
+28-36	4611-4615	your	_	_	_	_	
+28-37	4616-4628	Non-Personal	_	_	_	_	
+28-38	4629-4640	Information	_	_	_	_	
+28-39	4641-4646	which	_	_	_	_	
+28-40	4647-4649	is	_	_	_	_	
+28-41	4650-4662	impenetrable	_	_	_	_	
+28-42	4662-4663	.	_	_	_	_	
+
+#Text=We haven't any Intention to Copy or use Others Product use and Access in company’s Application.
+29-1	4664-4666	We	_	_	_	_	
+29-2	4667-4674	haven't	_	_	_	_	
+29-3	4675-4678	any	_	_	_	_	
+29-4	4679-4688	Intention	_	_	_	_	
+29-5	4689-4691	to	_	_	_	_	
+29-6	4692-4696	Copy	_	_	_	_	
+29-7	4697-4699	or	_	_	_	_	
+29-8	4700-4703	use	_	_	_	_	
+29-9	4704-4710	Others	_	_	_	_	
+29-10	4711-4718	Product	_	_	_	_	
+29-11	4719-4722	use	_	_	_	_	
+29-12	4723-4726	and	_	_	_	_	
+29-13	4727-4733	Access	_	_	_	_	
+29-14	4734-4736	in	_	_	_	_	
+29-15	4737-4744	company	_	_	_	_	
+29-16	4744-4745	’	_	_	_	_	
+29-17	4745-4746	s	_	_	_	_	
+29-18	4747-4758	Application	_	_	_	_	
+29-19	4758-4759	.	_	_	_	_	
+
+#Text=If you have any questions about this Privacy Policy, the practices of this Site or your dealings with this site please feel free to contact us at: beatpea.video@gmail.com
+#Text=
+#Text=
+#Text=--------[END OF POLICY]---------
+#Text=
+#Text=
+#Text=Question 3: Does this app collect credit card information?
+30-1	4762-4764	If	_	_	_	_	
+30-2	4765-4768	you	_	_	_	_	
+30-3	4769-4773	have	_	_	_	_	
+30-4	4774-4777	any	_	_	_	_	
+30-5	4778-4787	questions	_	_	_	_	
+30-6	4788-4793	about	_	_	_	_	
+30-7	4794-4798	this	_	_	_	_	
+30-8	4799-4806	Privacy	_	_	_	_	
+30-9	4807-4813	Policy	_	_	_	_	
+30-10	4813-4814	,	_	_	_	_	
+30-11	4815-4818	the	_	_	_	_	
+30-12	4819-4828	practices	_	_	_	_	
+30-13	4829-4831	of	_	_	_	_	
+30-14	4832-4836	this	_	_	_	_	
+30-15	4837-4841	Site	_	_	_	_	
+30-16	4842-4844	or	_	_	_	_	
+30-17	4845-4849	your	_	_	_	_	
+30-18	4850-4858	dealings	_	_	_	_	
+30-19	4859-4863	with	_	_	_	_	
+30-20	4864-4868	this	_	_	_	_	
+30-21	4869-4873	site	_	_	_	_	
+30-22	4874-4880	please	_	_	_	_	
+30-23	4881-4885	feel	_	_	_	_	
+30-24	4886-4890	free	_	_	_	_	
+30-25	4891-4893	to	_	_	_	_	
+30-26	4894-4901	contact	_	_	_	_	
+30-27	4902-4904	us	_	_	_	_	
+30-28	4905-4907	at	_	_	_	_	
+30-29	4907-4908	:	_	_	_	_	
+30-30	4909-4922	beatpea.video	_	_	_	_	
+30-31	4922-4923	@	_	_	_	_	
+30-32	4923-4932	gmail.com	_	_	_	_	
+30-33	4935-4936	-	_	_	_	_	
+30-34	4936-4937	-	_	_	_	_	
+30-35	4937-4938	-	_	_	_	_	
+30-36	4938-4939	-	_	_	_	_	
+30-37	4939-4940	-	_	_	_	_	
+30-38	4940-4941	-	_	_	_	_	
+30-39	4941-4942	-	_	_	_	_	
+30-40	4942-4943	-	_	_	_	_	
+30-41	4943-4944	[	_	_	_	_	
+30-42	4944-4947	END	_	_	_	_	
+30-43	4948-4950	OF	_	_	_	_	
+30-44	4951-4957	POLICY	_	_	_	_	
+30-45	4957-4958	]	_	_	_	_	
+30-46	4958-4959	-	_	_	_	_	
+30-47	4959-4960	-	_	_	_	_	
+30-48	4960-4961	-	_	_	_	_	
+30-49	4961-4962	-	_	_	_	_	
+30-50	4962-4963	-	_	_	_	_	
+30-51	4963-4964	-	_	_	_	_	
+30-52	4964-4965	-	_	_	_	_	
+30-53	4965-4966	-	_	_	_	_	
+30-54	4966-4967	-	_	_	_	_	
+30-55	4970-4978	Question	_	_	_	_	
+30-56	4979-4980	3	_	_	_	_	
+30-57	4980-4981	:	_	_	_	_	
+30-58	4982-4986	Does	_	_	_	_	
+30-59	4987-4991	this	_	_	_	_	
+30-60	4992-4995	app	_	_	_	_	
+30-61	4996-5003	collect	_	_	_	_	
+30-62	5004-5010	credit	_	_	_	_	
+30-63	5011-5015	card	_	_	_	_	
+30-64	5016-5027	information	_	_	_	_	
+30-65	5027-5028	?	_	_	_	_	
+
+#Text=<ANSWER FROM POLICY>
+31-1	5031-5032	<	_	_	_	_	
+31-2	5032-5038	ANSWER	_	\[NO\] (a) This policy explicitly states that it does not engage in this practice[1]	_	_	
+31-3	5039-5043	FROM	_	\[NO\] (a) This policy explicitly states that it does not engage in this practice[1]	_	_	
+31-4	5044-5050	POLICY	_	\[NO\] (a) This policy explicitly states that it does not engage in this practice[1]	_	_	
+31-5	5050-5051	>	_	_	_	_	
